@@ -2,7 +2,9 @@
 
 ## Fase 1 — MVP de mesa
 - [x] Documentar núcleo de testes, PA, movimento, manobras, Postura, Exaustão, morte e cura.
-- [ ] Fechar condições, Medicina e Sequelas.
+- [x] Adotar condições de combate e interação com Postura como versão provisória para playtest (2026-10-12).
+- [ ] Completar procedimentos pendentes de contenção/duração e testar condições.
+- [ ] Fechar Medicina e Sequelas.
 - [ ] Criar personagens e encontros simples de teste.
 - [ ] Registrar problemas em sessões curtas.
 

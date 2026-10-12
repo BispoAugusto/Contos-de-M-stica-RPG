@@ -7,3 +7,5 @@
 - Sequelas narrativas e mecânicas variadas, recuperáveis com aventuras.
 - Manobras adicionais de mobilidade e controle.
 - Website de regras, fichas digitais, bestiário e expansão do cenário de Borus.
+
+- Possível proteção de Caído contra ataques à distância; avaliar deitar voluntariamente, disparos à queima-roupa e ataques vindos de cima. Não incluída na versão provisória de condições aprovada em 2026-10-12.
