@@ -54,7 +54,7 @@ Além dos registros gerais, anotar usos restantes, PA de reações, dano por ins
 
 **Planejado, ainda não realizado.** Verificar dano base 0 e margens 0–4/5–9/10–14/15–19 produzindo 0/1/2/3 antes de crítico e RD. Conferir crítico natural +2 somado à margem: natural 20 + proficiência 2 contra Defesa 17 resulta em 3 de dano antes de RD.
 
-Testar acertos sem dano, proteção de armadura/Defender e ataques repetidos por 1 PA. Futuras armas naturais e habilidades de pugilista poderão conceder dano, mas testes de seus valores devem identificar hipóteses ainda não aprovadas. Não atribuir automaticamente propriedades ou duas instâncias aos golpes desarmados.
+Testar acertos sem dano, proteção de armadura/Defender e ataques repetidos por 1 PA. Armas naturais agora têm regras no catálogo de traços; campos ainda propostos e futuras habilidades de pugilista devem ser identificados como hipóteses nos testes. Não atribuir automaticamente propriedades ou duas instâncias aos golpes desarmados.
 
 ## Proficiências e idiomas — 2026-10-13
 
@@ -63,3 +63,19 @@ Testar acertos sem dano, proteção de armadura/Defender e ataques repetidos por
 Comparar História 2 (+4) com História 1 + Natureza 1 (+2 cada). Comparar um idioma Fluente com dois Amadores; usar Inteligência e bônus +2 apenas para Fluente quando o teste for necessário. História 1 + Dracônico 1 não podem consumir um único ponto.
 
 Testar perícias com seus atributos padrão e abordagens alternativas justificadas. Verificar Reflexos sem criar rolagem para Esquiva, Fortitude com d20 de Constituição sem somar seu valor numérico, Medicina sem cura automática e ofícios técnicos em contraste com Atuação. Registrar dúvidas de concessões de origem e proficiência em escudos como pendências.
+
+## Origens, traços, porte e quedas — 2026-10-13
+
+**Planejado, não realizado.** Fechar primeiro os campos propostos necessários a cada cenário; registrar qualquer arbitragem experimental.
+
+- Criar humano Médio sem traço de tamanho, Pequeno, Minúsculo e Grande. Conferir cinco positivos/três negativos, incompatibilidades, orçamento de origem separado de PP e capacidades com FOR 3: 5/7/12/22.
+- Conferir Formação Diversificada (1 PP restrito) e Poliglota (2 PP = quatro níveis), sem ultrapassar nível inicial 2.
+- Comparar armas naturais básicas/avançadas, Leve com piso 1 antes de RD e níveis 0–5 (níveis altos apenas cenário de progressão). Não conceder duas instâncias naturais sem resolver o procedimento.
+- Avaliar voo, aderência Médio, escalada/nado/salto e acesso de portes em exploração; medir alternativas reais para humanos sem poderes.
+- Testar sentidos, Cegueira/Surdez e sentidos alternativos sem apagar limitações. Confirmar que clima/venenos/doenças/esforço modificam testes específicos.
+- Comparar Armadura Natural com couro e reservas alternadas de natural/convencional, proibindo soma das duas; medir recuperação sem reparo e combinação com Defender.
+- Conferir quedas 0/2/4/8/16/32, Caído mesmo com dano 0 e um uso de armadura. Diferenciar descida controlada, inconsciência e Atordoado.
+- Após fechar área/defesa/custos, testar sopro automático 3 com CON 0, 1 e valores maiores, recuperação somente em descanso longo e efeitos em vários alvos com poucos PV.
+- Testar resistência/fraqueza elemental apenas com procedimentos explicitamente identificados; observar risco de RD passiva eliminar ameaças.
+
+Registrar traços pouco escolhidos, combinações dominantes, limitações sem impacto real e decisões de retirada/ajuste a submeter ao criador. O detalhamento de inventário/fabricação permanece fora desta rodada.

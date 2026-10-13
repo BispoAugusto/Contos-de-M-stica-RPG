@@ -1,42 +1,21 @@
 # Origens, traços e portes — notas de design
 
-**Registro de 2026-10-13.** Decisões iniciais de playtest, sujeitas a revisão. O desenvolvimento detalhado de porte e inventário foi adiado pelo criador; o foco atual é criar os traços.
+**Registro atualizado em 2026-10-13. Regras iniciais de playtest, sujeitas a mudanças futuras.**
 
-## Estrutura definida para origens
+O catálogo está em [origens e traços](../regras/origens-e-tracos.md), organizado em **Corpo, Sentidos, Mobilidade, Resistência, Cultura e Formação e Afinidades Sobrenaturais**. Vivência e Relações foi incorporada a Cultura e Formação; as opções culturais atuais não exigem conhecer lugares, povos ou contatos.
 
-No sistema completo, espécies descrevem forma, capacidades e limitações mecânicas/narrativas, concedendo traços; origens representam procedência e cultura, concedendo proficiências e traços culturais.
+## Direção de criação
 
-No playtest, a origem será construída com pontos:
-- Até **5 traços positivos**, custando **1 a 3** cada.
-- Até **3 traços negativos**, de **−1 a −3**, que concedem pontos para gastar.
-- Categorias temáticas organizam a lista, incluindo corpo, percepção e mobilidade.
-- Traços incompatíveis precisam ser explicitamente indicados. Boa visão e cegueira não podem coexistir como benefícios/limitações que se contradizem.
-- Cada traço representa uma capacidade mecânica distinta; evitar duplicar efeitos em entradas semelhantes ou cobrar aparência sem efeito relevante.
-- O jogador escolhe a manifestação visual do traço. Voo não exige comprar também um traço cosmético de asas.
-- A lista precisa oferecer boas opções para humanos e pequeninos, além de corpos extraordinários.
+Espécies e origens serão componentes distintos no sistema completo. Para playtest, a origem usa compra de até cinco positivos (1–3) e três negativos (−1 a −3), com aparência livre e incompatibilidades explícitas. Evitar efeitos duplicados ou traços puramente cosméticos; oferecer alternativas para humanos e pequeninos.
 
-**Proposto, a fechar:** reserva inicial de 3 pontos de origem e lista final de categorias. Essa reserva é separada dos 3 pontos de proficiência já estabelecidos. Os traços individuais, seus efeitos e custos ainda serão discutidos.
+A **reserva inicial de três pontos de origem permanece proposta**, separada dos três PP. Custos e efeitos ainda propostos estão sinalizados no catálogo e em [ideias futuras](ideias-futuras.md).
 
-## Porte e inventário — decisões a preservar
+## Porte e inventário
 
-- Arredondamento padrão do sistema **para cima**, salvo exceção explícita.
-- Inventário mede **espaços**, não peso. Equipamentos vestidos e empunhados também ocupam espaço.
-- Capacidade = **base do porte + metade da Força arredondada para cima**.
-- Bases adotadas para playtest: **Minúsculo 3, Pequeno 5, Médio 10, Grande 20**. Derivam de multiplicadores ×0,25/×0,5/×1/×2 sobre 10, arredondando a base para cima antes de somar o bônus de Força.
-- Com Força 3, as capacidades são respectivamente **5, 7, 12 e 22**.
-- Itens de 1 espaço: pequenos e leves, cabem em uma mão, como adaga, varinha e livro. Itens um pouco maiores ainda carregáveis com uma mão: 2. Itens grandes que exigem duas mãos: 3. Itens quase do tamanho de uma pessoa: 4, como martelo de guerra e armadura completa. O catálogo inicial usará 1–4, podendo existir itens maiores.
-- Itens menores que 1 não ocupam espaço por enquanto; sua interação com fabricação será desenvolvida depois.
-- Equipamentos adaptados a portes diferentes podem variar de espaço. **Mestre e jogador combinam os valores na criação da ficha**, sem tabela universal neste momento.
-- A capacidade reduzida de personagens pequenos é uma limitação intencional, que podem procurar superar na campanha; não compensar automaticamente a redução.
+As decisões preservadas estão em [porte e inventário](../regras/porte-e-inventario.md): base 3/5/10/20 mais metade de FOR arredondada para cima, equipamentos usados contam, itens iniciais de 1–4 espaços, adaptação combinada na criação e modificadores de Força por diferença de porte.
 
-## Interações físicas de porte
+**Resolvido nesta rodada:** Médio é padrão gratuito, sem traço; Pequeno, Minúsculo e Grande custam um ponto cada, mutuamente exclusivos. **Continua adiado:** detalhamento de inventário, equipamentos adaptados, fabricação, passagens e ocupação de espaço. Não criar tabelas adicionais por inferência.
 
-- O porte permite ou impede entrar em determinados espaços pequenos; procedimentos detalhados ainda precisam ser criados.
-- Em disputas físicas de Força contra criaturas maiores: **−2 por uma categoria de diferença, −5 por duas, −10 por três**.
-- Por três categorias, o maior pode receber **+10** quando for quem realiza o teste. Em teste oposto, aplicar **somente a penalidade ao menor**, sem dobrar o efeito dando bônus também ao maior.
-- Benefícios do maior em testes não opostos com uma ou duas categorias e diferenças superiores a três ainda precisam ser fechados.
-- Esses modificadores não alteram automaticamente ataques que usam Força nem concedem bônus automáticos de Defesa ou Furtividade.
+## Revisão
 
-## Desenvolvimento adiado a pedido do criador
-
-Criar depois os procedimentos completos de porte, passagens, espaços ocupados, inventário e itens, bem como a precificação dos traços de porte. As decisões acima estão registradas; não são um catálogo completo. A tarefa atual é desenvolver traços com efeitos distintos, aparência livre e incompatibilidades, sem depender de fechar essas tabelas.
+As listas serão reavaliadas antes do playtest para adicionar, retirar e ajustar traços. Dano natural, piso com Leve, voo, sentidos alternativos, RD e sopro automático exigem atenção. Nenhum teste de mesa foi realizado por este registro.

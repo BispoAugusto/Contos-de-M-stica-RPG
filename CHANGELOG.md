@@ -1,5 +1,15 @@
 # Histórico
 
+## 2026-10-13 — Catálogo inicial de origens e regras associadas
+
+- Registradas as seis listas: Corpo, Sentidos, Mobilidade, Resistência, Cultura e Formação, Afinidades Sobrenaturais, com incompatibilidades e aparência livre.
+- Médio padrão gratuito; demais portes custam 1. Consolidado inventário parcial com arredondamento para cima, sem retomar detalhamento adiado.
+- Registradas armas naturais e esclarecido dano aditivo de Leve/Versátil/Pesada; piso natural 1 antes de RD.
+- Aderência Médio/1 PA; quedas por faixa, Caído e proteção de armadura; Armadura Natural RD 2/dois usos/descanso curto sem reparo.
+- Concessões de PP restritas de Formação Diversificada/Poliglota e opções sociais para sandbox.
+- Afinidades reduzidas a quatro opções; sopro automático 3/Curto/usos CON por descanso longo. Custos e procedimentos não fechados permanecem sinalizados.
+- Sincronizados regras, estado, decisões, pendências, ideias futuras e planejamento. Todas as listas serão revistas antes do playtest; nenhum teste de mesa realizado.
+
 ## 2026-10-13 — Notas de origens e adiamento de porte/inventário
 
 - Preservadas decisões de origem por pontos, incompatibilidades, aparência livre, inventário por espaços e interações físicas de porte.

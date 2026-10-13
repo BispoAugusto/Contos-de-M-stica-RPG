@@ -28,12 +28,24 @@ Habilidades futuras também poderão permitir crítico, Golpe Pesado ou outros e
 
 **Proposto:** “Armas Flexíveis” como nome para a família aprovada de Correntes e Chicotes.
 
-**Direção aprovada:** armas naturais e habilidades de pugilista podem conceder dano ao golpe desarmado. Valores, requisitos e habilidades concretas ainda precisam ser desenvolvidos e aprovados; a regra atual de Desarmado está em [armas](../regras/armas.md).
+**Direção aprovada:** armas naturais e habilidades de pugilista podem conceder dano ao golpe desarmado. Os traços de armas naturais agora têm regras em [origens e traços](../regras/origens-e-tracos.md), com custos/incompatibilidades ainda propostos assinalados. Habilidades de pugilista continuam por desenvolver; a regra de Desarmado está em [armas](../regras/armas.md).
 
 ## Concessões iniciais — propostas não aprovadas
 
 - Comum gratuito para comunicação básica do grupo.
 - Um ofício relacionado à história no nível 1 sem consumir os três pontos.
-- Benefícios adicionais de origem; quantidade e efeitos dependem da definição de criação de personagem.
+- Outros benefícios de origem além de Formação Diversificada e Poliglota, já registrados no catálogo de traços.
 
 Ofícios adquiridos por história ou habilidades são uma possibilidade aprovada, mas não implicam uma concessão gratuita universal de nível 1.
+
+## Campos ainda propostos no catálogo de origens
+
+O [catálogo](../regras/origens-e-tracos.md) preserva o rascunho para revisão:
+- Reserva inicial de 3 pontos de origem.
+- Corpo: Robusto 2/+2 PV; Frágil −2/−2 PV; Membro Manipulador Adicional 2; Corpo Maleável 1/+2 em fuga por contorção; Coordenação Manual Limitada −1/−2 em manipulação fina.
+- Arma Natural Avançada: custo 3; incompatibilidade entre as versões natural e avançada. Dano por nível, mínimo 1 e uma propriedade foram definidos pelo criador.
+- Resistência Elemental: custo 2 e RD 2 passiva; Fraqueza Elemental: custo −2 e +2 dano. Fechar elementos e aplicação conjunta.
+- Arma de Sopro: custo de traço 3 e ativação 2 PA ainda propostos; os demais parâmetros expressamente definidos estão no catálogo.
+- Equilíbrio Excepcional não integra a lista atual; qualquer inclusão exige revisão.
+
+**Direção futura:** percepção de espíritos entra em habilidades. Comunicação Mental e as demais opções sobrenaturais descartadas não integram o catálogo atual; não recuperá-las automaticamente. Reavaliar todas as listas antes do playtest.

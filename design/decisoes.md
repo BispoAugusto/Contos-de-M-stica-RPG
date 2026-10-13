@@ -110,3 +110,21 @@ Ver [proficiências](../regras/proficiencias.md) e [idiomas](../regras/idiomas.m
 O criador definiu a origem de playtest por compra de até 5 traços positivos (1–3 pontos) e 3 negativos (−1 a −3), com categorias temáticas, incompatibilidades e aparência livre. A lista deve contemplar humanos/pequeninos e personagens de formas extraordinárias sem duplicar efeitos.
 
 Decisões de inventário, arredondamento e diferenças de porte foram preservadas em [origens e portes](origens-e-portes.md). **O desenvolvimento completo dessas regras foi adiado explicitamente; o foco volta à criação dos traços.** Valores de traços ainda sugeridos não são regras aprovadas.
+
+## 2026-10-13 — Catálogo de traços e regras associadas
+
+**Registro autorizado pelo criador para playtest, com revisão futura explícita.** O catálogo em [origens e traços](../regras/origens-e-tracos.md) reúne Corpo, Sentidos, Mobilidade, Resistência, Cultura e Formação e Afinidades Sobrenaturais. Vivência e Relações foi incorporada a Cultura e Formação; aparência permanece livre e incompatibilidades são explícitas.
+
+- Médio é padrão gratuito sem traço; Pequeno, Minúsculo e Grande custam 1 cada e proíbem outro tamanho. Inventário, arredondamento para cima e diferenças físicas estão em [porte e inventário](../regras/porte-e-inventario.md); desenvolvimento completo continua adiado.
+- Arma Natural custa 1 e dá base 1. Avançada tem base igual ao nível de Desarmado, mínimo 1, e uma propriedade corpo a corpo; seu custo 3 ainda proposto.
+- **Esclarecimento que atualiza a redação anterior:** Leve −1, Versátil +1 com duas mãos, Pesada +2/exige duas mãos. Os números antigos 1/2–3/4 descrevem a base comum 2, não substituições absolutas. Armas naturais mantêm base mínima 1 com Leve antes de RD.
+- Sentidos e Mobilidade registrados; Aderência corrigida para Médio por 1 PA. Voo não exige compra cosmética de asas; Atordoado não é inconsciência.
+- [Quedas](../regras/quedas.md): dano 0/2/4/8/16/32 por faixa, automático; Curto+ impõe Caído; um uso de armadura permitido, Esquiva/Defender não.
+- Armadura Natural: RD 2, dois usos, descanso curto sem reparo; natural ou convencional por ataque, reservas separadas, podendo somar a escolhida a Defender.
+- Cultura simplificada para sandbox: Formação Diversificada dá 1 PP gerais/profissionais; Poliglota dá 2 PP idiomas; demais opções sociais não exigem povos, lugares ou contatos.
+- Afinidades reduzidas a Sensibilidade Mágica (custo 2), Resistência Elemental, Fraqueza Elemental e Arma de Sopro. Perceber espíritos será tratado em habilidades; Comunicação Mental e as demais sugestões descartadas não foram mantidas.
+- Sopro: dano 3 automático, Curto, alvos adjacentes, usos iguais à Constituição, recuperação em descanso longo. A última resposta “longo” fixa o descanso; não muda o alcance.
+- Reserva inicial de origem, campos de Corpo e Afinidades ainda propostos, área/defesa do sopro e demais procedimentos abertos foram preservados como propostas/pendências. Não presumir aprovação de todos os números sugeridos.
+- Revisitar todas as listas antes do playtest para adicionar, retirar e ajustar. Não houve teste de mesa nesta atualização.
+
+Os registros anteriores são históricos; para a regra atual, consultar os capítulos e pendências atualizados.

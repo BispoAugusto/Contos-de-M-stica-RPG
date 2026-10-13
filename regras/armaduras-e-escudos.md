@@ -103,3 +103,13 @@ Durante campanhas, personagens poderão melhorar armaduras ou adquirir versões 
 O mundo deve ser perigoso: pessoas comuns desprotegidas podem cair com um golpe, e personagens com poucos PV também correm esse risco. A proteção forte é intencional e se aplica igualmente a inimigos que tenham esses equipamentos.
 
 A RD limita o dano de ataques comuns, mas golpes concentrados e o esgotamento de usos/PA preservam a ameaça. Testar a frequência de manutenção, a pressão de vários ataques, a sobrevivência antes de Ferido e a eficácia de Leves contra proteção. Ver [plano de playtests](../planejamento/playtests.md). Estes exemplos são aritméticos; não são resultados de sessões.
+
+## Armadura Natural e quedas — atualização de playtest
+
+O traço [Armadura Natural](origens-e-tracos.md#resistência) custa 2 pontos de origem: **RD 2, dois usos**, ativados após conhecer o dano, sem PA, no máximo um uso por ataque e com proteção de todas as instâncias, mínimo 0. Recupera os dois usos no **descanso curto sem reparo/manutenção**.
+
+Pode vestir armadura convencional, mas escolhe **uma das duas proteções por ataque**, sem somar natural e convencional. As reservas ficam separadas. A proteção escolhida pode somar a Defender; a exclusão Esquiva/Defender permanece.
+
+Exemplo: dano 5, Armadura Natural + Defender resulta em 1, gastando um uso natural e 1 PA. Não pode gastar também um uso de placas para reduzir esse mesmo ataque.
+
+[Quedas](quedas.md) permitem um uso de armadura, seguindo a escolha entre natural e convencional. Não permitem Defender ou Esquiva. Essa exceção não resolve outras fontes ambientais, sopro, áreas ou dano contínuo; suas interações permanecem pendentes.

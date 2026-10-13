@@ -58,14 +58,16 @@
 - [x] Remover Aparar e encerrar a definição de seus valores/requisitos (2026-10-13).
 - [x] Definir Esquiva e Defender como alternativas exclusivas por ataque: mesmo se Esquiva não evitar o acerto, não permite Defender no mesmo ataque. Escolha válida para todas as instâncias; armadura + Defender continuam permitidos.
 - [ ] Testar essa escolha em ataques com uma ou duas instâncias e em sequências de ataques, verificando PA restantes, uso da armadura e +1 constante do escudo.
-- [ ] Resolver proteção contra fontes que não sejam ataques, efeitos de área e danos contínuos; não estender automaticamente o procedimento.
+- [x] Permitir um uso de armadura contra queda, sem Esquiva/Defender, conforme capítulo de quedas.
+- [ ] Resolver outras fontes que não sejam ataques, sopro, efeitos de área e danos contínuos; não estender automaticamente a exceção de quedas.
 - [ ] Definir efeitos/custos/limites de melhorias e versões superiores de armadura e futuros escudos; o catálogo atual tem apenas três armaduras e um escudo.
 
 ## Desarmado — 2026-10-13
 
 - [x] Adotar dano base 0, +1 por 5 pontos completos acima da Defesa e crítico natural +2.
 - [x] Registrar que armas naturais ou habilidades de pugilista podem conceder dano ao golpe desarmado.
-- [ ] Definir valores, requisitos e interação das armas naturais e habilidades de pugilista, incluindo se fontes modificam/substituem o dano base ou concedem bônus.
+- [x] Registrar Arma Natural base 1 e Avançada base igual ao nível de Desarmado, mínimo 1, com uma propriedade corpo a corpo; Leve −1, Versátil +1 com duas mãos, Pesada +2.
+- [ ] Fechar custos/incompatibilidades ainda propostos, procedimentos naturais e habilidades de pugilista.
 - [ ] Definir a relação de Desarmado e armas naturais com espaços, propriedades e manobras; não tratar socos/chutes automaticamente como duas armas Leves.
 - [ ] Testar acertos sem dano, margem, crítico e RD, comparando o golpe comum com futuras opções de pugilista e armas naturais.
 
@@ -75,17 +77,38 @@
 - [x] Alocar atributos padrão das 17 perícias gerais e 7 conhecimentos.
 - [x] Definir idiomas Amador/Fluente e testes com Inteligência, bônus +0/+2.
 - [x] Registrar ofícios específicos, vinculados a atributo, cinco níveis e +0 sem níveis.
-- [ ] Definir habilidades iniciais, concessões de origem e níveis concedidos por história/habilidades.
+- [x] Registrar Formação Diversificada (1 PP gerais/profissionais) e Poliglota (2 PP idiomas).
+- [ ] Definir habilidades iniciais, outras concessões de origem e níveis concedidos por história/habilidades.
 - [ ] Decidir se Comum ou algum ofício será gratuito; propostas ainda sem aprovação.
 - [ ] Definir testes de idioma sem nível, DT de complexidade e interação com conhecimentos, sem somar bônus automaticamente.
 - [ ] Avaliar se três pontos comportam os perfis desejados, considerando competição entre combate, perícias e identidade narrativa.
 
-## Origens, porte e inventário — desenvolvimento adiado
+## Origens, porte e inventário — catálogo inicial e detalhes adiados
 
 - [x] Registrar decisões de origem por pontos, limites de 5 positivos/3 negativos, aparência livre e incompatibilidades.
 - [x] Preservar bases de inventário 3/5/10/20, arredondamento para cima, equipamentos usados ocupando espaços e adaptação combinada na criação.
 - [ ] Criar regras completas de porte e inventário, passagens/ocupação de espaços, catálogo de itens e interação com fabricação. **Deixado para depois a pedido do criador.**
-- [ ] Fechar modificadores de porte ainda abertos e custos dos traços de porte; não criar vantagens automáticas.
-- [ ] Confirmar reserva inicial de pontos de origem e desenvolver a lista de traços, custos e incompatibilidades. **Foco atual.**
+- [x] Definir Médio como padrão gratuito sem traço; Pequeno/Minúsculo/Grande custam 1 cada, mutuamente exclusivos.
+- [ ] Fechar modificadores de porte ainda abertos e quantificação de esconder-se; não criar bônus automáticos de ataque/Defesa.
+- [x] Registrar primeira lista das seis categorias, com custos/incompatibilidades e campos ainda propostos assinalados.
+- [ ] Confirmar reserva inicial de pontos de origem (3 propostos), repetição não prevista e acúmulo de traços; revisar catálogo antes do playtest.
 
 Decisões preservadas em [origens e portes](origens-e-portes.md).
+
+## Revisão dos traços e regras associadas — 2026-10-13
+
+- [ ] Revisar custos e números explicitamente propostos em Corpo, Arma Natural Avançada e Afinidades, sem tratá-los como aprovação definitiva.
+- [ ] Resolver armas naturais com requisitos de mãos, Pesada/Versátil, Arremessável, duas Leves, espaços e manobras. A propriedade não concede automaticamente um par de armas.
+- [ ] Testar piso natural 1 com Leve nos níveis 0–5, sem transformar esse piso em dano mínimo após RD.
+- [ ] Fechar efeitos de Cegueira em combate e reavaliar seu custo; verificar que sentidos alternativos não anulem limitações.
+- [ ] Detalhar condições de uso e combinações de mobilidade, inclusive movimento inferior a Toque, sem alterar silenciosamente faixas ou custos.
+- [ ] Definir reações durante queda involuntária para recuperar voo/aderir/agarrar apoio. Inconsciência e Atordoado são distintos.
+- [x] Registrar Armadura Natural: RD 2/dois usos, descanso curto sem reparo; natural ou convencional por ataque, somando apenas a escolhida a Defender.
+- [ ] Testar reservas alternadas de armadura natural/convencional, frequência de descanso e efeitos sobre mortalidade.
+- [x] Reduzir Afinidades a quatro traços e deslocar percepção de espíritos para habilidades futuras.
+- [x] Sopro: dano 3 sem acerto, Curto, alvos adjacentes, usos CON recuperados em descanso longo.
+- [ ] Fechar custo 3/ativação 2 PA do sopro ainda propostos, geometria/adjacência, aliados, defesa/RD e classificação para repetição. Verificar CON 0 sem inventar uso mínimo.
+- [ ] Definir elementos, repetição de afinidades, aplicação por instância/evento, ordem de fraqueza e soma com outras RD; propostas de RD 2/+2 dano ainda não fecham esses procedimentos.
+- [ ] Conferir combinações/incompatibilidades e viabilidade de humanos/pequeninos com orçamento final e limites de cinco positivos/três negativos.
+
+Referência principal: [origens e traços](../regras/origens-e-tracos.md). O detalhamento de inventário continua adiado.

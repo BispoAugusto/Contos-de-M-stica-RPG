@@ -8,7 +8,7 @@
 - Defesa passiva base = 10 + Destreza; escudo empunhado concede +1 para playtest. Esquiva soma bônus de Reflexos à Defesa contra **um** ataque, sem rolagem.
 - **Reações defensivas — playtest:** Aparar foi removido. Contra cada ataque, escolha **Esquiva ou Defender com escudo**, nunca ambas, mesmo se Esquiva não evitar o acerto. A escolha cobre o ataque inteiro, incluindo duas instâncias de Leves; pode escolher novamente contra outro ataque, respeitando PA e impedimentos de reações.
 - PV = 6 + 2 × Constituição + bônus. Dano de arma fixo; +1 dano a cada 5 pontos completos acima da Defesa; crítico natural +2 (valor inicial).
-- **Desarmado — playtest:** dano base 0, com bônus por margem e crítico natural +2 normalmente. Armas naturais ou habilidades de pugilista podem conceder dano; valores específicos ainda pendentes. O ataque básico custa 1 PA e conta para ataques consecutivos. Ver [armas](armas.md).
+- **Desarmado — playtest:** dano base 0, com bônus por margem e crítico natural +2 normalmente. Arma Natural dá base 1; Arma Natural Avançada usa o nível de Desarmado, mínimo 1, e uma propriedade corpo a corpo, conforme [traços](origens-e-tracos.md). Habilidades de pugilista continuam pendentes. O ataque básico custa 1 PA e conta para ataques consecutivos. Ver [armas](armas.md).
 - **Armaduras e escudo — provisórios para playtest:** couro/malha/placas têm RD 2/3/4 e 3 usos. Após conhecer o dano, gastar no máximo 1 uso por ataque, sem PA; manutenção durante descanso curto recupera os 3 usos. Defender com escudo custa 1 PA, dá RD 2 e pode somar à armadura; no máximo uma vez por ataque. Cada ativação protege todas as instâncias do ataque, com RD separada e dano mínimo 0. Ver [armaduras e escudos](armaduras-e-escudos.md).
 - Iniciativa dinâmica: iniciador evidente age primeiro; caso contrário, teste de Destreza. Ator escolhe próximo aliado que ainda não agiu; quando lado termina, o outro age. Todos têm um turno por rodada.
 - Interrupção: quem sofreu dano antes de agir pode reivindicar próximo turno. Inspiração dos jogadores e Medo dos inimigos também permitem interrupções; no máximo 1 Medo por rodada; última declaração vence. Procedimento completo pendente.
@@ -26,3 +26,7 @@
 - Manobras ofensivas independentes continuam fora dessa contagem; as que exigem ou modificam um ataque contam pelo ataque correspondente. Reações fora do turno continuam com o procedimento de contagem pendente.
 
 Ver [manobras](manobras.md), [movimento](movimento.md), [postura](postura.md) e [plano de playtests](../planejamento/playtests.md).
+
+## Traços e quedas — atualização de playtest
+
+Armadura Natural tem RD 2 e dois usos, recuperados no descanso curto sem reparo; escolher natural ou convencional por ataque, podendo somar a escolhida a Defender. As [quedas](quedas.md) têm dano automático por faixa, permitem um uso de armadura e não permitem Esquiva/Defender. O [sopro](origens-e-tracos.md#afinidades-sobrenaturais) tem dano automático 3, Curto, usos iguais à CON por descanso longo; área, defesa/RD, classificação e custos assinalados como propostos ainda precisam de fechamento.

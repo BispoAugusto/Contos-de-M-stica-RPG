@@ -47,6 +47,6 @@ As famílias de armas e a regra existente de manobra aprendida no grau 1 estão 
 
 Ofícios são específicos do personagem e podem ser adquiridos por habilidades ou pela sua história. Ao registrar uma concessão, indicar a especialidade, o atributo e o nível recebido. Os níveis concedidos por essas fontes ainda precisam ser definidos caso a caso; não há um ofício de nível 1 gratuito universalmente aprovado.
 
-Comum gratuito e benefícios adicionais de origem foram sugeridos, mas ainda não foram aprovados. Os 3 pontos constituem a reserva definida para o playtest; eventuais concessões adicionais precisam de definição explícita.
+Comum gratuito continua apenas sugerido. Além dos 3 PP iniciais, os [traços de Cultura e Formação](origens-e-tracos.md#cultura-e-formação) definem concessões específicas: **Formação Diversificada dá 1 PP exclusivo para perícias gerais/profissionais; Poliglota dá 2 PP exclusivos para idiomas, equivalentes a quatro níveis**. Respeitar o máximo inicial 2. Outras concessões exigem definição explícita; pontos de origem e PP são reservas distintas.
 
 Ver [perícias](pericias.md), [idiomas](idiomas.md), [armaduras e escudos](armaduras-e-escudos.md) e [pendências](../design/pendencias.md).

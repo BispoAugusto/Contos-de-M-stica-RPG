@@ -9,3 +9,9 @@ Alcance de armas e magias não é a mesma coisa que deslocamento. Terreno, obst�
 **Ataque de Oportunidade é manobra geral aprendível**, não reação gratuita universal.
 
 **Pendente:** medição de deslocamento residual em trajetos complexos, terreno difícil e alcances específicos.
+
+## Traços, porte e quedas — playtest
+
+[Traços de Mobilidade](origens-e-tracos.md#mobilidade) modificam as formas e faixas de movimento: Aderência permite **Médio por 1 PA**. Voo/Aderência não exigem comprar uma aparência adicional. Inconsciência pode provocar queda; Atordoado não a provoca automaticamente.
+
+[Quedas](quedas.md) usam a distância vertical efetivamente caída: Toque 0, Curto 2, Médio 4, Longo 8, Muito Longo 16, Fora de Alcance 32. Curto ou mais impõe Caído ao aterrissar. Ver [porte e inventário](porte-e-inventario.md) para acesso a espaços pequenos; detalhamento de passagens continua adiado.
