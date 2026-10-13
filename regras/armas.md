@@ -6,6 +6,7 @@
 
 - Uma arma começa com **2 de dano fixo e 2 espaços de propriedades**.
 - O **tipo da arma define sua proficiência**, dentro dos grupos de armas de [atributos e testes](atributos-e-testes.md). Propriedades não substituem essa escolha.
+- **Cortante, Perfurante e Contundente** são tipos de dano, sem efeitos passivos automáticos. Servem para interações com resistências, vulnerabilidades e requisitos de habilidades ou manobras; não se confundem com o tipo/grupo usado para proficiência.
 - Cada propriedade custa **1 espaço**, exceto **Munição**, que é gratuita em espaços quando aplicável.
 - Monte a arma a partir da base e das propriedades escolhidas. Valores como Leve 1, Versátil 2/3 e Pesada 4 substituem o dano base; Potente e Recarregar acrescentam dano.
 - Não há aprovação de repetição de uma mesma propriedade, de novos espaços ou de restrições adicionais de combinação além das registradas abaixo. Casos não cobertos ficam em [pendências](../design/pendencias.md).
@@ -17,18 +18,41 @@
 | Leve | 1 | Dano 1. Duas armas leves podem participar de um ataque único com duas instâncias de dano; ver procedimento abaixo. |
 | Versátil | 1 | Dano 2 com uma mão ou 3 com duas mãos. |
 | Pesada | 1 | Dano 4; exige duas mãos. Permite usar Golpe Devastador. |
-| Alcance | 1 | Incluída no conjunto aprovado; efeito exato pendente de recuperação das decisões anteriores. |
-| Impacto | 1 | Incluída no conjunto aprovado; efeito exato pendente de recuperação das decisões anteriores. |
-| Furtiva | 1 | Incluída no conjunto aprovado; efeito exato pendente de recuperação das decisões anteriores. |
-| Arremessável | 1 | Incluída no conjunto aprovado; efeito exato pendente de recuperação das decisões anteriores. |
+| Alcance | 1 | Permite ataques corpo a corpo contra alvos na distância Curta, em vez de apenas Toque. |
+| Impacto | 1 | +1 de dano ao realizar um Golpe Pesado. Não aumenta o dano de todos os ataques. |
+| Furtiva | 1 | Concede 1 Vantagem em testes para esconder ou ocultar a arma; não dá bônus automático em ataques furtivos. |
+| Arremessável | 1 | Permite arremessar a arma contra um alvo até a distância Média. |
 
 **Leve, Versátil e Pesada são mutuamente exclusivas:** uma arma não combina essas propriedades entre si.
 
 ### Duas armas leves
 
-O núcleo aprovado é **um único ataque com duas armas leves e duas instâncias de dano**, uma por arma, de dano base 1 cada. O custo do ataque básico é 1 PA, e esse ataque conta uma vez para a penalidade de ataques consecutivos.
+O personagem precisa empunhar **duas armas Leves, uma em cada mão**. Por **1 PA**, realiza **um único teste de ataque**. Se acertar, causa **duas instâncias separadas de dano**, uma por arma. O conjunto conta como **um ataque** para a penalidade de ataques consecutivos de −1d20.
 
-O histórico acessível não contém o procedimento completo anteriormente discutido. A aplicação de bônus de margem, crítico, outros bônus, redução de dano e efeitos por acerto às duas instâncias precisa ser recuperada antes de fechar a redação. Não presumir duplicação de bônus nem fundir as instâncias em um único dano 2. O número de rolagens e a escolha de alvos também precisam ser recuperados; “ataque único” não resolve por si só esses detalhes.
+| Componente | Primeira instância | Segunda instância |
+|---|---|---|
+| Dano básico | Dano básico da primeira arma | Dano básico da segunda arma |
+| Bônus de Golpe Pesado/Brutal | Aplica | Não aplica |
+| Bônus de crítico | Aplica | Não aplica |
+| Bônus de manobras aplicáveis | Aplica | Não aplica |
+| Outros bônus de dano | Aplicam-se normalmente | Não se aplicam por padrão |
+| RD da armadura | Aplicada separadamente | Aplicada separadamente |
+
+A segunda instância causa **somente o dano básico da segunda arma**, inclusive se a primeira receber crítico. Leves comuns têm dano básico 1; versões especiais ou mágicas podem ter valores superiores. Isso não define valores ou progressão de armas mágicas.
+
+**Exemplo com armadura:** duas adagas têm dano básico 1 cada. A primeira recebe +2 em bônus aplicáveis e chega a 3; a segunda permanece em 1. Contra RD 1 aplicada às instâncias:
+
+| Instância | Cálculo | Dano recebido |
+|---|---|---|
+| Primeira | 3 − 1 | 2 |
+| Segunda | 1 − 1 | 0 |
+| **Total** | 2 + 0 | **2** |
+
+A aplicação separada de RD é intencional: Leves devem funcionar melhor contra alvos sem proteção, enquanto dano concentrado tem vantagem contra RD. A armadura continua seguindo seu procedimento de ativação e usos limitados em [combate](combate.md); este exemplo não transforma sua RD em proteção permanente.
+
+Habilidades futuras poderão permitir crítico, Golpe Pesado ou outros efeitos na segunda instância, mas **nenhuma dessas habilidades foi aprovada aqui**. Testar especialmente armas mágicas, bônus de dano e efeitos que modifiquem o segundo golpe.
+
+**Limites do registro:** a nomenclatura e os gatilhos completos de Golpe Pesado/Brutal e a implementação de 1 Vantagem precisam ser alinhados ao núcleo existente. Não confundir **Golpe Pesado** com a manobra **Golpe Devastador** nem criar uma nova transição de dados para Vantagem. A possibilidade de dividir as instâncias entre alvos não foi definida; não deduzir essa permissão.
 
 ## Distância
 
@@ -46,8 +70,8 @@ A proibição específica por tipo aprovada é **Compacta em arcos**. Não acres
 
 ### Exemplos de montagem e PA
 
-- **Versátil + Alcance:** 2 espaços; dano 2 com uma mão ou 3 com duas. O efeito de Alcance continua pendente de recuperação.
-- **Pesada + Impacto:** 2 espaços; dano 4 com duas mãos. O efeito de Impacto não foi quantificado neste registro.
+- **Versátil + Alcance:** 2 espaços; dano 2 com uma mão ou 3 com duas. Ataca corpo a corpo até Curta.
+- **Pesada + Impacto:** 2 espaços; dano 4 com duas mãos. Impacto acrescenta +1 ao realizar um Golpe Pesado, não a todo acerto.
 - **Potente + Recarregar:** 2 espaços, Munição sem ocupar espaço, duas mãos, alcance Médio e dano **2 + 1 + 2 = 5**.
 - **Recarregar + Estendida:** 2 espaços, dano **2 + 2 = 4**, duas mãos e alcance Longo.
 

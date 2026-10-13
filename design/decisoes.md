@@ -2,7 +2,7 @@
 
 **Confirmado:** atributos por quantidade de d20; 4 PA; defesa 10+DES; Esquiva contra um ataque; movimento Médio por PA divisível; manobras independentes não contam como ataques; Ataque de Oportunidade aprendível; Aparar reduz dano (valor aberto); Postura de alguns inimigos; Exaustão 5 PE/NE, descanso curto 2 PE, longo todos PE +1 NE; três escolhas ao chegar a 0 PV; Medicina estabiliza; Ferido bloqueia cura; cura do caído dá 1 PV e remove Ferido; Sequelas podem exigir aventuras para tratar.
 
-**Aprovado para playtest:** tabela cumulativa de NE; condições Caído, Agarrado, Imobilizado e Atordoado e procedimentos de interação com Postura (2026-10-12); construção modular de armas, manutenção de −1d20 por ataque consecutivo e Golpe Devastador (registro de 2026-10-13, com lacunas de histórico discriminadas abaixo).
+**Aprovado para playtest:** tabela cumulativa de NE; condições Caído, Agarrado, Imobilizado e Atordoado e procedimentos de interação com Postura (2026-10-12); construção modular de armas, manutenção de −1d20 por ataque consecutivo e Golpe Devastador (registro de 2026-10-13, com esclarecimentos diretos do criador sobre propriedades e duas Leves).
 
 **Não aprovado:** RD 2 de Aparar, 2 PA/DT 10 para Medicina, −1 Fortitude de Sequela e detalhes de crítico no Último Ato.
 
@@ -28,7 +28,9 @@ Texto de referência: [condições](../regras/condicoes.md), [Postura](../regras
 ### Decisões a usar no playtest
 
 - Base de arma: **2 de dano, 2 espaços**; o tipo define a proficiência; propriedades custam **1 espaço**, com Munição gratuita em espaços quando aplicável.
-- Corpo a corpo: **Leve 1**, **Versátil 2/3** (uma/duas mãos) e **Pesada 4 com duas mãos**, mutuamente exclusivas. Duas armas leves usam ataque único com duas instâncias de dano. Alcance, Impacto, Furtiva e Arremessável integram o conjunto.
+- Corpo a corpo: **Leve 1**, **Versátil 2/3** (uma/duas mãos) e **Pesada 4 com duas mãos**, mutuamente exclusivas. Duas armas leves usam ataque único com duas instâncias de dano. Alcance atinge Curta, Impacto dá +1 em Golpe Pesado, Furtiva dá 1 Vantagem para esconder/ocultar a arma (sem bônus automático de ataque furtivo) e Arremessável permite arremesso até Média.
+- Duas Leves exigem uma arma em cada mão, custam 1 PA e usam um teste. A primeira instância recebe os bônus aplicáveis de Golpe Pesado/Brutal, crítico, manobras e outros; a segunda causa apenas seu dano básico. A RD da armadura se aplica separadamente. Leves especiais/mágicas podem ter dano básico maior, sem tabela de valores aprovada. Habilidades futuras para ampliar a segunda instância ainda não foram aprovadas.
+- Cortante, Perfurante e Contundente não têm passivos automáticos; interagem com resistências, vulnerabilidades e requisitos de habilidades/manobras.
 - Distância: padrão **duas mãos e Médio**. **Compacta:** dano 1/uma mão, proibida em arcos. **Potente:** +1 dano/duas mãos. **Recarregar:** +2 dano, recarga de 1 PA após cada tiro e antes do próximo. **Estendida:** Longo. Munições precisam ser compradas ou fabricadas.
 - Manter **−1d20 por ataque consecutivo**, em vez da sugestão de −2d20. A tabela de atributos e a transição de dados já escrita no núcleo não foram alteradas.
 - Retirar a manobra genérica **Ataque Poderoso** do catálogo atual de bônus de dano. Substituir por **Golpe Devastador**, modificadora de ataque exclusiva de **Pesada**: 1 PA do ataque + até 3 PA adicionais, **+2 dano por PA adicional**, cumulativo até +6, **uma única rolagem**.
@@ -38,11 +40,11 @@ Texto de referência: [condições](../regras/condicoes.md), [Postura](../regras
 
 Leves devem favorecer a fantasia de mais golpes; pesadas, a de poucos golpes fortes apoiados em manobras e habilidades. A direção de design está registrada, mas não cria habilidades, ataques gratuitos, restrições de frequência ou custos adicionais obrigatórios. O criador pediu atenção a futuras habilidades que beneficiem concentrar dano; seus efeitos permanecem **Propostos**, sem aprovação.
 
-Potente + Recarregar pode ser forte e causa 5 de dano base por tiro. Dois tiros acertados causam 10 de dano base, com recarga entre eles. Custos de munição e recarga são parte da fantasia, mas não provam equilíbrio. Os exemplos numéricos discutidos não aprovam automaticamente Fúria, Impacto, “Brutal” ou qualquer outra habilidade cujos efeitos não estejam documentados.
+Potente + Recarregar pode ser forte e causa 5 de dano base por tiro. Dois tiros acertados causam 10 de dano base, com recarga entre eles. Custos de munição e recarga são parte da fantasia, mas não provam equilíbrio. Os exemplos numéricos discutidos não aprovam automaticamente Fúria, novos limiares de Golpe Pesado/Brutal ou habilidades cujos efeitos não estejam documentados. A aplicação separada de RD nas Leves é intencional: favorece-as contra alvos sem proteção e favorece dano concentrado contra RD.
 
-### Lacunas e propostas não incorporadas
+### Esclarecimentos e propostas não incorporadas
 
-O histórico recuperado não trouxe os detalhes anteriores de Alcance, Impacto, Furtiva, Arremessável nem o procedimento completo das duas instâncias de Leve. A inclusão dessas propriedades está autorizada; seus efeitos ausentes **não foram inventados** e aguardam recuperação. Ver [pendências](pendencias.md).
+O criador forneceu diretamente os efeitos das quatro propriedades e o procedimento de duas Leves em 2026-10-13, reafirmando o status inicial de playtest. Esses detalhes foram incorporados em armas, combate, estado e plano de testes. Permanecem pendentes o alinhamento dos gatilhos de Golpe Pesado/Brutal, a implementação de Vantagem e outros casos-limite; não confundir Golpe Pesado com Golpe Devastador. Ver [pendências](pendencias.md).
 
 Não foram aprovadas novas transições de dados, regras novas de piso, redução de −2d20 a cada ataque, outras proibições por tipo de arma ou novas habilidades de dano. A substituição de Ataque Poderoso não remove o crítico e o dano por margem já existentes.
 

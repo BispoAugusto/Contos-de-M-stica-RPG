@@ -22,12 +22,14 @@ Além dos registros gerais, anotar PA gastos para controlar e escapar, PA perdid
 
 **Testes planejados, ainda não realizados.** Valores sujeitos a revisão; resultados não aprovam mudanças automaticamente.
 
-1. Comparar Leve em par, Versátil (uma e duas mãos), Pesada e Pesada com Golpe Devastador. Manter proficiência e condições comparáveis; variar atributo, Defesa e RD. Recuperar antes os procedimentos pendentes de Leve ou identificar qualquer arbitragem como hipótese do teste.
+1. Comparar Leve em par, Versátil (uma e duas mãos), Pesada e Pesada com Golpe Devastador. Manter proficiência e condições comparáveis; variar atributo, Defesa e RD. Para Leve, usar um teste e RD separada: bônus só na primeira instância e dano básico na segunda. Reproduzir o exemplo de 3 e 1 contra RD 1, resultando em 2 e 0.
 2. Com 4 PA, comparar ataques básicos repetidos com um Golpe Devastador de 2, 3 ou 4 PA. Registrar dano efetivo, erros, ataques realizados e PA que restam para movimento/defesa. O ataque de 4 PA usa uma rolagem e pode causar 10 de dano com Pesada antes de margem/crítico.
 3. Incluir atributos 0, 1–2, 3–4 e 5–6; usar faixas superiores apenas como teste de progressão. Medir como os d20 iniciais afetam ataques posteriores. Preservar −1d20 e identificar casos-limite de transição, sem criar regra nova para resolvê-los silenciosamente.
 4. Testar Potente + Recarregar (dano 5), inicialmente carregada: tiro, recarga, tiro; registrar segundo ataque com penalidade, estado da arma ao fim do turno e custos nas rodadas seguintes. Comparar com Pesada que não recarrega e com usos defensivos do PA restante.
 5. Comparar Recarregar + Estendida (dano 4/Longo) com Potente + Recarregar (dano 5/Médio). Incluir posicionamento, munição disponível e oportunidades de corpo a corpo.
-6. Após recuperar os efeitos pendentes, testar Alcance com Ataque de Oportunidade, Impacto com dano por margem/crítico, Furtiva e Arremessável em seus gatilhos próprios. Não atribuir benefícios só pelo nome.
+6. Testar Alcance até Curta com Ataque de Oportunidade; Impacto (+1 apenas em Golpe Pesado); Furtiva (1 Vantagem só para ocultar a arma); Arremessável até Média. Identificar dúvidas de nomenclatura/gatilhos de Golpe Pesado/Brutal e de implementação de Vantagem como pendências, sem regras novas silenciosas.
 7. Verificar se leves oferecem a sensação de mais golpes e pesadas a de poucos golpes fortes. Registrar quando repetir ataques continua melhor e quais necessidades poderiam orientar habilidades futuras, sem aprová-las durante o teste.
+
+8. Testar Leves especiais/mágicas com dano básico superior a 1, distinguindo dano básico de bônus; manter a segunda instância sem bônus por padrão. Qualquer habilidade experimental para alterá-la deve ser identificada como proposta, sem aprovação automática. Testar Cortante/Perfurante/Contundente apenas nas interações pertinentes, sem passivos inventados.
 
 Anotar também quantidade inicial/final de d20, resultado selecionado, margem, crítico, dano por instância, RD, munição consumida, PA de recarga e PA investidos na manobra. Distinguir **dano base se acertar**, dano efetivo e frequência de acerto; os exemplos aritméticos da documentação não são resultados de playtest.

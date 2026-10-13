@@ -18,12 +18,14 @@
 
 ## Armas e combate — registro de 2026-10-13
 
-### Decisões registradas e lacunas de histórico
+### Decisões registradas e esclarecimentos
 
 - [x] Adotar construção modular de armas como regra inicial de playtest, sujeita a revisão.
 - [x] Manter −1d20 por ataque consecutivo e substituir Ataque Poderoso por Golpe Devastador exclusivo de Pesada.
-- [ ] Recuperar os efeitos exatos de **Alcance, Impacto, Furtiva e Arremessável**, incluindo faixas, gatilhos, bônus e limitações. Os nomes e o custo de 1 espaço estão registrados; não deduzir os efeitos apenas dos nomes.
-- [ ] Recuperar o procedimento de **duas Leves**: número de rolagens, alvos permitidos, distribuição de margem/crítico/bônus e aplicação de RD e efeitos por acerto às duas instâncias. Preservar o núcleo aprovado de um ataque e duas instâncias.
+- [x] Registrar os efeitos de **Alcance, Impacto, Furtiva e Arremessável**, esclarecidos diretamente pelo criador em 2026-10-13.
+- [x] Registrar **duas Leves**: uma em cada mão, 1 PA, um teste, duas instâncias; bônus aplicáveis só na primeira, segunda apenas com dano básico e RD separada.
+- [ ] Esclarecer se duas Leves podem dividir instâncias entre alvos; não presumir essa permissão.
+- [ ] Testar dano básico de armas especiais/mágicas e habilidades futuras que alterem a segunda instância; não aprovar automaticamente valores ou efeitos.
 - [ ] Esclarecer **Compacta + Potente**: conflito entre uma e duas mãos, sem inventar incompatibilidade ou prioridade entre propriedades.
 - [ ] Completar a relação entre tipos/grupos e proficiências de armas, sem criar novos grupos automaticamente.
 - [ ] Confirmar se propriedades podem se repetir e se futuramente haverá armas com mais espaços; não assumir essas permissões no modelo inicial.
@@ -37,4 +39,5 @@
 - [ ] Avaliar o risco de gastar 2–4 PA em uma única rolagem de Golpe Devastador, o dano concentrado contra poucos PV e a perda de reações. Comparar também ataques sem a manobra.
 - [ ] Esclarecer frequência de Golpe Devastador e interações com futuros PA extras; o acúmulo aprovado é de até 3 PA adicionais no mesmo ataque, não aprovação automática de vários usos por rodada.
 - [ ] Projetar e submeter à aprovação habilidades que recompensem poucos golpes fortes; evitar que bônus por acerto favoreçam apenas ataques repetidos.
-- [ ] Confirmar terminologia e efeitos de “Brutal” e demais bônus mencionados em exemplos anteriores; exemplos não bastam para aprovar novas regras.
+- [ ] Alinhar terminologia e gatilhos de **Golpe Pesado/Brutal** ao dano por margem já existente; não criar limiares novos nem equiparar Golpe Pesado a Golpe Devastador. Impacto dá +1 ao realizar Golpe Pesado, sem bônus em todo ataque.
+- [ ] Documentar a implementação geral de **1 Vantagem** usada por Furtiva. O benefício foi aprovado, mas não autoriza nova regra de transição de dados.
