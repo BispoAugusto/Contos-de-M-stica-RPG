@@ -10,7 +10,7 @@
 | Golpe de Derrubada | Independente | 1 PA, teste vs Defesa, derruba sem dano |
 | Desarme Preciso | Independente | 1 PA, teste vs Defesa, desarma sem dano |
 | Investida | Independente | 1 PA além do movimento, empurra sem dano |
-| Aparar | Reação | 1 PA; redução fixa de dano confirmada; RD 2 **não confirmada** |
+| Aparar | Reação aprendida com arma | 1 PA; redução fixa de dano confirmada; RD 2 **não confirmada**; requisitos detalhados pendentes |
 | Interceptar | Reação | 1 PA, redireciona ataque a si, usa própria Defesa; alcance pendente |
 | Ataque de Oportunidade | Reação geral aprendível | Sair do alcance da arma provoca ataque; 1 PA e 1/rodada são provisórios |
 
@@ -39,3 +39,11 @@ Os danos da tabela não incluem margem de sucesso, crítico ou outros efeitos. *
 O uso de todos os 4 PA deixa o personagem sem PA restantes para movimento ou reações até a próxima renovação. A interação com efeitos futuros que concedam PA e a frequência de uso devem ser revisitadas explicitamente, sem ampliar automaticamente o limite de 3 PA adicionais.
 
 Ver [armas](armas.md), [combate](combate.md) e [pendências](../design/pendencias.md).
+
+## Defender com escudo — reação básica de playtest
+
+**Aprovada em 2026-10-13, sujeita a revisão.** Empunhar o escudo básico concede +1 de Defesa e acesso a **Defender**: depois de conhecer o dano de um ataque que acertou, gastar **1 PA** para aplicar **RD 2**. No máximo uma vez por ataque, podendo reagir a outros enquanto houver PA e as reações forem permitidas. Essa reação básica não exige aprender uma manobra e não segue o limite geral de uma manobra por rodada.
+
+Defender pode somar sua RD à de uma ativação da armadura. Um uso da armadura e/ou um Defender cobrem as duas instâncias de Leves, aplicando a RD separadamente em cada uma; dano mínimo 0. Ver [armaduras e escudos](armaduras-e-escudos.md).
+
+Aparar continua sendo uma manobra aprendida com arma, com valor e requisitos detalhados pendentes; a aprovação de RD 2 para Defender não define a RD de Aparar. Acúmulos com Aparar e Esquiva no mesmo ataque ainda precisam ser definidos.

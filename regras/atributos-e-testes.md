@@ -20,3 +20,7 @@ Proficiências graus 1–5 concedem +2, +4, +6, +8, +10; máximo inicial grau 2.
 A tabela de atributos acima permanece inalterada. A decisão registrada em 2026-10-13 mantém **−1d20 por ataque consecutivo**, conforme [combate](combate.md). Este registro não aprova novas regras de transição entre rolar o maior e rolar o menor, nem novos pisos ou compensações. Ver os casos-limite em [pendências](../design/pendencias.md).
 
 **Preocupação de balanceamento, não mudança de regra:** atributos altos fornecem mais d20 iniciais e podem sustentar vários ataques com melhor precisão. É preciso testar se concentrar PA em Golpe Devastador continua uma escolha útil diante de ataques repetidos.
+
+## Proficiência de armadura — playtest
+
+**Aprovada em 2026-10-13, sujeita a revisão.** A escala própria de armaduras é **0 = leves, 1 = médias, 2 = pesadas**, como requisitos mínimos de acesso. Não acrescenta bônus ao teste ou à Defesa nem usa a progressão numérica +2 a +10 descrita acima. Os modelos iniciais e seus valores estão em [armaduras e escudos](armaduras-e-escudos.md). Custos de aquisição/progressão dessa proficiência permanecem pendentes.

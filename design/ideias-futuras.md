@@ -17,3 +17,9 @@
 Aumentar a penalidade para −2d20 por novo ataque foi discutido, mas **não adotado**: a decisão atual mantém −1d20. Eventuais novas transições de dados, pisos ou compensações também não foram aprovados. Golpe Devastador e as propriedades explicitamente registradas para playtest estão em [armas](../regras/armas.md) e [manobras](../regras/manobras.md); não se confundem com as ideias futuras desta seção.
 
 Habilidades futuras também poderão permitir crítico, Golpe Pesado ou outros efeitos na segunda instância de duas Leves. É uma possibilidade de desenvolvimento, sem efeitos ou valores aprovados; o padrão atual mantém somente o dano básico nessa instância.
+
+## Melhorias de proteção e novos modelos
+
+**Direção de expansão aprovada em 2026-10-13:** melhorar armaduras durante campanhas, adquirir versões superiores e futuramente ampliar a oferta de escudos. Os quatro modelos básicos atuais estão em [armaduras e escudos](../regras/armaduras-e-escudos.md).
+
+**Propostas sem valores ou efeitos aprovados:** melhorias de RD, usos, proteção contra efeitos específicos e opções de proteção com escudo. Custos, limites de acúmulo, bônus de Defesa adicionais e novos modelos exigem definição antes de entrar nas regras. O playtest inicial usa couro, malha, placas e escudo básico.

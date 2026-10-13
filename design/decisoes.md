@@ -49,3 +49,19 @@ O criador forneceu diretamente os efeitos das quatro propriedades e o procedimen
 Não foram aprovadas novas transições de dados, regras novas de piso, redução de −2d20 a cada ataque, outras proibições por tipo de arma ou novas habilidades de dano. A substituição de Ataque Poderoso não remove o crítico e o dano por margem já existentes.
 
 Textos de referência: [armas](../regras/armas.md), [combate](../regras/combate.md), [manobras](../regras/manobras.md) e [playtests](../planejamento/playtests.md).
+
+## 2026-10-13 — Armaduras e escudo: aprovação para playtest
+
+**Provisório para playtest, sujeito a revisão.** O criador aprovou os modelos de base e um único escudo, com expansão futura.
+
+- Proficiência mínima de armadura: **0 leves, 1 médias, 2 pesadas**; escala de acesso própria, não bônus de testes.
+- Couro **RD 2**, malha **RD 3**, placas **RD 4**; **3 usos** cada. Esses valores substituem a proposta inicial de RD 1/2/3, que não é a versão adotada.
+- Ativar após conhecer o dano, sem PA, no máximo **1 uso por ataque**. Um uso cobre todas as instâncias, aplicando RD separadamente e mínimo 0. Recuperar os três usos com **manutenção durante descanso curto**, substituindo a formulação anterior “descanso curto ou manutenção”.
+- Sem bônus de Defesa ou penalidades adicionais de movimento/Destreza para essas armaduras.
+- Escudo básico de **uma mão**, **+1 de Defesa** enquanto empunhado e reação básica **Defender: 1 PA, RD 2**, após conhecer o dano de um ataque que acertou. Uma vez por ataque, repetível contra outros ataques enquanto houver PA e puder reagir.
+- **Armadura + Defender somam RD**. Um uso e um PA bastam para cobrir as duas instâncias de Leves; não cobrar por instância.
+- Aparar permanece uma manobra aprendida com arma; números e requisitos detalhados ainda pendentes. RD 2 de Defender não aprova RD 2 para Aparar.
+- As mesmas proteções valem para inimigos equipados. A intenção é um mundo mortal com poucos PV e proteção forte, limitada por PA e usos.
+- Armaduras podem receber melhorias ou ser substituídas por versões superiores durante campanhas; novos escudos poderão ser adicionados. A direção está aprovada, mas custos, efeitos e novos modelos ainda não estão definidos.
+
+Ver [armaduras e escudos](../regras/armaduras-e-escudos.md). Combinações com outras reações, progressão e casos-limite ficam em [pendências](pendencias.md); não foram aprovadas regras adicionais por inferência.

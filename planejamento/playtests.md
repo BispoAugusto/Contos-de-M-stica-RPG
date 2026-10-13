@@ -33,3 +33,17 @@ Além dos registros gerais, anotar PA gastos para controlar e escapar, PA perdid
 8. Testar Leves especiais/mágicas com dano básico superior a 1, distinguindo dano básico de bônus; manter a segunda instância sem bônus por padrão. Qualquer habilidade experimental para alterá-la deve ser identificada como proposta, sem aprovação automática. Testar Cortante/Perfurante/Contundente apenas nas interações pertinentes, sem passivos inventados.
 
 Anotar também quantidade inicial/final de d20, resultado selecionado, margem, crítico, dano por instância, RD, munição consumida, PA de recarga e PA investidos na manobra. Distinguir **dano base se acertar**, dano efetivo e frequência de acerto; os exemplos aritméticos da documentação não são resultados de playtest.
+
+## Armaduras e escudo — versão provisória de 2026-10-13
+
+**Planejado, ainda não realizado.**
+
+- Comparar couro RD 2, malha RD 3 e placas RD 4, com 3 usos, em personagens com poucos PV e inimigos com os mesmos equipamentos. Registrar quanto a proteção adia Ferido e queda a 0 PV.
+- Verificar um uso por ataque, após conhecer dano, sem PA, e recuperação dos três usos por manutenção durante descanso curto. Comparar combates isolados e sequências sem oportunidade de manutenção.
+- Verificar escudo: +1 de Defesa mesmo sem PA; Defender só com PA e reações permitidas, RD 2, uma vez por ataque. Testar múltiplos ataques e Atordoado.
+- Reproduzir dano 8 contra malha: 5 com armadura, 6 com Defender, 3 com ambos; placas + Defender contra dano 10 resultam em 4. Registrar custos efetivos e dano evitado.
+- Testar duas Leves com instâncias 3 e 1: couro resulta em 1 e 0 por um uso; couro + Defender resulta em 0 e 0 por um uso e um PA. Verificar que RD nunca gera dano negativo.
+- Comparar reservar PA para Defender com gastar todos atacando; observar o custo de ocupar uma mão e a eficácia de ataques concentrados contra RD.
+- Registrar dúvidas de Aparar/Esquiva e demais acúmulos como pendências, sem assumir que todos são permitidos.
+
+Além dos registros gerais, anotar usos restantes, PA de reações, dano por instância antes/depois da RD, ataques evitados pelo +1 de Defesa e oportunidades de manutenção. Não tratar os exemplos aritméticos como evidência de equilíbrio.

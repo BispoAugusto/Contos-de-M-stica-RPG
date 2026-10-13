@@ -1,5 +1,15 @@
 # Histórico
 
+## 2026-10-13 — Armaduras e escudo para playtest
+
+- Adotados couro/malha/placas, proficiência mínima 0/1/2, RD 2/3/4 e 3 usos cada; um uso por ataque, sem PA, após conhecer o dano.
+- Fixada recuperação por manutenção durante descanso curto; armaduras iniciais sem bônus de Defesa ou penalidades adicionais de movimento/Destreza.
+- Adotado um escudo básico de uma mão, +1 na Defesa e reação básica Defender: 1 PA por RD 2, uma vez por ataque, disponível contra outros ataques enquanto houver PA.
+- Registrada soma armadura + Defender; um uso/uma reação cobre todas as instâncias, RD separada e dano mínimo 0.
+- Distinguidos Defender e Aparar; RD/requisitos detalhados de Aparar e demais acúmulos continuam pendentes.
+- Registrada expansão futura por melhorias, armaduras superiores e novos escudos, sem inventar custos ou efeitos. Atualizados regras, estado, decisões, pendências e planejamento.
+- Regras iniciais sujeitas a revisão; exemplos conferidos, sem playtest realizado nesta atualização.
+
 ## 2026-10-13 — Armas modulares e Golpe Devastador para playtest
 
 - Criado o capítulo de armas: base 2 de dano/2 espaços, proficiência pelo tipo, propriedades de 1 espaço e Munição gratuita em espaços quando aplicável.

@@ -40,7 +40,7 @@ O personagem precisa empunhar **duas armas Leves, uma em cada mão**. Por **1 PA
 
 A segunda instância causa **somente o dano básico da segunda arma**, inclusive se a primeira receber crítico. Leves comuns têm dano básico 1; versões especiais ou mágicas podem ter valores superiores. Isso não define valores ou progressão de armas mágicas.
 
-**Exemplo com armadura:** duas adagas têm dano básico 1 cada. A primeira recebe +2 em bônus aplicáveis e chega a 3; a segunda permanece em 1. Contra RD 1 aplicada às instâncias:
+**Exemplo com armadura:** duas adagas têm dano básico 1 cada. A primeira recebe +2 em bônus aplicáveis e chega a 3; a segunda permanece em 1. Contra RD 1 aplicada às instâncias (exemplo aritmético; os modelos iniciais de armadura têm RD 2/3/4):
 
 | Instância | Cálculo | Dano recebido |
 |---|---|---|
@@ -48,7 +48,7 @@ A segunda instância causa **somente o dano básico da segunda arma**, inclusive
 | Segunda | 1 − 1 | 0 |
 | **Total** | 2 + 0 | **2** |
 
-A aplicação separada de RD é intencional: Leves devem funcionar melhor contra alvos sem proteção, enquanto dano concentrado tem vantagem contra RD. A armadura continua seguindo seu procedimento de ativação e usos limitados em [combate](combate.md); este exemplo não transforma sua RD em proteção permanente.
+A aplicação separada de RD é intencional: Leves devem funcionar melhor contra alvos sem proteção, enquanto dano concentrado tem vantagem contra RD. A armadura continua seguindo seu procedimento de ativação e usos limitados em [combate](combate.md); este exemplo não transforma sua RD em proteção permanente. Um único uso cobre as duas instâncias; Defender com escudo também custa um único PA pelo ataque inteiro e pode somar sua RD à armadura. O dano de cada instância tem mínimo 0; ver [armaduras e escudos](armaduras-e-escudos.md).
 
 Habilidades futuras poderão permitir crítico, Golpe Pesado ou outros efeitos na segunda instância, mas **nenhuma dessas habilidades foi aprovada aqui**. Testar especialmente armas mágicas, bônus de dano e efeitos que modifiquem o segundo golpe.
 

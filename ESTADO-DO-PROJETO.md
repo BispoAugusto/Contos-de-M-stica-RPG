@@ -5,7 +5,7 @@
 ## Confirmado
 - Atributos FOR, DES, CON, INT, SAB e CAR; distribuição inicial de 10 pontos, começando em 0; máximo inicial 5.
 - Atributos determinam quantidade de d20, proficiências concedem bônus numéricos.
-- Defesa passiva 10 + Destreza; Esquiva é reação de 1 PA contra um ataque.
+- Defesa passiva base 10 + Destreza; Esquiva é reação de 1 PA contra um ataque.
 - 4 PA no início do turno; ataques sucessivos no próprio turno perdem dados.
 - Movimento Médio por 1 PA, divisível entre ações; faixas Toque, Curto, Médio, Longo, Muito Longo, Fora de Alcance.
 - Postura é resistência especial de certos inimigos ao controle.
@@ -28,11 +28,15 @@
 - Distância: padrão duas mãos/Médio; Compacta 1 dano/uma mão, proibida em arcos; Potente +1/duas mãos; Recarregar +2 e recarga de 1 PA após cada tiro; Estendida Longo; Munição gratuita em espaços, com aquisição necessária.
 - Mantida a penalidade de ataques consecutivos em **−1d20**. Nenhuma nova transição de dados foi aprovada; o texto preexistente do núcleo foi preservado.
 - **Golpe Devastador substitui Ataque Poderoso:** requer Pesada, modifica um ataque, custa 1 PA do ataque + até 3 PA adicionais, soma +2 dano por PA adicional (até +6) e usa uma única rolagem.
+- **Armaduras e escudo aprovados para playtest em 2026-10-13:** proficiência mínima 0/1/2 para leves/médias/pesadas; couro RD 2, malha RD 3 e placas RD 4, todas com 3 usos. Ativar após conhecer o dano, sem PA, no máximo 1 uso por ataque; manutenção durante descanso curto recupera os três usos.
+- Um único escudo básico: uma mão, +1 de Defesa e reação básica **Defender**, 1 PA por RD 2 após conhecer o dano. Uma vez por ataque; pode reagir a outros enquanto houver PA. Soma à RD de uma ativação da armadura.
+- Um uso de armadura e/ou um Defender protegem todas as instâncias do ataque, aplicando RD separadamente, mínimo 0 por instância. Armaduras não dão bônus de Defesa nem penalidades adicionais de movimento/Destreza neste teste.
+- Melhorias e armaduras superiores durante campanhas e novos escudos são uma direção de expansão aprovada; efeitos, custos e modelos adicionais continuam pendentes. Aparar permanece aprendido com arma, com RD/requisitos detalhados pendentes.
 - Custos e DT de procedimentos médicos continuam **propostos, sem aprovação**.
 
-Ver detalhes em [armas](regras/armas.md), [combate](regras/combate.md), [manobras](regras/manobras.md), [condições](regras/condicoes.md) e [Postura](regras/postura.md).
+Ver detalhes em [armaduras e escudos](regras/armaduras-e-escudos.md), [armas](regras/armas.md), [combate](regras/combate.md), [manobras](regras/manobras.md), [condições](regras/condicoes.md) e [Postura](regras/postura.md).
 
 ## Próximos assuntos
-Alinhar a nomenclatura de Golpe Pesado/Brutal e Vantagem ao núcleo; testar dano, RD por instância, armas mágicas, múltiplos d20, ataques repetidos e Golpe Devastador; avaliar futuras habilidades para poucos golpes fortes sem tratá-las como aprovadas. Testar condições e completar os procedimentos pendentes de contenção/duração; Fortitude e estabilização; Sequelas; progressão modular; catálogo de habilidades; playtests.
+Testar sobrevivência com pouca vida, armaduras e Defender, frequência de manutenção e pressão sobre PA/usos; fechar Aparar e acúmulos entre reações defensivas. Alinhar a nomenclatura de Golpe Pesado/Brutal e Vantagem ao núcleo; testar dano, RD por instância, armas mágicas, múltiplos d20, ataques repetidos e Golpe Devastador; avaliar futuras habilidades para poucos golpes fortes sem tratá-las como aprovadas. Testar condições e completar os procedimentos pendentes de contenção/duração; Fortitude e estabilização; Sequelas; progressão modular; catálogo de habilidades; playtests.
 
 Consulte `design/pendencias.md` antes de fechar uma regra.

@@ -41,3 +41,17 @@
 - [ ] Projetar e submeter à aprovação habilidades que recompensem poucos golpes fortes; evitar que bônus por acerto favoreçam apenas ataques repetidos.
 - [ ] Alinhar terminologia e gatilhos de **Golpe Pesado/Brutal** ao dano por margem já existente; não criar limiares novos nem equiparar Golpe Pesado a Golpe Devastador. Impacto dá +1 ao realizar Golpe Pesado, sem bônus em todo ataque.
 - [ ] Documentar a implementação geral de **1 Vantagem** usada por Furtiva. O benefício foi aprovado, mas não autoriza nova regra de transição de dados.
+
+## Armaduras e escudo — 2026-10-13
+
+- [x] Registrar proficiência 0/1/2 e couro/malha/placas com RD 2/3/4 e 3 usos.
+- [x] Definir ativação após conhecer dano, sem PA, um uso por ataque e recuperação por manutenção durante descanso curto.
+- [x] Adotar um escudo de uma mão, Defesa +1 e Defender por 1 PA/RD 2, uma vez por ataque.
+- [x] Definir soma armadura + Defender e proteção de todas as instâncias com um uso/uma reação, RD separada e mínimo 0.
+- [ ] Testar sobrevivência e Ferido com poucos PV; RD combinada até 6, bloqueio de Leves e ataques comuns, golpes concentrados e esgotamento de usos/PA.
+- [ ] Testar a frequência de descansos/manutenção entre combates; detalhar ferramentas, materiais e condições de manutenção sem impor custos ainda não aprovados.
+- [ ] Definir custos de aquisição/progressão da proficiência de armadura, preços dos equipamentos e eventual requisito de proficiência para escudos; nenhum requisito adicional de escudo foi fixado neste registro.
+- [ ] Fechar RD e requisitos detalhados de Aparar, distinguindo a manobra aprendida com arma da reação básica Defender.
+- [ ] Definir combinações de Esquiva, Aparar e Defender contra o mesmo ataque. Somente armadura + Defender tem acúmulo explicitamente aprovado aqui.
+- [ ] Resolver proteção contra fontes que não sejam ataques, efeitos de área e danos contínuos; não estender automaticamente o procedimento.
+- [ ] Definir efeitos/custos/limites de melhorias e versões superiores de armadura e futuros escudos; o catálogo atual tem apenas três armaduras e um escudo.
