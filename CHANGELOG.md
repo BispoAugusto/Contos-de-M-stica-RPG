@@ -1,5 +1,12 @@
 # Histórico
 
+## 2026-10-13 — Famílias de armas e Desarmado
+
+- Registradas as dez famílias aprovadas; nome definitivo de Correntes e Chicotes pendente, com Armas Flexíveis apenas como sugestão.
+- Adotado Desarmado com dano base 0, bônus de +1 por 5 acima da Defesa e crítico natural +2, cumulativos quando aplicáveis.
+- Registrado dano por armas naturais ou habilidades de pugilista, sem inventar valores/requisitos ou propriedades automáticas.
+- Atualizados regras, estado, decisões, pendências, ideias futuras e plano de playtests. Regras iniciais sujeitas a revisão; nenhum playtest realizado nesta atualização.
+
 ## 2026-10-13 — Esquiva ou Defender; Aparar removido
 
 - Removido Aparar do catálogo atual de manobras e encerradas suas pendências de valores/requisitos.

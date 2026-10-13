@@ -23,3 +23,9 @@ Habilidades futuras também poderão permitir crítico, Golpe Pesado ou outros e
 **Direção de expansão aprovada em 2026-10-13:** melhorar armaduras durante campanhas, adquirir versões superiores e futuramente ampliar a oferta de escudos. Os quatro modelos básicos atuais estão em [armaduras e escudos](../regras/armaduras-e-escudos.md).
 
 **Propostas sem valores ou efeitos aprovados:** melhorias de RD, usos, proteção contra efeitos específicos e opções de proteção com escudo. Custos, limites de acúmulo, bônus de Defesa adicionais e novos modelos exigem definição antes de entrar nas regras. O playtest inicial usa couro, malha, placas e escudo básico.
+
+## Nome de família e desenvolvimento de Desarmado
+
+**Proposto:** “Armas Flexíveis” como nome para a família aprovada de Correntes e Chicotes.
+
+**Direção aprovada:** armas naturais e habilidades de pugilista podem conceder dano ao golpe desarmado. Valores, requisitos e habilidades concretas ainda precisam ser desenvolvidos e aprovados; a regra atual de Desarmado está em [armas](../regras/armas.md).

@@ -49,3 +49,9 @@ Anotar também quantidade inicial/final de d20, resultado selecionado, margem, c
 - Registrar dúvidas de outras interações como pendências, sem criar exceções à exclusividade aprovada.
 
 Além dos registros gerais, anotar usos restantes, PA de reações, dano por instância antes/depois da RD, ataques evitados pelo +1 de Defesa e oportunidades de manutenção. Não tratar os exemplos aritméticos como evidência de equilíbrio.
+
+## Desarmado — versão provisória de 2026-10-13
+
+**Planejado, ainda não realizado.** Verificar dano base 0 e margens 0–4/5–9/10–14/15–19 produzindo 0/1/2/3 antes de crítico e RD. Conferir crítico natural +2 somado à margem: natural 20 + proficiência 2 contra Defesa 17 resulta em 3 de dano antes de RD.
+
+Testar acertos sem dano, proteção de armadura/Defender e ataques repetidos por 1 PA. Futuras armas naturais e habilidades de pugilista poderão conceder dano, mas testes de seus valores devem identificar hipóteses ainda não aprovadas. Não atribuir automaticamente propriedades ou duas instâncias aos golpes desarmados.

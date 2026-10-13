@@ -24,3 +24,7 @@ A tabela de atributos acima permanece inalterada. A decisão registrada em 2026-
 ## Proficiência de armadura — playtest
 
 **Aprovada em 2026-10-13, sujeita a revisão.** A escala própria de armaduras é **0 = leves, 1 = médias, 2 = pesadas**, como requisitos mínimos de acesso. Não acrescenta bônus ao teste ou à Defesa nem usa a progressão numérica +2 a +10 descrita acima. Os modelos iniciais e seus valores estão em [armaduras e escudos](armaduras-e-escudos.md). Custos de aquisição/progressão dessa proficiência permanecem pendentes.
+
+## Famílias de armas — playtest
+
+**Lista aprovada em 2026-10-13:** Espadas, Machados, Martelos, Adagas, Armas de Haste, Arcos, Bestas, Armas de Fogo, Correntes e Chicotes, e Desarmado. A família determina a proficiência antes da escolha de propriedades. Correntes e Chicotes formam uma única família com nome definitivo pendente. Desarmado tem dano base 0 e recebe bônus por margem e crítico; ver [armas](armas.md).

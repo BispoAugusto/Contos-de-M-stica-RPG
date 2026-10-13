@@ -77,3 +77,15 @@ Ver [armaduras e escudos](../regras/armaduras-e-escudos.md). A escolha entre Esq
 - Aparar deixa o catálogo atual, e suas pendências de RD/requisitos são encerradas. As sugestões anteriores de RD 2 para Aparar não foram adotadas.
 
 Ver [combate](../regras/combate.md), [armaduras e escudos](../regras/armaduras-e-escudos.md) e [manobras](../regras/manobras.md).
+
+## 2026-10-13 — Famílias de armas e dano desarmado
+
+**Aprovado para playtest, sujeito a revisão.**
+
+- Famílias: Espadas, Machados, Martelos, Adagas, Armas de Haste, Arcos, Bestas, Armas de Fogo, Correntes e Chicotes, e Desarmado. O tipo determina a proficiência antes das propriedades.
+- Correntes e Chicotes formam uma única família; “Armas Flexíveis” é sugestão de nome, não aprovação definitiva.
+- Desarmado tem dano base **0**, recebe **+1 por 5 pontos completos acima da Defesa** e **+2 por crítico natural**; margem e crítico se somam quando aplicáveis.
+- Armas naturais e habilidades de pugilista podem conceder dano ao golpe desarmado. A possibilidade está aprovada; valores, requisitos e efeitos particulares ainda não foram definidos.
+- A regra específica de Desarmado é exceção à base modular 2. Não aprova automaticamente dois espaços, propriedades ou duas instâncias para socos e chutes.
+
+Ver [armas](../regras/armas.md) e [pendências](pendencias.md).

@@ -27,7 +27,8 @@
 - [ ] Esclarecer se duas Leves podem dividir instâncias entre alvos; não presumir essa permissão.
 - [ ] Testar dano básico de armas especiais/mágicas e habilidades futuras que alterem a segunda instância; não aprovar automaticamente valores ou efeitos.
 - [ ] Esclarecer **Compacta + Potente**: conflito entre uma e duas mãos, sem inventar incompatibilidade ou prioridade entre propriedades.
-- [ ] Completar a relação entre tipos/grupos e proficiências de armas, sem criar novos grupos automaticamente.
+- [x] Registrar as dez famílias de armas/proficiências aprovadas em 2026-10-13, incluindo Correntes e Chicotes como uma família e Desarmado.
+- [ ] Definir o nome da família Correntes e Chicotes; “Armas Flexíveis” permanece sugestão.
 - [ ] Confirmar se propriedades podem se repetir e se futuramente haverá armas com mais espaços; não assumir essas permissões no modelo inicial.
 
 ### Balanceamento e procedimentos ainda abertos
@@ -56,3 +57,11 @@
 - [ ] Testar essa escolha em ataques com uma ou duas instâncias e em sequências de ataques, verificando PA restantes, uso da armadura e +1 constante do escudo.
 - [ ] Resolver proteção contra fontes que não sejam ataques, efeitos de área e danos contínuos; não estender automaticamente o procedimento.
 - [ ] Definir efeitos/custos/limites de melhorias e versões superiores de armadura e futuros escudos; o catálogo atual tem apenas três armaduras e um escudo.
+
+## Desarmado — 2026-10-13
+
+- [x] Adotar dano base 0, +1 por 5 pontos completos acima da Defesa e crítico natural +2.
+- [x] Registrar que armas naturais ou habilidades de pugilista podem conceder dano ao golpe desarmado.
+- [ ] Definir valores, requisitos e interação das armas naturais e habilidades de pugilista, incluindo se fontes modificam/substituem o dano base ou concedem bônus.
+- [ ] Definir a relação de Desarmado e armas naturais com espaços, propriedades e manobras; não tratar socos/chutes automaticamente como duas armas Leves.
+- [ ] Testar acertos sem dano, margem, crítico e RD, comparando o golpe comum com futuras opções de pugilista e armas naturais.

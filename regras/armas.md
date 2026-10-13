@@ -4,12 +4,39 @@
 
 ## Base e montagem
 
-- Uma arma começa com **2 de dano fixo e 2 espaços de propriedades**.
+- Uma arma construída pelo modelo modular começa com **2 de dano fixo e 2 espaços de propriedades**. **Desarmado é uma exceção: dano base 0**; sua relação com espaços e propriedades ainda está pendente.
 - O **tipo da arma define sua proficiência**, dentro dos grupos de armas de [atributos e testes](atributos-e-testes.md). Propriedades não substituem essa escolha.
 - **Cortante, Perfurante e Contundente** são tipos de dano, sem efeitos passivos automáticos. Servem para interações com resistências, vulnerabilidades e requisitos de habilidades ou manobras; não se confundem com o tipo/grupo usado para proficiência.
 - Cada propriedade custa **1 espaço**, exceto **Munição**, que é gratuita em espaços quando aplicável.
 - Monte a arma a partir da base e das propriedades escolhidas. Valores como Leve 1, Versátil 2/3 e Pesada 4 substituem o dano base; Potente e Recarregar acrescentam dano.
 - Não há aprovação de repetição de uma mesma propriedade, de novos espaços ou de restrições adicionais de combinação além das registradas abaixo. Casos não cobertos ficam em [pendências](../design/pendencias.md).
+
+## Famílias de armas e proficiências
+
+**Lista aprovada para playtest em 2026-10-13:** Espadas, Machados, Martelos, Adagas, Armas de Haste, Arcos, Bestas, Armas de Fogo, Correntes e Chicotes, e Desarmado.
+
+Escolha a família antes das propriedades; ela determina a proficiência usada. As propriedades definem o perfil da arma, sem trocar sua família. “Correntes e Chicotes” é a identificação provisória de uma única família: **Armas Flexíveis** foi sugerido como nome, mas ainda não foi aprovado. A lista não inclui Fundas nem concede propriedades automáticas pelo nome da família.
+
+## Desarmado
+
+**Provisório para playtest — aprovado em 2026-10-13.**
+
+- Golpes desarmados comuns têm **dano base 0**. Um acerto simples sem bônus pode causar 0 de dano.
+- Recebem **+1 de dano a cada 5 pontos completos acima da Defesa**, como os demais ataques.
+- O **crítico natural concede +2 de dano**, somado ao bônus por margem quando houver.
+- **Armas naturais ou habilidades de pugilista podem conceder dano ao golpe desarmado.** Os valores, requisitos e procedimentos específicos dessas fontes ainda serão definidos; não atribuir um valor universal.
+- O ataque desarmado segue o custo básico de **1 PA** e a penalidade de ataques consecutivos do [combate](combate.md). O dano resultante segue as reduções aplicáveis.
+
+| Margem de um ataque que acertou | Dano com base 0, sem crítico e sem outros bônus |
+|---|---|
+| 0–4 acima da Defesa | 0 |
+| 5–9 acima da Defesa | 1 |
+| 10–14 acima da Defesa | 2 |
+| 15–19 acima da Defesa | 3 |
+
+**Exemplo:** resultado natural selecionado 20, proficiência +2, resultado total 22 contra Defesa 17: margem 5 dá +1 e o crítico dá +2. O golpe desarmado comum causa **0 + 1 + 2 = 3** antes de RD.
+
+A adoção de dano base 0 não concede automaticamente propriedades Leve/Pesada, dois espaços ou o ataque com duas instâncias das armas Leves. A relação entre Desarmado, armas naturais, propriedades e habilidades será detalhada em [pendências](../design/pendencias.md).
 
 ## Corpo a corpo
 
