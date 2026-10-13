@@ -1,5 +1,12 @@
 # Histórico
 
+## 2026-10-13 — Esquiva ou Defender; Aparar removido
+
+- Removido Aparar do catálogo atual de manobras e encerradas suas pendências de valores/requisitos.
+- Esquiva e Defender com escudo tornam-se alternativas exclusivas por ataque, incluindo todas as suas instâncias. Se Esquiva não evitar o acerto, não é permitido usar Defender depois contra o mesmo ataque.
+- Outro ataque permite nova escolha conforme PA e disponibilidade de reações. Bônus constante do escudo e proteção da armadura seguem seus procedimentos; armadura + Defender continuam permitidos.
+- Sincronizados regras, estado, decisões, pendências e planejamento. Aprovação para playtest, sujeita a revisão; nenhum playtest realizado nesta atualização.
+
 ## 2026-10-13 — Armaduras e escudo para playtest
 
 - Adotados couro/malha/placas, proficiência mínima 0/1/2, RD 2/3/4 e 3 usos cada; um uso por ataque, sem PA, após conhecer o dano.

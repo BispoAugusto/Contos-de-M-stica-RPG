@@ -1,10 +1,10 @@
 # Decisões registradas
 
-**Confirmado:** atributos por quantidade de d20; 4 PA; defesa 10+DES; Esquiva contra um ataque; movimento Médio por PA divisível; manobras independentes não contam como ataques; Ataque de Oportunidade aprendível; Aparar reduz dano (valor aberto); Postura de alguns inimigos; Exaustão 5 PE/NE, descanso curto 2 PE, longo todos PE +1 NE; três escolhas ao chegar a 0 PV; Medicina estabiliza; Ferido bloqueia cura; cura do caído dá 1 PV e remove Ferido; Sequelas podem exigir aventuras para tratar.
+**Confirmado:** atributos por quantidade de d20; 4 PA; defesa 10+DES; Esquiva contra um ataque; movimento Médio por PA divisível; manobras independentes não contam como ataques; Ataque de Oportunidade aprendível; Postura de alguns inimigos; Exaustão 5 PE/NE, descanso curto 2 PE, longo todos PE +1 NE; três escolhas ao chegar a 0 PV; Medicina estabiliza; Ferido bloqueia cura; cura do caído dá 1 PV e remove Ferido; Sequelas podem exigir aventuras para tratar.
 
 **Aprovado para playtest:** tabela cumulativa de NE; condições Caído, Agarrado, Imobilizado e Atordoado e procedimentos de interação com Postura (2026-10-12); construção modular de armas, manutenção de −1d20 por ataque consecutivo e Golpe Devastador (registro de 2026-10-13, com esclarecimentos diretos do criador sobre propriedades e duas Leves).
 
-**Não aprovado:** RD 2 de Aparar, 2 PA/DT 10 para Medicina, −1 Fortitude de Sequela e detalhes de crítico no Último Ato.
+**Não aprovado:** 2 PA/DT 10 para Medicina, −1 Fortitude de Sequela e detalhes de crítico no Último Ato.
 
 ## 2026-10-12 — Condições e Postura: aprovação provisória
 
@@ -60,8 +60,20 @@ Textos de referência: [armas](../regras/armas.md), [combate](../regras/combate.
 - Sem bônus de Defesa ou penalidades adicionais de movimento/Destreza para essas armaduras.
 - Escudo básico de **uma mão**, **+1 de Defesa** enquanto empunhado e reação básica **Defender: 1 PA, RD 2**, após conhecer o dano de um ataque que acertou. Uma vez por ataque, repetível contra outros ataques enquanto houver PA e puder reagir.
 - **Armadura + Defender somam RD**. Um uso e um PA bastam para cobrir as duas instâncias de Leves; não cobrar por instância.
-- Aparar permanece uma manobra aprendida com arma; números e requisitos detalhados ainda pendentes. RD 2 de Defender não aprova RD 2 para Aparar.
+- **Registro superado pela decisão seguinte de 2026-10-13:** Aparar seria uma manobra aprendida com arma, com números e requisitos pendentes. A decisão posterior removeu essa manobra.
 - As mesmas proteções valem para inimigos equipados. A intenção é um mundo mortal com poucos PV e proteção forte, limitada por PA e usos.
 - Armaduras podem receber melhorias ou ser substituídas por versões superiores durante campanhas; novos escudos poderão ser adicionados. A direção está aprovada, mas custos, efeitos e novos modelos ainda não estão definidos.
 
-Ver [armaduras e escudos](../regras/armaduras-e-escudos.md). Combinações com outras reações, progressão e casos-limite ficam em [pendências](pendencias.md); não foram aprovadas regras adicionais por inferência.
+Ver [armaduras e escudos](../regras/armaduras-e-escudos.md). A escolha entre Esquiva e Defender foi resolvida na decisão seguinte. Progressão e demais casos-limite ficam em [pendências](pendencias.md); não foram aprovadas regras adicionais por inferência.
+
+## 2026-10-13 — Remoção de Aparar e escolha da reação defensiva
+
+**Aprovado para playtest, sujeito a revisão.** Com a inclusão do escudo, o criador removeu Aparar e definiu que o personagem escolhe entre **Esquiva** e **Defender**, sem usar as duas contra o mesmo ataque.
+
+- Defender exige escudo empunhado; cada reação mantém seu custo de 1 PA e efeito já documentado.
+- A exclusividade vale para o ataque inteiro, inclusive as duas instâncias de Leves. Se Esquiva não evitar o acerto, não permite usar Defender depois contra esse mesmo ataque.
+- Contra outro ataque, pode escolher novamente, respeitando PA e impedimentos de reações.
+- O bônus constante de +1 de Defesa do escudo e a ativação da armadura seguem seus procedimentos; armadura + Defender continuam somando RD.
+- Aparar deixa o catálogo atual, e suas pendências de RD/requisitos são encerradas. As sugestões anteriores de RD 2 para Aparar não foram adotadas.
+
+Ver [combate](../regras/combate.md), [armaduras e escudos](../regras/armaduras-e-escudos.md) e [manobras](../regras/manobras.md).

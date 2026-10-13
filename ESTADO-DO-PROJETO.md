@@ -31,12 +31,13 @@
 - **Armaduras e escudo aprovados para playtest em 2026-10-13:** proficiência mínima 0/1/2 para leves/médias/pesadas; couro RD 2, malha RD 3 e placas RD 4, todas com 3 usos. Ativar após conhecer o dano, sem PA, no máximo 1 uso por ataque; manutenção durante descanso curto recupera os três usos.
 - Um único escudo básico: uma mão, +1 de Defesa e reação básica **Defender**, 1 PA por RD 2 após conhecer o dano. Uma vez por ataque; pode reagir a outros enquanto houver PA. Soma à RD de uma ativação da armadura.
 - Um uso de armadura e/ou um Defender protegem todas as instâncias do ataque, aplicando RD separadamente, mínimo 0 por instância. Armaduras não dão bônus de Defesa nem penalidades adicionais de movimento/Destreza neste teste.
-- Melhorias e armaduras superiores durante campanhas e novos escudos são uma direção de expansão aprovada; efeitos, custos e modelos adicionais continuam pendentes. Aparar permanece aprendido com arma, com RD/requisitos detalhados pendentes.
+- Melhorias e armaduras superiores durante campanhas e novos escudos são uma direção de expansão aprovada; efeitos, custos e modelos adicionais continuam pendentes.
+- **Aparar removido do playtest.** Contra cada ataque, escolher Esquiva ou Defender (exige escudo), nunca ambos. Mesmo se Esquiva não evitar o acerto, não pode usar Defender contra esse ataque. A escolha cobre todas as instâncias; outro ataque permite nova escolha, respeitando PA e impedimentos de reações.
 - Custos e DT de procedimentos médicos continuam **propostos, sem aprovação**.
 
 Ver detalhes em [armaduras e escudos](regras/armaduras-e-escudos.md), [armas](regras/armas.md), [combate](regras/combate.md), [manobras](regras/manobras.md), [condições](regras/condicoes.md) e [Postura](regras/postura.md).
 
 ## Próximos assuntos
-Testar sobrevivência com pouca vida, armaduras e Defender, frequência de manutenção e pressão sobre PA/usos; fechar Aparar e acúmulos entre reações defensivas. Alinhar a nomenclatura de Golpe Pesado/Brutal e Vantagem ao núcleo; testar dano, RD por instância, armas mágicas, múltiplos d20, ataques repetidos e Golpe Devastador; avaliar futuras habilidades para poucos golpes fortes sem tratá-las como aprovadas. Testar condições e completar os procedimentos pendentes de contenção/duração; Fortitude e estabilização; Sequelas; progressão modular; catálogo de habilidades; playtests.
+Testar sobrevivência com pouca vida, armaduras e Defender, frequência de manutenção e pressão sobre PA/usos; avaliar a escolha exclusiva entre Esquiva e Defender por ataque. Alinhar a nomenclatura de Golpe Pesado/Brutal e Vantagem ao núcleo; testar dano, RD por instância, armas mágicas, múltiplos d20, ataques repetidos e Golpe Devastador; avaliar futuras habilidades para poucos golpes fortes sem tratá-las como aprovadas. Testar condições e completar os procedimentos pendentes de contenção/duração; Fortitude e estabilização; Sequelas; progressão modular; catálogo de habilidades; playtests.
 
 Consulte `design/pendencias.md` antes de fechar uma regra.

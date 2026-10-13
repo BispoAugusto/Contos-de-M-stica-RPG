@@ -51,7 +51,7 @@ O escudo ocupa uma mão: com as duas mãos habituais, não é possível usá-lo 
 
 **Reação básica disponível ao empunhar o escudo**, sem precisar aprender uma manobra separada.
 
-1. Depois de conhecer o dano de um ataque que acertou, pode gastar **1 PA** para Defender.
+1. Depois de conhecer o dano de um ataque que acertou, pode gastar **1 PA** para Defender, desde que não tenha usado Esquiva contra esse mesmo ataque.
 2. Reduz em **2** o dano desse ataque. Só pode usar Defender **uma vez por ataque recebido**.
 3. Pode Defender contra outros ataques enquanto houver PA e puder usar reações. Não possui uma reserva própria de usos como a armadura.
 4. A redução se aplica separadamente a cada instância do ataque, com mínimo 0.
@@ -83,9 +83,13 @@ Isso preserva o procedimento de [armas](armas.md): bônus aplicáveis ficam na p
 
 - **Esquiva:** gasta 1 PA para aumentar a Defesa contra um ataque conforme o núcleo existente.
 - **Defender:** usa o escudo e gasta 1 PA para reduzir dano após conhecer seu valor.
-- **Aparar:** permanece uma manobra aprendida de redução de dano com arma; valor e requisitos detalhados ainda precisam ser definidos. A RD 2 de Defender não aprova automaticamente RD 2 para Aparar.
+**Atualização aprovada para playtest em 2026-10-13:** Aparar foi removido. Contra cada ataque, o personagem escolhe **Esquiva ou Defender**, sendo necessário empunhar escudo para Defender. Não pode usar as duas reações contra o mesmo ataque, mesmo que Esquiva não evite o acerto.
 
-O acúmulo explicitamente aprovado aqui é **armadura + Defender**. A combinação de Esquiva, Aparar e Defender contra o mesmo ataque permanece em [pendências](../design/pendencias.md).
+A escolha vale para todas as instâncias do ataque: contra duas Leves, não pode Esquivar de uma instância e Defender da outra. Contra outro ataque, pode escolher novamente enquanto houver PA e puder reagir.
+
+O **+1 de Defesa do escudo** é constante enquanto empunhado e continua valendo ao escolher Esquiva; não equivale a usar Defender. A ativação da **armadura** segue seu procedimento próprio e **armadura + Defender** continuam somando RD.
+
+Exemplo: se o personagem usa Esquiva e ainda assim recebe o ataque, não pode gastar outro PA em Defender contra esse golpe. Pode ativar a armadura conforme as regras de proteção. Se sofrer outro ataque, poderá optar por Defender, desde que tenha escudo, PA e possa reagir.
 
 ## Ficha e progressão
 

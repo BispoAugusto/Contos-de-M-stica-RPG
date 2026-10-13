@@ -10,7 +10,6 @@
 | Golpe de Derrubada | Independente | 1 PA, teste vs Defesa, derruba sem dano |
 | Desarme Preciso | Independente | 1 PA, teste vs Defesa, desarma sem dano |
 | Investida | Independente | 1 PA além do movimento, empurra sem dano |
-| Aparar | Reação aprendida com arma | 1 PA; redução fixa de dano confirmada; RD 2 **não confirmada**; requisitos detalhados pendentes |
 | Interceptar | Reação | 1 PA, redireciona ataque a si, usa própria Defesa; alcance pendente |
 | Ataque de Oportunidade | Reação geral aprendível | Sair do alcance da arma provoca ataque; 1 PA e 1/rodada são provisórios |
 
@@ -46,4 +45,4 @@ Ver [armas](armas.md), [combate](combate.md) e [pendências](../design/pendencia
 
 Defender pode somar sua RD à de uma ativação da armadura. Um uso da armadura e/ou um Defender cobrem as duas instâncias de Leves, aplicando a RD separadamente em cada uma; dano mínimo 0. Ver [armaduras e escudos](armaduras-e-escudos.md).
 
-Aparar continua sendo uma manobra aprendida com arma, com valor e requisitos detalhados pendentes; a aprovação de RD 2 para Defender não define a RD de Aparar. Acúmulos com Aparar e Esquiva no mesmo ataque ainda precisam ser definidos.
+**Atualização aprovada para playtest em 2026-10-13:** Aparar foi removido. Contra cada ataque, escolha **Esquiva ou Defender**; Defender exige escudo empunhado. Não é permitido usar as duas reações contra o mesmo ataque, mesmo que Esquiva não evite o acerto. A escolha vale para o ataque inteiro, incluindo as duas instâncias de Leves. Contra outro ataque, pode escolher novamente, respeitando os PA disponíveis e os impedimentos de reações.

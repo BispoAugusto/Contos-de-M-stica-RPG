@@ -2,7 +2,8 @@
 
 ## Fase 1 — MVP de mesa
 - [x] Registrar três armaduras básicas, proficiência 0/1/2 e um escudo com Defender para playtest (2026-10-13).
-- [ ] Testar armaduras, escudo e manutenção; fechar Aparar e combinações entre reações defensivas.
+- [x] Remover Aparar e adotar escolha exclusiva entre Esquiva e Defender por ataque (2026-10-13).
+- [ ] Testar armaduras, escudo, manutenção e escolha entre Esquiva e Defender.
 - [x] Documentar núcleo de testes, PA, movimento, manobras, Postura, Exaustão, morte e cura.
 - [x] Adotar condições de combate e interação com Postura como versão provisória para playtest (2026-10-12).
 - [x] Registrar construção modular de armas e Golpe Devastador como regras iniciais de playtest (2026-10-13), mantendo −1d20.

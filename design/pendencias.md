@@ -10,7 +10,7 @@
 - [ ] Avaliar eventual proteção de Caído contra ataques à distância; não incluída no playtest atual.
 - [ ] Resolver movimento ao rastejar em conjunto com Exaustão e terreno difícil.
 - [ ] PV negativos, cura e ações após reanimação em casos-limite.
-- [ ] Confirmar RD de Aparar; alcance de Interceptar/Investida.
+- [ ] Definir alcance de Interceptar/Investida.
 - [ ] Reações fora do turno e contagem de ataques consecutivos.
 - [ ] Movimento em terreno difícil, alcance de armas e mapas narrativos.
 - [ ] Armaduras, dano, Postura, Exaustão e mortalidade em playtest.
@@ -34,7 +34,7 @@
 
 - [ ] Comparar ataques repetidos com Golpe Devastador em diferentes atributos, proficiências e Defesas. Mais d20 podem manter ataques posteriores eficientes e reduzir o incentivo a concentrar PA.
 - [ ] Rever os casos-limite da transição preexistente: atributo 0, penalidades combinadas e rolar o menor. **Não há nova regra de transição aprovada neste registro.**
-- [ ] Testar leves (duas instâncias), Versátil e Pesada contra RD, Esquiva, Aparar, margem de sucesso e crítico; separar resultados de regras pendentes.
+- [ ] Testar leves (duas instâncias), Versátil e Pesada contra RD, Esquiva ou Defender, margem de sucesso e crítico; separar resultados de regras pendentes.
 - [ ] Comparar Potente + Recarregar com armas corpo a corpo ao longo de várias rodadas, considerando arma inicialmente carregada, recarga após o último tiro, obtenção de munição e PA para defesa/movimento.
 - [ ] Avaliar o risco de gastar 2–4 PA em uma única rolagem de Golpe Devastador, o dano concentrado contra poucos PV e a perda de reações. Comparar também ataques sem a manobra.
 - [ ] Esclarecer frequência de Golpe Devastador e interações com futuros PA extras; o acúmulo aprovado é de até 3 PA adicionais no mesmo ataque, não aprovação automática de vários usos por rodada.
@@ -51,7 +51,8 @@
 - [ ] Testar sobrevivência e Ferido com poucos PV; RD combinada até 6, bloqueio de Leves e ataques comuns, golpes concentrados e esgotamento de usos/PA.
 - [ ] Testar a frequência de descansos/manutenção entre combates; detalhar ferramentas, materiais e condições de manutenção sem impor custos ainda não aprovados.
 - [ ] Definir custos de aquisição/progressão da proficiência de armadura, preços dos equipamentos e eventual requisito de proficiência para escudos; nenhum requisito adicional de escudo foi fixado neste registro.
-- [ ] Fechar RD e requisitos detalhados de Aparar, distinguindo a manobra aprendida com arma da reação básica Defender.
-- [ ] Definir combinações de Esquiva, Aparar e Defender contra o mesmo ataque. Somente armadura + Defender tem acúmulo explicitamente aprovado aqui.
+- [x] Remover Aparar e encerrar a definição de seus valores/requisitos (2026-10-13).
+- [x] Definir Esquiva e Defender como alternativas exclusivas por ataque: mesmo se Esquiva não evitar o acerto, não permite Defender no mesmo ataque. Escolha válida para todas as instâncias; armadura + Defender continuam permitidos.
+- [ ] Testar essa escolha em ataques com uma ou duas instâncias e em sequências de ataques, verificando PA restantes, uso da armadura e +1 constante do escudo.
 - [ ] Resolver proteção contra fontes que não sejam ataques, efeitos de área e danos contínuos; não estender automaticamente o procedimento.
 - [ ] Definir efeitos/custos/limites de melhorias e versões superiores de armadura e futuros escudos; o catálogo atual tem apenas três armaduras e um escudo.

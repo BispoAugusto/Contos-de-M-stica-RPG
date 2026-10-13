@@ -6,6 +6,7 @@
 - Custos iniciais: movimento 1 PA, ataque básico 1 PA, Esquiva 1 PA, interação simples 1 PA.
 - Ataques consecutivos no mesmo turno reduzem em 1 a quantidade de d20 a cada novo ataque. Abaixo de 1d20, passa a 2d20 menor, depois 3d20 menor etc. Uma manobra independente ofensiva não é um ataque.
 - Defesa passiva base = 10 + Destreza; escudo empunhado concede +1 para playtest. Esquiva soma bônus de Reflexos à Defesa contra **um** ataque, sem rolagem.
+- **Reações defensivas — playtest:** Aparar foi removido. Contra cada ataque, escolha **Esquiva ou Defender com escudo**, nunca ambas, mesmo se Esquiva não evitar o acerto. A escolha cobre o ataque inteiro, incluindo duas instâncias de Leves; pode escolher novamente contra outro ataque, respeitando PA e impedimentos de reações.
 - PV = 6 + 2 × Constituição + bônus. Dano de arma fixo; +1 dano a cada 5 pontos completos acima da Defesa; crítico natural +2 (valor inicial).
 - **Armaduras e escudo — provisórios para playtest:** couro/malha/placas têm RD 2/3/4 e 3 usos. Após conhecer o dano, gastar no máximo 1 uso por ataque, sem PA; manutenção durante descanso curto recupera os 3 usos. Defender com escudo custa 1 PA, dá RD 2 e pode somar à armadura; no máximo uma vez por ataque. Cada ativação protege todas as instâncias do ataque, com RD separada e dano mínimo 0. Ver [armaduras e escudos](armaduras-e-escudos.md).
 - Iniciativa dinâmica: iniciador evidente age primeiro; caso contrário, teste de Destreza. Ator escolhe próximo aliado que ainda não agiu; quando lado termina, o outro age. Todos têm um turno por rodada.

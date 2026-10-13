@@ -1,6 +1,6 @@
 # Plano de playtests
 
-Cenários: (1) duelo com Esquiva/Aparar/Golpe Devastador com Pesada; (2) inimigo com Postura e controle ambiental; (3) movimento narrativo, Investida e Ataque de Oportunidade; (4) queda a 0 PV e três escolhas, Medicina, Ferido e cura; (5) exploração com Exaustão e descansos.
+Cenários: (1) duelo comparando Esquiva ou Defender com escudo contra ataques básicos e Golpe Devastador; (2) inimigo com Postura e controle ambiental; (3) movimento narrativo, Investida e Ataque de Oportunidade; (4) queda a 0 PV e três escolhas, Medicina, Ferido e cura; (5) exploração com Exaustão e descansos.
 
 Para cada teste registrar: data/versão, participantes, rodadas, PA usados, PV e PE perdidos, quedas, curas, Sequelas, decisões interessantes, ambiguidades e ajustes sugeridos.
 
@@ -44,6 +44,8 @@ Anotar também quantidade inicial/final de d20, resultado selecionado, margem, c
 - Reproduzir dano 8 contra malha: 5 com armadura, 6 com Defender, 3 com ambos; placas + Defender contra dano 10 resultam em 4. Registrar custos efetivos e dano evitado.
 - Testar duas Leves com instâncias 3 e 1: couro resulta em 1 e 0 por um uso; couro + Defender resulta em 0 e 0 por um uso e um PA. Verificar que RD nunca gera dano negativo.
 - Comparar reservar PA para Defender com gastar todos atacando; observar o custo de ocupar uma mão e a eficácia de ataques concentrados contra RD.
-- Registrar dúvidas de Aparar/Esquiva e demais acúmulos como pendências, sem assumir que todos são permitidos.
+- Verificar a retirada de Aparar e a escolha exclusiva entre Esquiva e Defender por ataque: se Esquiva não evitar o acerto, não permitir Defender como segunda reação contra esse golpe. Testar que outro ataque permite nova escolha, com PA e reações disponíveis.
+- Contra duas Leves, aplicar a mesma escolha ao ataque inteiro; não Esquivar de uma instância e Defender da outra. Verificar +1 constante do escudo ao escolher Esquiva e a possibilidade de ativar armadura se houver dano.
+- Registrar dúvidas de outras interações como pendências, sem criar exceções à exclusividade aprovada.
 
 Além dos registros gerais, anotar usos restantes, PA de reações, dano por instância antes/depois da RD, ataques evitados pelo +1 de Defesa e oportunidades de manutenção. Não tratar os exemplos aritméticos como evidência de equilíbrio.
