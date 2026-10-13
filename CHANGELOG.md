@@ -1,5 +1,13 @@
 # Histórico
 
+## 2026-10-13 — Proficiências, perícias e idiomas para playtest
+
+- Registrados 3 pontos iniciais e compra de conhecimentos/idiomas: 2 níveis por ponto, sempre dentro da mesma categoria.
+- Adotadas listas de 17 perícias gerais, 7 conhecimentos e 9 idiomas; tabelas de atributos padrão e ofícios específicos do personagem.
+- Idiomas usam Inteligência: Amador sem bônus; Fluente +2 quando textos muito complexos exigirem teste, com dispensa na maioria das situações comuns.
+- Alinhados Fortitude/Constituição, Medicina/Inteligência e exceção de idiomas à escala +2 a +10. Reflexos continua sem rolagem na reação Esquiva.
+- Documentadas propostas não aprovadas de Comum/ofício gratuitos e pendências de origem, habilidades e proficiência em escudos. Atualizados estado, decisões e planejamento; nenhum playtest realizado.
+
 ## 2026-10-13 — Famílias de armas e Desarmado
 
 - Registradas as dez famílias aprovadas; nome definitivo de Correntes e Chicotes pendente, com Armas Flexíveis apenas como sugestão.

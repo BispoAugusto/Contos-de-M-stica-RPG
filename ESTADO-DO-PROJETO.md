@@ -18,6 +18,10 @@
 - Sequelas após Aceitar a Queda persistem, mas podem ser tratadas por meios extraordinários.
 
 ## Provisório para playtest
+- **Proficiências iniciais:** 3 pontos. Perícias gerais, ofícios e armas: um nível por ponto; armaduras: um nível de acesso por ponto; escudos: compra da proficiência. Conhecimentos e idiomas: dois níveis por ponto, no mesmo ou em dois diferentes dentro da categoria; não misturar categorias.
+- Listas de 17 perícias gerais e 7 conhecimentos com atributos padrão aprovadas. Conhecimentos usam Inteligência; Fortitude usa Constituição, Integridade usa Sabedoria. Ofícios são especialidades abertas, atreladas a um atributo, cinco níveis e +0 sem níveis.
+- **Idiomas:** nove opções; testes com Inteligência. Amador (1): compreende, mas pode testar em escritas/dialetos complexos, sem bônus. Fluente (2): normalmente sem teste; textos muito complexos ainda podem exigir teste, com +2.
+- Comum gratuito e ofício inicial gratuito continuam apenas sugestões; concessões por história/habilidades precisam ter seus níveis especificados.
 - Tabela de penalidades de NE aprovada **para teste**; valores das manobras ainda provisórios.
 - **Condições aprovadas para playtest em 2026-10-12, abertas a revisão:** Caído (−2 nos ataques corpo a corpo próprios, +2 nos recebidos; levantar 1 PA; rastejar Curto/1 PA), Agarrado (sem deslocamento próprio; fuga 1 PA e teste), Imobilizado (sem deslocar/levantar; −2 nos ataques próprios, +2 nos recebidos) e Atordoado (−2 PA na próxima renovação; sem reações até o início desse turno).
 - Imobilização por agarrão tem saída em etapas; modificadores equivalentes de condições não se somam. Levantar não provoca Ataque de Oportunidade por padrão.
@@ -37,9 +41,9 @@
 - **Aparar removido do playtest.** Contra cada ataque, escolher Esquiva ou Defender (exige escudo), nunca ambos. Mesmo se Esquiva não evitar o acerto, não pode usar Defender contra esse ataque. A escolha cobre todas as instâncias; outro ataque permite nova escolha, respeitando PA e impedimentos de reações.
 - Custos e DT de procedimentos médicos continuam **propostos, sem aprovação**.
 
-Ver detalhes em [armaduras e escudos](regras/armaduras-e-escudos.md), [armas](regras/armas.md), [combate](regras/combate.md), [manobras](regras/manobras.md), [condições](regras/condicoes.md) e [Postura](regras/postura.md).
+Ver detalhes em [proficiências](regras/proficiencias.md), [perícias](regras/pericias.md), [idiomas](regras/idiomas.md), [armaduras e escudos](regras/armaduras-e-escudos.md), [armas](regras/armas.md), [combate](regras/combate.md), [manobras](regras/manobras.md), [condições](regras/condicoes.md) e [Postura](regras/postura.md).
 
 ## Próximos assuntos
-Testar sobrevivência com pouca vida, armaduras e Defender, frequência de manutenção e pressão sobre PA/usos; avaliar a escolha exclusiva entre Esquiva e Defender por ataque. Alinhar a nomenclatura de Golpe Pesado/Brutal e Vantagem ao núcleo; testar dano, RD por instância, armas mágicas, múltiplos d20, ataques repetidos e Golpe Devastador; avaliar futuras habilidades para poucos golpes fortes sem tratá-las como aprovadas. Testar condições e completar os procedimentos pendentes de contenção/duração; Fortitude e estabilização; Sequelas; progressão modular; catálogo de habilidades; playtests.
+Definir habilidades iniciais e concessões de origem, efeitos da proficiência em escudos e equipamento inicial; montar fichas de playtest. Testar sobrevivência com pouca vida, armaduras e Defender, frequência de manutenção e pressão sobre PA/usos; avaliar a escolha exclusiva entre Esquiva e Defender por ataque. Alinhar a nomenclatura de Golpe Pesado/Brutal e Vantagem ao núcleo; testar dano, RD por instância, armas mágicas, múltiplos d20, ataques repetidos e Golpe Devastador; avaliar futuras habilidades para poucos golpes fortes sem tratá-las como aprovadas. Testar condições e completar os procedimentos pendentes de contenção/duração; Fortitude e estabilização; Sequelas; progressão modular; catálogo de habilidades; playtests.
 
 Consulte `design/pendencias.md` antes de fechar uma regra.

@@ -29,3 +29,11 @@ Habilidades futuras também poderão permitir crítico, Golpe Pesado ou outros e
 **Proposto:** “Armas Flexíveis” como nome para a família aprovada de Correntes e Chicotes.
 
 **Direção aprovada:** armas naturais e habilidades de pugilista podem conceder dano ao golpe desarmado. Valores, requisitos e habilidades concretas ainda precisam ser desenvolvidos e aprovados; a regra atual de Desarmado está em [armas](../regras/armas.md).
+
+## Concessões iniciais — propostas não aprovadas
+
+- Comum gratuito para comunicação básica do grupo.
+- Um ofício relacionado à história no nível 1 sem consumir os três pontos.
+- Benefícios adicionais de origem; quantidade e efeitos dependem da definição de criação de personagem.
+
+Ofícios adquiridos por história ou habilidades são uma possibilidade aprovada, mas não implicam uma concessão gratuita universal de nível 1.

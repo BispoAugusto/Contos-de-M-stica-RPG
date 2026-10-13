@@ -89,3 +89,18 @@ Ver [combate](../regras/combate.md), [armaduras e escudos](../regras/armaduras-e
 - A regra específica de Desarmado é exceção à base modular 2. Não aprova automaticamente dois espaços, propriedades ou duas instâncias para socos e chutes.
 
 Ver [armas](../regras/armas.md) e [pendências](pendencias.md).
+
+## 2026-10-13 — Proficiências, perícias e idiomas
+
+**Aprovado para playtest, sujeito a revisão.** Reserva de 3 pontos para perícias gerais, conhecimentos, ofícios, idiomas, armas, armaduras e escudos. Compra padrão de um nível por ponto em perícias gerais/ofícios/armas, um nível de acesso em armaduras e proficiência em escudos.
+
+- Conhecimentos e idiomas custam 1 ponto por dois níveis, no mesmo ou em dois diferentes **da mesma categoria**. Não dividir um ponto entre conhecimento e idioma.
+- Perícias/conhecimentos/ofícios/armas: nível 0 +0, níveis 1–5 +2/+4/+6/+8/+10, máximo inicial 2 conforme núcleo já registrado.
+- Adotadas as listas e associações de [perícias](../regras/pericias.md): 17 gerais e 7 conhecimentos, todos os conhecimentos com Inteligência. Atributo padrão pode variar com abordagem justificada.
+- Ofícios são específicos do personagem, vinculados a atributo; podem vir de pontos, habilidades ou história. Níveis concedidos por essas fontes devem ser definidos.
+- Nove idiomas: Comum, Bestial, Miridiano, Arak, Faarongiano, Primordial, Abissal, Dracônico e Umbral.
+- Idioma Amador (1) compreende, mas pode testar certas escritas/situações complexas do dialeto; Fluente (2) normalmente dispensa teste, mas testa textos muito complexos com +2. Testes usam Inteligência; Amador não tem bônus de idioma.
+- A associação de Fortitude a Constituição está definida; o atributo fornece d20, não bônus numérico. Particularidades do procedimento contra a morte permanecem pendentes.
+- Comum gratuito e um ofício gratuito no nível 1 foram sugestões e **não foram aprovados**. Os efeitos do uso de escudos sem proficiência, níveis de concessões narrativas e detalhes de habilidades iniciais continuam pendentes.
+
+Ver [proficiências](../regras/proficiencias.md) e [idiomas](../regras/idiomas.md).

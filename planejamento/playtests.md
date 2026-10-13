@@ -55,3 +55,11 @@ Além dos registros gerais, anotar usos restantes, PA de reações, dano por ins
 **Planejado, ainda não realizado.** Verificar dano base 0 e margens 0–4/5–9/10–14/15–19 produzindo 0/1/2/3 antes de crítico e RD. Conferir crítico natural +2 somado à margem: natural 20 + proficiência 2 contra Defesa 17 resulta em 3 de dano antes de RD.
 
 Testar acertos sem dano, proteção de armadura/Defender e ataques repetidos por 1 PA. Futuras armas naturais e habilidades de pugilista poderão conceder dano, mas testes de seus valores devem identificar hipóteses ainda não aprovadas. Não atribuir automaticamente propriedades ou duas instâncias aos golpes desarmados.
+
+## Proficiências e idiomas — 2026-10-13
+
+**Planejado, ainda não realizado.** Montar distribuições de três pontos e registrar escolhas abandonadas por falta de pontos. Conferir conhecimentos/idiomas em pares da mesma categoria, máximo inicial 2 e ausência de concessões gratuitas não aprovadas.
+
+Comparar História 2 (+4) com História 1 + Natureza 1 (+2 cada). Comparar um idioma Fluente com dois Amadores; usar Inteligência e bônus +2 apenas para Fluente quando o teste for necessário. História 1 + Dracônico 1 não podem consumir um único ponto.
+
+Testar perícias com seus atributos padrão e abordagens alternativas justificadas. Verificar Reflexos sem criar rolagem para Esquiva, Fortitude com d20 de Constituição sem somar seu valor numérico, Medicina sem cura automática e ofícios técnicos em contraste com Atuação. Registrar dúvidas de concessões de origem e proficiência em escudos como pendências.

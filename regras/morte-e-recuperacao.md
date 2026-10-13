@@ -11,7 +11,7 @@
 Ao chegar à metade dos PV máximos ou menos, fica Ferido e não recebe benefícios normais de cura até tratamento. Tratamento adequado remove Ferido. Se ainda estiver abaixo da metade, não reaplica automaticamente sem novo dano (**procedimento de playtest**).
 
 ## Medicina
-É perícia; teste bem-sucedido estabiliza inconsciente e remove Ferido no mesmo atendimento, **sem restaurar PV**. Não exigir duas ações/testes para estabilizar e retirar Ferido. Custos e DT ainda não aprovados (2 PA, DT 10 foram sugeridos).
+É perícia de conhecimento com Inteligência como atributo padrão; teste bem-sucedido estabiliza inconsciente e remove Ferido no mesmo atendimento, **sem restaurar PV**. Não exigir duas ações/testes para estabilizar e retirar Ferido. Custos e DT ainda não aprovados (2 PA, DT 10 foram sugeridos).
 
 ## Cura em PV negativos
 Qualquer cura efetiva aplicada ao caído elimina PV negativos, coloca-o com **exatamente 1 PV** e remove Ferido. Não aproveita o excedente dessa aplicação; outra cura pode recuperar PV normalmente. Cura de PV não remove Sequela.
@@ -19,4 +19,6 @@ Qualquer cura efetiva aplicada ao caído elimina PV negativos, coloca-o com **ex
 ## Sequelas
 Persistem além de descanso e cura; tratáveis por meios extraordinários, como especialistas, magia rara e aventuras. **−1 em Fortitude é apenas proposta**, não regra confirmada.
 
-**Pendências:** fórmula de Fortitude, regras detalhadas de estabilidade, recuperação natural de PV, efeitos das Sequelas e casos-limite.
+Fortitude usa Constituição como atributo padrão (d20 do atributo + bônus da perícia), conforme [perícias](pericias.md). Essa associação não soma o valor numérico de Constituição ao resultado.
+
+**Pendências:** eventuais particularidades do teste de Fortitude contra a morte, regras detalhadas de estabilidade, recuperação natural de PV, efeitos das Sequelas e casos-limite.

@@ -1,6 +1,7 @@
 # Pendências
 
-- [ ] Fórmula do teste de Fortitude contra a Morte.
+- [x] Definir Constituição como atributo padrão de Fortitude (d20 do atributo + bônus da perícia).
+- [ ] Fechar eventuais particularidades do teste de Fortitude contra a Morte.
 - [ ] DT/custo de Medicina e condições de estabilização.
 - [ ] Efeito provisório de Sequela e tratamento.
 - [x] Adotar provisoriamente Caído, Agarrado, Imobilizado e Atordoado (2026-10-12).
@@ -14,7 +15,8 @@
 - [ ] Reações fora do turno e contagem de ataques consecutivos.
 - [ ] Movimento em terreno difícil, alcance de armas e mapas narrativos.
 - [ ] Armaduras, dano, Postura, Exaustão e mortalidade em playtest.
-- [ ] Lista de perícias, progressão, miniclasses e magia.
+- [x] Registrar lista de perícias e atributos padrão.
+- [ ] Progressão, miniclasses e magia.
 
 ## Armas e combate — registro de 2026-10-13
 
@@ -51,7 +53,8 @@
 - [x] Definir soma armadura + Defender e proteção de todas as instâncias com um uso/uma reação, RD separada e mínimo 0.
 - [ ] Testar sobrevivência e Ferido com poucos PV; RD combinada até 6, bloqueio de Leves e ataques comuns, golpes concentrados e esgotamento de usos/PA.
 - [ ] Testar a frequência de descansos/manutenção entre combates; detalhar ferramentas, materiais e condições de manutenção sem impor custos ainda não aprovados.
-- [ ] Definir custos de aquisição/progressão da proficiência de armadura, preços dos equipamentos e eventual requisito de proficiência para escudos; nenhum requisito adicional de escudo foi fixado neste registro.
+- [x] Registrar compra inicial da proficiência de armadura por um nível/ponto e compra da proficiência em escudos.
+- [ ] Definir progressão posterior, preços dos equipamentos e efeitos de usar escudo sem proficiência.
 - [x] Remover Aparar e encerrar a definição de seus valores/requisitos (2026-10-13).
 - [x] Definir Esquiva e Defender como alternativas exclusivas por ataque: mesmo se Esquiva não evitar o acerto, não permite Defender no mesmo ataque. Escolha válida para todas as instâncias; armadura + Defender continuam permitidos.
 - [ ] Testar essa escolha em ataques com uma ou duas instâncias e em sequências de ataques, verificando PA restantes, uso da armadura e +1 constante do escudo.
@@ -65,3 +68,14 @@
 - [ ] Definir valores, requisitos e interação das armas naturais e habilidades de pugilista, incluindo se fontes modificam/substituem o dano base ou concedem bônus.
 - [ ] Definir a relação de Desarmado e armas naturais com espaços, propriedades e manobras; não tratar socos/chutes automaticamente como duas armas Leves.
 - [ ] Testar acertos sem dano, margem, crítico e RD, comparando o golpe comum com futuras opções de pugilista e armas naturais.
+
+## Proficiências, perícias e idiomas — 2026-10-13
+
+- [x] Registrar reserva inicial de 3 pontos e compra de conhecimentos/idiomas em pares dentro da mesma categoria.
+- [x] Alocar atributos padrão das 17 perícias gerais e 7 conhecimentos.
+- [x] Definir idiomas Amador/Fluente e testes com Inteligência, bônus +0/+2.
+- [x] Registrar ofícios específicos, vinculados a atributo, cinco níveis e +0 sem níveis.
+- [ ] Definir habilidades iniciais, concessões de origem e níveis concedidos por história/habilidades.
+- [ ] Decidir se Comum ou algum ofício será gratuito; propostas ainda sem aprovação.
+- [ ] Definir testes de idioma sem nível, DT de complexidade e interação com conhecimentos, sem somar bônus automaticamente.
+- [ ] Avaliar se três pontos comportam os perfis desejados, considerando competição entre combate, perícias e identidade narrativa.

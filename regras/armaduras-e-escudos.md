@@ -4,7 +4,7 @@
 
 ## Armaduras e proficiência
 
-A proficiência de armadura tem três níveis de acesso: **0 = leves, 1 = médias, 2 = pesadas**. Os valores da tabela são requisitos mínimos. Essa escala não concede os bônus numéricos das proficiências de testes.
+A proficiência de armadura tem três níveis de acesso: **0 = leves, 1 = médias, 2 = pesadas**. Os valores da tabela são requisitos mínimos. Essa escala não concede os bônus numéricos das proficiências de testes. Na criação, 1 ponto compra um nível de acesso; escudos também estão entre as compras de [proficiência](proficiencias.md). O uso sem a proficiência em escudos ainda precisa ser definido.
 
 | Modelo | Categoria | Proficiência mínima | RD por uso | Usos máximos |
 |---|---|---|---|---|
@@ -83,6 +83,7 @@ Isso preserva o procedimento de [armas](armas.md): bônus aplicáveis ficam na p
 
 - **Esquiva:** gasta 1 PA para aumentar a Defesa contra um ataque conforme o núcleo existente.
 - **Defender:** usa o escudo e gasta 1 PA para reduzir dano após conhecer seu valor.
+
 **Atualização aprovada para playtest em 2026-10-13:** Aparar foi removido. Contra cada ataque, o personagem escolhe **Esquiva ou Defender**, sendo necessário empunhar escudo para Defender. Não pode usar as duas reações contra o mesmo ataque, mesmo que Esquiva não evite o acerto.
 
 A escolha vale para todas as instâncias do ataque: contra duas Leves, não pode Esquivar de uma instância e Defender da outra. Contra outro ataque, pode escolher novamente enquanto houver PA e puder reagir.

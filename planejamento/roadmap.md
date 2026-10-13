@@ -1,6 +1,8 @@
 # Roadmap
 
 ## Fase 1 — MVP de mesa
+- [x] Registrar três pontos de proficiência, listas/atributos de perícias, ofícios e idiomas (2026-10-13).
+- [ ] Definir habilidades e equipamento iniciais, concessões de origem e uso de escudo sem proficiência; montar fichas de teste.
 - [x] Registrar três armaduras básicas, proficiência 0/1/2 e um escudo com Defender para playtest (2026-10-13).
 - [x] Remover Aparar e adotar escolha exclusiva entre Esquiva e Defender por ataque (2026-10-13).
 - [ ] Testar armaduras, escudo, manutenção e escolha entre Esquiva e Defender.
