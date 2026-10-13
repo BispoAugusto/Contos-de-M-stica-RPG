@@ -13,4 +13,10 @@
 
 Resultado selecionado + proficiência + modificadores vs DT/Defesa. 1 natural selecionado falha, 20 natural selecionado sucede. O atributo não é somado como modificador.
 
-Proficiências graus 1–5 concedem +2, +4, +6, +8, +10; máximo inicial grau 2. Proficiência de arma é por grupo. Grau 1 concede uma manobra aprendida no primeiro playtest; graus superiores não concedem automaticamente outras.
+Proficiências graus 1–5 concedem +2, +4, +6, +8, +10; máximo inicial grau 2. Proficiência de arma é por grupo; na [construção modular de armas](armas.md), o tipo da arma define a proficiência correspondente, não as propriedades. Grau 1 concede uma manobra aprendida no primeiro playtest; graus superiores não concedem automaticamente outras.
+
+## Interação com ataques consecutivos
+
+A tabela de atributos acima permanece inalterada. A decisão registrada em 2026-10-13 mantém **−1d20 por ataque consecutivo**, conforme [combate](combate.md). Este registro não aprova novas regras de transição entre rolar o maior e rolar o menor, nem novos pisos ou compensações. Ver os casos-limite em [pendências](../design/pendencias.md).
+
+**Preocupação de balanceamento, não mudança de regra:** atributos altos fornecem mais d20 iniciais e podem sustentar vários ataques com melhor precisão. É preciso testar se concentrar PA em Golpe Devastador continua uma escolha útil diante de ataques repetidos.
