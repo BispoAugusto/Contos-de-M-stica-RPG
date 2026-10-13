@@ -44,6 +44,8 @@
 Ver detalhes em [proficiências](regras/proficiencias.md), [perícias](regras/pericias.md), [idiomas](regras/idiomas.md), [armaduras e escudos](regras/armaduras-e-escudos.md), [armas](regras/armas.md), [combate](regras/combate.md), [manobras](regras/manobras.md), [condições](regras/condicoes.md) e [Postura](regras/postura.md).
 
 ## Próximos assuntos
+**Foco atual: criação dos traços de origem**, até 5 positivos (1–3 pontos) e 3 negativos (−1 a −3), com aparência livre e incompatibilidades explícitas. O desenvolvimento detalhado de porte/inventário foi adiado a pedido do criador; decisões já tomadas estão em [origens e portes](design/origens-e-portes.md).
+
 Definir habilidades iniciais e concessões de origem, efeitos da proficiência em escudos e equipamento inicial; montar fichas de playtest. Testar sobrevivência com pouca vida, armaduras e Defender, frequência de manutenção e pressão sobre PA/usos; avaliar a escolha exclusiva entre Esquiva e Defender por ataque. Alinhar a nomenclatura de Golpe Pesado/Brutal e Vantagem ao núcleo; testar dano, RD por instância, armas mágicas, múltiplos d20, ataques repetidos e Golpe Devastador; avaliar futuras habilidades para poucos golpes fortes sem tratá-las como aprovadas. Testar condições e completar os procedimentos pendentes de contenção/duração; Fortitude e estabilização; Sequelas; progressão modular; catálogo de habilidades; playtests.
 
 Consulte `design/pendencias.md` antes de fechar uma regra.

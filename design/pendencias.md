@@ -79,3 +79,13 @@
 - [ ] Decidir se Comum ou algum ofício será gratuito; propostas ainda sem aprovação.
 - [ ] Definir testes de idioma sem nível, DT de complexidade e interação com conhecimentos, sem somar bônus automaticamente.
 - [ ] Avaliar se três pontos comportam os perfis desejados, considerando competição entre combate, perícias e identidade narrativa.
+
+## Origens, porte e inventário — desenvolvimento adiado
+
+- [x] Registrar decisões de origem por pontos, limites de 5 positivos/3 negativos, aparência livre e incompatibilidades.
+- [x] Preservar bases de inventário 3/5/10/20, arredondamento para cima, equipamentos usados ocupando espaços e adaptação combinada na criação.
+- [ ] Criar regras completas de porte e inventário, passagens/ocupação de espaços, catálogo de itens e interação com fabricação. **Deixado para depois a pedido do criador.**
+- [ ] Fechar modificadores de porte ainda abertos e custos dos traços de porte; não criar vantagens automáticas.
+- [ ] Confirmar reserva inicial de pontos de origem e desenvolver a lista de traços, custos e incompatibilidades. **Foco atual.**
+
+Decisões preservadas em [origens e portes](origens-e-portes.md).

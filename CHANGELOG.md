@@ -1,5 +1,11 @@
 # Histórico
 
+## 2026-10-13 — Notas de origens e adiamento de porte/inventário
+
+- Preservadas decisões de origem por pontos, incompatibilidades, aparência livre, inventário por espaços e interações físicas de porte.
+- Registrado o adiamento das regras detalhadas de porte/inventário e da precificação dos portes; equipamentos adaptados ficam combinados na criação da ficha.
+- Atualizados estado, decisões e pendências; foco atual na criação dos traços, sem aprovar automaticamente novos efeitos ou custos.
+
 ## 2026-10-13 — Proficiências, perícias e idiomas para playtest
 
 - Registrados 3 pontos iniciais e compra de conhecimentos/idiomas: 2 níveis por ponto, sempre dentro da mesma categoria.

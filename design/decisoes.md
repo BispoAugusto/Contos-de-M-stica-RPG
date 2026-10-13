@@ -104,3 +104,9 @@ Ver [armas](../regras/armas.md) e [pendências](pendencias.md).
 - Comum gratuito e um ofício gratuito no nível 1 foram sugestões e **não foram aprovados**. Os efeitos do uso de escudos sem proficiência, níveis de concessões narrativas e detalhes de habilidades iniciais continuam pendentes.
 
 Ver [proficiências](../regras/proficiencias.md) e [idiomas](../regras/idiomas.md).
+
+## 2026-10-13 — Origens por traços e adiamento de porte/inventário
+
+O criador definiu a origem de playtest por compra de até 5 traços positivos (1–3 pontos) e 3 negativos (−1 a −3), com categorias temáticas, incompatibilidades e aparência livre. A lista deve contemplar humanos/pequeninos e personagens de formas extraordinárias sem duplicar efeitos.
+
+Decisões de inventário, arredondamento e diferenças de porte foram preservadas em [origens e portes](origens-e-portes.md). **O desenvolvimento completo dessas regras foi adiado explicitamente; o foco volta à criação dos traços.** Valores de traços ainda sugeridos não são regras aprovadas.
