@@ -49,7 +49,7 @@ As propriedades modificam a base: **Leve −1; Versátil +1 ao usar duas mãos; 
 | 4 | 4 | 3 |
 | 5 | 5 | 4 |
 
-Leve pode ser atraente nos primeiros níveis sem reduzir a base abaixo de 1, mas reduz o dano nos níveis seguintes. Isso precisa de teste. A propriedade escolhida não concede automaticamente duas armas naturais ou duas instâncias: requisitos de empunhadura, duas Leves naturais, Arremessável e espaços modulares ainda precisam ser detalhados. Ver [armas](armas.md).
+Leve pode ser atraente nos primeiros níveis sem reduzir a base abaixo de 1, mas reduz o dano nos níveis seguintes. Isso precisa de teste. A propriedade escolhida não concede automaticamente duas armas naturais ou o ataque combinado de duas Leves: requisitos de empunhadura, duas Leves naturais, Arremessável e espaços modulares ainda precisam ser detalhados. Ver [armas](armas.md).
 
 ## Sentidos
 
@@ -102,7 +102,7 @@ Os bônus de testes abaixo só atuam quando houver um teste; não criam testes a
 | Baixa Resistência Física | −1 | −2 em Fortitude contra esforço físico prolongado. | Vigor Persistente. |
 | Mente Suscetível | −2 | −2 em Integridade contra medo, coerção e controle mental. | Mente Firme. |
 
-**Armadura Natural:** após conhecer o dano, gastar um uso, sem PA, para RD 2. No máximo um uso por ataque; cobre suas instâncias, reduzidas separadamente até mínimo 0. Recupera os dois usos em descanso curto, **sem ação de reparo/manutenção**. Se vestir armadura, escolher natural **ou** convencional por ataque, com reservas separadas; não somar ambas. Pode somar à RD de Defender, respeitando a exclusão Esquiva/Defender. Ver [armaduras e escudos](armaduras-e-escudos.md).
+**Armadura Natural:** após conhecer o dano, gastar um uso, sem PA, para RD 2. No máximo um uso por ataque; cobre suas instâncias, reduzidas separadamente até mínimo 0. O ataque combinado de duas Leves tem uma única instância, com RD aplicada uma vez. Recupera os dois usos em descanso curto, **sem ação de reparo/manutenção**. Se vestir armadura, escolher natural **ou** convencional por ataque, com reservas separadas; não somar ambas. Pode somar à RD de Defender, respeitando a exclusão Esquiva/Defender. Ver [armaduras e escudos](armaduras-e-escudos.md).
 
 ## Cultura e Formação
 

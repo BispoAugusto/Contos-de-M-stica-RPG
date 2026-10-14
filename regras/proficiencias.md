@@ -37,7 +37,7 @@ Perícias gerais, conhecimentos, ofícios e famílias de armas seguem a escala n
 | 4 | +8 |
 | 5 | +10 |
 
-O máximo inicial já estabelecido é **nível 2**. Atributos determinam a quantidade de d20; a proficiência fornece o bônus. Conhecimentos mais baratos seguem a mesma escala: História 2 concede +4.
+O máximo inicial já estabelecido é **nível 2**. Testes usam **1d20 + Atributo + Proficiência**: somam-se o valor do atributo e o bônus da proficiência. Vantagens/Desvantagens alteram os dados conforme [atributos e testes](atributos-e-testes.md). Esses valores não somam dano diretamente por padrão; a base de Arma Natural Avançada por nível é uma exceção expressa. Conhecimentos mais baratos seguem a mesma escala: História 2 concede +4.
 
 **Idiomas têm regra própria:** Amador 1 sem bônus de idioma; Fluente 2 com +2 quando precisar testar. Armaduras são níveis de acesso e escudos são uma proficiência de uso; essas categorias não recebem automaticamente os bônus +2 a +10.
 

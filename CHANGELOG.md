@@ -1,5 +1,17 @@
 # Histórico
 
+## 2026-10-14 — Testes aditivos, repetição e duas Leves
+
+- Consolidada a aprovação explícita de 1d20 + Atributo + Proficiência e de Vantagens/Desvantagens cumulativas: cancelamento uma a uma, d20 adicionais e escolha de maior/menor conforme saldo.
+- Substituída a retirada de dados por penalidades numéricas: 0, −5, −10, −10; com uma Leve em cada mão, 0, 0, −5, −10; seguintes −10. Ataques extras gratuitos contam salvo texto específico.
+- Explicitado dano sem soma direta de atributos/proficiência por padrão, preservando margem +1 por 5 pontos completos, crítico natural +2 e efeitos específicos existentes, sem inventar gatilhos de Pesado/Brutal.
+- Duas Leves passam a um ataque combinado: 1 PA, uma rolagem, base principal + metade da base secundária arredondada para cima, uma instância para RD e modificadores uma vez.
+- Alinhados perícias, idiomas, Fortitude, Desvantagem de NE 2, manobras, proteções, referências a armas naturais e exemplos aritméticos. Mantidos valores e status das demais regras.
+- Atualizados estado, decisões, pendências, ideias futuras, roadmap e plano de playtests; registros históricos de dados/duas instâncias foram identificados como superados. Propostas continuam sem aprovação.
+- Conferida consistência documental e aritmética; nenhum playtest de mesa realizado. Aprovação de regra não representa validação de balanceamento.
+
+**Histórico anterior:** as entradas abaixo descrevem as versões de suas datas. A retirada de dados e as duas instâncias de Leves foram substituídas pela decisão acima.
+
 ## 2026-10-13 — Catálogo inicial de origens e regras associadas
 
 - Registradas as seis listas: Corpo, Sentidos, Mobilidade, Resistência, Cultura e Formação, Afinidades Sobrenaturais, com incompatibilidades e aparência livre.

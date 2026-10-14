@@ -1,10 +1,11 @@
 # Armas e construção modular
 
-**Provisório para playtest — registro de 2026-10-13.** Estas são regras iniciais aprovadas para teste, sujeitas a revisão de valores, combinações e procedimentos. Pendências explícitas não são regras aprovadas.
+**Modelo modular provisório para playtest — registro de 2026-10-13; testes, repetição e duas Leves atualizados por aprovação em 2026-10-14.** Estas são regras iniciais aprovadas para teste, sujeitas a revisão de valores, combinações e procedimentos. Pendências explícitas não são regras aprovadas.
 
 ## Base e montagem
 
 - Uma arma construída pelo modelo modular começa com **2 de dano fixo e 2 espaços de propriedades**. **Desarmado é uma exceção: dano base 0**; sua relação com espaços e propriedades ainda está pendente.
+- Em um acerto, some ao dano-base **+1 por cada 5 pontos completos de margem sobre a Defesa**, o crítico natural selecionado **+2** e os demais efeitos aplicáveis já existentes. **Atributos e proficiência não somam dano diretamente por padrão**; habilidades ou regras específicas podem abrir exceções. Ver [combate](combate.md).
 - O **tipo da arma define sua proficiência**, dentro dos grupos de armas de [atributos e testes](atributos-e-testes.md). Propriedades não substituem essa escolha.
 - **Cortante, Perfurante e Contundente** são tipos de dano, sem efeitos passivos automáticos. Servem para interações com resistências, vulnerabilidades e requisitos de habilidades ou manobras; não se confundem com o tipo/grupo usado para proficiência.
 - Cada propriedade custa **1 espaço**, exceto **Munição**, que é gratuita em espaços quando aplicável.
@@ -34,15 +35,15 @@ Escolha a família antes das propriedades; ela determina a proficiência usada. 
 | 10–14 acima da Defesa | 2 |
 | 15–19 acima da Defesa | 3 |
 
-**Exemplo:** resultado natural selecionado 20, proficiência +2, resultado total 22 contra Defesa 17: margem 5 dá +1 e o crítico dá +2. O golpe desarmado comum causa **0 + 1 + 2 = 3** antes de RD.
+**Exemplo:** resultado natural selecionado 20, atributo 0 e proficiência +2, resultado total 22 contra Defesa 17: margem 5 dá +1 e o crítico dá +2. O golpe desarmado comum causa **0 + 1 + 2 = 3** antes de RD.
 
-A adoção de dano base 0 não concede automaticamente propriedades Leve/Pesada, dois espaços ou o ataque com duas instâncias das armas Leves. A propriedade escolhida em Arma Natural Avançada é uma exceção expressa; empunhadura, espaços, duas instâncias naturais e habilidades de pugilista ainda precisam ser detalhados em [pendências](../design/pendencias.md).
+A adoção de dano base 0 não concede automaticamente propriedades Leve/Pesada, dois espaços ou o ataque combinado das armas Leves. A propriedade escolhida em Arma Natural Avançada é uma exceção expressa; empunhadura, espaços, combinação de duas armas naturais e habilidades de pugilista ainda precisam ser detalhados em [pendências](../design/pendencias.md).
 
 ## Corpo a corpo
 
 | Propriedade | Espaços | Regra inicial |
 |---|---|---|
-| Leve | 1 | −1 de dano básico (base comum 2 resulta em 1). Duas armas leves podem participar de um ataque único com duas instâncias de dano; ver procedimento abaixo. |
+| Leve | 1 | −1 de dano básico (base comum 2 resulta em 1). Uma Leve em cada mão permite sequência 0, 0, −5, −10 (seguintes −10) e ataque combinado de uma instância; ver procedimento abaixo. |
 | Versátil | 1 | +1 de dano com duas mãos; sem alteração com uma mão (base comum: 2/3). |
 | Pesada | 1 | +2 de dano (base comum 2 resulta em 4); exige duas mãos. Permite usar Golpe Devastador. |
 | Alcance | 1 | Permite ataques corpo a corpo contra alvos na distância Curta, em vez de apenas Toque. |
@@ -54,32 +55,39 @@ A adoção de dano base 0 não concede automaticamente propriedades Leve/Pesada,
 
 ### Duas armas leves
 
-O personagem precisa empunhar **duas armas Leves, uma em cada mão**. Por **1 PA**, realiza **um único teste de ataque**. Se acertar, causa **duas instâncias separadas de dano**, uma por arma. O conjunto conta como **um ataque** para a penalidade de ataques consecutivos de −1d20.
+**Confirmado em 2026-10-14; substitui o procedimento anterior de duas instâncias.**
 
-| Componente | Primeira instância | Segunda instância |
+O personagem precisa empunhar **duas armas Leves, uma em cada mão**. Por **1 PA**, realiza **uma única rolagem de ataque**. Se acertar, o dano-base do ataque combinado é:
+
+**Dano-base da arma principal + metade do dano-base da arma secundária, arredondada para cima.**
+
+Use as bases das armas já com suas propriedades. Acrescente os modificadores do ataque depois de formar essa base combinada:
+
+| Componente | Aplicação no ataque combinado |
+|---|---|
+| Base da principal | Integral |
+| Base da secundária | Metade, arredondada para cima |
+| Margem sobre a Defesa | +1 por cada 5 pontos completos, uma vez |
+| Crítico natural selecionado | +2, uma vez |
+| Ataque Pesado/Brutal, habilidades, manobras e outros modificadores aplicáveis | Uma vez, conforme o texto de cada efeito |
+| Atributo e proficiência | Não somam dano diretamente por padrão |
+| RD | Uma vez sobre o dano total, com mínimo 0 |
+
+O conjunto é **uma única instância de dano** e conta como **um ataque** na sequência. Empunhando uma Leve em cada mão, as penalidades dos ataques no turno são **0, 0, −5, −10**, com −10 nos seguintes. Ataques extras gratuitos contam normalmente, salvo texto específico.
+
+**Exemplo com armadura:** duas adagas têm base 1 cada. A base combinada é **1 + metade de 1 arredondada para cima = 2**. Com margem 5, recebe +1; se o d20 selecionado também for um 20 natural, soma +2 uma vez, totalizando **5** antes de RD.
+
+| Proteção ativada contra esse ataque | Cálculo | Dano recebido |
 |---|---|---|
-| Dano básico | Dano básico da primeira arma | Dano básico da segunda arma |
-| Bônus de Golpe Pesado/Brutal | Aplica | Não aplica |
-| Bônus de crítico | Aplica | Não aplica |
-| Bônus de manobras aplicáveis | Aplica | Não aplica |
-| Outros bônus de dano | Aplicam-se normalmente | Não se aplicam por padrão |
-| RD da armadura | Aplicada separadamente | Aplicada separadamente |
+| Couro (RD 2), 1 uso | 5 − 2 | 3 |
+| Couro + Defender (RD 4), 1 uso e 1 PA | 5 − 4 | 1 |
+| Placas + Defender (RD 6), 1 uso e 1 PA | máximo entre 0 e 5 − 6 | 0 |
 
-A segunda instância causa **somente o dano básico da segunda arma**, inclusive se a primeira receber crítico. Leves comuns têm dano básico 1; versões especiais ou mágicas podem ter valores superiores. Isso não define valores ou progressão de armas mágicas.
+**Exemplo apenas aritmético de bases diferentes:** principal 2 e secundária 3 dão base combinada **2 + 2 = 4**. Isso não aprova valores nem progressão de armas especiais/mágicas. Bônus de margem ou crítico não são incluídos na base da secundária para depois serem somados novamente.
 
-**Exemplo com armadura:** duas adagas têm dano básico 1 cada. A primeira recebe +2 em bônus aplicáveis e chega a 3; a segunda permanece em 1. Contra RD 1 aplicada às instâncias (exemplo aritmético; os modelos iniciais de armadura têm RD 2/3/4):
+Armadura e Defender mantêm seus custos, usos e a escolha exclusiva entre Esquiva e Defender, conforme [armaduras e escudos](armaduras-e-escudos.md). O ataque combinado não concede dois acertos nem dois gatilhos de crítico.
 
-| Instância | Cálculo | Dano recebido |
-|---|---|---|
-| Primeira | 3 − 1 | 2 |
-| Segunda | 1 − 1 | 0 |
-| **Total** | 2 + 0 | **2** |
-
-A aplicação separada de RD é intencional: Leves devem funcionar melhor contra alvos sem proteção, enquanto dano concentrado tem vantagem contra RD. A armadura continua seguindo seu procedimento de ativação e usos limitados em [combate](combate.md); este exemplo não transforma sua RD em proteção permanente. Um único uso cobre as duas instâncias; Defender com escudo também custa um único PA pelo ataque inteiro e pode somar sua RD à armadura. O dano de cada instância tem mínimo 0; ver [armaduras e escudos](armaduras-e-escudos.md).
-
-Habilidades futuras poderão permitir crítico, Golpe Pesado ou outros efeitos na segunda instância, mas **nenhuma dessas habilidades foi aprovada aqui**. Testar especialmente armas mágicas, bônus de dano e efeitos que modifiquem o segundo golpe.
-
-**Limites do registro:** a nomenclatura e os gatilhos completos de Golpe Pesado/Brutal e a implementação de 1 Vantagem precisam ser alinhados ao núcleo existente. Não confundir **Golpe Pesado** com a manobra **Golpe Devastador** nem criar uma nova transição de dados para Vantagem. A possibilidade de dividir as instâncias entre alvos não foi definida; não deduzir essa permissão.
+**Limites do registro:** Ataque Pesado/Brutal aparece nos documentos anteriores como Golpe Pesado/Brutal; a nomenclatura e os gatilhos completos permanecem pendentes. Preservar os efeitos já registrados, inclusive Impacto, sem criar novos limiares ou confundir com **Golpe Devastador**, que exige Pesada. A implementação de Vantagem está em [atributos e testes](atributos-e-testes.md). Não foi aprovada divisão do ataque combinado entre alvos nem extensão automática a armas naturais; ver [pendências](../design/pendencias.md).
 
 ## Distância
 
@@ -108,7 +116,7 @@ Com Potente + Recarregar já carregada: **atirar (1 PA), recarregar (1 PA), atir
 
 O ataque básico continua custando **1 PA**, inclusive com Pesada. O gasto adicional para concentrar dano vem de [Golpe Devastador](manobras.md), não de um aumento automático no custo de atacar com armas pesadas.
 
-Manter **−1d20 por ataque consecutivo**, conforme [combate](combate.md). A intenção é favorecer a fantasia de leves com mais golpes e pesadas com poucos golpes fortes, usando manobras e futuras habilidades. Essa intenção não cria ataques gratuitos, limite de ataques com Pesada ou habilidades ainda não aprovadas.
+Aplicar as sequências numéricas **0, −5, −10, −10** e, com uma Leve em cada mão, **0, 0, −5, −10**, mantendo −10 nos seguintes, conforme [combate](combate.md). A intenção é favorecer a fantasia de leves com mais golpes e pesadas com poucos golpes fortes, usando manobras e futuras habilidades. Essa intenção não cria ataques gratuitos, limite de ataques com Pesada ou habilidades ainda não aprovadas.
 
 Armas Potente + Recarregar devem poder ser fortes: recarga e obtenção de munição fazem parte da fantasia aprovada. Isso não demonstra equilíbrio por si só. Comparar dano efetivo, acertos, PA disponíveis para defesa e desempenho em várias rodadas, conforme o [plano de playtests](../planejamento/playtests.md).
 

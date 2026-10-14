@@ -17,7 +17,7 @@ O bônus de Fluente é **+2**, não +4. Idiomas não seguem a escala de bônus d
 
 ## Testes
 
-**Testes de idioma usam Inteligência** para determinar os d20. Quando for necessário testar, selecionar o resultado conforme o atributo e somar **+0 para Amador ou +2 para Fluente**, além dos modificadores aplicáveis já definidos pelo sistema. Não somar o valor numérico de Inteligência.
+**Testes de idioma usam 1d20 + Inteligência + bônus de idioma**. Quando for necessário testar, some o valor numérico de Inteligência e **+0 para Amador ou +2 para Fluente**, além dos modificadores aplicáveis. Vantagens/Desvantagens seguem [atributos e testes](atributos-e-testes.md).
 
 Fluência não dispensa automaticamente testes para textos muito complexos. DT específicas e eventual interação com conhecimentos relevantes ainda precisam ser definidas; não somar automaticamente bônus de História, Arcanismo ou outra perícia à rolagem de idioma.
 

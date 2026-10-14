@@ -2,24 +2,41 @@
 
 **Confirmado.** FOR, DES, CON, INT, SAB, CAR começam em 0. Distribuir 10 pontos linearmente, máximo inicial 5, teto futuro 10.
 
-| Atributo | Rolagem |
-|---|---|
-| 0 | 2d20, menor |
-| 1–2 | 1d20 |
-| 3–4 | 2d20, maior |
-| 5–6 | 3d20, maior |
-| 7–8 | 4d20, maior |
-| 9–10 | 5d20, maior |
+## Teste geral — confirmado em 2026-10-14
 
-Resultado selecionado + proficiência + modificadores vs DT/Defesa. 1 natural selecionado falha, 20 natural selecionado sucede. O atributo não é somado como modificador.
+**1d20 + Atributo + Proficiência**, somando os demais modificadores aplicáveis, contra DT/Defesa. Some o valor numérico do atributo e o bônus numérico da proficiência; o atributo não determina a quantidade de dados. Atributo 0 soma +0 e não impõe desvantagem por si só.
+
+O resultado natural é o d20 selecionado, antes dos bônus: **1 natural selecionado falha; 20 natural selecionado sucede**. Dados descartados não geram sucesso, falha ou crítico.
+
+**Exemplo:** d20 12 + Força 3 + proficiência 2 = 17, antes de outros modificadores. Sem proficiência, soma-se +0.
+
+## Vantagens e desvantagens cumulativas
+
+Cada Vantagem ou Desvantagem acrescenta um d20. Antes de rolar, anule Vantagens e Desvantagens uma a uma e use apenas o saldo:
+
+| Saldo | Rolagem | Resultado selecionado |
+|---|---|---|
+| Nenhum | 1d20 | O único dado |
+| 1 Vantagem | 2d20 | Maior |
+| 2 Vantagens | 3d20 | Maior |
+| 1 Desvantagem | 2d20 | Menor |
+| 2 Desvantagens | 3d20 | Menor |
+
+A progressão continua: role **1 + quantidade restante** de d20, todos juntos, e escolha um único resultado. Depois some Atributo, Proficiência e modificadores uma única vez. Não se somam os resultados dos dados.
+
+**Exemplos:** 3 Vantagens e 1 Desvantagem deixam 2 Vantagens: rolar 3d20 e escolher o maior. 1 Vantagem e 3 Desvantagens deixam 2 Desvantagens: rolar 3d20 e escolher o menor. 2 de cada se anulam: rolar 1d20.
+
+Furtiva concede 1 Vantagem apenas para esconder/ocultar a arma, conforme [armas](armas.md). A Desvantagem de [Exaustão](exaustao.md) participa do mesmo cancelamento.
+
+## Proficiências
 
 Proficiências de perícias e armas no grau 0 concedem +0; graus 1–5 concedem +2, +4, +6, +8, +10; máximo inicial grau 2. Proficiência de arma é por grupo; na [construção modular de armas](armas.md), o tipo da arma define a proficiência correspondente, não as propriedades. Grau 1 concede uma manobra aprendida no primeiro playtest; graus superiores não concedem automaticamente outras.
 
 ## Interação com ataques consecutivos
 
-A tabela de atributos acima permanece inalterada. A decisão registrada em 2026-10-13 mantém **−1d20 por ataque consecutivo**, conforme [combate](combate.md). Este registro não aprova novas regras de transição entre rolar o maior e rolar o menor, nem novos pisos ou compensações. Ver os casos-limite em [pendências](../design/pendencias.md).
+Ataques repetidos aplicam **penalidades numéricas ao resultado**, sem retirar dados: **0, −5, −10, −10**, mantendo −10 nos seguintes. Empunhando uma arma Leve em cada mão, a sequência é **0, 0, −5, −10**, mantendo −10 nos seguintes. A contagem é por turno, inclusive para ataques extras gratuitos salvo texto específico; ver [combate](combate.md).
 
-**Preocupação de balanceamento, não mudança de regra:** atributos altos fornecem mais d20 iniciais e podem sustentar vários ataques com melhor precisão. É preciso testar se concentrar PA em Golpe Devastador continua uma escolha útil diante de ataques repetidos.
+Atributo e proficiência afetam o acerto e, por isso, podem aumentar a margem sobre a Defesa. **Não são somados diretamente ao dano por padrão**; exceções precisam estar expressas em habilidades ou outras regras.
 
 ## Proficiência de armadura — playtest
 

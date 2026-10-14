@@ -1,6 +1,6 @@
 # Pendências
 
-- [x] Definir Constituição como atributo padrão de Fortitude (d20 do atributo + bônus da perícia).
+- [x] Definir Constituição como atributo padrão de Fortitude (teste atual: 1d20 + Constituição + bônus da perícia).
 - [ ] Fechar eventuais particularidades do teste de Fortitude contra a Morte.
 - [ ] DT/custo de Medicina e condições de estabilização.
 - [ ] Efeito provisório de Sequela e tratamento.
@@ -18,16 +18,25 @@
 - [x] Registrar lista de perícias e atributos padrão.
 - [ ] Progressão, miniclasses e magia.
 
-## Armas e combate — registro de 2026-10-13
+## Núcleo e ataques — decisões confirmadas em 2026-10-14
+
+- [x] Adotar 1d20 + Atributo + Proficiência; atributos deixam de determinar quantidade de dados.
+- [x] Adotar Vantagens/Desvantagens cumulativas, cancelamento uma a uma e escolha de maior/menor conforme saldo.
+- [x] Explicitar ausência de atributo/proficiência no dano por padrão; preservar +1 por 5 pontos completos de margem, crítico e efeitos específicos já existentes.
+- [x] Adotar repetição padrão 0, −5, −10, −10 e duas Leves empunhadas 0, 0, −5, −10; seguintes −10 nas duas sequências.
+- [x] Contar ataques extras gratuitos, salvo texto específico; ataque combinado conta uma vez.
+- [ ] Testar atributos 0–5, bônus de proficiência, cancelamentos, penalidades simultâneas, margens e ataques gratuitos. Reações fora do turno e gatilhos de Pesado/Brutal continuam em aberto.
+
+## Armas e combate — registro de 2026-10-13, atualizado em 2026-10-14
 
 ### Decisões registradas e esclarecimentos
 
 - [x] Adotar construção modular de armas como regra inicial de playtest, sujeita a revisão.
-- [x] Manter −1d20 por ataque consecutivo e substituir Ataque Poderoso por Golpe Devastador exclusivo de Pesada.
+- [x] Substituir Ataque Poderoso por Golpe Devastador exclusivo de Pesada. A manutenção de −1d20 registrada em 2026-10-13 foi superada pelas sequências numéricas aprovadas em 2026-10-14.
 - [x] Registrar os efeitos de **Alcance, Impacto, Furtiva e Arremessável**, esclarecidos diretamente pelo criador em 2026-10-13.
-- [x] Registrar **duas Leves**: uma em cada mão, 1 PA, um teste, duas instâncias; bônus aplicáveis só na primeira, segunda apenas com dano básico e RD separada.
-- [ ] Esclarecer se duas Leves podem dividir instâncias entre alvos; não presumir essa permissão.
-- [ ] Testar dano básico de armas especiais/mágicas e habilidades futuras que alterem a segunda instância; não aprovar automaticamente valores ou efeitos.
+- [x] Atualizar **duas Leves** em 2026-10-14: uma em cada mão, 1 PA, uma rolagem; base da principal + metade da base da secundária arredondada para cima; uma instância para RD, margem e demais modificadores uma vez. Supera o modelo de duas instâncias de 2026-10-13.
+- [ ] Esclarecer eventual divisão do ataque combinado entre alvos; não há permissão aprovada, e a regra atual tem uma única instância.
+- [ ] Testar bases de armas especiais/mágicas, arredondamento da metade da secundária e habilidades futuras no ataque combinado; não aprovar automaticamente valores, duplicação de efeitos ou uma segunda instância.
 - [ ] Esclarecer **Compacta + Potente**: conflito entre uma e duas mãos, sem inventar incompatibilidade ou prioridade entre propriedades.
 - [x] Registrar as dez famílias de armas/proficiências aprovadas em 2026-10-13, incluindo Correntes e Chicotes como uma família e Desarmado.
 - [ ] Definir o nome da família Correntes e Chicotes; “Armas Flexíveis” permanece sugestão.
@@ -35,15 +44,15 @@
 
 ### Balanceamento e procedimentos ainda abertos
 
-- [ ] Comparar ataques repetidos com Golpe Devastador em diferentes atributos, proficiências e Defesas. Mais d20 podem manter ataques posteriores eficientes e reduzir o incentivo a concentrar PA.
-- [ ] Rever os casos-limite da transição preexistente: atributo 0, penalidades combinadas e rolar o menor. **Não há nova regra de transição aprovada neste registro.**
-- [ ] Testar leves (duas instâncias), Versátil e Pesada contra RD, Esquiva ou Defender, margem de sucesso e crítico; separar resultados de regras pendentes.
+- [ ] Comparar ataques repetidos com Golpe Devastador em diferentes atributos, proficiências e Defesas. A soma de atributo/proficiência, Vantagens/Desvantagens e as sequências numéricas afetam a precisão e a margem; avaliar o incentivo a concentrar PA.
+- [x] Encerrar a antiga pendência de transição por retirada de dados: o modelo foi substituído em 2026-10-14. Atributo 0 soma +0; Vantagens/Desvantagens usam o saldo cumulativo e repetição aplica penalidade numérica.
+- [ ] Testar Leves (ataque combinado de uma instância), Versátil e Pesada contra RD, Esquiva ou Defender, margem de sucesso e crítico; separar resultados de regras pendentes.
 - [ ] Comparar Potente + Recarregar com armas corpo a corpo ao longo de várias rodadas, considerando arma inicialmente carregada, recarga após o último tiro, obtenção de munição e PA para defesa/movimento.
 - [ ] Avaliar o risco de gastar 2–4 PA em uma única rolagem de Golpe Devastador, o dano concentrado contra poucos PV e a perda de reações. Comparar também ataques sem a manobra.
 - [ ] Esclarecer frequência de Golpe Devastador e interações com futuros PA extras; o acúmulo aprovado é de até 3 PA adicionais no mesmo ataque, não aprovação automática de vários usos por rodada.
 - [ ] Projetar e submeter à aprovação habilidades que recompensem poucos golpes fortes; evitar que bônus por acerto favoreçam apenas ataques repetidos.
 - [ ] Alinhar terminologia e gatilhos de **Golpe Pesado/Brutal** ao dano por margem já existente; não criar limiares novos nem equiparar Golpe Pesado a Golpe Devastador. Impacto dá +1 ao realizar Golpe Pesado, sem bônus em todo ataque.
-- [ ] Documentar a implementação geral de **1 Vantagem** usada por Furtiva. O benefício foi aprovado, mas não autoriza nova regra de transição de dados.
+- [x] Documentar Vantagens/Desvantagens cumulativas e cancelamento uma a uma (2026-10-14), inclusive 1 Vantagem de Furtiva, restrita a ocultar a arma.
 
 ## Armaduras e escudo — 2026-10-13
 
@@ -57,7 +66,7 @@
 - [ ] Definir progressão posterior, preços dos equipamentos e efeitos de usar escudo sem proficiência.
 - [x] Remover Aparar e encerrar a definição de seus valores/requisitos (2026-10-13).
 - [x] Definir Esquiva e Defender como alternativas exclusivas por ataque: mesmo se Esquiva não evitar o acerto, não permite Defender no mesmo ataque. Escolha válida para todas as instâncias; armadura + Defender continuam permitidos.
-- [ ] Testar essa escolha em ataques com uma ou duas instâncias e em sequências de ataques, verificando PA restantes, uso da armadura e +1 constante do escudo.
+- [ ] Testar essa escolha no ataque combinado de uma instância e em sequências de ataques, verificando PA restantes, uso da armadura e +1 constante do escudo. Múltiplas instâncias dependem de texto específico; não atribuí-las a duas Leves.
 - [x] Permitir um uso de armadura contra queda, sem Esquiva/Defender, conforme capítulo de quedas.
 - [ ] Resolver outras fontes que não sejam ataques, sopro, efeitos de área e danos contínuos; não estender automaticamente a exceção de quedas.
 - [ ] Definir efeitos/custos/limites de melhorias e versões superiores de armadura e futuros escudos; o catálogo atual tem apenas três armaduras e um escudo.

@@ -19,6 +19,6 @@ Qualquer cura efetiva aplicada ao caído elimina PV negativos, coloca-o com **ex
 ## Sequelas
 Persistem além de descanso e cura; tratáveis por meios extraordinários, como especialistas, magia rara e aventuras. **−1 em Fortitude é apenas proposta**, não regra confirmada.
 
-Fortitude usa Constituição como atributo padrão (d20 do atributo + bônus da perícia), conforme [perícias](pericias.md). Essa associação não soma o valor numérico de Constituição ao resultado.
+Fortitude usa Constituição como atributo padrão: **1d20 + Constituição + bônus de Fortitude**, conforme [perícias](pericias.md), com Vantagens/Desvantagens e modificadores aplicáveis.
 
 **Pendências:** eventuais particularidades do teste de Fortitude contra a morte, regras detalhadas de estabilidade, recuperação natural de PV, efeitos das Sequelas e casos-limite.

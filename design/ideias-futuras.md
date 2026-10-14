@@ -14,9 +14,9 @@
 
 **Proposto, sem aprovação de efeitos ou valores.** A solicitação do criador é observar oportunidades para habilidades que recompensem concentrar PA em poucos golpes fortes. Desenvolver opções futuras e submetê-las à aprovação após comparar com ataques repetidos; não adicionar bônus por rodada, por acerto ou outros efeitos automaticamente.
 
-Aumentar a penalidade para −2d20 por novo ataque foi discutido, mas **não adotado**: a decisão atual mantém −1d20. Eventuais novas transições de dados, pisos ou compensações também não foram aprovados. Golpe Devastador e as propriedades explicitamente registradas para playtest estão em [armas](../regras/armas.md) e [manobras](../regras/manobras.md); não se confundem com as ideias futuras desta seção.
+**Ideia histórica não adotada:** aumentar a penalidade para −2d20 por novo ataque. Em 2026-10-14, a retirada de dados foi substituída pelas sequências numéricas 0, −5, −10, −10 e, com uma Leve em cada mão, 0, 0, −5, −10 (seguintes −10). Vantagens/Desvantagens cumulativas foram aprovadas separadamente em [atributos e testes](../regras/atributos-e-testes.md). Golpe Devastador e as propriedades explicitamente registradas para playtest estão em [armas](../regras/armas.md) e [manobras](../regras/manobras.md); não se confundem com as ideias futuras desta seção.
 
-Habilidades futuras também poderão permitir crítico, Golpe Pesado ou outros efeitos na segunda instância de duas Leves. É uma possibilidade de desenvolvimento, sem efeitos ou valores aprovados; o padrão atual mantém somente o dano básico nessa instância.
+**Hipótese histórica a reavaliar:** habilidades que acrescentariam efeitos à segunda instância de duas Leves. Essa instância deixou de existir na regra aprovada em 2026-10-14: o ataque combinado tem uma única instância, com margem e demais modificadores uma vez. A hipótese não concede segunda instância, segundo crítico ou duplicação de efeitos; qualquer habilidade futura depende de texto e aprovação próprios.
 
 ## Melhorias de proteção e novos modelos
 

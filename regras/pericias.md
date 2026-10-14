@@ -2,7 +2,7 @@
 
 **Listas e atributos padrão aprovados para playtest em 2026-10-13, sujeitos a revisão.** Perícias gerais, conhecimentos e ofícios têm cinco níveis de proficiência: +2/+4/+6/+8/+10; nível 0 concede +0. A compra de níveis usa os [3 pontos iniciais de proficiência](proficiencias.md).
 
-O atributo determina os d20 e a proficiência fornece o bônus numérico, conforme [atributos e testes](atributos-e-testes.md). Cada perícia tem um atributo padrão; uma abordagem que justifique outro atributo pode usá-lo. Exemplo: Intimidação usa Carisma normalmente, mas uma demonstração de força física pode usar Força.
+O teste usa **1d20 + Atributo + Proficiência**, somando o valor do atributo e o bônus numérico da proficiência, conforme [atributos e testes](atributos-e-testes.md). Cada perícia tem um atributo padrão; uma abordagem que justifique outro atributo pode usá-lo. Exemplo: Intimidação usa Carisma normalmente, mas uma demonstração de força física pode usar Força.
 
 ## Perícias gerais ou básicas
 
@@ -62,7 +62,7 @@ Esses exemplos orientam a definição das especialidades, sem constituir um cat�
 
 ## Procedimentos e limites
 
-Fortitude tem **Constituição como atributo padrão**: usa seus d20 e soma o bônus de Fortitude, sem somar o valor numérico de Constituição. Particularidades do procedimento contra a morte ainda precisam ser fechadas; a antiga dúvida sobre o atributo padrão está resolvida.
+Fortitude tem **Constituição como atributo padrão**: rola **1d20 + Constituição + bônus de Fortitude**, com Vantagens/Desvantagens e modificadores aplicáveis. Particularidades do procedimento contra a morte ainda precisam ser fechadas; a antiga dúvida sobre o atributo padrão está resolvida.
 
 Qualquer personagem pode tentar empurrar, derrubar, agarrar e desarmar narrativamente, normalmente com testes apropriados; manobras aprendidas tornam essas ações mais confiáveis. Esta lista não cria DT, custos ou benefícios automáticos adicionais.
 

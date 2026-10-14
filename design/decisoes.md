@@ -1,10 +1,33 @@
 # Decisões registradas
 
-**Confirmado:** atributos por quantidade de d20; 4 PA; defesa 10+DES; Esquiva contra um ataque; movimento Médio por PA divisível; manobras independentes não contam como ataques; Ataque de Oportunidade aprendível; Postura de alguns inimigos; Exaustão 5 PE/NE, descanso curto 2 PE, longo todos PE +1 NE; três escolhas ao chegar a 0 PV; Medicina estabiliza; Ferido bloqueia cura; cura do caído dá 1 PV e remove Ferido; Sequelas podem exigir aventuras para tratar.
+**Confirmado:** testes 1d20 + Atributo + Proficiência, Vantagens/Desvantagens cumulativas, sequências numéricas de ataques e dano combinado de duas Leves (2026-10-14; detalhes abaixo); 4 PA; defesa 10+DES; Esquiva contra um ataque; movimento Médio por PA divisível; manobras independentes não contam como ataques; Ataque de Oportunidade aprendível; Postura de alguns inimigos; Exaustão 5 PE/NE, descanso curto 2 PE, longo todos PE +1 NE; três escolhas ao chegar a 0 PV; Medicina estabiliza; Ferido bloqueia cura; cura do caído dá 1 PV e remove Ferido; Sequelas podem exigir aventuras para tratar.
 
-**Aprovado para playtest:** tabela cumulativa de NE; condições Caído, Agarrado, Imobilizado e Atordoado e procedimentos de interação com Postura (2026-10-12); construção modular de armas, manutenção de −1d20 por ataque consecutivo e Golpe Devastador (registro de 2026-10-13, com esclarecimentos diretos do criador sobre propriedades e duas Leves).
+**Aprovado para playtest:** tabela cumulativa de NE; condições Caído, Agarrado, Imobilizado e Atordoado e procedimentos de interação com Postura (2026-10-12); construção modular de armas e Golpe Devastador (registro de 2026-10-13). A retirada de d20 e as duas instâncias de Leves desse registro foram superadas em 2026-10-14.
 
 **Não aprovado:** 2 PA/DT 10 para Medicina, −1 Fortitude de Sequela e detalhes de crítico no Último Ato.
+
+## 2026-10-14 — Testes, dano e ataques: decisões confirmadas
+
+**Confirmado por solicitação explícita do criador**, ao continuar “Desenvolver sistema RPG”. A solicitação atual enumera as decisões a incorporar; não equivale à aprovação de propostas adicionais ou à validação de balanceamento.
+
+- Testes gerais: **1d20 + Atributo + Proficiência**, além dos modificadores aplicáveis. Atributo passa a somar seu valor; as escalas de proficiência e suas exceções permanecem.
+- Vantagens e Desvantagens são cumulativas e anulam-se uma a uma. Cada unidade restante acrescenta um d20; rolar todos e escolher o maior com Vantagem ou o menor com Desvantagem. Saldo zero: 1d20. Naturais 1/20 usam o dado selecionado.
+- Atributo e proficiência **não somam dano diretamente por padrão**; exceções precisam estar expressas em habilidades ou regras específicas. A base por nível de Arma Natural Avançada permanece como exceção já registrada.
+- Dano-base + **1 por cada 5 pontos completos de margem sobre a Defesa**, com crítico natural +2 e demais efeitos já existentes de Pesado/Brutal, habilidades e manobras. O resultado total, incluindo penalidade de repetição, determina a margem. Não foram criados limiares de Pesado/Brutal, quantidades de PE ou novos efeitos.
+- Repetição no próprio turno: **0, −5, −10, −10**, mantendo −10 nos seguintes. Com uma arma Leve em cada mão: **0, 0, −5, −10**, mantendo −10 nos seguintes.
+- Ataque combinado de duas Leves: **1 PA, uma rolagem, base da principal + metade da base da secundária arredondada para cima**, uma única instância para RD. Margem, crítico e demais modificadores aplicáveis entram uma vez. Conta como um ataque.
+- Ataques extras gratuitos entram na sequência salvo texto específico; não foram concedidos novos ataques gratuitos. Manobras independentes permanecem fora da contagem; as que exigem/modificam ataque contam pelo ataque.
+- Perícias, idiomas, Fortitude, exemplos de RD e planejamento foram alinhados. A penalidade de NE 2 conserva uma Desvantagem, resolvida pelo novo procedimento cumulativo; demais efeitos de Exaustão preservados.
+
+**Substituições explícitas:** tabela de atributos por quantidade de d20, redução de dados por ataques repetidos, transição decorrente dessa redução e duas instâncias de Leves deixam de ser regras vigentes. Referências a esses procedimentos nas entradas antigas abaixo são **históricas e superadas**, inclusive exemplos de RD e redação antiga de Fortitude; as demais decisões permanecem com seu status original.
+
+**Pendente:** nomenclatura/gatilhos de Ataque/Golpe Pesado/Brutal, reações fora do turno, divisão do ataque combinado entre alvos, armas naturais com requisitos de empunhadura, armas mágicas e habilidades ainda não aprovadas. Custos propostos, origens, inventário adiado, medicina e demais discussões não foram fechados nesta atualização.
+
+Referências: [testes](../regras/atributos-e-testes.md), [combate](../regras/combate.md), [armas](../regras/armas.md), [pendências](pendencias.md) e [playtests](../planejamento/playtests.md). Exemplos aritméticos e consistência documental conferidos; nenhum playtest de mesa realizado.
+
+## Registros históricos
+
+As entradas abaixo preservam as decisões de cada data. Nos pontos explicitamente substituídos acima, não descrevem a regra vigente.
 
 ## 2026-10-12 — Condições e Postura: aprovação provisória
 

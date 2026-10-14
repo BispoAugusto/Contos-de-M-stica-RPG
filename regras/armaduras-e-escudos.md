@@ -17,7 +17,7 @@ Os modelos iniciais não concedem bônus de Defesa nem impõem penalidades adici
 ### Ativar a proteção
 
 - Depois de conhecer o dano de um ataque recebido, pode gastar **1 uso da armadura, sem gastar PA**, para aplicar sua RD.
-- Pode gastar **no máximo 1 uso por ataque recebido**. O uso protege contra todas as instâncias desse ataque, aplicando a RD separadamente a cada uma.
+- Pode gastar **no máximo 1 uso por ataque recebido**. O uso protege contra todas as instâncias desse ataque, aplicando a RD separadamente a cada uma quando houver mais de uma. **Duas Leves combinadas têm uma única instância**, portanto a RD é aplicada uma vez ao total.
 - O dano de cada instância pode chegar a **0**, nunca ficar negativo.
 - Com os usos esgotados, a armadura continua vestida, mas não pode ativar sua RD.
 - **Manutenção durante um descanso curto recupera os três usos.** Esta é a recuperação adotada neste playtest; substitui a formulação anterior “descanso curto ou manutenção”. Não há recuperação automática a cada combate.
@@ -73,11 +73,11 @@ Placas e Defender somam **RD 6**. Contra um Golpe Devastador que cause 10 de dan
 
 ### Duas armas Leves
 
-Um ataque com duas Leves tem duas instâncias, mas custa ao defensor **apenas 1 uso da armadura**, se a ativar, e **apenas 1 PA**, se usar Defender. Não se paga novamente pela segunda instância.
+**Atualização aprovada em 2026-10-14:** o ataque combinado tem **uma única instância**. Sua base é a base da principal + metade da base da secundária, arredondada para cima; margem, crítico e demais modificadores aplicáveis entram uma vez. Aplique RD **uma vez sobre o total**. Custa ao defensor **1 uso da armadura**, se a ativar, e **1 PA**, se usar Defender.
 
-Exemplo: as instâncias causariam **3 e 1**. Couro (RD 2) reduz a primeira para **1** e a segunda para **0**, gastando um uso. Couro e Defender somam RD 4 e reduzem ambas a **0**, gastando um uso e um PA.
+Exemplo: duas Leves de base 1 formam base combinada 2. Com +2 de crítico e +1 de margem, causam **5** antes da proteção. Couro (RD 2) reduz o total para **3**, gastando um uso. Couro + Defender (RD 4) reduzem para **1**, gastando um uso e um PA. Sem bônus, a base combinada 2 seria reduzida a 0 pelo couro.
 
-Isso preserva o procedimento de [armas](armas.md): bônus aplicáveis ficam na primeira instância; a segunda causa apenas seu dano básico antes da redução.
+O procedimento completo está em [armas](armas.md). A regra geral de proteção de múltiplas instâncias permanece para ataques que as prevejam expressamente; duas Leves não geram uma segunda instância.
 
 ## Relação com outras defesas
 
@@ -86,7 +86,7 @@ Isso preserva o procedimento de [armas](armas.md): bônus aplicáveis ficam na p
 
 **Atualização aprovada para playtest em 2026-10-13:** Aparar foi removido. Contra cada ataque, o personagem escolhe **Esquiva ou Defender**, sendo necessário empunhar escudo para Defender. Não pode usar as duas reações contra o mesmo ataque, mesmo que Esquiva não evite o acerto.
 
-A escolha vale para todas as instâncias do ataque: contra duas Leves, não pode Esquivar de uma instância e Defender da outra. Contra outro ataque, pode escolher novamente enquanto houver PA e puder reagir.
+A escolha vale para o ataque inteiro e para todas as instâncias que ele tenha. Duas Leves formam uma única instância; não permitem dividir as reações entre as armas. Contra outro ataque, pode escolher novamente enquanto houver PA e puder reagir.
 
 O **+1 de Defesa do escudo** é constante enquanto empunhado e continua valendo ao escolher Esquiva; não equivale a usar Defender. A ativação da **armadura** segue seu procedimento próprio e **armadura + Defender** continuam somando RD.
 

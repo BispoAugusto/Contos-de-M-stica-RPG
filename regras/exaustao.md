@@ -9,10 +9,12 @@ Descanso curto remove 2 PE, sujeito à penalidade de NE 1. Descanso longo remove
 | NE | Efeito cumulativo |
 |---|---|
 | 1 | Recuperação de PE em descanso curto cai pela metade, arredondando para cima (2→1) |
-| 2 | −1 dado d20 em testes, ataques e manobras, aplicando desvantagem acumulativa |
+| 2 | 1 Desvantagem em testes, ataques e manobras, cumulativa com outras fontes conforme [atributos e testes](atributos-e-testes.md) |
 | 3 | Movimento diminui uma faixa |
 | 4 | Recebe somente 3 PA no início do turno |
 | 5 | Morte ou perda definitiva de controle |
+
+**Adequação ao núcleo de 2026-10-14:** a penalidade de NE 2 mantém uma Desvantagem, agora resolvida com um d20 adicional e escolha do menor após cancelamentos. Os demais efeitos e a progressão de Exaustão permanecem os mesmos.
 
 PE podem vir de golpes brutais, críticos, armadilhas, terror, maldições e esforço excessivo. Quantidades por fonte não estão fechadas.
 
