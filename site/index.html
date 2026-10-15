@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Biblioteca de regras, decisões e mudanças de Contos de Mística RPG.">
+  <title>Contos de Mística · Biblioteca do sistema</title>
+  <link rel="stylesheet" href="style.css"><script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#content">Ir para o conteúdo</a>
+  <aside class="sidebar">
+    <a class="brand" href="#"><span class="sigil">✧</span><span>CONTOS DE MÍSTICA<small>Biblioteca do sistema</small></span></a>
+    <label for="search">BUSCAR NA BIBLIOTECA</label>
+    <input id="search" type="search" placeholder="Regra, termo ou capítulo…" autocomplete="off">
+    <p id="count" class="muted" aria-live="polite">Carregando documentos…</p>
+    <nav id="navigation" aria-label="Documentos por categoria"></nav>
+    <a class="repo" href="https://github.com/BispoAugusto/Contos-de-M-stica-RPG" target="_blank" rel="noopener">Repositório no GitHub ↗</a>
+  </aside>
+  <main id="content" tabindex="-1">
+    <header class="topbar"><span>CdM RPG <span class="divider">/</span> COMPÊNDIO VIVO</span><button id="print" type="button">Imprimir / PDF</button></header>
+    <div id="home">
+      <section class="hero"><p class="eyebrow">REGRAS · DESIGN · PLAYTEST</p><h1>Um mundo em construção.<br><em>Todas as regras, aqui.</em></h1><p>Consulte o sistema, acompanhe as mudanças e encontre o próximo assunto para a mesa.</p><a class="primary" href="#doc=CHANGELOG.md">Ver o que mudou <span>↗</span></a></section>
+      <div class="quick"><a href="#doc=ESTADO-DO-PROJETO.md"><small>01 / PANORAMA</small><h2>Estado do projeto ↗</h2><p>O que está confirmado, em playtest e ainda em aberto.</p></a><a href="#doc=design%2Fdecisoes.md"><small>02 / CONTEXTO</small><h2>Decisões de design ↗</h2><p>Os registros que explicam a evolução do sistema.</p></a><a href="#doc=design%2Fpendencias.md"><small>03 / PRÓXIMOS PASSOS</small><h2>Pendências ↗</h2><p>Questões que precisam de definição antes de fechar as regras.</p></a></div>
+      <section><div class="section-heading"><h2>Explore a biblioteca</h2><span id="total" class="muted"></span></div><div id="library" class="library"></div></section>
+    </div>
+    <section id="reader" hidden><a class="back" href="#">← Biblioteca</a><p id="breadcrumb" class="eyebrow"></p><h1 id="document-title"></h1><div class="document-meta"><span id="updated"></span><a id="source" target="_blank" rel="noopener">Ver no GitHub ↗</a><a id="download" download>Baixar Markdown ↓</a></div><details id="toc"><summary>Nesta página</summary><nav></nav></details><article id="article"></article></section>
+    <p id="error" role="alert" hidden></p>
+    <footer>Contos de Mística · As regras mantêm os status indicados nos documentos originais.</footer>
+  </main>
+</body></html>
