@@ -1,5 +1,10 @@
 # Histórico
 
+## 2026-10-19 — Inclusão de Linguagens
+
+- Adicionada Linguagens às perícias básicas (gerais), conforme solicitação do criador: 28 perícias nomeadas, sendo quatro resistências, dezesseis gerais e oito conhecimentos.
+- Atualizados catálogo, índice de personagem, guia de criação e estado do projeto. Escopo, atributo sugerido e interação com idiomas permanecem a definir.
+
 ## 2026-10-19 — Modo noturno do portal
 
 - Tema noturno padrão em páginas, navegação, busca, tabelas e blocos de código, com destaques verdes e dourados.

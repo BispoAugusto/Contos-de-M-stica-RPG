@@ -1,5 +1,9 @@
 # Decisões registradas
 
+## 2026-10-19 — Linguagens nas perícias básicas
+
+**Confirmado:** inclusão de Linguagens nas perícias básicas, chamadas Gerais no catálogo, conforme pedido do criador. Segue o custo e a escala das gerais. **Pendente:** escopo específico, atributo sugerido e interação com idiomas; não há alteração aprovada no procedimento dos idiomas.
+
 ## 2026-10-19 — Tema noturno aprovado
 
 O criador solicitou modo noturno para o portal. A interface passa a usar fundo escuro por padrão, incluindo a leitura de regras e tabelas; impressão/PDF conserva fundo claro. Decisão visual, sem mudanças no sistema de RPG.

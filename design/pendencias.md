@@ -9,7 +9,7 @@ Decisões resolvidas estão nas regras e no [registro de decisões](decisoes.md)
 - [x] PV/Defesa/carga, graus de dano, crítico e repetição por Desvantagem.
 - [x] Duas Leves usam menor proficiência; benefício só ao atacar com ambas; fora do turno não conta.
 - [x] Compacta/Potente incompatíveis; Potência/Reflexo/Foco conforme forma de ataque; Devastador aprendido admite arremesso.
-- [x] Quatro resistências, quinze gerais, oito conhecimentos; Fluxo, Performance, Espiritualismo; sem Liderança.
+- [x] Quatro resistências, dezesseis gerais, oito conhecimentos; Fluxo, Performance, Espiritualismo; sem Liderança.
 - [x] Cinco PP provisórios, Comum fluente gratuito e +2 PP de Humanos.
 - [x] Duas atividades diferentes no curto; cura/tratamento, manutenção e recuperação de Alma.
 - [x] Fome/sede/sono geram PE por requisito faltante e impedem sua recuperação; umidade dos Namarés integra sede.
@@ -21,6 +21,8 @@ Decisões resolvidas estão nas regras e no [registro de decisões](decisoes.md)
 - [x] Organizar capítulos/categorias, índice por situação e guia de criação completo; preservar links anteriores.
 
 ## Próximas decisões, sem bloquear a migração documental
+
+- [ ] **Linguagens:** definir escopo, atributo sugerido e interação com proficiências em idiomas. Inclusão nas perícias básicas confirmada; regras atuais dos idiomas preservadas.
 
 - [ ] **Gnomos:** recompor recursos atuais após gastos/dano; consequências de perder um corpo; arredondamentos sem multiplicar recursos. Ficha integral anotada é referência, não regra de recarga.
 - [ ] **Golias:** conferir distribuição proposta +2 Corpo/+1 Espírito; não promover silenciosamente a confirmação.

@@ -2,7 +2,7 @@
 
 [Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
 
-**Lista aprovada para playtest — atualizada em 2026-10-19.** São **27 perícias nomeadas**: quatro resistências, quinze gerais e oito conhecimentos, além das profissionais personalizadas.
+**Lista aprovada para playtest — atualizada em 2026-10-19.** São **28 perícias nomeadas**: quatro resistências, dezesseis gerais e oito conhecimentos, além das profissionais personalizadas.
 
 Atributos são sugestões e podem mudar conforme a abordagem. Não somam ao teste: **1d20 + proficiência + modificadores**, com teto de **2 × atributo** para a proficiência sob pressão. Ver [testes](../fundamentos/testes.md) e [compra de níveis](proficiencias.md).
 
@@ -18,6 +18,8 @@ Atributos são sugestões e podem mudar conforme a abordagem. Não somam ao test
 A reação Esquiva custa 1 PA, soma o bônus limitado à Defesa contra um ataque e **não rola dados**. Um efeito pode exigir um **teste de Esquiva** separado, com consequências descritas nele. A perícia não determina a Defesa passiva. Ver [combate](../combate/README.md).
 
 ## Gerais
+
+As perícias gerais são as **perícias básicas** do sistema.
 
 | Perícia | Atributo sugerido | Aplicação |
 |---|---|---|
@@ -36,8 +38,11 @@ A reação Esquiva custa 1 PA, soma o bônus limitado à Defesa contra um ataque
 | Performance | Influência | Música, dança, atuação e apresentação ao público |
 | Trato com Animais | Influência | Lidar com animais e influenciar seu comportamento |
 | Fluxo | Sintonia | Controle do próprio espírito ou mana |
+| Linguagens | A definir; selecionar conforme abordagem | Escopo específico e interação com idiomas a definir |
 
 Fluxo ocupa o lugar da proposta de perícia Magia; sua aplicação à conjuração será desenvolvida com as habilidades. Liderança foi retirada em favor de Persuasão. Performance substitui Atuação. Luta e Pontaria não entram nesta lista: mantêm-se as proficiências de armas.
+
+Linguagens integra as perícias básicas e segue o custo e a escala das gerais. Sua inclusão não altera a compra, os níveis nem o procedimento atual dos [idiomas](idiomas.md); a relação entre ambos permanece pendente.
 
 ## Conhecimentos
 

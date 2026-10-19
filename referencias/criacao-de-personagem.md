@@ -142,6 +142,7 @@ Na criação, normalmente só entram os níveis 0, 1 e 2. Idiomas, armaduras e e
 | Gerais de observação | Vigilância, Investigação, Sobrevivência, Intuição |
 | Gerais sociais | Persuasão, Enganação, Intimidação, Performance, Trato com Animais |
 | Controle espiritual | Fluxo |
+| Outras gerais (básicas) | Linguagens |
 | Conhecimentos | História, Rumores, Natureza, Medicina, Arcanismo, Religião, Ocultismo, Espiritualismo |
 | Profissionais | Lista aberta de especializações aprendidas pelo personagem |
 | Armas | Espadas, Machados, Martelos, Adagas, Armas de Haste, Arcos, Bestas, Armas de Fogo, Correntes e Chicotes, Golpes Desarmados |
@@ -150,7 +151,7 @@ Na criação, normalmente só entram os níveis 0, 1 e 2. Idiomas, armaduras e e
 
 Os agrupamentos “de ação”, “de observação” e “sociais” servem apenas para consulta; todas são perícias gerais com o mesmo custo. Consulte [perícias](../regras/personagem/pericias.md) para atributos sugeridos e aplicações.
 
-Fluxo usa Sintonia como sugestão e mede controle espiritual/mana; sua aplicação às habilidades ainda será desenvolvida. Espiritualismo já está na lista, mas seu escopo específico continua pendente. Não há uma profissão gratuita universal.
+Fluxo usa Sintonia como sugestão e mede controle espiritual/mana; sua aplicação às habilidades ainda será desenvolvida. Linguagens é uma perícia básica, com escopo e interação com idiomas ainda a definir. Espiritualismo já está na lista, mas seu escopo específico continua pendente. Não há uma profissão gratuita universal.
 
 ### Bônus sob pressão
 

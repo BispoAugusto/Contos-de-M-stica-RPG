@@ -14,7 +14,7 @@
 - Repetição no turno: normal, 1/2/3... Desvantagens; ataque combinado de duas Leves: normal, normal, 1/2... Desvantagens. Contagem compartilhada, benefício só no ataque com ambas; fora do turno não conta/não penaliza.
 - Duas Leves: 1 PA, uma rolagem, menor proficiência das duas, uma instância, base principal + metade da secundária para cima.
 - Corpo a corpo usa Potência, Leve permite Reflexo; distância/arremesso usam Foco. Golpe Devastador exige aprendizado e Pesada, inclusive arremessada, até 3 PA adicionais por +2 dano cada.
-- Quatro resistências (Vigor, Lucidez, Convicção, Esquiva), quinze gerais incluindo Fluxo e oito conhecimentos incluindo Espiritualismo. Performance substitui Atuação; Liderança retirada em favor de Persuasão. Profissionais são lista aberta.
+- Quatro resistências (Vigor, Lucidez, Convicção, Esquiva), dezesseis gerais incluindo Fluxo e Linguagens e oito conhecimentos incluindo Espiritualismo. Performance substitui Atuação; Liderança retirada em favor de Persuasão. Profissionais são lista aberta.
 - Curto de 1h: duas atividades diferentes entre recuperar uma reserva, tratar feridas ou manter armadura. Alma recupera metade máxima para cima. Tratamento próprio 2 + Resiliência; de outro 2 + bônus de Medicina. Remove Ferido, automático, um tratamento por paciente/descanso.
 - Morte: 1d20 puro, sem bônus/penalidades ou rerrolagem; DT 10 +5 por nova tentativa na cena, sucesso 1 PV, falha morte; natural 20 sempre sucede.
 - Falta de alimentação, hidratação ou sono impede redução de PE no longo e gera 1 PE por requisito faltante. Namarés precisam beber e molhar-se: falta de banho conta como sede, sem penalidade duplicada.
@@ -24,7 +24,7 @@
 ## Provisório para playtest
 
 - **5 PP iniciais**, máximo nível 2; conhecimentos/idiomas dois níveis por ponto dentro da categoria. Comum fluente gratuito. Humanos +2 PP em qualquer categoria.
-- Lista de perícias e atributos sugeridos; a abrangência de Espiritualismo ainda precisa de detalhamento.
+- Lista de perícias e atributos sugeridos; a abrangência de Espiritualismo ainda precisa de detalhamento. Linguagens foi incluída nas básicas; seu escopo, atributo sugerido e relação com idiomas ainda serão definidos.
 - Valores modulares de armas, dano desarmado comum 0, armaduras físicas 2/3/4 com três usos e acesso 0/1/2; escudo +1 Defesa e Defender 1 PA/RD física 2. Compacta/Potente incompatíveis.
 - Recuperação completa de vida/Alma e remoção de Ferido no longo de 8h; PE/NE seguem recuperação normal se condições adequadas.
 - Bases de carga 3/5/10/20, inventário por espaços, modificadores físicos de porte e detalhes de quedas.
