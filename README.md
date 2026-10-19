@@ -1,31 +1,32 @@
 # Contos de Mística — CdM RPG
 
-Documentação de regras, design e planejamento do sistema.
+Regras e guias do sistema autoral: nove atributos, três reservas de Alma, quatro PA e seis origens.
 
-**Versão documental integrada em 2026-10-19:** nove atributos, reservas de Alma, graus de sucesso, quatro PA, seis origens e 14 espécies.
+## Comece aqui
 
-## Começar
+| Quero… | Abrir |
+|---|---|
+| Montar minha primeira ficha | [Guia de criação em oito etapas](referencias/criacao-de-personagem.md) |
+| Encontrar uma regra por assunto | [Índice completo de regras](regras/README.md) |
+| Consultar durante uma sessão | [Guia rápido de mesa](referencias/guia-rapido.md) |
+| Entender uma sigla ou termo | [Glossário](referencias/glossario.md) |
 
-- [Estado do projeto e status de aprovação](ESTADO-DO-PROJETO.md)
-- [Guia de criação de personagem](referencias/criacao-de-personagem.md)
-- [Guia rápido de mesa](referencias/guia-rapido.md)
-- [Glossário](referencias/glossario.md)
-- [Instruções para colaboradores](AGENTS.md)
+## Categorias de regras
 
-## Regras
+| Categoria | Capítulos |
+|---|---|
+| [Fundamentos](regras/fundamentos/README.md) | Atributos, testes, graus de sucesso e Alma |
+| [Personagem](regras/personagem/README.md) | Proficiências, perícias, idiomas e valores da ficha |
+| [Origens e espécies](regras/origens/README.md) | Humanos, Féericos, Bestiais, Dracônicos, Verdantes e Rúnicos |
+| [Combate](regras/combate/README.md) | Turnos, ataques, defesas, dano, manobras, condições e Postura |
+| [Equipamentos](regras/equipamentos/README.md) | Armas, proteções, porte e inventário |
+| [Exploração](regras/exploracao/README.md) | Movimento e quedas |
+| [Descanso e sobrevivência](regras/recuperacao/README.md) | Descansos, tratamento, exaustão e morte |
 
-- [Atributos, testes, pressão e graus](regras/atributos-e-testes.md)
-- [Partes da Alma e rerrolagens](regras/alma.md)
-- [Perícias](regras/pericias.md), [proficiências](regras/proficiencias.md) e [idiomas](regras/idiomas.md)
-- [Origens e espécies](regras/origens-e-tracos.md) e [porte/inventário](regras/porte-e-inventario.md)
-- [Combate](regras/combate.md), [armas](regras/armas.md), [proteções](regras/armaduras-e-escudos.md) e [tipos de dano](regras/tipos-de-dano.md)
-- [Descansos](regras/descansos.md), [exaustão](regras/exaustao.md) e [morte/recuperação](regras/morte-e-recuperacao.md)
-- [Condições](regras/condicoes.md), [manobras](regras/manobras.md), [Postura](regras/postura.md), [movimento](regras/movimento.md) e [quedas](regras/quedas.md)
+## Acompanhe o desenvolvimento
 
-## Desenvolvimento
+[Estado do projeto](ESTADO-DO-PROJETO.md) · [Mudanças](CHANGELOG.md) · [Decisões](design/decisoes.md) · [Pendências](design/pendencias.md) · [Roadmap](planejamento/roadmap.md) · [Playtests](planejamento/playtests.md)
 
-[Decisões](design/decisoes.md) · [Pendências](design/pendencias.md) · [Ideias futuras](design/ideias-futuras.md) · [Roadmap](planejamento/roadmap.md) · [Playtests](planejamento/playtests.md) · [Changelog](CHANGELOG.md)
+Regras **confirmadas**, **provisórias**, **propostas** e **pendentes** têm status distintos. O [catálogo antigo por pontos](design/catalogo-origens-historico.md) é histórico e não concede traços na criação atual.
 
-Confirmado, provisório para playtest, proposto e pendente são status distintos. Aprovação não demonstra balanceamento. Progressão, habilidades, fabricação e equipamentos iniciais ainda serão desenvolvidos. O [catálogo antigo por pontos](design/catalogo-origens-historico.md) é histórico, não opção atual de criação.
-
-O [portal existente](site/README.md) apresenta estes Markdown; esta integração atualiza seu conteúdo, não cria uma ficha digital.
+Para colaborar: [AGENTS.md](AGENTS.md). Para manter a apresentação dos documentos: [portal](site/README.md).

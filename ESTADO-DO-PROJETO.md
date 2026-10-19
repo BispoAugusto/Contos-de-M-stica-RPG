@@ -7,7 +7,7 @@
 - Nove atributos: Potência, Reflexo, Resiliência; Raciocínio, Foco, Percepção; Vontade, Influência, Sintonia. Cada um começa 1, +4 pontos redistribuíveis até 0, máximo inicial 3; limite normal 10, excedido apenas por itens/magias. Progressão posterior adiada.
 - **1d20 + proficiência + modificadores, sem somar atributo**. Sob pressão, só o bônus de proficiência é limitado a 2 × atributo. Abordagem pode mudar o atributo sugerido.
 - Padrão na DT; pleno em DT + máximo(0, 10 − atributo); extremo desbloqueado em 10, DT +20 − atributo. Todo sucesso com atributo 10+ é pleno, sem converter falhas em sucessos.
-- Naturais 1/20, Vantagens/Desvantagens cumulativas com cancelamento, desempates e opostos descritos em [testes](regras/atributos-e-testes.md).
+- Naturais 1/20, Vantagens/Desvantagens cumulativas com cancelamento, desempates e opostos descritos em [testes](regras/fundamentos/testes.md).
 - Alma máxima = média arredondada para cima dos três atributos + bônus de espécie. Forçar por 1 Alma, ou 1 PE se a reserva estiver vazia, uma vez por teste, preservando dados/modificadores e aceitando novo resultado. Morte não pode ser forçada.
 - PV base 6 +2 × máximo de Corpo; Defesa 10 + Reflexo; carga base do porte +2 × Potência.
 - Pleno dá Golpe Pesado +1 dano; extremo dá Golpe Brutal +2 em vez de +1; crítico 20 natural +2 adicional. Sem progressão contínua de dano por blocos de cinco.
@@ -28,7 +28,7 @@
 - Valores modulares de armas, dano desarmado comum 0, armaduras físicas 2/3/4 com três usos e acesso 0/1/2; escudo +1 Defesa e Defender 1 PA/RD física 2. Compacta/Potente incompatíveis.
 - Recuperação completa de vida/Alma e remoção de Ferido no longo de 8h; PE/NE seguem recuperação normal se condições adequadas.
 - Bases de carga 3/5/10/20, inventário por espaços, modificadores físicos de porte e detalhes de quedas.
-- Valores/traços de espécies conforme [catálogo atual](regras/origens-e-tracos.md), incluindo Robustez anã +3 PV, conjunto de Dríades/Arborídeos e divisão dos Gnomos.
+- Valores/traços de espécies conforme [catálogo atual](regras/origens/README.md), incluindo Robustez anã +3 PV, conjunto de Dríades/Arborídeos e divisão dos Gnomos.
 - Condições, tabela de NE, manobras e Postura preservam suas aprovações de playtest anteriores. Não converter todos os modificadores situacionais em Desvantagens por analogia.
 
 ## Proposto e pendente
@@ -41,7 +41,7 @@ Progressão e conjuração serão tratadas com habilidades. Fabricação e equip
 
 ## Progresso e próximas etapas
 
-Núcleo, combate, Alma, descanso, espécies e referências foram migrados documentalmente; guias de [criação](referencias/criacao-de-personagem.md) e [consulta rápida](referencias/guia-rapido.md) refletem esta versão. O portal existente consome os Markdown, sem nova implementação de site ou ficha.
+Núcleo, combate, Alma, descanso, espécies e referências foram migrados documentalmente; guias de [criação](referencias/criacao-de-personagem.md) e [consulta rápida](referencias/guia-rapido.md) refletem esta versão. A consulta foi organizada em [sete categorias](regras/README.md), com uma página por origem e capítulos separados de atributos, testes, turnos, ataques e defesas. O guia de criação tem oito etapas e exemplo completo. O portal acompanha as categorias, com histórico/desenvolvimento opcionais na busca; nenhuma ficha digital foi implementada.
 
 Próxima etapa: desenvolver habilidades/progressão/conjuração, retomar fabricação/equipamentos e montar fichas para playtest, sem tratar a migração como validação de balanceamento. Ver [roadmap](planejamento/roadmap.md) e [plano de sessões](planejamento/playtests.md).
 

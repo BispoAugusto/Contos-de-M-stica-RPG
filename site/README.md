@@ -31,3 +31,11 @@ Abra `http://127.0.0.1:4173`. O arquivo de entrada é `site/index.html`; o HTML 
 Edite os Markdown normalmente e publique um commit. Pastas `.git`, `node_modules`, `.vercel` e `dist` são ignoradas na indexação. Datas de alteração vêm do histórico Git disponível no build; arquivos sem histórico recebem uma indicação neutra. A Vercel pode disponibilizar apenas parte do histórico Git. O conteúdo histórico não é reinterpretado como regra atual.
 
 Os textos são convertidos com Marked e sanitizados antes da publicação. O portal não depende de chamadas à API do GitHub ou de bibliotecas externas durante a leitura. Links para arquivos não Markdown levam ao repositório.
+
+## Organização dos capítulos
+
+As regras atuais ficam nas sete subpastas de regras/, cada uma com README de categoria. O índice geral é [regras/README.md](../regras/README.md). A classificação e a ordem do portal ficam em navigation.mjs; a geração inclui essa informação em documents.json.
+
+A consulta inicial mostra os capítulos atuais. A opção “Incluir histórico e desenvolvimento” adiciona registros, planejamento e instruções. Páginas marcadas com o comentário de compatibilidade permanecem acessíveis por links anteriores, mas não duplicam os capítulos na busca ou no menu.
+
+Ao mover uma seção, preservar seu caminho/âncora antigo como link, atualizar as referências e executar node site/build.mjs e node site/check.mjs. O verificador cobre arquivos, âncoras, sete categorias e separação de histórico.

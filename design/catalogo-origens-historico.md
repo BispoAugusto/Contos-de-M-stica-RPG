@@ -1,6 +1,6 @@
 # Catálogo histórico de origens por pontos — 2026-10-13
 
-**HISTÓRICO: não vigente na criação de personagens.** Preservado para consulta e eventual customização futura. Custos, atributos e efeitos abaixo pertencem à versão anterior; não se somam às espécies atuais. Consulte [origens atuais](../regras/origens-e-tracos.md).
+**HISTÓRICO: não vigente na criação de personagens.** Preservado para consulta e eventual customização futura. Custos, atributos e efeitos abaixo pertencem à versão anterior; não se somam às espécies atuais. Consulte [origens atuais](../regras/origens/README.md).
 
 # Origens e traços
 
@@ -36,7 +36,7 @@ Os efeitos abaixo compõem o primeiro rascunho de Corpo. Custos e números assin
 | Frágil | −2 proposto | −2 PV máximos, valor proposto. | Robusto. |
 | Coordenação Manual Limitada | −1 proposto | −2 em Prestidigitação e tarefas profissionais de manipulação fina, inclusive com um membro adicional. | Efeitos que anulem a limitação. |
 
-**Médio é o padrão gratuito:** não precisa ser escolhido e não ocupa um dos cinco traços positivos. As limitações inerentes ao porte não concedem pontos negativos extras. Ver [porte e inventário](../regras/porte-e-inventario.md).
+**Médio é o padrão gratuito:** não precisa ser escolhido e não ocupa um dos cinco traços positivos. As limitações inerentes ao porte não concedem pontos negativos extras. Ver [porte e inventário](../regras/equipamentos/porte-e-inventario.md).
 
 ### Armas naturais e propriedades
 
@@ -53,7 +53,7 @@ As propriedades modificam a base: **Leve −1; Versátil +1 ao usar duas mãos; 
 | 4 | 4 | 3 |
 | 5 | 5 | 4 |
 
-Leve pode ser atraente nos primeiros níveis sem reduzir a base abaixo de 1, mas reduz o dano nos níveis seguintes. Isso precisa de teste. A propriedade escolhida não concede automaticamente duas armas naturais ou o ataque combinado de duas Leves: requisitos de empunhadura, duas Leves naturais, Arremessável e espaços modulares ainda precisam ser detalhados. Ver [armas](../regras/armas.md).
+Leve pode ser atraente nos primeiros níveis sem reduzir a base abaixo de 1, mas reduz o dano nos níveis seguintes. Isso precisa de teste. A propriedade escolhida não concede automaticamente duas armas naturais ou o ataque combinado de duas Leves: requisitos de empunhadura, duas Leves naturais, Arremessável e espaços modulares ainda precisam ser detalhados. Ver [armas](../regras/equipamentos/armas.md).
 
 ## Sentidos
 
@@ -86,7 +86,7 @@ Reavaliar especialmente o custo de Cegueira após definir seus efeitos em combat
 | Lento | −2 | Todas as formas de deslocamento descem uma faixa: Longo → Médio, Médio → Curto, Curto → Toque. | Passos Ligeiros. |
 | Equilíbrio Instável | −1 | −2 em Acrobacia para equilíbrio em locais estreitos ou instáveis. | Benefícios que anulem essa limitação; Equilíbrio Excepcional, caso seja adotado futuramente. |
 
-Equilíbrio Excepcional não integra este catálogo. Inconsciência interrompe Voo/Aderência e pode provocar [queda](../regras/quedas.md). Atordoado, por si só, não equivale a inconsciência nem provoca queda automática. Recuperar voo ou agarrar uma superfície durante uma queda involuntária exige procedimento ainda pendente.
+Equilíbrio Excepcional não integra este catálogo. Inconsciência interrompe Voo/Aderência e pode provocar [queda](../regras/exploracao/quedas.md). Atordoado, por si só, não equivale a inconsciência nem provoca queda automática. Recuperar voo ou agarrar uma superfície durante uma queda involuntária exige procedimento ainda pendente.
 
 ## Resistência
 
@@ -106,7 +106,7 @@ Os bônus de testes abaixo só atuam quando houver um teste; não criam testes a
 | Baixa Resistência Física | −1 | −2 em Fortitude contra esforço físico prolongado. | Vigor Persistente. |
 | Mente Suscetível | −2 | −2 em Integridade contra medo, coerção e controle mental. | Mente Firme. |
 
-**Armadura Natural:** após conhecer o dano, gastar um uso, sem PA, para RD 2. No máximo um uso por ataque; cobre suas instâncias, reduzidas separadamente até mínimo 0. O ataque combinado de duas Leves tem uma única instância, com RD aplicada uma vez. Recupera os dois usos em descanso curto, **sem ação de reparo/manutenção**. Se vestir armadura, escolher natural **ou** convencional por ataque, com reservas separadas; não somar ambas. Pode somar à RD de Defender, respeitando a exclusão Esquiva/Defender. Ver [armaduras e escudos](../regras/armaduras-e-escudos.md).
+**Armadura Natural:** após conhecer o dano, gastar um uso, sem PA, para RD 2. No máximo um uso por ataque; cobre suas instâncias, reduzidas separadamente até mínimo 0. O ataque combinado de duas Leves tem uma única instância, com RD aplicada uma vez. Recupera os dois usos em descanso curto, **sem ação de reparo/manutenção**. Se vestir armadura, escolher natural **ou** convencional por ataque, com reservas separadas; não somar ambas. Pode somar à RD de Defender, respeitando a exclusão Esquiva/Defender. Ver [armaduras e escudos](../regras/equipamentos/armaduras-e-escudos.md).
 
 ## Cultura e Formação
 
@@ -125,7 +125,7 @@ Traços simples, adequados a um sandbox construído com o mestre. Não exigem se
 | Presença Inofensiva | −1 | −2 em Intimidação por ameaças e presença. | Presença Intimidadora. |
 | Inibição Pública | −1 | −2 em Atuação para entreter, discursar e prender a atenção do público. | Cativante. |
 
-Essas concessões não tornam Comum ou ofícios gratuitos para todos. Ver [proficiências](../regras/proficiencias.md) e [idiomas](../regras/idiomas.md).
+Essas concessões não tornam Comum ou ofícios gratuitos para todos. Ver [proficiências](../regras/personagem/proficiencias.md) e [idiomas](../regras/personagem/idiomas.md).
 
 ## Afinidades Sobrenaturais
 

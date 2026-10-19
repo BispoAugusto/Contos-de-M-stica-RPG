@@ -16,6 +16,6 @@ O [catálogo antigo por pontos](catalogo-origens-historico.md) fica preservado p
 
 ## Acompanhamento
 
-Regras e status em [origens](../regras/origens-e-tracos.md). Verificar no playtest ações independentes dos Gnomos, custo de Corpo de Desprendimento, tratamento/Alma por Enraizamento, regeneração e sede dos Namarés, dano natural de Feras e RD geral limitada de Draconatos.
+Regras e status em [origens](../regras/origens/README.md). Verificar no playtest ações independentes dos Gnomos, custo de Corpo de Desprendimento, tratamento/Alma por Enraizamento, regeneração e sede dos Namarés, dano natural de Feras e RD geral limitada de Draconatos.
 
 Recomposição de recursos dos Gnomos e distribuição de Alma dos Golias continuam explicitamente em [pendências](pendencias.md). Porte/inventário completo, fabricação e equipamentos serão desenvolvidos depois. Nenhuma sessão de playtest foi realizada por este registro.

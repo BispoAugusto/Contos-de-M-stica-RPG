@@ -11,6 +11,13 @@
 - [x] Atualizar guias, estado, decisões, pendências e histórico, preservando status.
 - [x] Preservar o portal existente como leitor dos documentos, sem criar ficha digital.
 
+## Organização da consulta
+
+- [x] Separar regras em sete categorias, com índices e referências por situação.
+- [x] Dividir origens, atributos/testes e os procedimentos de combate em capítulos menores.
+- [x] Reescrever criação em oito etapas, exemplo completo e checklist.
+- [x] Atualizar navegação do portal e preservar caminhos/âncoras antigos.
+
 ## Próxima etapa — habilidades e preparação
 
 - [ ] Desenvolver habilidades, progressão e conjuração/Fluxo.

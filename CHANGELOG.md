@@ -1,5 +1,14 @@
 # Histórico
 
+## 2026-10-19 — Organização por categorias e guia de criação
+
+- Regras organizadas em Fundamentos, Personagem, Origens e espécies, Combate, Equipamentos, Exploração e Descanso/sobrevivência, cada uma com índice próprio.
+- Separados atributos/testes, turnos/ataques/defesas e as seis origens em capítulos específicos, preservando os efeitos e status da versão integrada.
+- Criado índice por situação de mesa e atualizado o guia de criação em oito etapas, com escolhas, custos, cálculos, checklist e exemplo completo de Homem Alto.
+- Caminhos e âncoras antigos continuam disponíveis como páginas de navegação; referências atuais apontam aos capítulos organizados.
+- Portal passa a agrupar os capítulos por categoria, com navegação recolhível e filtro opcional de histórico/desenvolvimento. A página inicial destaca criação, índice e consulta rápida.
+- Verificação inclui cobertura documental, links/âncoras e classificação das categorias. Não altera valores de regras nem fecha pendências de design.
+
 ## 2026-10-19 — Integração de atributos, Alma, espécies e guias
 
 - Substituídos seis atributos aditivos por nove atributos, teto sob pressão, margens de pleno/extremo e limite normal 10.

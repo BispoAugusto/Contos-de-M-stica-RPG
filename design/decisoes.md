@@ -1,5 +1,16 @@
 # Decisões registradas
 
+## 2026-10-19 — Organização editorial autorizada
+
+- Regras organizadas em Fundamentos, Personagem, Origens e espécies, Combate, Equipamentos, Exploração e Descanso/sobrevivência, cada uma com índice próprio.
+- Separados atributos/testes, turnos/ataques/defesas e as seis origens em capítulos específicos, preservando os efeitos e status da versão integrada.
+- Criado índice por situação de mesa e atualizado o guia de criação em oito etapas, com escolhas, custos, cálculos, checklist e exemplo completo de Homem Alto.
+- Caminhos e âncoras antigos continuam disponíveis como páginas de navegação; referências atuais apontam aos capítulos organizados.
+- Portal passa a agrupar os capítulos por categoria, com navegação recolhível e filtro opcional de histórico/desenvolvimento. A página inicial destaca criação, índice e consulta rápida.
+- Verificação inclui cobertura documental, links/âncoras e classificação das categorias. Não altera valores de regras nem fecha pendências de design.
+
+**Escopo:** pedido do criador para facilitar busca de referências e criação de personagem. A reorganização não aprova novos mecanismos; decisões provisórias/propostas/pendentes conservam seu status.
+
 ## 2026-10-19 — Nove atributos, Alma e origens por espécies
 
 **Aprovação explícita do criador após revisão consolidada; implementação autorizada no GitHub.** Decisões confirmadas, valores provisórios, propostas e pendências permanecem distintos. Não houve playtest de mesa.
@@ -33,7 +44,7 @@
 - Namarés: regeneração +2 PV automática no curto, mesmo Ferido sem removê-lo; partes pequenas em um longo, membros em três. Língua Curto/1 PA para objetos ou manobra conhecida com custos normais; Espinhos 1 perfurante por ação agressiva bem-sucedida; luz Curto sem duração máxima.
 - Draconatos +3 Corpo; origem RD elemental passiva 2, escolhas Fogo/Frio/Eletricidade/Ácido/Veneno. Escamas geral 1, usos máximo de Corpo, longo; não somar armadura convencional. Sopro 2 PA, três usos longos, cone Curto/dano 2, Esquiva DT 10 + máximo de Corpo, sucesso padrão nega.
 - Verdantes usam Enraizamento: uma atividade combina tratamento próprio e metade de Corpo; essas duas opções contam realizadas. Gnomos +3 Mente; porte 0–1/2–3/4+ Corpo = Pequeno/Médio/Grande. Divisão em dois com metade de atuais/máximos para cima, ações próprias, mesma iniciativa, distância Média e porte uma categoria menor. Dividir/reunir custa 1 PA, reunião paga por uma parte; ficha integral anotada. Corpo entre dois morre a 0, escolhas contra a morte só no único. Desprendimento: reação 1 PA +1 Corpo atual, sem limite por rodada. Reunião dos recursos após perdas continua pendente.
-- Rúnicos: Primordial fluente e Vantagem em Vigor contra frio/calor ambiental. Golias: força natural e uma manifestação Névoa/Tempestade/Montanha/Vulcão/Oceanos, três usos longos. DT 10 + máximo de Corpo quando necessária; procedimentos em [espécies](../regras/origens-e-tracos.md).
+- Rúnicos: Primordial fluente e Vantagem em Vigor contra frio/calor ambiental. Golias: força natural e uma manifestação Névoa/Tempestade/Montanha/Vulcão/Oceanos, três usos longos. DT 10 + máximo de Corpo quando necessária; procedimentos em [espécies](../regras/origens/README.md).
 
 ### Provisório para playtest
 
@@ -47,7 +58,7 @@ Distribuição +2 Corpo/+1 Espírito dos Golias permanece apresentada para confe
 
 Substitui seis atributos aditivos, dano contínuo por margem, repetição numérica, três PP iniciais, catálogo racial por pontos e traços naturais antigos na criação padrão. Não converte automaticamente penalidades situacionais de condições em Desvantagens. Catálogo antigo preservado em [histórico](catalogo-origens-historico.md).
 
-Textos vigentes: [estado](../ESTADO-DO-PROJETO.md), [testes](../regras/atributos-e-testes.md), [Alma](../regras/alma.md), [combate](../regras/combate.md), [descansos](../regras/descansos.md), [espécies](../regras/origens-e-tracos.md), [criação](../referencias/criacao-de-personagem.md). Guias e planejamento foram alinhados.
+Textos vigentes: [estado](../ESTADO-DO-PROJETO.md), [testes](../regras/fundamentos/testes.md), [Alma](../regras/fundamentos/alma.md), [combate](../regras/combate/README.md), [descansos](../regras/recuperacao/descansos.md), [espécies](../regras/origens/README.md), [criação](../referencias/criacao-de-personagem.md). Guias e planejamento foram alinhados.
 
 ## Histórico anterior — não interpretar como regras atuais
 
@@ -77,7 +88,7 @@ Os registros abaixo preservam o que foi decidido em suas datas. Trechos substitu
 
 **Pendente:** nomenclatura/gatilhos de Ataque/Golpe Pesado/Brutal, reações fora do turno, divisão do ataque combinado entre alvos, armas naturais com requisitos de empunhadura, armas mágicas e habilidades ainda não aprovadas. Custos propostos, origens, inventário adiado, medicina e demais discussões não foram fechados nesta atualização.
 
-Referências: [testes](../regras/atributos-e-testes.md), [combate](../regras/combate.md), [armas](../regras/armas.md), [pendências](pendencias.md) e [playtests](../planejamento/playtests.md). Exemplos aritméticos e consistência documental conferidos; nenhum playtest de mesa realizado.
+Referências: [testes](../regras/fundamentos/testes.md), [combate](../regras/combate/README.md), [armas](../regras/equipamentos/armas.md), [pendências](pendencias.md) e [playtests](../planejamento/playtests.md). Exemplos aritméticos e consistência documental conferidos; nenhum playtest de mesa realizado.
 
 ## Registros históricos
 
@@ -96,7 +107,7 @@ O criador autorizou manter as regras propostas por enquanto, suscetíveis a muda
 - Controles podem desgastar Postura antes de funcionar integralmente; a ação que quebra Postura já aplica seu controle se fisicamente possível. Restaurar Postura não remove condições.
 - Proteção de Caído contra ataques à distância, testes e custos ainda não definidos e renovação de duração permanecem em discussão.
 
-Texto de referência: [condições](../regras/condicoes.md), [Postura](../regras/postura.md) e [pendências](pendencias.md).
+Texto de referência: [condições](../regras/combate/condicoes.md), [Postura](../regras/combate/postura.md) e [pendências](pendencias.md).
 
 ## 2026-10-13 — Armas modulares e combate: regras iniciais de playtest
 
@@ -125,7 +136,7 @@ O criador forneceu diretamente os efeitos das quatro propriedades e o procedimen
 
 Não foram aprovadas novas transições de dados, regras novas de piso, redução de −2d20 a cada ataque, outras proibições por tipo de arma ou novas habilidades de dano. A substituição de Ataque Poderoso não remove o crítico e o dano por margem já existentes.
 
-Textos de referência: [armas](../regras/armas.md), [combate](../regras/combate.md), [manobras](../regras/manobras.md) e [playtests](../planejamento/playtests.md).
+Textos de referência: [armas](../regras/equipamentos/armas.md), [combate](../regras/combate/README.md), [manobras](../regras/combate/manobras.md) e [playtests](../planejamento/playtests.md).
 
 ## 2026-10-13 — Armaduras e escudo: aprovação para playtest
 
@@ -141,7 +152,7 @@ Textos de referência: [armas](../regras/armas.md), [combate](../regras/combate.
 - As mesmas proteções valem para inimigos equipados. A intenção é um mundo mortal com poucos PV e proteção forte, limitada por PA e usos.
 - Armaduras podem receber melhorias ou ser substituídas por versões superiores durante campanhas; novos escudos poderão ser adicionados. A direção está aprovada, mas custos, efeitos e novos modelos ainda não estão definidos.
 
-Ver [armaduras e escudos](../regras/armaduras-e-escudos.md). A escolha entre Esquiva e Defender foi resolvida na decisão seguinte. Progressão e demais casos-limite ficam em [pendências](pendencias.md); não foram aprovadas regras adicionais por inferência.
+Ver [armaduras e escudos](../regras/equipamentos/armaduras-e-escudos.md). A escolha entre Esquiva e Defender foi resolvida na decisão seguinte. Progressão e demais casos-limite ficam em [pendências](pendencias.md); não foram aprovadas regras adicionais por inferência.
 
 ## 2026-10-13 — Remoção de Aparar e escolha da reação defensiva
 
@@ -153,7 +164,7 @@ Ver [armaduras e escudos](../regras/armaduras-e-escudos.md). A escolha entre Esq
 - O bônus constante de +1 de Defesa do escudo e a ativação da armadura seguem seus procedimentos; armadura + Defender continuam somando RD.
 - Aparar deixa o catálogo atual, e suas pendências de RD/requisitos são encerradas. As sugestões anteriores de RD 2 para Aparar não foram adotadas.
 
-Ver [combate](../regras/combate.md), [armaduras e escudos](../regras/armaduras-e-escudos.md) e [manobras](../regras/manobras.md).
+Ver [combate](../regras/combate/README.md), [armaduras e escudos](../regras/equipamentos/armaduras-e-escudos.md) e [manobras](../regras/combate/manobras.md).
 
 ## 2026-10-13 — Famílias de armas e dano desarmado
 
@@ -165,7 +176,7 @@ Ver [combate](../regras/combate.md), [armaduras e escudos](../regras/armaduras-e
 - Armas naturais e habilidades de pugilista podem conceder dano ao golpe desarmado. A possibilidade está aprovada; valores, requisitos e efeitos particulares ainda não foram definidos.
 - A regra específica de Desarmado é exceção à base modular 2. Não aprova automaticamente dois espaços, propriedades ou duas instâncias para socos e chutes.
 
-Ver [armas](../regras/armas.md) e [pendências](pendencias.md).
+Ver [armas](../regras/equipamentos/armas.md) e [pendências](pendencias.md).
 
 ## 2026-10-13 — Proficiências, perícias e idiomas
 
@@ -173,14 +184,14 @@ Ver [armas](../regras/armas.md) e [pendências](pendencias.md).
 
 - Conhecimentos e idiomas custam 1 ponto por dois níveis, no mesmo ou em dois diferentes **da mesma categoria**. Não dividir um ponto entre conhecimento e idioma.
 - Perícias/conhecimentos/ofícios/armas: nível 0 +0, níveis 1–5 +2/+4/+6/+8/+10, máximo inicial 2 conforme núcleo já registrado.
-- Adotadas as listas e associações de [perícias](../regras/pericias.md): 17 gerais e 7 conhecimentos, todos os conhecimentos com Inteligência. Atributo padrão pode variar com abordagem justificada.
+- Adotadas as listas e associações de [perícias](../regras/personagem/pericias.md): 17 gerais e 7 conhecimentos, todos os conhecimentos com Inteligência. Atributo padrão pode variar com abordagem justificada.
 - Ofícios são específicos do personagem, vinculados a atributo; podem vir de pontos, habilidades ou história. Níveis concedidos por essas fontes devem ser definidos.
 - Nove idiomas: Comum, Bestial, Miridiano, Arak, Faarongiano, Primordial, Abissal, Dracônico e Umbral.
 - Idioma Amador (1) compreende, mas pode testar certas escritas/situações complexas do dialeto; Fluente (2) normalmente dispensa teste, mas testa textos muito complexos com +2. Testes usam Inteligência; Amador não tem bônus de idioma.
 - A associação de Fortitude a Constituição está definida; o atributo fornece d20, não bônus numérico. Particularidades do procedimento contra a morte permanecem pendentes.
 - Comum gratuito e um ofício gratuito no nível 1 foram sugestões e **não foram aprovados**. Os efeitos do uso de escudos sem proficiência, níveis de concessões narrativas e detalhes de habilidades iniciais continuam pendentes.
 
-Ver [proficiências](../regras/proficiencias.md) e [idiomas](../regras/idiomas.md).
+Ver [proficiências](../regras/personagem/proficiencias.md) e [idiomas](../regras/personagem/idiomas.md).
 
 ## 2026-10-13 — Origens por traços e adiamento de porte/inventário
 
@@ -190,13 +201,13 @@ Decisões de inventário, arredondamento e diferenças de porte foram preservada
 
 ## 2026-10-13 — Catálogo de traços e regras associadas
 
-**Registro autorizado pelo criador para playtest, com revisão futura explícita.** O catálogo em [origens e traços](../regras/origens-e-tracos.md) reúne Corpo, Sentidos, Mobilidade, Resistência, Cultura e Formação e Afinidades Sobrenaturais. Vivência e Relações foi incorporada a Cultura e Formação; aparência permanece livre e incompatibilidades são explícitas.
+**Registro autorizado pelo criador para playtest, com revisão futura explícita.** O catálogo em [origens e traços](../regras/origens/README.md) reúne Corpo, Sentidos, Mobilidade, Resistência, Cultura e Formação e Afinidades Sobrenaturais. Vivência e Relações foi incorporada a Cultura e Formação; aparência permanece livre e incompatibilidades são explícitas.
 
-- Médio é padrão gratuito sem traço; Pequeno, Minúsculo e Grande custam 1 cada e proíbem outro tamanho. Inventário, arredondamento para cima e diferenças físicas estão em [porte e inventário](../regras/porte-e-inventario.md); desenvolvimento completo continua adiado.
+- Médio é padrão gratuito sem traço; Pequeno, Minúsculo e Grande custam 1 cada e proíbem outro tamanho. Inventário, arredondamento para cima e diferenças físicas estão em [porte e inventário](../regras/equipamentos/porte-e-inventario.md); desenvolvimento completo continua adiado.
 - Arma Natural custa 1 e dá base 1. Avançada tem base igual ao nível de Desarmado, mínimo 1, e uma propriedade corpo a corpo; seu custo 3 ainda proposto.
 - **Esclarecimento que atualiza a redação anterior:** Leve −1, Versátil +1 com duas mãos, Pesada +2/exige duas mãos. Os números antigos 1/2–3/4 descrevem a base comum 2, não substituições absolutas. Armas naturais mantêm base mínima 1 com Leve antes de RD.
 - Sentidos e Mobilidade registrados; Aderência corrigida para Médio por 1 PA. Voo não exige compra cosmética de asas; Atordoado não é inconsciência.
-- [Quedas](../regras/quedas.md): dano 0/2/4/8/16/32 por faixa, automático; Curto+ impõe Caído; um uso de armadura permitido, Esquiva/Defender não.
+- [Quedas](../regras/exploracao/quedas.md): dano 0/2/4/8/16/32 por faixa, automático; Curto+ impõe Caído; um uso de armadura permitido, Esquiva/Defender não.
 - Armadura Natural: RD 2, dois usos, descanso curto sem reparo; natural ou convencional por ataque, reservas separadas, podendo somar a escolhida a Defender.
 - Cultura simplificada para sandbox: Formação Diversificada dá 1 PP gerais/profissionais; Poliglota dá 2 PP idiomas; demais opções sociais não exigem povos, lugares ou contatos.
 - Afinidades reduzidas a Sensibilidade Mágica (custo 2), Resistência Elemental, Fraqueza Elemental e Arma de Sopro. Perceber espíritos será tratado em habilidades; Comunicação Mental e as demais sugestões descartadas não foram mantidas.

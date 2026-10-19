@@ -18,6 +18,8 @@ Decisões resolvidas estão nas regras e no [registro de decisões](decisoes.md)
 - [x] Custos da divisão/reunião dos Gnomos e morte de um corpo entre dois.
 - [x] Atualizar estado, decisões, changelog, roadmap, guias e cenários de playtest.
 
+- [x] Organizar capítulos/categorias, índice por situação e guia de criação completo; preservar links anteriores.
+
 ## Próximas decisões, sem bloquear a migração documental
 
 - [ ] **Gnomos:** recompor recursos atuais após gastos/dano; consequências de perder um corpo; arredondamentos sem multiplicar recursos. Ficha integral anotada é referência, não regra de recarga.

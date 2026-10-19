@@ -1,25 +1,31 @@
 const $ = (id) => document.getElementById(id);
 const normalize = (text) => text.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 let documents = [];
-const groupOrder = ['Visão geral', 'Regras', 'Design e decisões', 'Planejamento', 'Referências', 'Sobre o portal'];
+const expandedGroups = new Map();
 const docLink = (doc) => { const a = document.createElement('a'); a.href = '#doc=' + encodeURIComponent(doc.id); a.textContent = doc.title; if (doc.id === new URLSearchParams(location.hash.slice(1)).get('doc')) a.setAttribute('aria-current', 'page'); return a; };
 function catalog() {
   const terms = normalize($('search').value).split(/\s+/).filter(Boolean);
-  const matches = documents.filter(d => terms.every(t => normalize(d.title + ' ' + d.id + ' ' + d.text).includes(t)));
-  $('count').textContent = `${matches.length} de ${documents.length} documentos`;
-  $('total').textContent = `${documents.length} documentos`;
+  const activeId = new URLSearchParams(location.hash.slice(1)).get('doc');
+  const visible = documents.filter(d => !d.compatibility && ($('show-development').checked || !d.development));
+  const matches = visible.filter(d => terms.every(t => normalize(d.title + ' ' + d.group + ' ' + d.id + ' ' + d.text).includes(t)));
+  $('count').textContent = `${matches.length} de ${visible.length} capítulos`;
+  $('total').textContent = `${visible.length} capítulos`;
   $('navigation').replaceChildren(); $('library').replaceChildren();
-  const groups = [...new Set(documents.map(d => d.group))].sort((a,b) => (groupOrder.indexOf(a) < 0 ? 99 : groupOrder.indexOf(a)) - (groupOrder.indexOf(b) < 0 ? 99 : groupOrder.indexOf(b)));
+  const groups = [...new Set(visible.map(d => d.group))];
   for (const group of groups) {
     const items = matches.filter(d => d.group === group);
     if (!items.length) continue;
-    const heading = document.createElement('h2'); heading.textContent = group; $('navigation').append(heading);
+    const categoryNav = document.createElement('details'); categoryNav.className = 'nav-category';
+    categoryNav.open = terms.length > 0 || items.some(d => d.id === activeId) || (expandedGroups.get(group) ?? group === 'Comece aqui');
+    const heading = document.createElement('summary'); heading.textContent = group; categoryNav.append(heading);
+    categoryNav.addEventListener('toggle', () => { if (categoryNav.isConnected && !terms.length) expandedGroups.set(group, categoryNav.open); });
+    $('navigation').append(categoryNav);
     const section = document.createElement('div'); section.className = 'category';
     const title = document.createElement('h3'); title.textContent = group; section.append(title);
-    for (const doc of items) { $('navigation').append(docLink(doc)); section.append(docLink(doc)); }
+    for (const doc of items) { categoryNav.append(docLink(doc)); section.append(docLink(doc)); }
     $('library').append(section);
   }
-  if (!matches.length) { const p = document.createElement('p'); p.textContent = 'Nenhum documento encontrado. Tente outro termo.'; $('navigation').append(p); }
+  if (!matches.length) { const p = document.createElement('p'); p.textContent = 'Nenhum capítulo encontrado. Tente outro termo ou inclua histórico e desenvolvimento.'; $('navigation').append(p); }
 }
 function route() {
   const params = new URLSearchParams(location.hash.slice(1));
@@ -56,6 +62,7 @@ function route() {
   if (!params.get('section')) window.scrollTo(0, 0);
 }
 $('search').addEventListener('input', catalog);
+$('show-development').addEventListener('change', catalog);
 $('print').addEventListener('click', () => window.print());
 window.addEventListener('hashchange', route);
 fetch('documents.json').then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); }).then(data => { documents = data; route(); }).catch(() => { $('error').hidden = false; $('error').textContent = 'Não foi possível carregar a biblioteca. Recarregue a página ou execute o build e abra pelo servidor de prévia.'; $('count').textContent = 'Biblioteca indisponível'; });

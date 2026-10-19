@@ -3,6 +3,7 @@ import path from 'node:path';
 import { execFileSync } from 'node:child_process';
 import { marked } from 'marked';
 import sanitizeHtml from 'sanitize-html';
+import { navigationFor } from './navigation.mjs';
 
 const root = path.resolve(import.meta.dirname, '..');
 const out = path.join(root, 'dist');
@@ -17,7 +18,6 @@ async function walk(dir) {
   }
   return results;
 }
-const groups = { regras: 'Regras', design: 'Design e decisões', planejamento: 'Planejamento', referencias: 'Referências', site: 'Sobre o portal' };
 const docs = [];
 for (const file of await walk(root)) {
   const id = path.relative(root, file).split(path.sep).join('/');
@@ -25,7 +25,7 @@ for (const file of await walk(root)) {
   const title = markdown.match(/^#\s+(.+)$/m)?.[1] || path.basename(id, '.md');
   let updated = '';
   try { updated = execFileSync('git', ['log', '-1', '--format=%cs', '--', id], { cwd: root, encoding: 'utf8' }).trim(); } catch {}
-  docs.push({ id, title, group: groups[id.split('/')[0]] || (id.includes('/') ? id.split('/')[0] : 'Visão geral'), updated,
+  docs.push({ id, title, ...navigationFor(id, markdown), updated,
     text: markdown, html: sanitizeHtml(marked.parse(markdown), {
       allowedTags: sanitizeHtml.defaults.allowedTags.concat(['img', 'input', 'del']),
       allowedAttributes: { ...sanitizeHtml.defaults.allowedAttributes, input: ['type', 'checked', 'disabled'], img: ['src', 'alt', 'title'], '*': ['id'] }
@@ -34,7 +34,7 @@ for (const file of await walk(root)) {
   await mkdir(path.dirname(target), { recursive: true });
   await copyFile(file, target);
 }
-docs.sort((a, b) => a.title.localeCompare(b.title, 'pt-BR'));
+docs.sort((a, b) => a.groupOrder - b.groupOrder || a.order - b.order || a.title.localeCompare(b.title, 'pt-BR'));
 await mkdir(out, { recursive: true });
 for (const file of ['index.html', 'style.css', 'app.js']) await copyFile(path.join(root, 'site', file), path.join(out, file));
 await writeFile(path.join(out, 'documents.json'), JSON.stringify(docs));
