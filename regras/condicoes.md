@@ -4,7 +4,7 @@
 
 **Provisório para playtest — aprovado pelo criador em 2026-10-12.** Caído, Agarrado, Imobilizado e Atordoado, seus procedimentos abaixo e a interação com Postura podem ser revistos após discussão e testes. A aprovação permite usar esta versão; não a torna definitiva.
 
-**Confirmado:** Ferido bloqueia cura ao chegar à metade dos PV; tratamento remove; cura de personagem caído a 0 PV ou menos retorna 1 PV e remove Ferido. Inconsciente é estado possível após Aceitar a Queda. Ver [morte e recuperação](morte-e-recuperacao.md).
+**Confirmado:** salvo exceções explícitas, como Regeneração dos Namarés, Ferido bloqueia cura ao chegar à metade dos PV; tratamento remove; cura de personagem caído a 0 PV ou menos retorna 1 PV e remove Ferido. Inconsciente é estado possível após Aceitar a Queda. Ver [morte e recuperação](morte-e-recuperacao.md).
 
 A condição **Caído** significa estar no chão; não significa, por si só, estar inconsciente ou a 0 PV.
 
@@ -51,3 +51,9 @@ Exemplo: um personagem atordoado fora do turno não reage até seu turno começa
 - Durações por fonte de Imobilizado e renovação de condições.
 - Efeito de ±2 na chance de acerto e no dano por margem de sucesso.
 - Movimento ao rastejar em conjunto com Exaustão e terreno difícil.
+
+## Integração de 2026-10-19
+
+Custos, durações e modificadores numéricos específicos das condições permanecem provisórios; a troca para Desvantagens vale para repetição de ataques, não converte automaticamente todos os ±2 do sistema. Fuga oposta favorece quem inicia a fuga em caso de empate; o procedimento completo de contenção ainda está pendente.
+
+O tratamento de [descanso curto](descansos.md) remove Ferido e cura automaticamente. A cura automática da Regeneração dos Namarés ocorre mesmo Ferido, sem remover a condição.

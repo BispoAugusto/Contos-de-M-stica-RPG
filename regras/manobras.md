@@ -2,7 +2,7 @@
 
 **Princípios confirmados, números para playtest.** Manobras ofensivas declaradas antes da rolagem, normalmente substituem dano pelo efeito; em geral 1 vez por rodada salvo exceção. Podem ser Independentes, Modificadores de Ataque ou Reações.
 
-**Regra central:** manobra independente não conta como ataque para a penalidade numérica de ataques consecutivos, mesmo que use rolagem ofensiva contra Defesa.
+**Regra central:** manobra independente não conta como ataque para a Desvantagem de ataques repetidos, mesmo que use rolagem ofensiva contra Defesa.
 
 | Manobra | Tipo | Regra inicial |
 |---|---|---|
@@ -23,7 +23,7 @@ Postura pode proteger inimigos de efeitos de controle.
 - **Tipo:** modificadora de ataque, declarada antes da rolagem. Acrescenta dano ao ataque; não substitui o dano por um efeito de controle.
 - **Custo:** 1 PA do ataque + 1, 2 ou 3 PA adicionais.
 - **Efeito:** **+2 de dano por PA adicional**, cumulativo no mesmo ataque, até **+6**.
-- O ataque tem **uma única rolagem** e conta como **um ataque** para a penalidade de ataques consecutivos. Os PA adicionais não são ataques separados.
+- O ataque tem **uma única rolagem** e conta como **um ataque** para a Desvantagem de ataques repetidos. Os PA adicionais não são ataques separados.
 - O bônus de dano depende do acerto. Gastar mais PA não garante acertar.
 - O acúmulo de PA é a exceção expressamente aprovada; não aprova por si só vários usos da manobra por rodada.
 
@@ -41,8 +41,16 @@ Ver [armas](armas.md), [combate](combate.md) e [pendências](../design/pendencia
 
 ## Defender com escudo — reação básica de playtest
 
-**Aprovada em 2026-10-13, sujeita a revisão.** Empunhar o escudo básico concede +1 de Defesa e acesso a **Defender**: depois de conhecer o dano de um ataque que acertou, gastar **1 PA** para aplicar **RD 2**. No máximo uma vez por ataque, podendo reagir a outros enquanto houver PA e as reações forem permitidas. Essa reação básica não exige aprender uma manobra e não segue o limite geral de uma manobra por rodada.
+**Aprovada em 2026-10-13, sujeita a revisão.** Empunhar o escudo básico concede +1 de Defesa e acesso a **Defender**: depois de conhecer o dano de um ataque que acertou, gastar **1 PA** para aplicar **RD física 2**. No máximo uma vez por ataque, podendo reagir a outros enquanto houver PA e as reações forem permitidas. Essa reação básica não exige aprender uma manobra e não segue o limite geral de uma manobra por rodada.
 
 Defender pode somar sua RD à de uma ativação da armadura. O ataque combinado de duas Leves tem uma única instância: um uso da armadura e/ou um Defender aplicam RD uma vez sobre seu total, com dano mínimo 0. Ataques que tenham múltiplas instâncias por texto específico mantêm a proteção de todas elas com um uso/uma reação, RD separada. Ver [armaduras e escudos](armaduras-e-escudos.md).
 
 **Atualização aprovada para playtest em 2026-10-13:** Aparar foi removido. Contra cada ataque, escolha **Esquiva ou Defender**; Defender exige escudo empunhado. Não é permitido usar as duas reações contra o mesmo ataque, mesmo que Esquiva não evite o acerto. A escolha vale para o ataque inteiro, incluindo o ataque combinado de duas Leves. Contra outro ataque, pode escolher novamente, respeitando os PA disponíveis e os impedimentos de reações.
+
+## Integração de 2026-10-19
+
+Golpe Devastador exige aprendizado, não vem automaticamente de Pesada. **Pesada + Arremessável pode usá-lo com Foco**, mantendo custos/requisitos e até três PA adicionais. A frequência geral de uma vez por rodada permanece até aprovação de exceção; o acúmulo de PA não concede usos extras.
+
+Ataques fora do próprio turno, inclusive Ataque de Oportunidade, **não recebem nem avançam Desvantagens por repetição**. No próprio turno, modificadores de ataque usam a posição do ataque; manobras independentes não entram. Forçar é rerrolar o mesmo teste, não outra ação.
+
+Testes opostos seguem [testes](atributos-e-testes.md): empate favorece quem inicia a tentativa, inclusive uma fuga. Defender também pode reduzir dano de área/efeito automático se compatível e o personagem puder reagir; o teste obrigatório do efeito é separado da única ação defensiva. RD física não reduz elementos. Ver [proteções](armaduras-e-escudos.md).

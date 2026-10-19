@@ -1,115 +1,53 @@
 # Armaduras e escudos
 
-**Provisório para playtest — aprovado em 2026-10-13, sujeito a revisão.** O catálogo inicial tem um modelo de cada categoria de armadura e um único escudo. São equipamentos de base para a ficha e as primeiras sessões.
+**Equipamentos provisórios para playtest; compatibilidade de dano e procedimentos atualizados em 2026-10-19.**
 
-## Armaduras e proficiência
+## Armaduras
 
-A proficiência de armadura tem três níveis de acesso: **0 = leves, 1 = médias, 2 = pesadas**. Os valores da tabela são requisitos mínimos. Essa escala não concede os bônus numéricos das proficiências de testes. Na criação, 1 ponto compra um nível de acesso; escudos também estão entre as compras de [proficiência](proficiencias.md). O uso sem a proficiência em escudos ainda precisa ser definido.
-
-| Modelo | Categoria | Proficiência mínima | RD por uso | Usos máximos |
+| Modelo | Categoria | Acesso mínimo | RD física | Usos |
 |---|---|---|---|---|
-| Armadura de couro | Leve | 0 | 2 | 3 |
-| Cota de malha | Média | 1 | 3 | 3 |
-| Armadura de placas | Pesada | 2 | 4 | 3 |
+| Couro | Leve | 0 | 2 | 3 |
+| Malha | Média | 1 | 3 | 3 |
+| Placas | Pesada | 2 | 4 | 3 |
 
-Os modelos iniciais não concedem bônus de Defesa nem impõem penalidades adicionais de movimento ou Destreza.
+Acesso não é bônus de teste. Sem bônus adicional de Defesa nem penalidades adicionais de movimento/Reflexo neste playtest. Vestir/empunhar equipamentos ocupa [inventário](porte-e-inventario.md).
 
-### Ativar a proteção
+Após conhecer o dano, gastar **um uso, sem PA**, para aplicar RD física. No máximo um uso por ataque/ocorrência. Se houver múltiplas instâncias expressas, cobre todas, com RD por instância; tipos diferentes não criam instâncias. Duas Leves causam uma só.
 
-- Depois de conhecer o dano de um ataque recebido, pode gastar **1 uso da armadura, sem gastar PA**, para aplicar sua RD.
-- Pode gastar **no máximo 1 uso por ataque recebido**. O uso protege contra todas as instâncias desse ataque, aplicando a RD separadamente a cada uma quando houver mais de uma. **Duas Leves combinadas têm uma única instância**, portanto a RD é aplicada uma vez ao total.
-- O dano de cada instância pode chegar a **0**, nunca ficar negativo.
-- Com os usos esgotados, a armadura continua vestida, mas não pode ativar sua RD.
-- **Manutenção durante um descanso curto recupera os três usos.** Esta é a recuperação adotada neste playtest; substitui a formulação anterior “descanso curto ou manutenção”. Não há recuperação automática a cada combate.
-
-### Exemplo com poucos PV
-
-Pela fórmula de [combate](combate.md), Constituição 1 dá 8 PV antes de outros bônus. Um ataque que acertou e causa 5 de dano produz:
-
-| Proteção escolhida | Dano recebido | PV restantes, começando com 8 |
-|---|---|---|
-| Nenhuma ativação | 5 | 3 |
-| Couro, gastando 1 uso | 3 | 5 |
-| Malha, gastando 1 uso | 2 | 6 |
-| Placas, gastando 1 uso | 1 | 7 |
+Com usos esgotados, não ativa RD. **Uma atividade de manutenção no descanso curto restaura todos os três usos**, concorrendo com as demais escolhas de [descanso](descansos.md). Não recupera automaticamente após combate. Materiais/ferramentas/custos detalhados de manutenção permanecem pendentes.
 
 ## Escudo básico
 
-| Característica | Regra inicial |
-|---|---|
-| Empunhadura | Uma mão |
-| Benefício constante | +1 na Defesa enquanto empunhado |
-| Reação disponível | Defender |
-| Custo de Defender | 1 PA |
-| Proteção de Defender | RD 2 contra o ataque recebido |
+Uma mão, **+1 de Defesa constante** enquanto empunhado. Reação básica **Defender: 1 PA para RD física 2**, depois de conhecer o dano, uma vez por ocorrência; pode reagir a outras com PA e capacidade de agir. Não exige aprender manobra separada. A proficiência de escudo é comprável; efeito do uso sem proficiência continua pendente.
 
-A Defesa base continua **10 + Destreza**; com o escudo empunhado, fica **10 + Destreza + 1**, antes de outros modificadores. O bônus de Defesa permanece mesmo sem PA para Defender. A RD 2 exige a reação; não é uma redução passiva.
+Defesa com escudo: **10 + Reflexo +1** antes de outros modificadores. O +1 permanece sem PA e ao escolher Esquiva. Com duas mãos habituais, escudo não pode acompanhar duas Leves ou arma usada com duas mãos; Versátil pode ser usada com escudo no modo de uma mão.
 
-O escudo ocupa uma mão: com as duas mãos habituais, não é possível usá-lo simultaneamente com uma arma Pesada, duas Leves ou uma arma à distância que exija duas mãos. Uma Versátil pode ser usada com o escudo em sua modalidade de uma mão.
+## Escolha defensiva e resistência
 
-### Defender
+Só uma ação defensiva por ocorrência: **Esquiva ou Defender**, nunca ambas, mesmo quando Esquiva não evita o acerto. Aparar permanece removido. Armadura não é ação defensiva e pode somar a Defender ou ser usada após Esquiva insuficiente.
 
-**Reação básica disponível ao empunhar o escudo**, sem precisar aprender uma manobra separada.
+Testes exigidos por habilidades/áreas são separados da ação defensiva. Exemplo: bola de fogo pode exigir Esquiva para reduzir dano à metade ou negar com pleno, conforme seu próprio texto; o Sopro dracônico já é negado no sucesso padrão. Não usar a reação de aumentar Defesa contra acerto automático. Depois, se ainda houver dano, armadura/Defender são possíveis, respeitando RD compatível, recursos e impedimentos de reação.
 
-1. Depois de conhecer o dano de um ataque que acertou, pode gastar **1 PA** para Defender, desde que não tenha usado Esquiva contra esse mesmo ataque.
-2. Reduz em **2** o dano desse ataque. Só pode usar Defender **uma vez por ataque recebido**.
-3. Pode Defender contra outros ataques enquanto houver PA e puder usar reações. Não possui uma reserva própria de usos como a armadura.
-4. A redução se aplica separadamente a cada instância do ataque, com mínimo 0.
-5. Pode combinar Defender com **uma ativação da armadura**: as reduções se somam, pagando **1 PA + 1 uso**.
+Proteção física não reduz Fogo. Se o jogador escolher Defender contra dano exclusivamente de Fogo com escudo básico, paga 1 PA sem reduzir o dano. Não criar RD elemental para equipamentos iniciais por analogia.
 
-Defender é uma reação defensiva, não um ataque. A condição Atordoado e demais impedimentos de reações continuam aplicáveis.
+## Combinações e exemplos
 
-### Armadura e escudo juntos
+Contra **8 de dano físico**, malha reduz para 5 por um uso; Defender reduz para 6 por 1 PA; ambos reduzem para 3 por um uso + 1 PA. Placas + Defender somam RD física 6: contra 10 físico, recebe 4.
 
-Contra um ataque que acertou e causa **8 de dano**, usando malha:
+Duas Leves de base combinada 2, pleno +1 e crítico +2 causam 5: couro reduz para 3; couro + Defender para 1. Dano mínimo 0.
 
-| Escolha | Custo | RD aplicada | Dano recebido |
-|---|---|---|---|
-| Ativar apenas malha | 1 uso | 3 | 5 |
-| Apenas Defender | 1 PA | 2 | 6 |
-| Malha e Defender | 1 uso + 1 PA | 5 | 3 |
+Para dano misto, aplicar RD por componente compatível e RD geral uma vez sobre o restante; ver [tipos de dano](tipos-de-dano.md).
 
-Placas e Defender somam **RD 6**. Contra um Golpe Devastador que cause 10 de dano, o personagem recebe **4**. O exemplo considera o ataque já acertado e os recursos disponíveis.
+## Proteções naturais e quedas
 
-### Duas armas Leves
+Escamas dos Draconatos: **RD geral 1**, usos iguais ao máximo de Corpo, recuperados totalmente no longo. Escolher Escamas ou armadura convencional, nunca ambas na mesma ocorrência. Pode somar a escolhida à resistência elemental e a Defender compatível. RD elemental da origem é passiva e não consome usos de Escamas.
 
-**Atualização aprovada em 2026-10-14:** o ataque combinado tem **uma única instância**. Sua base é a base da principal + metade da base da secundária, arredondada para cima; margem, crítico e demais modificadores aplicáveis entram uma vez. Aplique RD **uma vez sobre o total**. Custa ao defensor **1 uso da armadura**, se a ativar, e **1 PA**, se usar Defender.
+O antigo traço comprável Armadura Natural RD 2/dois usos não é concessão atual: consultar somente como [histórico](../design/catalogo-origens-historico.md).
 
-Exemplo: duas Leves de base 1 formam base combinada 2. Com +2 de crítico e +1 de margem, causam **5** antes da proteção. Couro (RD 2) reduz o total para **3**, gastando um uso. Couro + Defender (RD 4) reduzem para **1**, gastando um uso e um PA. Sem bônus, a base combinada 2 seria reduzida a 0 pelo couro.
+[Quedas](quedas.md) permitem um uso de armadura e não permitem Esquiva/Defender pela exceção específica preservada nesse capítulo.
 
-O procedimento completo está em [armas](armas.md). A regra geral de proteção de múltiplas instâncias permanece para ataques que as prevejam expressamente; duas Leves não geram uma segunda instância.
+## Registro e expansão
 
-## Relação com outras defesas
+Registrar categoria, acesso, tipo de RD e usos; escudo registra Defesa +1 e Defender 1 PA/RD física 2. Exemplo: “Malha, acesso 1, RD física 3, usos □ □ □”.
 
-- **Esquiva:** gasta 1 PA para aumentar a Defesa contra um ataque conforme o núcleo existente.
-- **Defender:** usa o escudo e gasta 1 PA para reduzir dano após conhecer seu valor.
-
-**Atualização aprovada para playtest em 2026-10-13:** Aparar foi removido. Contra cada ataque, o personagem escolhe **Esquiva ou Defender**, sendo necessário empunhar escudo para Defender. Não pode usar as duas reações contra o mesmo ataque, mesmo que Esquiva não evite o acerto.
-
-A escolha vale para o ataque inteiro e para todas as instâncias que ele tenha. Duas Leves formam uma única instância; não permitem dividir as reações entre as armas. Contra outro ataque, pode escolher novamente enquanto houver PA e puder reagir.
-
-O **+1 de Defesa do escudo** é constante enquanto empunhado e continua valendo ao escolher Esquiva; não equivale a usar Defender. A ativação da **armadura** segue seu procedimento próprio e **armadura + Defender** continuam somando RD.
-
-Exemplo: se o personagem usa Esquiva e ainda assim recebe o ataque, não pode gastar outro PA em Defender contra esse golpe. Pode ativar a armadura conforme as regras de proteção. Se sofrer outro ataque, poderá optar por Defender, desde que tenha escudo, PA e possa reagir.
-
-## Ficha e progressão
-
-Na ficha, registrar **proficiência de armadura, modelo, RD e usos restantes**, além do escudo e sua reação. Exemplo: “Proficiência 1; malha, RD 3, usos □ □ □; escudo, Defesa +1; Defender: 1 PA, RD 2”.
-
-Durante campanhas, personagens poderão melhorar armaduras ou adquirir versões superiores. Novos escudos também poderão ampliar o catálogo. Essa direção de progressão está aprovada; custos, efeitos, limites e novos modelos ainda não foram definidos. O primeiro playtest usa somente os quatro modelos acima.
-
-## Intenção de design e pontos de atenção
-
-O mundo deve ser perigoso: pessoas comuns desprotegidas podem cair com um golpe, e personagens com poucos PV também correm esse risco. A proteção forte é intencional e se aplica igualmente a inimigos que tenham esses equipamentos.
-
-A RD limita o dano de ataques comuns, mas golpes concentrados e o esgotamento de usos/PA preservam a ameaça. Testar a frequência de manutenção, a pressão de vários ataques, a sobrevivência antes de Ferido e a eficácia de Leves contra proteção. Ver [plano de playtests](../planejamento/playtests.md). Estes exemplos são aritméticos; não são resultados de sessões.
-
-## Armadura Natural e quedas — atualização de playtest
-
-O traço [Armadura Natural](origens-e-tracos.md#resistência) custa 2 pontos de origem: **RD 2, dois usos**, ativados após conhecer o dano, sem PA, no máximo um uso por ataque e com proteção de todas as instâncias, mínimo 0. Recupera os dois usos no **descanso curto sem reparo/manutenção**.
-
-Pode vestir armadura convencional, mas escolhe **uma das duas proteções por ataque**, sem somar natural e convencional. As reservas ficam separadas. A proteção escolhida pode somar a Defender; a exclusão Esquiva/Defender permanece.
-
-Exemplo: dano 5, Armadura Natural + Defender resulta em 1, gastando um uso natural e 1 PA. Não pode gastar também um uso de placas para reduzir esse mesmo ataque.
-
-[Quedas](quedas.md) permitem um uso de armadura, seguindo a escolha entre natural e convencional. Não permitem Defender ou Esquiva. Essa exceção não resolve outras fontes ambientais, sopro, áreas ou dano contínuo; suas interações permanecem pendentes.
+Melhorias de equipamento, proteção elemental, novos escudos, preços e aquisição inicial permanecem pendentes. Testar pressão sobre PA, manutenção, Ferido e sobrevivência antes de alterar valores.

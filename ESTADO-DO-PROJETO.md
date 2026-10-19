@@ -1,64 +1,50 @@
-# Estado do projeto — 2026-10-14
+# Estado do projeto — 2026-10-19
 
-**CdM RPG** é um sistema autoral d20 com progressão modular de Corpo, Mente e Espírito, 4 Pontos de Ação (PA) por turno, movimentação por faixas e Exaustão como principal consequência de desgaste.
+**CdM RPG**: sistema autoral d20, nove atributos, reservas de Corpo/Mente/Espírito, quatro PA por turno, distâncias narrativas e exaustão persistente.
 
-## Confirmado
-- Atributos FOR, DES, CON, INT, SAB e CAR; distribuição inicial de 10 pontos, começando em 0; máximo inicial 5.
-- **Testes gerais: 1d20 + Atributo + Proficiência**, mais modificadores aplicáveis. Atributos somam seu valor numérico; proficiências mantêm seus bônus e escalas próprias.
-- **Vantagens/Desvantagens cumulativas:** anulam-se uma a uma; cada unidade restante acrescenta um d20. Rolar todos e escolher maior com Vantagem, menor com Desvantagem; saldo zero usa 1d20. 1/20 naturais usam apenas o dado selecionado.
-- **Dano:** atributo e proficiência não somam diretamente por padrão. Dano-base da arma +1 por cada 5 pontos completos de margem sobre a Defesa, além de crítico natural +2 e demais efeitos já existentes de Pesado/Brutal, habilidades e manobras conforme seus textos. Gatilhos/nomenclatura ainda pendentes não foram definidos.
-- **Duas Leves, uma em cada mão:** ataque combinado por 1 PA, uma rolagem, base da principal + metade da base da secundária arredondada para cima. Uma única instância para RD; margem e demais modificadores apenas uma vez. Conta como um ataque.
-- Defesa passiva base 10 + Destreza; Esquiva é reação de 1 PA contra um ataque.
-- 4 PA no início do turno; ataques sucessivos no próprio turno usam **0, −5, −10, −10** (seguintes −10). Empunhando uma Leve em cada mão: **0, 0, −5, −10** (seguintes −10). Ataques extras gratuitos contam, salvo texto específico. Manobras independentes não contam; reações fora do turno continuam pendentes.
-- Movimento Médio por 1 PA, divisível entre ações; faixas Toque, Curto, Médio, Longo, Muito Longo, Fora de Alcance.
-- Postura é resistência especial de certos inimigos ao controle.
-- Ataque de Oportunidade é manobra geral aprendível, não reação universal.
-- 5 Pontos de Exaustão (PE) = 1 Nível de Exaustão (NE); 5 NE = colapso definitivo.
-- Descanso curto remove 2 PE (ou 1 PE com NE 1); longo remove todos PE e 1 NE.
-- Ao chegar a 0 PV: Lutar Contra a Morte, Aceitar a Queda ou Último Ato.
-- Medicina é perícia; estabilizar não restaura PV.
-- Ferido ao chegar à metade dos PV; bloqueia cura até tratamento; uma cura efetiva em personagem caído restaura exatamente 1 PV e remove Ferido.
-- Sequelas após Aceitar a Queda persistem, mas podem ser tratadas por meios extraordinários.
+## Confirmado nesta integração
+
+- Nove atributos: Potência, Reflexo, Resiliência; Raciocínio, Foco, Percepção; Vontade, Influência, Sintonia. Cada um começa 1, +4 pontos redistribuíveis até 0, máximo inicial 3; limite normal 10, excedido apenas por itens/magias. Progressão posterior adiada.
+- **1d20 + proficiência + modificadores, sem somar atributo**. Sob pressão, só o bônus de proficiência é limitado a 2 × atributo. Abordagem pode mudar o atributo sugerido.
+- Padrão na DT; pleno em DT + máximo(0, 10 − atributo); extremo desbloqueado em 10, DT +20 − atributo. Todo sucesso com atributo 10+ é pleno, sem converter falhas em sucessos.
+- Naturais 1/20, Vantagens/Desvantagens cumulativas com cancelamento, desempates e opostos descritos em [testes](regras/atributos-e-testes.md).
+- Alma máxima = média arredondada para cima dos três atributos + bônus de espécie. Forçar por 1 Alma, ou 1 PE se a reserva estiver vazia, uma vez por teste, preservando dados/modificadores e aceitando novo resultado. Morte não pode ser forçada.
+- PV base 6 +2 × máximo de Corpo; Defesa 10 + Reflexo; carga base do porte +2 × Potência.
+- Pleno dá Golpe Pesado +1 dano; extremo dá Golpe Brutal +2 em vez de +1; crítico 20 natural +2 adicional. Sem progressão contínua de dano por blocos de cinco.
+- Repetição no turno: normal, 1/2/3... Desvantagens; ataque combinado de duas Leves: normal, normal, 1/2... Desvantagens. Contagem compartilhada, benefício só no ataque com ambas; fora do turno não conta/não penaliza.
+- Duas Leves: 1 PA, uma rolagem, menor proficiência das duas, uma instância, base principal + metade da secundária para cima.
+- Corpo a corpo usa Potência, Leve permite Reflexo; distância/arremesso usam Foco. Golpe Devastador exige aprendizado e Pesada, inclusive arremessada, até 3 PA adicionais por +2 dano cada.
+- Quatro resistências (Vigor, Lucidez, Convicção, Esquiva), quinze gerais incluindo Fluxo e oito conhecimentos incluindo Espiritualismo. Performance substitui Atuação; Liderança retirada em favor de Persuasão. Profissionais são lista aberta.
+- Curto de 1h: duas atividades diferentes entre recuperar uma reserva, tratar feridas ou manter armadura. Alma recupera metade máxima para cima. Tratamento próprio 2 + Resiliência; de outro 2 + bônus de Medicina. Remove Ferido, automático, um tratamento por paciente/descanso.
+- Morte: 1d20 puro, sem bônus/penalidades ou rerrolagem; DT 10 +5 por nova tentativa na cena, sucesso 1 PV, falha morte; natural 20 sempre sucede.
+- Falta de alimentação, hidratação ou sono impede redução de PE no longo e gera 1 PE por requisito faltante. Namarés precisam beber e molhar-se: falta de banho conta como sede, sem penalidade duplicada.
+- Dez tipos de dano; proteção inicial física, Escamas geral 1, resistência dracônica elemental 2. Teste obrigatório do efeito é separado da ação defensiva; só uma reação defensiva por ocorrência. Aplicar RD compatível por componente e geral uma vez por instância.
+- Origens são seis categorias raciais, com 14 espécies; uma característica de origem, duas de espécie, distribuição de Alma e porte separado. Misturas permitidas exceto **Gnomos e Fadas**.
 
 ## Provisório para playtest
-- **Proficiências iniciais:** 3 pontos. Perícias gerais, ofícios e armas: um nível por ponto; armaduras: um nível de acesso por ponto; escudos: compra da proficiência. Conhecimentos e idiomas: dois níveis por ponto, no mesmo ou em dois diferentes dentro da categoria; não misturar categorias.
-- Listas de 17 perícias gerais e 7 conhecimentos com atributos padrão aprovadas. Conhecimentos usam Inteligência; Fortitude usa Constituição, Integridade usa Sabedoria. Ofícios são especialidades abertas, atreladas a um atributo, cinco níveis e +0 sem níveis.
-- **Idiomas:** nove opções; testes com Inteligência. Amador (1): compreende, mas pode testar em escritas/dialetos complexos, sem bônus. Fluente (2): normalmente sem teste; textos muito complexos ainda podem exigir teste, com +2.
-- Comum gratuito e ofício inicial gratuito continuam apenas sugestões; concessões por história/habilidades precisam ter seus níveis especificados.
-- Tabela de penalidades de NE aprovada **para teste**; valores das manobras ainda provisórios.
-- **Condições aprovadas para playtest em 2026-10-12, abertas a revisão:** Caído (−2 nos ataques corpo a corpo próprios, +2 nos recebidos; levantar 1 PA; rastejar Curto/1 PA), Agarrado (sem deslocamento próprio; fuga 1 PA e teste), Imobilizado (sem deslocar/levantar; −2 nos ataques próprios, +2 nos recebidos) e Atordoado (−2 PA na próxima renovação; sem reações até o início desse turno).
-- Imobilização por agarrão tem saída em etapas; modificadores equivalentes de condições não se somam. Levantar não provoca Ataque de Oportunidade por padrão.
-- Procedimento de controle e Postura aprovado para playtest: tentativas podem desgastar Postura; a ação que a reduz a 0 já aplica o controle fisicamente possível.
-- **Armas modulares e combate: regras iniciais de playtest registradas em 2026-10-13, sujeitas a revisão.** Base modular 2 de dano/2 espaços (Desarmado tem base 0 e propriedades/espaços pendentes), proficiência pelo tipo, propriedades de 1 espaço; Munição não ocupa espaço quando aplicável.
-- Famílias aprovadas: Espadas, Machados, Martelos, Adagas, Armas de Haste, Arcos, Bestas, Armas de Fogo, Correntes e Chicotes, e Desarmado. O nome definitivo de Correntes e Chicotes está pendente; “Armas Flexíveis” é apenas sugestão.
-- **Desarmado:** dano base 0; +1 a cada 5 pontos completos acima da Defesa e crítico natural +2. Arma Natural concede base 1; Avançada usa o nível de Desarmado, mínimo 1, e uma propriedade corpo a corpo. Custos ainda propostos estão assinalados no catálogo; habilidades de pugilista continuam pendentes.
-- Corpo a corpo: **Leve −1, Versátil +1 com duas mãos e Pesada +2 com duas mãos**, mutuamente exclusivas; na base comum 2 resultam em 1, 2/3 e 4. Duas Leves seguem o ataque combinado confirmado acima; Alcance, Impacto, Furtiva e Arremessável incluídas. Alcance permite atacar até Curta, Impacto dá +1 em Golpe Pesado, Furtiva dá 1 Vantagem para ocultar a arma e Arremessável permite arremesso até Média.
-- Tipos de dano Cortante/Perfurante/Contundente não têm efeitos passivos automáticos. O procedimento antigo de duas instâncias para Leves foi substituído pela decisão confirmada de 2026-10-14.
-- Distância: padrão duas mãos/Médio; Compacta 1 dano/uma mão, proibida em arcos; Potente +1/duas mãos; Recarregar +2 e recarga de 1 PA após cada tiro; Estendida Longo; Munição gratuita em espaços, com aquisição necessária.
-- **Golpe Devastador substitui Ataque Poderoso:** requer Pesada, modifica um ataque, custa 1 PA do ataque + até 3 PA adicionais, soma +2 dano por PA adicional (até +6) e usa uma única rolagem.
-- **Armaduras e escudo aprovados para playtest em 2026-10-13:** proficiência mínima 0/1/2 para leves/médias/pesadas; couro RD 2, malha RD 3 e placas RD 4, todas com 3 usos. Ativar após conhecer o dano, sem PA, no máximo 1 uso por ataque; manutenção durante descanso curto recupera os três usos.
-- Um único escudo básico: uma mão, +1 de Defesa e reação básica **Defender**, 1 PA por RD 2 após conhecer o dano. Uma vez por ataque; pode reagir a outros enquanto houver PA. Soma à RD de uma ativação da armadura.
-- Um uso de armadura e/ou um Defender protegem todas as instâncias do ataque, quando houver, aplicando RD separadamente, mínimo 0 por instância. Duas Leves agora têm uma única instância, com RD uma vez sobre o total. Armaduras não dão bônus de Defesa nem penalidades adicionais de movimento/Destreza neste teste.
-- Melhorias e armaduras superiores durante campanhas e novos escudos são uma direção de expansão aprovada; efeitos, custos e modelos adicionais continuam pendentes.
-- **Aparar removido do playtest.** Contra cada ataque, escolher Esquiva ou Defender (exige escudo), nunca ambos. Mesmo se Esquiva não evitar o acerto, não pode usar Defender contra esse ataque. A escolha cobre todas as instâncias; outro ataque permite nova escolha, respeitando PA e impedimentos de reações.
-- **Catálogo de origens:** Corpo, Sentidos, Mobilidade, Resistência, Cultura e Formação, Afinidades Sobrenaturais. Todas as listas são iniciais e serão reavaliadas antes do playtest; propostas restantes estão assinaladas.
-- **Porte:** Médio gratuito, sem ocupar traço; Pequeno/Minúsculo/Grande custam 1 cada, proibido escolher outro tamanho. Inventário base 3/5/10/20 + metade de FOR arredondada para cima; equipamentos usados contam. Diferenças físicas: −2/−5/−10 para o menor; detalhes pendentes e sem nova penalidade de d20.
-- **Arredondamento:** para cima por padrão, preservando exceções expressas como os 5 pontos completos da margem. Itens de 1–4 espaços e adaptação de porte combinada na criação; detalhamento adiado.
-- **Armas naturais:** base mínima 1, inclusive após Leve e antes de RD; Avançada usa nível de proficiência, não bônus numérico, e escolhe uma propriedade corpo a corpo. Empunhadura/combinação de duas armas naturais permanecem pendentes.
-- **Mobilidade e quedas:** Aderência Médio/1 PA; queda Toque/Curto/Médio/Longo/Muito Longo/Fora de Alcance causa 0/2/4/8/16/32. Curto+ impõe Caído; permite um uso de armadura, sem Esquiva/Defender. Atordoado não provoca queda automática.
-- **Armadura Natural:** RD 2, dois usos recuperados no descanso curto sem reparo; escolher natural ou convencional por ataque, podendo somar a escolhida a Defender.
-- **Cultura e Formação:** Formação Diversificada dá 1 PP para gerais/profissionais; Poliglota dá 2 PP para idiomas (quatro níveis). Traços sociais substituem dependência de lugares/povos/contatos.
-- **Afinidades:** somente Sensibilidade Mágica (custo 2), Resistência Elemental, Fraqueza Elemental e Arma de Sopro. Sopro: Curto, dano automático 3, alvos adjacentes, usos iguais à CON por descanso **longo**; custo 3/ativação 2 PA ainda propostos. Área e defesa/RD pendentes. Percepção de espíritos fica para habilidades.
-- Custos e DT de procedimentos médicos continuam **propostos, sem aprovação**.
 
-Ver detalhes em [proficiências](regras/proficiencias.md), [perícias](regras/pericias.md), [idiomas](regras/idiomas.md), [armaduras e escudos](regras/armaduras-e-escudos.md), [armas](regras/armas.md), [combate](regras/combate.md), [manobras](regras/manobras.md), [condições](regras/condicoes.md) e [Postura](regras/postura.md).
+- **5 PP iniciais**, máximo nível 2; conhecimentos/idiomas dois níveis por ponto dentro da categoria. Comum fluente gratuito. Humanos +2 PP em qualquer categoria.
+- Lista de perícias e atributos sugeridos; a abrangência de Espiritualismo ainda precisa de detalhamento.
+- Valores modulares de armas, dano desarmado comum 0, armaduras físicas 2/3/4 com três usos e acesso 0/1/2; escudo +1 Defesa e Defender 1 PA/RD física 2. Compacta/Potente incompatíveis.
+- Recuperação completa de vida/Alma e remoção de Ferido no longo de 8h; PE/NE seguem recuperação normal se condições adequadas.
+- Bases de carga 3/5/10/20, inventário por espaços, modificadores físicos de porte e detalhes de quedas.
+- Valores/traços de espécies conforme [catálogo atual](regras/origens-e-tracos.md), incluindo Robustez anã +3 PV, conjunto de Dríades/Arborídeos e divisão dos Gnomos.
+- Condições, tabela de NE, manobras e Postura preservam suas aprovações de playtest anteriores. Não converter todos os modificadores situacionais em Desvantagens por analogia.
 
-## Próximos assuntos
-**Foco atual: revisar o primeiro catálogo de traços e preparar habilidades/fichas de playtest.** As seis categorias já estão registradas em [origens e traços](regras/origens-e-tracos.md), com até 5 positivos (1–3) e 3 negativos (−1 a −3), aparência livre e incompatibilidades. A reserva inicial de 3 pontos de origem e campos explicitamente propostos ainda precisam de fechamento. O detalhamento de porte/inventário segue adiado; decisões preservadas em [porte e inventário](regras/porte-e-inventario.md).
+## Proposto e pendente
 
-Definir habilidades iniciais e outras concessões além de Formação Diversificada/Poliglota, efeitos da proficiência em escudos e equipamento inicial; montar fichas de playtest. Testar sobrevivência com pouca vida, armaduras e Defender, frequência de manutenção e pressão sobre PA/usos; avaliar a escolha exclusiva entre Esquiva e Defender por ataque. Alinhar a nomenclatura e os gatilhos de Ataque/Golpe Pesado/Brutal; testar o núcleo aditivo, cancelamento cumulativo de Vantagens/Desvantagens, dano, RD única do ataque combinado, armas mágicas, sequências numéricas, ataques gratuitos e Golpe Devastador; avaliar futuras habilidades para poucos golpes fortes sem tratá-las como aprovadas. Testar condições e completar os procedimentos pendentes de contenção/duração; Fortitude e estabilização; Sequelas; progressão modular; catálogo de habilidades; playtests.
+Distribuição de Alma dos Golias **+2 Corpo/+1 Espírito** foi apresentada para conferência e continua explicitamente proposta. A integração não promove propostas silenciosamente.
 
-## Consolidação de 2026-10-14
-As decisões de testes, dano, repetição e duas Leves acima estão **confirmadas por solicitação explícita do criador**. Substituem atributos por quantidade de dados, penalidades por retirada de d20 e duas instâncias de Leves. Os demais valores aprovados apenas para playtest conservam esse status; propostas de habilidades, custos e procedimentos abertos não foram promovidas a regras. Exemplos aritméticos e referências foram conferidos; não houve playtest de mesa nem validação de balanceamento.
+Gnomos: dividir/reunir 1 PA (reunião paga por uma parte), ficha anterior anotada, recursos pela metade para cima, dois conjuntos de ações, distância máxima Média, porte uma categoria menor; corpo entre dois que chega a 0 morre, escolhas contra a morte só no único corpo. **Recomposição de recursos após gastos/dano e perda definitiva de uma parte permanece pendente**.
 
-Consulte `design/pendencias.md` antes de fechar uma regra.
+Progressão e conjuração serão tratadas com habilidades. Fabricação e equipamentos iniciais ficam para depois da integração. Não foram inventados ET, receitas, recursos de Mana, equipamentos ou benefícios de progressão. Outras lacunas preservadas em [pendências](design/pendencias.md).
+
+## Progresso e próximas etapas
+
+Núcleo, combate, Alma, descanso, espécies e referências foram migrados documentalmente; guias de [criação](referencias/criacao-de-personagem.md) e [consulta rápida](referencias/guia-rapido.md) refletem esta versão. O portal existente consome os Markdown, sem nova implementação de site ou ficha.
+
+Próxima etapa: desenvolver habilidades/progressão/conjuração, retomar fabricação/equipamentos e montar fichas para playtest, sem tratar a migração como validação de balanceamento. Ver [roadmap](planejamento/roadmap.md) e [plano de sessões](planejamento/playtests.md).
+
+## Histórico e alcance
+
+As regras substituídas de seis atributos aditivos, repetição numérica, dano contínuo por margem e compra de traços não são vigentes. [Decisões](design/decisoes.md), [changelog](CHANGELOG.md) e [catálogo histórico](design/catalogo-origens-historico.md) preservam o contexto. Nenhum playtest de mesa foi realizado nesta integração.

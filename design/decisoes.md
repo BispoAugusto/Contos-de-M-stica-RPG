@@ -1,5 +1,59 @@
 # Decisões registradas
 
+## 2026-10-19 — Nove atributos, Alma e origens por espécies
+
+**Aprovação explícita do criador após revisão consolidada; implementação autorizada no GitHub.** Decisões confirmadas, valores provisórios, propostas e pendências permanecem distintos. Não houve playtest de mesa.
+
+### Núcleo confirmado
+
+- Nove atributos em três Partes: Potência/Reflexo/Resiliência; Raciocínio/Foco/Percepção; Vontade/Influência/Sintonia. Inicial 1 cada +4 redistribuíveis até 0, máximo inicial 3. Limite normal 10, excedido somente por itens/magias. Progressão adiada.
+- Teste **1d20 + proficiência + modificadores**, sem atributo somado. Sob pressão, limitar somente bônus de proficiência a **2 × atributo**. Perigo, urgência ou interferência ativa, não apenas dificuldade. Abordagem pode trocar atributo sugerido antes de rolar.
+- Padrão na DT; pleno em DT + máximo(0,10 − atributo), sem penalidades narrativas, mas preservando custos; extremo a partir de atributo 10, DT +20 − atributo, com benefício adicional.
+- Naturais 1/20, cancelamento cumulativo de Vantagens/Desvantagens e seleção de um dado preservados. Em opostos, total do adversário é DT para margens; empate favorece atacante/iniciador. Sem iniciador, maior máximo da Parte correspondente, depois rerrolagem dos empatados. Dois 20 naturais comparam totais.
+- Iniciativa sem perícia fixa; ficção/Reflexo podem decidir. Rolagem quando necessária com Reflexo e proficiência adequada.
+- Alma máxima = média para cima dos três atributos + bônus de espécie. Forçar depois do resultado e antes das consequências: 1 ponto correspondente ou +1 PE se vazio, uma vez/teste, mesma configuração e novo resultado obrigatório. Não é vantagem/nova ação. Morte excluída.
+- PV 6 +2 × máximo de Corpo; Defesa 10 + Reflexo; carga base do porte +2 × Potência. Gastos de Alma atual não reduzem máximos derivados.
+- Lutar Contra a Morte: puro 1d20, DT 10 +5 por tentativa adicional na cena, sem bônus/penalidades/Vantagem/Desvantagem/rerrolagem. Sucesso 1 PV, falha morte, 20 sempre sucede, sem graus.
+- Pleno em ataque: Golpe Pesado +1; extremo: Golpe Brutal +2 em vez de +1; 20 natural +2 cumulativo, sem conceder grau automaticamente.
+- Repetição: normal, 1/2/3... Desvantagens; duas Leves combinadas: normal, normal, 1/2... Desvantagens. Posição compartilhada, benefício só quando usa ambas. Fora do turno não recebe/não avança; ataques gratuitos no próprio turno contam salvo exceção.
+- Duas Leves: menor proficiência inclusive 0, depois teto; 1 PA/uma rolagem/uma instância, principal + metade secundária para cima, modificadores uma vez.
+- Corpo a corpo Potência, Leve permite Reflexo, distância/arremesso Foco. Impacto +1 em pleno/extremo. Compacta/Potente incompatíveis. Golpe Devastador aprendido com Pesada admite arremesso e mantém até três PA adicionais.
+- Quatro resistências: Vigor, Lucidez, Convicção, Esquiva. Quinze gerais incluindo Fluxo/Sintonia, oito conhecimentos incluindo Espiritualismo. Performance substitui Atuação; Liderança retirada, Persuasão mantida. Profissionais em lista aberta; Luta/Pontaria não adotadas.
+- Curto 1h com duas atividades diferentes; metade de uma reserva para cima por atividade; tratamento próprio 2 + Resiliência ou de outro 2 + bônus de Medicina, automático, remove Ferido, um tratamento/paciente. Manutenção restaura usos de armadura.
+- Requisitos do descanso: falta de comida, água ou sono impede reduzir PE e gera 1 PE por faltante. Namarés precisam beber e molhar-se: falta de banho é sede, sem segunda penalidade.
+- Dez tipos de dano. Equipamentos iniciais só RD física; RD específica por componente e geral uma vez por instância. Resistência exigida por efeito é separada da única ação defensiva; áreas automáticas não são evitadas por aumentar Defesa. RD incompatível pode consumir recurso sem reduzir dano.
+
+### Origens e espécies
+
+- Seis origens/14 espécies: Humanos (Homens Altos, Anões, Pequeninos), Féericos (Elfos, Fadas, Dríades), Bestiais (Feras, Namarés, Pássaros, Talpis), Dracônicos (Draconatos), Verdantes (Gnomos, Arborídeos), Rúnicos (Golias).
+- Origem racial, não formação: uma característica de origem, duas de espécie, distribuição de +3 Alma, porte separado. Mistos escolhem traço de cada espécie, uma origem e uma distribuição completa; porte de qualquer participante. Gnomos/Fadas não podem ser mistos.
+- Humanos dão +2 PP em qualquer categoria, obedecendo custos/limites. Homens Altos +2 atributos iniciais e bônus ao forçar vazio; Anões robustez/especialidade; Pequeninos coragem/escape.
+- Sensibilidade Féerica: magia ativa Curto sem PA, sem localização/identificação automática. Elfos recuperam bônus de Alma ligado à atividade em natureza. Pó de Fada: reação 1 PA, Curto, antes do teste, +2/−2, três usos longos.
+- Bestiais escolhem Selvagem (+2 Corpo), Astúcia (+2 Mente) ou Agouro (+2 Espírito), mais +1 livre inclusive na mesma Parte. Feras: dano natural por nível de Golpes Desarmados, mínimo 1, **sem Leve**. Talpis: sismos Curto e escavação Curto/1 PA.
+- Namarés: regeneração +2 PV automática no curto, mesmo Ferido sem removê-lo; partes pequenas em um longo, membros em três. Língua Curto/1 PA para objetos ou manobra conhecida com custos normais; Espinhos 1 perfurante por ação agressiva bem-sucedida; luz Curto sem duração máxima.
+- Draconatos +3 Corpo; origem RD elemental passiva 2, escolhas Fogo/Frio/Eletricidade/Ácido/Veneno. Escamas geral 1, usos máximo de Corpo, longo; não somar armadura convencional. Sopro 2 PA, três usos longos, cone Curto/dano 2, Esquiva DT 10 + máximo de Corpo, sucesso padrão nega.
+- Verdantes usam Enraizamento: uma atividade combina tratamento próprio e metade de Corpo; essas duas opções contam realizadas. Gnomos +3 Mente; porte 0–1/2–3/4+ Corpo = Pequeno/Médio/Grande. Divisão em dois com metade de atuais/máximos para cima, ações próprias, mesma iniciativa, distância Média e porte uma categoria menor. Dividir/reunir custa 1 PA, reunião paga por uma parte; ficha integral anotada. Corpo entre dois morre a 0, escolhas contra a morte só no único. Desprendimento: reação 1 PA +1 Corpo atual, sem limite por rodada. Reunião dos recursos após perdas continua pendente.
+- Rúnicos: Primordial fluente e Vantagem em Vigor contra frio/calor ambiental. Golias: força natural e uma manifestação Névoa/Tempestade/Montanha/Vulcão/Oceanos, três usos longos. DT 10 + máximo de Corpo quando necessária; procedimentos em [espécies](../regras/origens-e-tracos.md).
+
+### Provisório para playtest
+
+Cinco PP iniciais, máximo nível 2; Comum fluente gratuito; listas e atributos sugeridos; valores de equipamentos e espécies; recuperação completa longa; robustez anã +3 PV; conjuntos de Dríades/Arborídeos; divisão dos Gnomos. Condições, NE, Postura/manobras e quedas mantêm seu status anterior. Aprovar os procedimentos não valida balanceamento.
+
+### Proposto/pendente e adiamentos
+
+Distribuição +2 Corpo/+1 Espírito dos Golias permanece apresentada para conferência. Pendentes recomposição dos recursos dos Gnomos, escopo de Espiritualismo e extremo em atributos excepcionalmente altos. Fabricação/equipamentos depois da integração; progressão/conjuração com habilidades. Custos médicos fora de descanso, Sequelas, Último Ato, contenções e outros detalhes preservados em [pendências](pendencias.md).
+
+### Substituições e histórico
+
+Substitui seis atributos aditivos, dano contínuo por margem, repetição numérica, três PP iniciais, catálogo racial por pontos e traços naturais antigos na criação padrão. Não converte automaticamente penalidades situacionais de condições em Desvantagens. Catálogo antigo preservado em [histórico](catalogo-origens-historico.md).
+
+Textos vigentes: [estado](../ESTADO-DO-PROJETO.md), [testes](../regras/atributos-e-testes.md), [Alma](../regras/alma.md), [combate](../regras/combate.md), [descansos](../regras/descansos.md), [espécies](../regras/origens-e-tracos.md), [criação](../referencias/criacao-de-personagem.md). Guias e planejamento foram alinhados.
+
+## Histórico anterior — não interpretar como regras atuais
+
+Os registros abaixo preservam o que foi decidido em suas datas. Trechos substituídos pela integração acima não permanecem vigentes; propostas antigas não são promovidas.
+
+
 **Confirmado:** testes 1d20 + Atributo + Proficiência, Vantagens/Desvantagens cumulativas, sequências numéricas de ataques e dano combinado de duas Leves (2026-10-14; detalhes abaixo); 4 PA; defesa 10+DES; Esquiva contra um ataque; movimento Médio por PA divisível; manobras independentes não contam como ataques; Ataque de Oportunidade aprendível; Postura de alguns inimigos; Exaustão 5 PE/NE, descanso curto 2 PE, longo todos PE +1 NE; três escolhas ao chegar a 0 PV; Medicina estabiliza; Ferido bloqueia cura; cura do caído dá 1 PV e remove Ferido; Sequelas podem exigir aventuras para tratar.
 
 **Aprovado para playtest:** tabela cumulativa de NE; condições Caído, Agarrado, Imobilizado e Atordoado e procedimentos de interação com Postura (2026-10-12); construção modular de armas e Golpe Devastador (registro de 2026-10-13). A retirada de d20 e as duas instâncias de Leves desse registro foram superadas em 2026-10-14.

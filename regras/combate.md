@@ -1,47 +1,69 @@
 # Combate
 
-**Núcleo confirmado; valores específicos provisórios.**
+**Núcleo confirmado, atualizado em 2026-10-19.** Valores de equipamentos, manobras e condições mantêm status de playtest.
 
-- 4 PA renovados no início do turno próprio; não acumulam acima de 4. PA não usados podem ser gastos em reações fora do turno.
-- Custos iniciais: movimento 1 PA, ataque básico 1 PA, Esquiva 1 PA, interação simples 1 PA.
-- Testes de ataque seguem **1d20 + Atributo + Proficiência**, com Vantagens/Desvantagens e modificadores conforme [atributos e testes](atributos-e-testes.md). Ataques repetidos no próprio turno usam penalidades numéricas **0, −5, −10, −10** (seguintes −10); com uma arma Leve em cada mão, **0, 0, −5, −10** (seguintes −10). Uma manobra independente ofensiva não é um ataque.
-- Defesa passiva base = 10 + Destreza; escudo empunhado concede +1 para playtest. Esquiva soma bônus de Reflexos à Defesa contra **um** ataque, sem rolagem.
-- **Reações defensivas — playtest:** Aparar foi removido. Contra cada ataque, escolha **Esquiva ou Defender com escudo**, nunca ambas, mesmo se Esquiva não evitar o acerto. A escolha cobre o ataque inteiro, incluindo o ataque combinado de duas Leves; pode escolher novamente contra outro ataque, respeitando PA e impedimentos de reações.
-- PV = 6 + 2 × Constituição + bônus. Em um acerto, **dano-base da arma + 1 por cada 5 pontos completos de margem sobre a Defesa + efeitos aplicáveis**. A margem usa o resultado total do ataque, já com a penalidade de repetição. Não há bônus de margem abaixo de 5, nem bônus negativo. Atributos e proficiência não somam dano diretamente por padrão; exceções exigem texto específico. Crítico natural selecionado mantém +2 (valor inicial); efeitos já existentes de Ataque Pesado/Brutal, habilidades e manobras permanecem conforme seus textos. A nomenclatura Golpe Pesado/Brutal e seus gatilhos completos continuam pendentes, sem novos limiares nesta atualização.
-- **Desarmado — playtest:** dano base 0, com bônus por margem e crítico natural +2 normalmente. Arma Natural dá base 1; Arma Natural Avançada usa o nível de Desarmado, mínimo 1, e uma propriedade corpo a corpo, conforme [traços](origens-e-tracos.md). Habilidades de pugilista continuam pendentes. O ataque básico custa 1 PA e conta para ataques consecutivos. Ver [armas](armas.md).
-- **Armaduras e escudo — provisórios para playtest:** couro/malha/placas têm RD 2/3/4 e 3 usos. Após conhecer o dano, gastar no máximo 1 uso por ataque, sem PA; manutenção durante descanso curto recupera os 3 usos. Defender com escudo custa 1 PA, dá RD 2 e pode somar à armadura; no máximo uma vez por ataque. Cada ativação protege todas as instâncias do ataque, quando houver, com RD separada e dano mínimo 0. O ataque combinado de duas Leves tem uma única instância, portanto recebe RD uma vez. Ver [armaduras e escudos](armaduras-e-escudos.md).
-- Iniciativa dinâmica: iniciador evidente age primeiro; caso contrário, teste de Destreza. Ator escolhe próximo aliado que ainda não agiu; quando lado termina, o outro age. Todos têm um turno por rodada.
-- Interrupção: quem sofreu dano antes de agir pode reivindicar próximo turno. Inspiração dos jogadores e Medo dos inimigos também permitem interrupções; no máximo 1 Medo por rodada; última declaração vence. Procedimento completo pendente.
+## Turno e testes
 
-## Armas e ataques — atualização aprovada de 2026-10-14
+- 4 PA renovados no início do próprio turno, sem acumular acima de 4, ressalvadas exceções expressas. PA restantes podem pagar reações fora dele.
+- Movimento padrão 1 PA; ataque básico 1 PA; Esquiva 1 PA; interação simples 1 PA.
+- Ataque: **1d20 + bônus de proficiência + modificadores**. Sob pressão, limitar somente a proficiência a **2 × atributo**.
+- Corpo a corpo usa Potência; Leve permite Reflexo; distância e arremesso usam Foco.
+- Manobra ofensiva independente não é ataque. As que exigem/modificam ataque contam pelo ataque.
+- **PV = 6 + 2 × máximo de Corpo + bônus explícitos**. Corpo 0 dá 6; Corpo 1 dá 8; Corpo 6 dá 18 antes de bônus. Gastar Corpo atual não reduz PV máximos.
+- **Defesa passiva = 10 + Reflexo**, com +1 do escudo empunhado.
 
-**Provisório para playtest, sujeito a revisão.** A construção modular está em [armas](armas.md): base 2 de dano, 2 espaços e propriedades que definem o perfil da arma.
+## Repetição no próprio turno
 
-**Confirmado nesta atualização:** as sequências abaixo substituem a antiga redução de d20. Os valores e procedimentos de equipamento/manobras já aprovados apenas para playtest mantêm esse status.
-
-| Ataque no próprio turno | Padrão | Uma arma Leve em cada mão |
+| Posição do ataque | Ataque comum | Ataque combinado de duas Leves |
 |---|---|---|
-| 1º | 0 | 0 |
-| 2º | −5 | 0 |
-| 3º | −10 | −5 |
-| 4º e seguintes | −10 | −10 |
+| 1º | Normal | Normal |
+| 2º | 1 Desvantagem | Normal |
+| 3º | 2 Desvantagens | 1 Desvantagem |
+| 4º | 3 Desvantagens | 2 Desvantagens |
+| Seguintes | Mais 1 por novo ataque | Mais 1 por novo ataque |
 
-- A contagem acompanha os ataques do turno, mesmo com movimento, recarga ou outras ações entre eles. Trocar de arma não reinicia a contagem; a coluna especial exige uma Leve em cada mão.
-- **Ataques extras gratuitos contam na sequência**, tanto para receber a penalidade da posição ocupada quanto para avançar a contagem, salvo texto específico em contrário. Não recebem isenção apenas por não custarem PA.
-- A contagem reinicia no próximo turno próprio. O procedimento de reações fora do próprio turno permanece pendente.
+A contagem é compartilhada entre todos os ataques do turno. Trocar arma, mover ou recarregar não reinicia. A coluna depende **do ataque realizado**, não apenas de segurar duas armas. Ataques gratuitos contam salvo texto específico. **Fora do próprio turno, ataques não recebem nem avançam essa contagem.**
 
-- O ataque básico custa **1 PA** com qualquer perfil de arma. Pesada não aumenta esse custo automaticamente.
-- **Golpe Devastador** substitui Ataque Poderoso: exige Pesada, modifica um ataque e usa 1 PA do ataque + até 3 PA adicionais para +2 dano por PA adicional, até +6. Há uma única rolagem e um único ataque para a contagem de repetição.
-- Duas armas **Leves**, uma em cada mão, permitem ataque combinado de **1 PA e uma única rolagem**. Dano-base do ataque = **base da principal + metade da base da secundária, arredondada para cima**. Margem, crítico e demais modificadores aplicáveis entram **uma vez**. O dano é **uma única instância para RD** e o conjunto conta como **um ataque** na sequência especial; ver [armas](armas.md).
-- Recarregar custa 1 PA após cada tiro e antes do próximo. Intercalar recarga não reinicia a contagem de ataques do turno. Um segundo tiro sofre a penalidade de segundo ataque.
-- Manobras ofensivas independentes continuam fora dessa contagem; as que exigem ou modificam um ataque contam pelo ataque correspondente. Reações fora do turno continuam com o procedimento de contagem pendente.
+Exemplo: primeiro ataque com uma arma é normal; segundo com ambas é normal; terceiro com ambas tem 1 Desvantagem, ou 2 se realizado com uma só. Vantagens cancelam Desvantagens normalmente; [forçar](alma.md) rerrola preservando essa configuração.
 
-**Exemplo de repetição:** ataque, movimento e segundo ataque usam 0 e −5 na sequência padrão. Se uma habilidade conceder um ataque gratuito em seguida, ele é o terceiro e usa −10; com uma Leve em cada mão, as mesmas posições usam 0, 0 e −5. A gratuidade depende da habilidade e não é concedida por esta regra.
+## Dano e graus
 
-**Exemplo de dano:** d20 15 + atributo 3 + proficiência 2 −5 pelo segundo ataque = 15. Contra Defesa 10, a margem 5 acrescenta +1: uma arma de base 4 causa 5 antes de RD, sem somar novamente atributo ou proficiência.
+Em um acerto, aplique base da arma, grau, crítico e demais efeitos:
 
-Ver [manobras](manobras.md), [movimento](movimento.md), [postura](postura.md) e [plano de playtests](../planejamento/playtests.md).
+| Grau | Dano adicional |
+|---|---|
+| Padrão | Nenhum |
+| Pleno — Golpe Pesado | +1 |
+| Extremo — Golpe Brutal | +2, substitui o +1 |
 
-## Traços e quedas — atualização de playtest
+20 natural dá **+2 adicional**, cumulativo com pleno/extremo; não concede esses graus automaticamente. Impacto dá +1 em pleno ou extremo. A antiga progressão de +1 a cada cinco pontos de margem foi substituída.
 
-Armadura Natural tem RD 2 e dois usos, recuperados no descanso curto sem reparo; escolher natural ou convencional por ataque, podendo somar a escolhida a Defender. As [quedas](quedas.md) têm dano automático por faixa, permitem um uso de armadura e não permitem Esquiva/Defender. O [sopro](origens-e-tracos.md#afinidades-sobrenaturais) tem dano automático 3, Curto, usos iguais à CON por descanso longo; área, defesa/RD, classificação e custos assinalados como propostos ainda precisam de fechamento.
+Exemplo: Potência 3, proficiência 3 (+6), primeiro ataque sob pressão; dado 16 resulta em 22. Contra Defesa 15, o limiar pleno é 22. Uma Pesada de base 4 causa 5, ou 6 com Impacto, antes de RD. Se o dado for 20, total 26, continua pleno (atributo abaixo de 10), com +2 de crítico adicional.
+
+O teto da proficiência não altera o dano base. Golpes Desarmados comuns mantêm base 0 para playtest; armas naturais das Feras têm base igual ao nível de Golpes Desarmados, mínimo 1. Ver [armas](armas.md).
+
+## Defesas e efeitos automáticos
+
+**Esquiva:** reação de 1 PA, sem rolagem, soma o bônus da perícia à Defesa contra um ataque, limitado a 2 × Reflexo. Reflexo 0 permite bônus +0.
+
+**Defender:** reação de 1 PA com escudo, após conhecer o dano, aplica RD física 2. No máximo uma vez por ocorrência; pode reagir a outras se tiver PA e puder agir.
+
+Só uma ação defensiva por ocorrência: **Esquiva ou Defender**, nunca ambas, mesmo se Esquiva falhar em impedir o acerto. Aparar permanece removido. Armadura não gasta PA e pode acompanhar a reação escolhida. O +1 constante do escudo continua ao usar Esquiva.
+
+Testes de resistência exigidos por poderes são separados e não consomem a reação defensiva. Uma área pode exigir teste de Esquiva sem permitir a reação que aumenta Defesa: efeitos de acerto automático não consultam Defesa. Depois do teste, podem ser usadas armadura ou Defender, se houver recursos e permissão de agir. A consequência do teste (metade, zero etc.) vem do efeito; não há redução universal. Metade é arredondada para cima.
+
+Proteger-se com RD incompatível não reduz aquele dano, mesmo pagando PA/uso. O jogador conhece sua proteção e tem indícios do elemento recebido. Ver [tipos de dano](tipos-de-dano.md) e [proteções](armaduras-e-escudos.md).
+
+## Duas armas e manobras
+
+Duas Leves em mãos distintas: 1 PA, uma rolagem, base principal + metade da base secundária arredondada para cima. Usar a **menor proficiência**, mesmo 0, antes de aplicar o teto. Bônus e RD uma vez, uma instância, um ataque. Pode atacar só com uma arma usando sua própria proficiência e a coluna comum de repetição.
+
+Golpe Devastador é uma **manobra aprendida**, exige Pesada e não é característica automática da propriedade. Modifica um ataque: 1 PA do ataque + até 3 PA adicionais, +2 dano por adicional (máximo +6). Pode usar Pesada + Arremessável com Foco. Ver [manobras](manobras.md).
+
+## Iniciativa dinâmica
+
+Iniciador evidente pode agir primeiro pela ficção; a comparação de Reflexo resolve a maioria das disputas. Não há perícia fixa. Se precisar rolar, use Reflexo e uma proficiência adequada à primeira ação pretendida, com teto sob pressão e sem somar Reflexo. Desempates seguem [testes](atributos-e-testes.md).
+
+Ator escolhe o próximo aliado que ainda não agiu; quando seu lado termina, o outro age. Todos têm um turno por rodada. Quem sofreu dano antes de agir pode reivindicar o próximo turno; Inspiração/Medo também permitem interrupções, com no máximo 1 Medo por rodada e última declaração prevalecendo. O procedimento completo de interrupções permanece pendente.
+
+Movimento, Postura e condições preservam seus capítulos. [Quedas](quedas.md) têm exceções expressas de defesa; não são ataques.

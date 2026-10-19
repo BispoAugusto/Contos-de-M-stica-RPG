@@ -1,5 +1,23 @@
 # Histórico
 
+## 2026-10-19 — Integração de atributos, Alma, espécies e guias
+
+- Substituídos seis atributos aditivos por nove atributos, teto sob pressão, margens de pleno/extremo e limite normal 10.
+- Criado capítulo de Alma: médias/bônus de espécie, valores atuais/máximos, rerrolagem por reserva ou PE e proibição em morte.
+- Migrados PV, Defesa, carga, testes opostos, iniciativa, crítico, graus de dano e repetição por Desvantagens, inclusive fora do turno e uso efetivo de duas Leves.
+- Atualizadas 27 perícias, quatro resistências, Fluxo, Performance, Espiritualismo, lista profissional aberta, cinco PP provisórios e Comum fluente gratuito.
+- Criado capítulo de descansos: duas atividades curtas, tratamento, recuperação de reservas, manutenção, longo completo provisório e necessidades com PE. Umidade dos Namarés integra sede sem penalidade dupla.
+- Morte passa a puro 1d20 sem modificadores ou rerrolagens; preservadas outras escolhas e pendências médicas.
+- Documentados dez tipos de dano, RD física/específica/geral, dano misto e resistência obrigatória separada da ação defensiva.
+- Substituída compra de traços por seis origens/14 espécies, bônus de Alma, portes e mistos exceto Gnomos/Fadas. Catálogo anterior preservado como histórico.
+- Registrados detalhes de Namarés, Talpis, Fadas, Draconatos, Verdantes, Gnomos e Golias, com status e lacunas explícitos.
+- Criados guias de criação e consulta rápida; atualizados README, glossário, estado, decisões, pendências, ideias futuras, roadmap e plano de playtests.
+- Mantidos para depois habilidades/progressão/conjuração, fabricação e equipamentos iniciais. Distribuição de Alma dos Golias e recomposição de recursos dos Gnomos não receberam confirmação inventada.
+- Verificados 36 documentos, 27 perícias, 14 espécies e links internos; geração e verificação do portal concluídas. Nenhum playtest de mesa ou validação de balanceamento.
+
+**Histórico anterior:** entradas abaixo descrevem suas próprias versões. Em conflitos, prevalece a integração de 2026-10-19 e os capítulos atuais.
+
+
 ## 2026-10-14 — Testes aditivos, repetição e duas Leves
 
 - Consolidada a aprovação explícita de 1d20 + Atributo + Proficiência e de Vantagens/Desvantagens cumulativas: cancelamento uma a uma, d20 adicionais e escolha de maior/menor conforme saldo.

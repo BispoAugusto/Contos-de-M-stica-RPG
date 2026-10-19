@@ -1,52 +1,42 @@
 # Proficiências e pontos iniciais
 
-**Provisório para playtest — registro de 2026-10-13, sujeito a revisão.**
+**Provisório para playtest — atualizado em 2026-10-19.** A reserva inicial passa a **5 pontos de proficiência**, com máximo inicial **nível 2**.
 
-O personagem recebe **3 pontos de proficiência** para distribuir entre perícias gerais, conhecimentos, ofícios, idiomas, armas, armaduras e escudos.
-
-## Compra de níveis
+## Compra
 
 | Categoria | Compra com 1 ponto |
 |---|---|
-| Perícia geral | 1 nível na perícia |
-| Perícia profissional (ofício) | 1 nível na especialidade |
-| Família de armas | 1 nível na família |
+| Perícia geral ou resistência | 1 nível |
+| Perícia profissional personalizada | 1 nível |
+| Família de armas | 1 nível |
 | Armaduras | 1 nível de acesso: 0 leves, 1 médias, 2 pesadas |
 | Escudos | Proficiência em escudos |
-| Conhecimentos | 2 níveis, no mesmo conhecimento ou 1 em cada um de dois |
-| Idiomas | 2 níveis, no mesmo idioma ou 1 em cada um de dois |
+| Conhecimentos | 2 níveis na categoria, juntos ou distribuídos |
+| Idiomas | 2 níveis na categoria, juntos ou distribuídos |
 
-**Conhecimentos e idiomas são compras separadas.** Um ponto gasto em conhecimentos deve conceder seus dois níveis em conhecimentos; um ponto gasto em idiomas deve conceder seus dois níveis em idiomas. Não é permitido comprar História 1 + Dracônico 1 com o mesmo ponto.
+Não misturar conhecimentos e idiomas na mesma compra. História 2 ou História 1 + Natureza 1 custam um ponto; Dracônico 2 também. História 1 + Dracônico 1 não é compra válida de um ponto.
 
-Exemplos de compra por 1 ponto:
-- História 2, ou História 1 + Natureza 1.
-- Dracônico 2 (Fluente), ou Dracônico 1 + Umbral 1 (ambos Amadores).
+Exemplo com cinco pontos: Atletismo 1, Esquiva 1, Espadas 1, História 1 + Natureza 1 e Dracônico 2.
 
-Exemplo de distribuição dos **3 pontos**: Atletismo 1 (1 ponto), História 1 + Natureza 1 (1 ponto) e Dracônico 2 (1 ponto). Cada nível/bônus deve ser registrado na categoria correspondente.
+## Níveis e bônus
 
-## Graus e bônus
+| Nível | 0 | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|---|
+| Bônus | +0 | +2 | +4 | +6 | +8 | +10 |
 
-Perícias gerais, conhecimentos, ofícios e famílias de armas seguem a escala numérica:
+Gerais, resistências, conhecimentos, profissionais e famílias de armas usam essa escala. Sob pressão, o **bônus usado no teste** fica limitado a 2 × atributo; o nível aprendido não diminui. Atributo não soma à rolagem. A base das armas naturais das Feras usa o nível de Golpes Desarmados, não seu bônus numérico nem o bônus limitado.
 
-| Nível | Bônus |
-|---|---|
-| 0, sem investimento ou concessão | +0 |
-| 1 | +2 |
-| 2 | +4 |
-| 3 | +6 |
-| 4 | +8 |
-| 5 | +10 |
+Idiomas têm escala própria: Amador +0; Fluente +2 quando precisar testar. Armaduras são acesso e escudos são proficiência de uso, sem bônus automático +2 a +10. O efeito de usar escudo sem proficiência permanece pendente.
 
-O máximo inicial já estabelecido é **nível 2**. Testes usam **1d20 + Atributo + Proficiência**: somam-se o valor do atributo e o bônus da proficiência. Vantagens/Desvantagens alteram os dados conforme [atributos e testes](atributos-e-testes.md). Esses valores não somam dano diretamente por padrão; a base de Arma Natural Avançada por nível é uma exceção expressa. Conhecimentos mais baratos seguem a mesma escala: História 2 concede +4.
+## Concessões iniciais
 
-**Idiomas têm regra própria:** Amador 1 sem bônus de idioma; Fluente 2 com +2 quando precisar testar. Armaduras são níveis de acesso e escudos são uma proficiência de uso; essas categorias não recebem automaticamente os bônus +2 a +10.
+- Todos começam **fluentes em Comum**, gratuitamente no playtest.
+- A origem Humanos concede **+2 pontos** para qualquer categoria, respeitando custos e limite inicial: total 7 antes de outras concessões.
+- Rúnicos recebem Primordial fluente.
+- Profissões adquiridas por história/habilidades precisam ter especialidade e nível definidos; não presumir concessão gratuita.
 
-As famílias de armas e a regra existente de manobra aprendida no grau 1 estão em [atributos e testes](atributos-e-testes.md). Proficiência e aquisição do equipamento são assuntos distintos.
+A regra de uma manobra aprendida ao alcançar grau 1 de proficiência de arma permanece no primeiro playtest; graus seguintes não concedem automaticamente outras. Golpe Devastador e Ataque de Oportunidade precisam ser aprendidos.
 
-## Ganhos pela história e habilidades
+Famílias atuais: Espadas, Machados, Martelos, Adagas, Armas de Haste, Arcos, Bestas, Armas de Fogo, Correntes e Chicotes e **Golpes Desarmados** (nome usado nesta integração para a antiga família Desarmado). Nome definitivo de Correntes e Chicotes continua pendente; Luta/Pontaria não substituem as famílias.
 
-Ofícios são específicos do personagem e podem ser adquiridos por habilidades ou pela sua história. Ao registrar uma concessão, indicar a especialidade, o atributo e o nível recebido. Os níveis concedidos por essas fontes ainda precisam ser definidos caso a caso; não há um ofício de nível 1 gratuito universalmente aprovado.
-
-Comum gratuito continua apenas sugerido. Além dos 3 PP iniciais, os [traços de Cultura e Formação](origens-e-tracos.md#cultura-e-formação) definem concessões específicas: **Formação Diversificada dá 1 PP exclusivo para perícias gerais/profissionais; Poliglota dá 2 PP exclusivos para idiomas, equivalentes a quatro níveis**. Respeitar o máximo inicial 2. Outras concessões exigem definição explícita; pontos de origem e PP são reservas distintas.
-
-Ver [perícias](pericias.md), [idiomas](idiomas.md), [armaduras e escudos](armaduras-e-escudos.md) e [pendências](../design/pendencias.md).
+Progressão posterior e equipamentos iniciais serão desenvolvidos depois. Comprar proficiência não concede equipamento. Ver [perícias](pericias.md), [idiomas](idiomas.md) e [armas](armas.md).

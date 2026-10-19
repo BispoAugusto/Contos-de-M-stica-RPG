@@ -4,16 +4,16 @@
 
 ## Porte e capacidade
 
-Médio é o padrão gratuito, sem ocupar um traço. Pequeno, Minúsculo e Grande custam **1 ponto de origem cada**, contando como um positivo; é proibido escolher outro traço de tamanho.
+**Atualização de 2026-10-19:** porte é um campo separado, escolhido entre as opções da espécie; não se compra por pontos nem ocupa um dos dois traços. Mistos usam uma opção de qualquer espécie participante; Gnomos e Fadas não podem ser mistos. Ver [origens](origens-e-tracos.md).
 
-**Capacidade = base do porte + metade da Força arredondada para cima.** O arredondamento padrão do sistema é para cima, salvo exceção explícita. Calcule a base e o bônus separadamente.
+**Capacidade = base do porte + 2 × Potência.** Bases aprovadas para playtest. Equipamentos usados contam.
 
-| Porte | Multiplicador sobre base 10 | Base arredondada | Capacidade com FOR 3 |
+| Porte | Multiplicador sobre base 10 | Base arredondada | Capacidade com Potência 3 |
 |---|---|---|---|
-| Minúsculo | ×0,25 | 3 | 5 |
-| Pequeno | ×0,5 | 5 | 7 |
-| Médio | ×1 | 10 | 12 |
-| Grande | ×2 | 20 | 22 |
+| Minúsculo | ×0,25 | 3 | 9 |
+| Pequeno | ×0,5 | 5 | 11 |
+| Médio | ×1 | 10 | 16 |
+| Grande | ×2 | 20 | 26 |
 
 A capacidade reduzida dos menores é intencional e pode ser uma dificuldade a superar na campanha. Não compensá-la automaticamente.
 
@@ -43,11 +43,11 @@ Em interações físicas nas quais a diferença de porte importa:
 
 Por três categorias, o maior pode receber +10 quando for quem testa. Em testes opostos, aplicar somente a penalidade ao menor, sem dar também bônus ao maior. Benefícios do maior com uma ou duas categorias em testes não opostos e diferenças acima de três continuam pendentes.
 
-Esses modificadores não são penalidades de d20 nem afetam automaticamente ataques que usam Força. Não concedem Defesa automática.
+Esses modificadores não são penalidades de d20 nem afetam automaticamente ataques que usam Potência. Não concedem Defesa automática.
 
 Pequenos têm facilidade para esconder-se e acessar espaços pequenos; Minúsculos têm benefícios mais acentuados. Grandes têm dificuldade ou impedimento para entrar em locais pequenos. Os números de esconder-se, dimensões de passagens e procedimentos completos ainda não foram fixados.
 
-As limitações de um porte não concedem pontos negativos adicionais. Ver [traços de Corpo](origens-e-tracos.md#corpo).
+As limitações de porte não concedem pontos de compra. Gnomos usam porte pelo máximo integral de Corpo (0–1 Pequeno, 2–3 Médio, 4+ Grande) e diminuem uma categoria por parte ao dividir, mínimo Minúsculo. Ver [Gnomos](origens-e-tracos.md#gnomos).
 
 ## Desenvolvimento adiado
 

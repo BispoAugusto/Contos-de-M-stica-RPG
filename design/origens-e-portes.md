@@ -1,21 +1,21 @@
-# Origens, traços e portes — notas de design
+# Origens, espécies e portes — notas de design
 
-**Registro atualizado em 2026-10-13. Regras iniciais de playtest, sujeitas a mudanças futuras.**
+**Atualizado em 2026-10-19.** A origem agora é categoria racial, não formação/vivência. A criação usa uma característica de origem, duas de espécie, +3 Alma distribuídos por espécie e porte separado.
 
-O catálogo está em [origens e traços](../regras/origens-e-tracos.md), organizado em **Corpo, Sentidos, Mobilidade, Resistência, Cultura e Formação e Afinidades Sobrenaturais**. Vivência e Relações foi incorporada a Cultura e Formação; as opções culturais atuais não exigem conhecer lugares, povos ou contatos.
+Categorias atuais: Humanos (Homens Altos, Anões, Pequeninos), Féericos (Elfos, Fadas, Dríades), Bestiais (Feras, Namarés, Pássaros, Talpis), Dracônicos (Draconatos), Verdantes (Gnomos, Arborídeos) e Rúnicos (Golias).
 
-## Direção de criação
+Bestiais escolhem distribuição Selvagem/Astúcia/Agouro independentemente da espécie. Gnomos saem dos Féericos; Dríades entram nessa origem. O antigo nome provisório Plantas foi substituído por Verdantes.
 
-Espécies e origens serão componentes distintos no sistema completo. Para playtest, a origem usa compra de até cinco positivos (1–3) e três negativos (−1 a −3), com aparência livre e incompatibilidades explícitas. Evitar efeitos duplicados ou traços puramente cosméticos; oferecer alternativas para humanos e pequeninos.
+Mistos escolhem uma característica de cada espécie, uma origem e uma distribuição completa de Alma, com porte permitido por qualquer participante. Gnomos/Fadas são excluídos de misturas.
 
-A **reserva inicial de três pontos de origem permanece proposta**, separada dos três PP. Custos e efeitos ainda propostos estão sinalizados no catálogo e em [ideias futuras](ideias-futuras.md).
+O porte não consome um dos dois traços. Capacidade: base 3/5/10/20 +2 × Potência. Gnomos usam máximo de Corpo 0–1 Pequeno, 2–3 Médio, 4+ Grande; cada parte dividida é uma categoria menor, mínimo Minúsculo. Não recalcular a categoria pela reserva dividida da parte.
 
-## Porte e inventário
+## Histórico
 
-As decisões preservadas estão em [porte e inventário](../regras/porte-e-inventario.md): base 3/5/10/20 mais metade de FOR arredondada para cima, equipamentos usados contam, itens iniciais de 1–4 espaços, adaptação combinada na criação e modificadores de Força por diferença de porte.
+O [catálogo antigo por pontos](catalogo-origens-historico.md) fica preservado para consulta/customização futura, sem concessões cumulativas com espécies. Não há orçamento de pontos de origem a fechar para a criação atual.
 
-**Resolvido nesta rodada:** Médio é padrão gratuito, sem traço; Pequeno, Minúsculo e Grande custam um ponto cada, mutuamente exclusivos. **Continua adiado:** detalhamento de inventário, equipamentos adaptados, fabricação, passagens e ocupação de espaço. Não criar tabelas adicionais por inferência.
+## Acompanhamento
 
-## Revisão
+Regras e status em [origens](../regras/origens-e-tracos.md). Verificar no playtest ações independentes dos Gnomos, custo de Corpo de Desprendimento, tratamento/Alma por Enraizamento, regeneração e sede dos Namarés, dano natural de Feras e RD geral limitada de Draconatos.
 
-As listas serão reavaliadas antes do playtest para adicionar, retirar e ajustar traços. Dano natural, piso com Leve, voo, sentidos alternativos, RD e sopro automático exigem atenção. Nenhum teste de mesa foi realizado por este registro.
+Recomposição de recursos dos Gnomos e distribuição de Alma dos Golias continuam explicitamente em [pendências](pendencias.md). Porte/inventário completo, fabricação e equipamentos serão desenvolvidos depois. Nenhuma sessão de playtest foi realizada por este registro.

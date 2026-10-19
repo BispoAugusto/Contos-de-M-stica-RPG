@@ -1,51 +1,57 @@
 # Atributos e testes
 
-**Confirmado.** FOR, DES, CON, INT, SAB, CAR começam em 0. Distribuir 10 pontos linearmente, máximo inicial 5, teto futuro 10.
+**Confirmado — integração de 2026-10-19.** Substitui o núcleo de 2026-10-14. Atributos não somam à rolagem nem determinam a quantidade de dados.
 
-## Teste geral — confirmado em 2026-10-14
+## Nove atributos e criação
 
-**1d20 + Atributo + Proficiência**, somando os demais modificadores aplicáveis, contra DT/Defesa. Some o valor numérico do atributo e o bônus numérico da proficiência; o atributo não determina a quantidade de dados. Atributo 0 soma +0 e não impõe desvantagem por si só.
-
-O resultado natural é o d20 selecionado, antes dos bônus: **1 natural selecionado falha; 20 natural selecionado sucede**. Dados descartados não geram sucesso, falha ou crítico.
-
-**Exemplo:** d20 12 + Força 3 + proficiência 2 = 17, antes de outros modificadores. Sem proficiência, soma-se +0.
-
-## Vantagens e desvantagens cumulativas
-
-Cada Vantagem ou Desvantagem acrescenta um d20. Antes de rolar, anule Vantagens e Desvantagens uma a uma e use apenas o saldo:
-
-| Saldo | Rolagem | Resultado selecionado |
+| Parte da Alma | Atributo | Capacidade |
 |---|---|---|
-| Nenhum | 1d20 | O único dado |
-| 1 Vantagem | 2d20 | Maior |
-| 2 Vantagens | 3d20 | Maior |
-| 1 Desvantagem | 2d20 | Menor |
-| 2 Desvantagens | 3d20 | Menor |
+| Corpo | Potência | Força muscular e esforço explosivo |
+| Corpo | Reflexo | Reação rápida e coordenação de movimento |
+| Corpo | Resiliência | Resistência e sustentação física |
+| Mente | Raciocínio | Análise, memória e dedução |
+| Mente | Foco | Concentração e precisão deliberada |
+| Mente | Percepção | Perceber o ambiente |
+| Espírito | Vontade | Firmeza interior e imposição |
+| Espírito | Influência | Comunicação e expressão social |
+| Espírito | Sintonia | Conexão e controle espiritual/sobrenatural |
 
-A progressão continua: role **1 + quantidade restante** de d20, todos juntos, e escolha um único resultado. Depois some Atributo, Proficiência e modificadores uma única vez. Não se somam os resultados dos dados.
+Cada atributo começa em **1**; distribuir **4 pontos adicionais**. Pode reduzir até **0** e redistribuir os pontos liberados. Máximo inicial **3**: soma inicial 13 antes de benefícios expressos de espécie. O limite normal é **10**; apenas efeitos de itens ou magias podem ultrapassá-lo. Como ganhar atributos durante a campanha fica para a progressão futura.
 
-**Exemplos:** 3 Vantagens e 1 Desvantagem deixam 2 Vantagens: rolar 3d20 e escolher o maior. 1 Vantagem e 3 Desvantagens deixam 2 Desvantagens: rolar 3d20 e escolher o menor. 2 de cada se anulam: rolar 1d20.
+## Rolagem e pressão
 
-Furtiva concede 1 Vantagem apenas para esconder/ocultar a arma, conforme [armas](armas.md). A Desvantagem de [Exaustão](exaustao.md) participa do mesmo cancelamento.
+**Teste = 1d20 + bônus de proficiência aplicável + modificadores.**
 
-## Proficiências
+O atributo sugerido na perícia pode mudar conforme a abordagem, definida antes da rolagem. O atributo efetivamente usado determina o teto sob pressão, as margens e a reserva de Alma correspondente.
 
-Proficiências de perícias e armas no grau 0 concedem +0; graus 1–5 concedem +2, +4, +6, +8, +10; máximo inicial grau 2. Proficiência de arma é por grupo; na [construção modular de armas](armas.md), o tipo da arma define a proficiência correspondente, não as propriedades. Grau 1 concede uma manobra aprendida no primeiro playtest; graus superiores não concedem automaticamente outras.
+Sob pressão, use no máximo **2 × atributo** do bônus de proficiência. Perigo imediato, urgência real ou interferência ativa caracterizam pressão; dificuldade por si só não. O mestre informa a pressão antes da rolagem. Fora dela, use o bônus integral. Atributo 0 não impõe Desvantagem sozinho, mas limita a proficiência a +0 sob pressão.
 
-## Interação com ataques consecutivos
+O teto afeta **somente o bônus de proficiência na rolagem**, não modificadores de outras fontes, nível adquirido, dano base ou bônus de dano. Pode reduzir indiretamente o dano ao impedir pleno/extremo.
 
-Ataques repetidos aplicam **penalidades numéricas ao resultado**, sem retirar dados: **0, −5, −10, −10**, mantendo −10 nos seguintes. Empunhando uma arma Leve em cada mão, a sequência é **0, 0, −5, −10**, mantendo −10 nos seguintes. A contagem é por turno, inclusive para ataques extras gratuitos salvo texto específico; ver [combate](combate.md).
+Exemplo: Potência 1 e Golpes Desarmados 3 (+6), sob pressão, usam **1d20 +2**. Uma Fera mantém dano base 3.
 
-Atributo e proficiência afetam o acerto e, por isso, podem aumentar a margem sobre a Defesa. **Não são somados diretamente ao dano por padrão**; exceções precisam estar expressas em habilidades ou outras regras.
+## Graus de sucesso
 
-## Proficiência de armadura — playtest
+| Grau | Limiar e efeito |
+|---|---|
+| Padrão | Alcançar a DT: realiza a ação; consequências narrativas situacionais ainda podem ocorrer |
+| Pleno | DT + máximo entre 0 e (10 − atributo): sucesso sem penalidades narrativas |
+| Extremo | Desbloqueado em atributo 10; DT + (20 − atributo): sucesso com benefício adicional contextual |
 
-**Aprovada em 2026-10-13, sujeita a revisão.** A escala própria de armaduras é **0 = leves, 1 = médias, 2 = pesadas**, como requisitos mínimos de acesso. Não acrescenta bônus ao teste ou à Defesa nem usa a progressão numérica +2 a +10 descrita acima. Os modelos iniciais e seus valores estão em [armaduras e escudos](armaduras-e-escudos.md). Na criação, cada ponto compra um nível de acesso; a progressão posterior ainda está pendente. Ver [proficiências](proficiencias.md).
+Pleno não elimina custos explícitos, riscos preexistentes ou efeitos definidos por uma habilidade. Com atributo 10 ou mais, **todo sucesso é pleno**; falhar na DT não se torna sucesso. Limites da margem de extremo para atributos excepcionalmente altos continuam pendentes.
 
-## Famílias de armas — playtest
+Exemplo: DT 15, atributo 3: resultado 15 é padrão; 22 é pleno; extremo ainda indisponível. Com atributo 10: 15 já é pleno e 25 é extremo.
 
-**Lista aprovada em 2026-10-13:** Espadas, Machados, Martelos, Adagas, Armas de Haste, Arcos, Bestas, Armas de Fogo, Correntes e Chicotes, e Desarmado. A família determina a proficiência antes da escolha de propriedades. Correntes e Chicotes formam uma única família com nome definitivo pendente. Desarmado tem dano base 0 e recebe bônus por margem e crítico; ver [armas](armas.md).
+## Naturais e testes opostos
 
-## Criação e perícias — playtest
+O d20 selecionado determina naturais: **1 falha; 20 sucede**. Dados descartados não produzem crítico. Em ataques, 20 também dá +2 de dano; pleno/extremo ainda dependem dos totais.
 
-A reserva inicial é de **3 pontos de proficiência**. Conhecimentos e idiomas rendem dois níveis por ponto dentro da mesma categoria, sem misturá-las. Idiomas usam Inteligência e escala própria: Amador sem bônus, Fluente +2 quando precisar testar. Listas, custos e exceções estão em [proficiências](proficiencias.md), [perícias](pericias.md) e [idiomas](idiomas.md).
+Em teste oposto, use o total do adversário como DT para as margens. Empate favorece o atacante/iniciador, salvo regra específica; quem tenta escapar de um agarrão inicia essa tentativa. Sem atacante definido, desempate pelo **maior máximo da Parte da Alma do teste de cada participante**; persistindo, os empatados rolam novamente. Se ambos tirarem 20, compare totais e aplique os mesmos desempates.
+
+## Vantagens e desvantagens
+
+Cancelam-se uma a uma. Role **1 + saldo** de d20 e selecione o maior com Vantagem ou o menor com Desvantagem. Saldo zero: 1d20. Some proficiência e modificadores uma vez, nunca os dados entre si. Não há limite de acúmulo aprovado.
+
+Exemplo: três Vantagens e uma Desvantagem deixam duas Vantagens: 3d20, maior. Forçar não é Vantagem: refaz a mesma configuração de dados; ver [Alma](alma.md).
+
+As [proficiências](proficiencias.md) têm escalas próprias. Repetição de [ataques](combate.md) usa Desvantagens, não penalidades numéricas.

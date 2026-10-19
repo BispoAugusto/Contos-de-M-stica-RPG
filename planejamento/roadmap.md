@@ -1,31 +1,34 @@
-# Roadmap
+# Roadmap — 2026-10-19
 
-## Fase 1 — MVP de mesa
-- [x] Registrar três pontos de proficiência, listas/atributos de perícias, ofícios e idiomas (2026-10-13).
-- [x] Registrar catálogo inicial de seis categorias de traços, porte/inventário parcial e quedas (2026-10-13).
-- [ ] Revisar traços antes do playtest, fechar orçamento de origem e campos ainda propostos; detalhamento de inventário adiado.
-- [ ] Definir habilidades e equipamento iniciais, outras concessões de origem e uso de escudo sem proficiência; montar fichas de teste.
-- [x] Registrar três armaduras básicas, proficiência 0/1/2 e um escudo com Defender para playtest (2026-10-13).
-- [x] Remover Aparar e adotar escolha exclusiva entre Esquiva e Defender por ataque (2026-10-13).
-- [ ] Testar armaduras, escudo, manutenção e escolha entre Esquiva e Defender.
-- [x] Documentar núcleo de testes, PA, movimento, manobras, Postura, Exaustão, morte e cura.
-- [x] Adotar condições de combate e interação com Postura como versão provisória para playtest (2026-10-12).
-- [x] Registrar construção modular de armas e Golpe Devastador como regras iniciais de playtest (2026-10-13); a antiga penalidade de dados foi substituída em 2026-10-14.
-- [x] Registrar esclarecimentos do criador sobre propriedades e tipos de dano (2026-10-13).
-- [x] Consolidar testes aditivos, Vantagens/Desvantagens cumulativas, dano sem atributo/proficiência diretos, sequências numéricas e contagem de ataques gratuitos (2026-10-14).
-- [x] Substituir duas instâncias de Leves por ataque combinado de base principal + metade da secundária arredondada para cima, uma rolagem/1 PA e RD única (2026-10-14).
-- [ ] Alinhar nomenclatura/gatilhos pendentes e testar armas, RD, recarga e concentração de PA.
-- [ ] Completar procedimentos pendentes de contenção/duração e testar condições.
-- [ ] Fechar Medicina e Sequelas.
-- [ ] Criar personagens e encontros simples de teste.
-- [ ] Registrar problemas em sessões curtas.
+## Integração documental
 
-## Fase 2 — Balanceamento
-- [ ] Ajustar dano, armaduras, controle, Exaustão e mortalidade.
-- [ ] Progressão modular e habilidades iniciais.
-- [ ] Magia e Mana.
+- [x] Migrar nove atributos, testes sem soma, pressão, graus e opostos.
+- [x] Registrar reservas de Alma, forçar e morte sem modificadores/rerrolagem.
+- [x] Alinhar vida, Defesa, carga, dano, repetição, armas e tipos de RD.
+- [x] Consolidar 27 perícias, profissionais abertas, cinco PP provisórios e Comum gratuito.
+- [x] Registrar descansos, tratamento, manutenção e necessidades.
+- [x] Substituir compra de traços por seis origens/14 espécies, portes, misturas e traços.
+- [x] Atualizar guias, estado, decisões, pendências e histórico, preservando status.
+- [x] Preservar o portal existente como leitor dos documentos, sem criar ficha digital.
 
-## Fase 3 — Expansão
-- [ ] Equipamentos, bestiário e guias.
-- [ ] Lore e cenários.
-- [ ] Site navegável e ficha digital.
+## Próxima etapa — habilidades e preparação
+
+- [ ] Desenvolver habilidades, progressão e conjuração/Fluxo.
+- [ ] Retomar fabricação e equipamentos iniciais após integração.
+- [ ] Resolver recomposição dos Gnomos, conferir Alma dos Golias e delimitar Espiritualismo.
+- [ ] Completar procedimentos médicos/Sequelas/Último Ato e contenções pendentes.
+- [ ] Montar fichas e encontros de playtest com lacunas identificadas.
+
+## Playtest e balanceamento
+
+- [ ] Executar [cenários](playtests.md) e registrar dados de mesa.
+- [ ] Avaliar teto, graus, custos de Alma/PE, mortalidade, RD e ações.
+- [ ] Ajustar somente após novas decisões aprovadas.
+- [ ] Revisar valores provisórios de espécies, armas, recuperação e criação.
+
+## Expansão
+
+- [ ] Equipamentos avançados, bestiário, lore e cenários.
+- [ ] Ficha digital e automação de recursos, inclusive divisão de Gnomos.
+
+O portal de consulta já existe. A migração documental não significa que todas as regras estão fechadas nem que houve playtest.

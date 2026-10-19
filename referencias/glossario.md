@@ -1,12 +1,26 @@
 # Glossário
 
-- **PA:** Pontos de Ação, normalmente 4 por turno.
-- **PV:** Pontos de Vida.
-- **DT:** dificuldade de teste.
-- **PE:** Pontos de Exaustão; 5 geram 1 NE.
-- **NE:** Nível de Exaustão; penalidades cumulativas.
-- **Ferido:** condição que bloqueia cura até tratamento.
+- **PA:** Pontos de Ação, normalmente quatro por turno.
+- **PV:** Pontos de Vida; base 6 +2 × máximo de Corpo.
+- **DT:** dificuldade do teste; em oposição, o total adversário é referência.
+- **Atributo:** capacidade que determina teto de proficiência sob pressão, margens e Parte da Alma; não soma à rolagem.
+- **Proficiência:** nível aprendido; em escala comum, níveis 1–5 dão +2 a +10, nível 0 dá +0.
+- **Pressão:** perigo imediato, urgência real ou interferência ativa; limita bônus de proficiência a 2 × atributo.
+- **Padrão:** sucesso na DT, ainda sujeito a consequências narrativas.
+- **Pleno:** sucesso sem penalidades narrativas, respeitando custos explícitos.
+- **Extremo:** sucesso com benefício adicional, desbloqueado em atributo 10.
+- **Golpe Pesado/Brutal:** pleno/extremo em ataque; +1/+2 dano, sem somar os dois.
+- **Golpe Devastador:** manobra aprendida com Pesada; não é sinônimo de pleno.
+- **Alma:** reservas de Corpo, Mente e Espírito, média arredondada dos atributos + bônus de espécie.
+- **Forçar:** rerrolar uma vez o teste, mantendo configuração e aceitando novo resultado; custa Alma ou PE com reserva vazia.
+- **PE/NE:** Pontos/Níveis de Exaustão; cinco PE geram um NE; mais PE é mais desgaste.
+- **RD:** redução de dano compatível com tipos; física, específica ou geral.
+- **Ferido:** bloqueia cura normal até tratamento, salvo exceções expressas.
 - **Sequela:** consequência persistente de Aceitar a Queda.
 - **Postura:** resistência especial de alguns inimigos a incapacitação.
-- **Manobra independente:** não é ataque para penalidade de ataques consecutivos.
-- **Toque/Curto/Médio/Longo/Muito Longo/Fora de Alcance:** faixas de distância narrativa.
+- **Origem:** categoria racial; espécie determina características e bônus dentro dela.
+- **Porte:** campo separado de espécie; Minúsculo, Pequeno, Médio ou Grande.
+- **Manobra independente:** não é ataque para contagem de repetição.
+- **Fluxo:** perícia de controle do próprio espírito/mana, Sintonia sugerida; aplicações em habilidades pendentes.
+- **ET:** unidade citada no benefício artesanal dos Gnomos; definição operacional pendente com fabricação.
+- **Toque/Curto/Médio/Longo/Muito Longo/Fora de Alcance:** faixas narrativas, sem conversão fixa em metros.

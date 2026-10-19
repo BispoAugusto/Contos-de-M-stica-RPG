@@ -1,143 +1,186 @@
-# Origens e traços
+# Origens e espécies
 
-**Versão inicial de playtest — 2026-10-13, sujeita a revisão antes e depois das sessões.** Esta lista não é balanceamento definitivo. Campos marcados **propostos** continuam aguardando fechamento; registrá-los não os transforma em decisões aprovadas.
+**Estrutura confirmada em 2026-10-19; catálogo e valores específicos para playtest.** São seis origens e 14 espécies. Benefícios provisórios e pendências ficam identificados; não é balanceamento definitivo.
 
-## Construção da origem
+## Criação e misturas
 
-No sistema completo, espécies descrevem forma, capacidades e limitações, concedendo traços raciais; origens representam procedência e cultura, concedendo proficiências e traços culturais. No playtest, construímos uma origem por compra de traços:
+Origem é categoria racial, não formação/vivência. Escolher uma origem e uma espécie concede **uma característica de origem, duas de espécie, +3 pontos de Alma distribuídos conforme a espécie e um campo separado de porte**. Não há compra por pontos de origem na criação atual.
 
-- Até **5 positivos**, com custo de **1 a 3** pontos cada.
-- Até **3 negativos**, de **−1 a −3** pontos: acrescentam pontos disponíveis para os positivos.
-- **Reserva inicial de 3 pontos de origem ainda proposta**, separada dos 3 pontos de proficiência já definidos.
-- Seis categorias: Corpo, Sentidos, Mobilidade, Resistência, Cultura e Formação, Afinidades Sobrenaturais.
-- Aparência livre: cada entrada compra um efeito mecânico, não uma aparência. Voo não exige comprar asas separadamente.
-- Incompatibilidades valem nos dois sentidos. Não usar um traço que elimine a limitação de outro para ganhar pontos sem a desvantagem.
-- O catálogo oferece opções para humanos, pequeninos e corpos extraordinários. Não exige conhecer previamente lugares ou povos do cenário.
-- Repetições não indicadas e limites de acúmulo permanecem pendentes; não presumir compras repetidas para multiplicar um efeito.
+Personagens mistos escolhem uma característica de cada uma de duas espécies, uma característica de origem e uma distribuição completa de Alma. Podem escolher um porte disponível em qualquer das duas. **Gnomos e Fadas não podem compor misturas**, nem entre si. A aparência não concede efeitos extras.
 
-## Corpo
+O [catálogo por compra de traços](../design/catalogo-origens-historico.md) é somente histórico, para eventual customização futura. Não somar suas concessões às atuais.
 
-Os efeitos abaixo compõem o primeiro rascunho de Corpo. Custos e números assinalados como propostos devem ser revistos antes de fechar a ficha.
+## Visão geral
 
-| Traço | Custo | Efeito | Incompatibilidades |
+| Origem | Espécie | Bônus de Alma | Porte |
 |---|---|---|---|
-| Pequeno | 1 | Base de inventário 5. Facilidade para se esconder e entrar em espaços pequenos; sofre modificadores de Força contra maiores. Benefício numérico de esconder-se pendente. | Proibido escolher outro traço de tamanho. |
-| Minúsculo | 1 | Base de inventário 3. Benefícios de esconder-se e acesso mais acentuados que Pequeno, com maior limitação de carga e Força contra maiores; quantificação pendente. | Proibido escolher outro traço de tamanho. |
-| Grande | 1 | Base de inventário 20. Vantagem física contra menores conforme regras de porte; dificuldade ou impedimento em espaços pequenos. | Proibido escolher outro traço de tamanho. |
-| Robusto | 2 proposto | +2 PV máximos, valor proposto. | Frágil. |
-| Arma Natural | 1 | Dano básico 1, usando proficiência em Desarmado; recebe os bônus aplicáveis de margem e crítico. | Arma Natural Avançada, incompatibilidade proposta. |
-| Arma Natural Avançada | 3 proposto | Dano básico igual ao nível de proficiência em Desarmado, mínimo 1; escolha uma propriedade de arma corpo a corpo. | Arma Natural, incompatibilidade proposta. |
-| Membro Manipulador Adicional | 2 proposto | Segurar/manipular objetos com as mãos ocupadas; não concede PA ou ataques extras nem permite empunhar armas/escudos com esse membro. | Não elimina Coordenação Manual Limitada. |
-| Corpo Maleável | 1 proposto | +2 em testes para escapar de agarrões ou amarras por contorção; não concede fuga automática nem altera o porte para passagens. | Nenhuma específica. |
-| Frágil | −2 proposto | −2 PV máximos, valor proposto. | Robusto. |
-| Coordenação Manual Limitada | −1 proposto | −2 em Prestidigitação e tarefas profissionais de manipulação fina, inclusive com um membro adicional. | Efeitos que anulem a limitação. |
+| Humanos | Homens Altos | +1 Corpo, +1 Mente, +1 Espírito | Médio |
+| Humanos | Anões | +2 Corpo, +1 Mente | Pequeno |
+| Humanos | Pequeninos | +2 Corpo, +1 Espírito | Pequeno |
+| Féericos | Elfos | +1 Mente, +2 Espírito | Pequeno ou Médio |
+| Féericos | Fadas | +3 Espírito | Minúsculo |
+| Féericos | Dríades | +1 Corpo, +2 Espírito (provisório) | Médio |
+| Bestiais | Feras | Escolha bestial | Pequeno, Médio ou Grande |
+| Bestiais | Namarés | Escolha bestial | Pequeno, Médio ou Grande |
+| Bestiais | Pássaros | Escolha bestial | Pequeno, Médio ou Grande |
+| Bestiais | Talpis | Escolha bestial | Pequeno, Médio ou Grande |
+| Dracônicos | Draconatos | +3 Corpo | Médio |
+| Verdantes | Gnomos | +3 Mente | Pelo máximo de Corpo |
+| Verdantes | Arborídeos | +2 Corpo, +1 Espírito (provisório) | Médio ou Grande |
+| Rúnicos | Golias | +2 Corpo, +1 Espírito (distribuição proposta para conferência) | Médio ou Grande |
 
-**Médio é o padrão gratuito:** não precisa ser escolhido e não ocupa um dos cinco traços positivos. As limitações inerentes ao porte não concedem pontos negativos extras. Ver [porte e inventário](porte-e-inventario.md).
+A revisão autorizou integrar a tabela com seu status: o valor dos Golias foi apresentado para conferência, não convertido silenciosamente em confirmação definitiva. Ver [pendências](../design/pendencias.md).
 
-### Armas naturais e propriedades
+## Humanos
 
-Arma Natural Avançada usa o **nível** de Desarmado, não seu bônus numérico: nível 3 dá base 3, não 6. A exigência de comprar Arma Natural como pré-requisito não foi aprovada.
+**Origem — Versatilidade:** +2 pontos de proficiência para qualquer categoria, inclusive conhecimentos, idiomas, armas, armaduras e escudos. Respeitar dois níveis por ponto em conhecimentos/idiomas e limite inicial 2. Com a reserva provisória 5, totaliza 7 pontos.
 
-As propriedades modificam a base: **Leve −1; Versátil +1 ao usar duas mãos; Pesada +2 e exige duas mãos**. A arma natural conserva **mínimo 1 de dano básico**, inclusive com Leve. Esse mínimo é anterior à RD: o dano recebido ainda pode chegar a 0.
+### Homens Altos
 
-| Nível em Desarmado | Base avançada | Com Leve |
-|---|---|---|
-| 0 | 1 | 1 |
-| 1 | 1 | 1 |
-| 2 | 2 | 1 |
-| 3 | 3 | 2 |
-| 4 | 4 | 3 |
-| 5 | 5 | 4 |
+- **Até o Limite:** ao forçar por 1 PE porque a reserva correspondente está vazia, recebe +2 na nova rolagem.
+- **Potencial Humano:** +2 pontos de atributos na criação, respeitando máximo inicial 3.
 
-Leve pode ser atraente nos primeiros níveis sem reduzir a base abaixo de 1, mas reduz o dano nos níveis seguintes. Isso precisa de teste. A propriedade escolhida não concede automaticamente duas armas naturais ou o ataque combinado de duas Leves: requisitos de empunhadura, duas Leves naturais, Arremessável e espaços modulares ainda precisam ser detalhados. Ver [armas](armas.md).
+### Anões
 
-## Sentidos
+- **Robustez:** +3 PV máximos, **provisoriamente**.
+- **Especialidade:** escolher Artesão (uma melhoria gratuita após fabricar um item; procedimento depende do futuro sistema de fabricação) ou Guerreiro (Vantagem para resistir a quedas, empurrões e ficar Caído). Não definir custos, receitas ou melhoria sem aprovação.
 
-| Traço | Custo | Efeito | Incompatibilidades |
-|---|---|---|---|
-| Visão Aguçada | 1 | +2 em Percepção baseada na visão. | Visão Limitada; Cegueira. |
-| Audição Aguçada | 1 | +2 em Percepção baseada na audição. | Audição Limitada; Surdez. |
-| Faro Aguçado | 1 | +2 em Percepção ou Sobrevivência para detectar, identificar ou rastrear por odores, quando houver cheiro utilizável. | Ausência de Olfato. |
-| Visão Noturna | 2 | Ignora penalidade visual de pouca luz; precisa de alguma iluminação, não funciona em escuridão total. | Cegueira; Visão no Escuro. |
-| Percepção de Vibrações | 2 | Detecta presença e posição de criaturas em movimento até Curto, em contato com a mesma superfície sólida. Usa Percepção quando houver incerteza. Não percebe criaturas imóveis ou voando, nem cores ou escrita. | Nenhuma; não substitui integralmente a visão de um cego. |
-| Visão no Escuro | 3 | Enxerga até Médio em escuridão total, sem cores; inclui pouca luz nessa faixa. Não atravessa obstáculos nem revela automaticamente criaturas escondidas. | Cegueira; Visão Noturna. |
-| Visão Limitada | −1 | −2 em Percepção baseada na visão. | Visão Aguçada; Cegueira. |
-| Audição Limitada | −1 | −2 em Percepção baseada na audição. | Audição Aguçada; Surdez. |
-| Ausência de Olfato | −1 | Não percebe odores nem rastreia pelo cheiro. | Faro Aguçado. |
-| Surdez | −2 | Não ouve sons ou fala; testes exclusivamente auditivos são impossíveis. | Audição Aguçada; Audição Limitada. |
-| Cegueira | −3 provisório | Não enxerga; testes exclusivamente visuais são impossíveis. Efeitos completos em combate pendentes. | Visão Aguçada; Visão Limitada; Visão Noturna; Visão no Escuro. |
+### Pequeninos
 
-Reavaliar especialmente o custo de Cegueira após definir seus efeitos em combate. Sentidos alternativos não devem apagar gratuitamente uma desvantagem.
+- **Coragem:** Vantagem em Convicção contra medo.
+- **Escorregadio:** Vantagem para escapar de agarrões e passar por espaço ocupado por criaturas maiores; não concede fuga automática.
 
-## Mobilidade
+## Féericos
 
-| Traço | Custo | Efeito | Incompatibilidades |
-|---|---|---|---|
-| Passos Ligeiros | 2 | Movimento terrestre Longo por 1 PA. | Lento. |
-| Escalador | 1 | Escala Curto por 1 PA, sem teste em superfícies comuns com apoios adequados; perigo ou dificuldade ainda podem exigir teste. | Aderência. |
-| Nadador | 1 | Nada Médio por 1 PA, sem teste em águas calmas; perigo pode exigir teste. Não permite respirar debaixo d’água. | Nenhuma específica. |
-| Salto Poderoso | 1 | Por 1 PA, salta horizontalmente até Curto sobre vãos ou obstáculos baixos, com espaço para pousar; situações perigosas podem exigir teste. Não concede salto vertical Curto. | Nenhuma específica. |
-| Aderência | 2 | Move-se até **Médio por 1 PA** em paredes e tetos sólidos, mantendo contato, sem precisar de apoios. Permanecer aderido não custa PA extra; a superfície deve suportá-lo. | Escalador. |
-| Voo | 3 | Voa Médio por 1 PA, incluindo subida/descida; pode permanecer no ar enquanto consciente e capaz de se mover. Manifestação visual livre. | Nenhuma específica. |
-| Lento | −2 | Todas as formas de deslocamento descem uma faixa: Longo → Médio, Médio → Curto, Curto → Toque. | Passos Ligeiros. |
-| Equilíbrio Instável | −1 | −2 em Acrobacia para equilíbrio em locais estreitos ou instáveis. | Benefícios que anulem essa limitação; Equilíbrio Excepcional, caso seja adotado futuramente. |
+**Origem — Sensibilidade Féerica:** percebe magia ativa até **Curto**, sem PA. Não revela automaticamente posição exata, natureza do efeito ou identidade de quem o produziu. Interpretar pode exigir conhecimento adequado, normalmente com Sintonia.
 
-Equilíbrio Excepcional não integra este catálogo. Inconsciência interrompe Voo/Aderência e pode provocar [queda](quedas.md). Atordoado, por si só, não equivale a inconsciência nem provoca queda automática. Recuperar voo ou agarrar uma superfície durante uma queda involuntária exige procedimento ainda pendente.
+### Elfos
 
-## Resistência
+- **Comunicação Vegetal:** comunicação rudimentar com plantas, limitada ao que elas podem perceber; não é conhecimento ilimitado.
+- **Transe Natural:** em descanso curto na natureza, escolher uma atividade de recuperar Alma concede +2 pontos adicionais, distribuídos entre reservas sem ultrapassar máximos. Uma vez por descanso, mesmo escolhendo duas atividades de Alma; não é benefício automático sem atividade.
 
-Os bônus de testes abaixo só atuam quando houver um teste; não criam testes automáticos, imunidades ou redução passiva de Exaustão.
+### Fadas
 
-| Traço | Custo | Efeito | Incompatibilidades |
-|---|---|---|---|
-| Resistência a Venenos | 1 | +2 em Fortitude para resistir ou se recuperar de venenos, quando houver teste. | Sensível a Venenos. |
-| Resistência a Doenças | 1 | +2 em Fortitude para resistir ou se recuperar de doenças, quando houver teste. | Suscetível a Doenças. |
-| Aclimatado | 1 | Escolha frio ou calor: +2 em testes contra exposição ambiental correspondente; não concede RD contra gelo/fogo. Pode comprar para as duas condições, contando dois positivos. | Sensibilidade Climática à mesma condição. |
-| Vigor Persistente | 1 | +2 em Fortitude contra esforço físico prolongado; não reduz PE automaticamente. | Baixa Resistência Física. |
-| Mente Firme | 2 | +2 em Integridade contra medo, coerção e controle mental; não se aplica a persuasão comum. | Mente Suscetível. |
-| Armadura Natural | 2 | RD 2, dois usos; recuperação no descanso curto sem manutenção. Procedimento abaixo. | Não soma com armadura convencional no mesmo ataque. |
-| Sensível a Venenos | −1 | −2 em Fortitude contra venenos. | Resistência a Venenos. |
-| Suscetível a Doenças | −1 | −2 em Fortitude contra doenças. | Resistência a Doenças. |
-| Sensibilidade Climática | −1 | Escolha frio ou calor: −2 em testes de exposição correspondente. Pode escolher as duas condições, contando dois negativos. | Aclimatado à mesma condição. |
-| Baixa Resistência Física | −1 | −2 em Fortitude contra esforço físico prolongado. | Vigor Persistente. |
-| Mente Suscetível | −2 | −2 em Integridade contra medo, coerção e controle mental. | Mente Firme. |
+- **Voo:** asas permitem voar; detalhamento adicional de movimento não é concedido por inferência.
+- **Pó de Fada:** reação de **1 PA**, alvo até **Curto**, declarado **antes da rolagem**. +2 ao teste de um aliado ou −2 ao de outra criatura. **Três usos compartilhados por descanso longo**.
 
-**Armadura Natural:** após conhecer o dano, gastar um uso, sem PA, para RD 2. No máximo um uso por ataque; cobre suas instâncias, reduzidas separadamente até mínimo 0. O ataque combinado de duas Leves tem uma única instância, com RD aplicada uma vez. Recupera os dois usos em descanso curto, **sem ação de reparo/manutenção**. Se vestir armadura, escolher natural **ou** convencional por ataque, com reservas separadas; não somar ambas. Pode somar à RD de Defender, respeitando a exclusão Esquiva/Defender. Ver [armaduras e escudos](armaduras-e-escudos.md).
+Porte Minúsculo é campo separado; Fadas não podem ser mistas.
 
-## Cultura e Formação
+### Dríades
 
-Traços simples, adequados a um sandbox construído com o mestre. Não exigem selecionar povos, lugares ou redes de contatos. Traços sociais afetam testes nas situações descritas; não determinam personalidade ou decisões do personagem.
+**Conjunto provisório para playtest.**
 
-| Traço | Custo | Efeito | Incompatibilidades |
-|---|---|---|---|
-| Formação Diversificada | 2 | Recebe **1 PP**, exclusivo para perícias gerais/básicas ou profissionais. Respeita o limite inicial de proficiência. | Nenhuma específica. |
-| Poliglota | 2 | Recebe **2 PP exclusivamente para idiomas**, equivalentes a quatro níveis. Cada PP compra dois níveis dentro de idiomas; máximo 2 em cada idioma. | Nenhuma específica. |
-| Diplomático | 1 | +2 em Persuasão para acordos, diálogo e resolução de conflitos. | Inabilidade Diplomática. |
-| Mentiroso Convincente | 1 | +2 em Enganação para mentiras e identidades falsas. | Transparente. |
-| Presença Intimidadora | 1 | +2 em Intimidação por ameaças e presença. | Presença Inofensiva. |
-| Cativante | 1 | +2 em Atuação para entreter, discursar e prender a atenção do público. | Inibição Pública. |
-| Inabilidade Diplomática | −1 | −2 em Persuasão para acordos, diálogo e resolução de conflitos. | Diplomático. |
-| Transparente | −1 | −2 em Enganação para mentiras e identidades falsas. | Mentiroso Convincente. |
-| Presença Inofensiva | −1 | −2 em Intimidação por ameaças e presença. | Presença Intimidadora. |
-| Inibição Pública | −1 | −2 em Atuação para entreter, discursar e prender a atenção do público. | Cativante. |
+- **Passagem Silvestre:** 1 PA +1 Espírito; tocar uma árvore viva para passar a outra árvore viva visível até Médio. Leva o próprio equipamento, não outras pessoas.
+- **Encanto Natural:** 1 PA +1 Espírito; uma criatura até Curto que perceba a Dríade. Durante a cena, concede 1 Vantagem em Persuasão/Trato com Animais para acalmar ou obter cooperação. Não força obediência nem encerra combate automaticamente. Agressão da Dríade termina o efeito.
 
-Essas concessões não tornam Comum ou ofícios gratuitos para todos. Ver [proficiências](proficiencias.md) e [idiomas](idiomas.md).
+## Bestiais
 
-## Afinidades Sobrenaturais
+**Origem — Instinto Bestial:** 1 Vantagem para perceber criaturas próximas e perigos ambientais por sentidos naturais, usando Vigilância quando apropriado. Não é detecção automática de qualquer alvo.
 
-Catálogo reduzido por decisão do criador. Somente as quatro opções abaixo permanecem; perceber espíritos será assunto de habilidades.
+Independentemente da espécie, escolher uma distribuição:
 
-| Traço | Custo | Efeito | Incompatibilidades |
-|---|---|---|---|
-| Sensibilidade Mágica | **2** | Por 1 PA, percebe presença de magia ativa até Curto; não identifica automaticamente posição exata ou efeito. | Nenhuma específica. |
-| Resistência Elemental | 2 proposto | Escolhe um elemento; proposta de RD 2 passiva contra ele, sem PA/usos. | Fraqueza Elemental ao mesmo elemento. |
-| Fraqueza Elemental | −2 proposto | Escolhe um elemento; proposta de receber +2 de dano dessa fonte. | Resistência Elemental ao mesmo elemento. |
-| Arma de Sopro | 3 proposto | Alcance Curto, dano 3 sem teste de acerto, atingindo alvos adjacentes na área; usos iguais à Constituição, recuperados em descanso longo. Ativação de 2 PA ainda proposta. | Não concede Resistência Elemental automaticamente. |
+| Caminho | Alma |
+|---|---|
+| Selvagem | +2 Corpo e +1 em qualquer Parte, inclusive Corpo |
+| Astúcia | +2 Mente e +1 em qualquer Parte, inclusive Mente |
+| Agouro | +2 Espírito e +1 em qualquer Parte, inclusive Espírito |
 
-**Arma de Sopro — decisões fechadas para teste:** dano 3, sem rolagem de acerto; alcance **Curto**; afeta alvos adjacentes; usos iguais à **Constituição**; recuperação no **descanso longo**. “Longo” refere-se ao descanso, não à distância do sopro. Não foi aprovado mínimo de um uso: Constituição 0 resulta em zero usos pela fórmula atual.
+Todas as quatro espécies podem escolher Pequeno, Médio ou Grande.
 
-**Ainda pendentes:** custo final do traço/ativação; lista de elementos; geometria da área e referência da adjacência; aliados na área; procedimento de defesa/RD e classificação para ataques consecutivos. Não criar cone, teste de resistência ou crítico automático por analogia. Resistência e fraqueza de elementos diferentes podem coexistir; sua ordem de aplicação, interação com RD de armadura/escudo e frequência por instância/evento precisam de fechamento.
+### Feras
 
-## Revisão antes do playtest
+- **Armas Naturais:** garras/presas usam Potência e Golpes Desarmados. Dano base igual ao **nível** da proficiência, mínimo 1 (níveis 0/1/2/3/4/5 dão 1/1/2/3/4/5). **Sem Leve**, sem benefício de duas armas por ter duas garras. Teto sob pressão só afeta a rolagem, não essa base. Aplicam pleno/extremo/crítico normalmente.
+- **Sentidos de Caça:** Vantagem em rastreamento pelos sentidos apropriados.
 
-Revisar custos e efeitos das seis categorias, removendo ou acrescentando opções se necessário. Prioridades: voo/aderência/portes em exploração; sentidos alternativos e cegueira; armas naturais com propriedades; reservas de proteção e RD elemental; dano automático de sopro com poucos PV; orçamento de origem e concessões de PP. Ver [pendências](../design/pendencias.md) e [plano de playtests](../planejamento/playtests.md).
+### Namarés
+
+- **Anfíbio:** respira em água e em terra; natação acompanha seu deslocamento normal. Hidratação exige **beber e molhar o corpo** com banho, imersão ou chuva suficiente. Beber um copo não substitui molhar-se. Sem isso, conta como com sede no descanso, não reduz PE e recebe o PE por sede. **Não existe uma penalidade separada adicional por umidade.**
+- **Adaptação:** escolher uma opção abaixo.
+
+| Adaptação | Efeito |
+|---|---|
+| Regeneração | +2 PV automático por descanso curto, mesmo sem tratar feridas e mesmo Ferido; não remove Ferido, pode acumular com o único tratamento permitido. Partes pequenas regeneram em um descanso longo; membros inteiros em três, funcionando ao final. Sem cura adicional ou recuperação de usos por regenerar partes. Órgãos e outros limites não foram fechados. |
+| Língua | Alcance Curto. Por 1 PA, pega/manipula objeto leve e solto. Pode executar manobra conhecida usando seus custos, testes e requisitos normais com esse alcance. Não causa dano por si só. |
+| Espinhos | Automaticamente, 1 dano perfurante a quem acertar ataque desarmado/natural ou conseguir agarrar o Namaré. Uma vez por ação de contato agressivo bem-sucedido, sem PA. RD física se aplica; manter agarrão não repete dano. |
+| Bioluminescência | Ilumina até Curto, sem limite de duração. Acender/apagar sem PA, uma vez no próprio turno. Permite sinais simples; pode denunciar posição sem penalidade numérica fixa de Furtividade. |
+
+### Pássaros
+
+- **Voo:** deslocamento de voo igual ao normal; gastar ao menos 1 PA em movimento a cada turno para permanecer voando. Pouso controlado custa 1 PA, sem impacto.
+- **Olhos de Águia:** Vantagem em Vigilância visual para observar à distância.
+
+### Talpis
+
+- **Percepção Sísmica:** até Curto, detecta posição de criaturas em movimento em contato com o mesmo solo. Não detecta voo ou imobilidade completa; não revela aparência/detalhes visuais. Ocultar vibrações exige Furtividade contra Vigilância, normalmente com Percepção.
+- **Escavação:** por 1 PA, escava e se desloca até Curto por terra solta, areia ou barro. Não atravessa rocha/alvenaria equivalentes. Pode deixar passagem de seu porte; estabilidade depende do terreno.
+
+## Dracônicos
+
+**Origem — Resistência Elemental:** escolher Fogo, Frio, Eletricidade, Ácido ou Veneno. Recebe **RD passiva 2** desse tipo. A escolha também determina o Sopro. Profano e Radiante são tipos do sistema, mas não opções desta origem. RD de Veneno não concede imunidade à condição Envenenado.
+
+### Draconatos
+
++3 Corpo; Médio.
+
+- **Escamas:** **RD geral 1**, sem PA, um uso por aplicação; quantidade máxima de usos igual ao **máximo de Corpo**, todos recuperados no **descanso longo**. Escolher Escamas ou armadura convencional na mesma ocorrência. Pode combinar a escolhida com a resistência elemental e com Defender compatível.
+- **Sopro:** **2 PA, três usos por descanso longo**, cone até Curto, incluindo aliados. Causa **2 de dano** do elemento escolhido, sem teste de ataque. Atingidos fazem Esquiva contra **DT 10 + máximo de Corpo**; sucesso padrão já nega todo o dano. A reação que aumenta Defesa não evita esse efeito automático. Proteções posteriores seguem [RD](tipos-de-dano.md).
+
+## Verdantes
+
+Nome adotado para a antiga proposta “Plantas”. Gnomos deixam os Féericos; Dríades integram Féericos.
+
+**Origem — Enraizamento:** em solo adequado, úmido/orgânico, uma atividade de descanso curto combina tratamento próprio (**remove Ferido, cura 2 + Resiliência**) e recuperação de **metade do máximo de Corpo, para cima**. Conta como ambas as atividades realizadas; não pode repeti-las. Ainda pode escolher uma segunda atividade diferente. Não é recuperação automática sem se enraizar.
+
+### Gnomos
+
++3 Mente; não podem ser mistos.
+
+**Porte separado das duas características:** máximo de Corpo 0–1 = Pequeno; 2–3 = Médio; 4+ = Grande. Usar o máximo integral do personagem, não recalcular a partir das reservas de uma parte dividida.
+
+**Trabalho Coletivo:**
+
+- Pode dividir-se em **até dois corpos/grupos**, mantendo uma consciência.
+- Dividir custa **1 PA**. Reunir custa **1 PA de uma das partes**.
+- Antes de dividir, o jogador anota a ficha integral.
+- Cada corpo recebe metade dos **PV atuais e máximos** e de cada **reserva atual e máxima de Alma**, arredondada para cima. Não recalcular PV pela fórmula de Corpo depois disso. Atributos/proficiências são os mesmos.
+- Cada corpo tem seus próprios **4 PA**, ações e reações; mesma posição de iniciativa, com ações intercaláveis e contagem própria de ataques repetidos.
+- As partes não podem ficar além de distância **Média** uma da outra.
+- Cada uma perde uma categoria de porte, mínimo Minúsculo: Pequeno vira dois Minúsculos; Médio, dois Pequenos; Grande, dois Médios.
+- Pode dispersar-se para passar em aberturas e ocupar espaços de criaturas, conforme o corpo e o equipamento comportem; isso não concede vantagem ofensiva/defensiva automática nem bloqueio de movimento gratuito.
+- Se um dos dois corpos chega a **0 PV, ele morre**, sem escolhas contra a morte. Essas escolhas só se aplicam quando for o único corpo.
+- Conserva a aceleração de artesanato de **+1 ET por dia de trabalho prolongado**; ET e o procedimento de fabricação ainda serão desenvolvidos. Não inventar conversão em itens ou tempo.
+
+**Desprendimento:** reação de **1 PA +1 ponto atual de Corpo** ao receber penalidade física que possa ser removida abandonando parte de si. Sem custo de PV e sem limite por rodada além dos recursos. A parte se recompõe; não cria outra penalidade de membro perdido. Não remove por si só medo, veneno ou efeitos sobre o organismo inteiro.
+
+**Pendente, sem fórmula presumida:** a ficha integral é referência, mas recomposição dos recursos atuais na reunião após gastos/dano, consequências de perder definitivamente um corpo e casos de arredondamento precisam ser fechados. Anotar não autoriza restaurar recursos gastos ou duplicá-los por dividir/reunir. Registrar arbitragem no playtest.
+
+### Arborídeos
+
+**Provisório para playtest:** +2 Corpo, +1 Espírito; Médio ou Grande.
+
+- **Ramos Vivos:** os próprios ramos manipulam e realizam golpes desarmados/manobras até Curto, com custos e requisitos normais. Não estendem automaticamente o alcance de uma arma empunhada.
+- **Aparência Arbórea:** 1 Vantagem em Furtividade quando imóvel em vegetação apropriada, confundindo-se com árvore.
+
+## Rúnicos
+
+**Origem — Constituição Rúnica:** aprende **Primordial fluente** e recebe 1 Vantagem em Vigor contra efeitos ambientais de frio/calor. Não equivale a RD contra ataques de Fogo/Frio.
+
+### Golias
+
+Médio ou Grande. Distribuição de Alma apresentada para conferência: **+2 Corpo e +1 Espírito**, mantida como proposta na revisão autorizada.
+
+**Força Monumental:** 1 Vantagem em esforços físicos de levantar, arrastar, romper, empurrar e agarrar, com os modificadores normais de porte. Não é vantagem universal em ataques com Potência.
+
+**Manifestação Rúnica:** escolher uma das cinco opções; **três usos por descanso longo**. DT, quando exigida, **10 + máximo de Corpo**.
+
+| Manifestação | Procedimento |
+|---|---|
+| Névoa — Passo de Névoa | 1 PA e um uso: teleporte até Longo para local visível alcançável por uma rota da névoa. Pode passar por aberturas; não atravessa barreira selada. |
+| Tempestade — Trovoada Repulsora | 1 PA e um uso: todas as outras criaturas em Toque, inclusive aliados, fazem Vigor. Falha empurra até Curto a partir do Golias, se houver espaço e respeitando Postura. Sem dano/queda automáticos. |
+| Montanha — Pele de Pedra | Reação de 1 PA e um uso, depois de conhecer dano: RD física 3 e impede empurrão desse mesmo ataque. Pode somar armadura, mas não outra ação defensiva como Esquiva/Defender. |
+| Vulcão — Golpe Vulcânico | Declarar um uso para um ataque com arma ou desarmado. Custo normal do ataque, sem PA extra. Acerto soma +2 Fogo, crítico/grau uma vez. Erro consome uso; forçar o mesmo teste não gasta outro. Pode combinar com Golpe Devastador aprendido, atendendo requisitos. |
+| Oceanos — Correnteza | 1 PA e um uso: alvo até Curto, deslocado até Curto a partir de sua posição em direção escolhida, por caminho/superfície livres. Disposto não testa; resistente faz Vigor. Respeita Postura, sem dano ou Caído automáticos. |
+
+## Limites do catálogo
+
+Não concede equipamentos, progressão ou poderes adicionais pela aparência. Habilidades, fabricação e equipamentos iniciais ficam para depois. Escopos ainda não detalhados e casos de recursos dos Gnomos permanecem em [pendências](../design/pendencias.md). Veja [criação](../referencias/criacao-de-personagem.md), [Alma](alma.md), [porte](porte-e-inventario.md) e [descansos](descansos.md).
