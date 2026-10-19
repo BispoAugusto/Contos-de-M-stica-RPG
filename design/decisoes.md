@@ -1,5 +1,9 @@
 # Decisões registradas
 
+## 2026-10-19 — Tema noturno aprovado
+
+O criador solicitou modo noturno para o portal. A interface passa a usar fundo escuro por padrão, incluindo a leitura de regras e tabelas; impressão/PDF conserva fundo claro. Decisão visual, sem mudanças no sistema de RPG.
+
 ## 2026-10-19 — Organização editorial autorizada
 
 - Regras organizadas em Fundamentos, Personagem, Origens e espécies, Combate, Equipamentos, Exploração e Descanso/sobrevivência, cada uma com índice próprio.

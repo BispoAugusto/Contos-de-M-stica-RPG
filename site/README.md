@@ -2,6 +2,10 @@
 
 O portal reúne automaticamente todos os arquivos `.md` do repositório, incluindo subpastas, sem alterar as regras. A busca consulta títulos, caminhos e conteúdo, sem distinguir acentos. O leitor oferece sumário, links entre capítulos, download do Markdown e impressão/PDF pelo navegador. Estado do projeto, histórico e decisões têm atalhos na página inicial.
 
+## Aparência
+
+O portal usa modo noturno por padrão, independentemente do tema do dispositivo. As cores ficam nas variáveis de `site/style.css`; menus, busca, tabelas, código e foco de teclado seguem a mesma paleta. A impressão/PDF usa fundo claro.
+
 ## Hospedar na Vercel
 
 1. Entre na Vercel com sua conta GitHub e escolha **Add New → Project**.

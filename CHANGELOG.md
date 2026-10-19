@@ -1,5 +1,11 @@
 # Histórico
 
+## 2026-10-19 — Modo noturno do portal
+
+- Tema noturno padrão em páginas, navegação, busca, tabelas e blocos de código, com destaques verdes e dourados.
+- Foco de teclado e seleção de texto visíveis; impressão/PDF mantém fundo claro.
+- Mudança visual solicitada pelo criador, sem alteração das regras.
+
 ## 2026-10-19 — Organização por categorias e guia de criação
 
 - Regras organizadas em Fundamentos, Personagem, Origens e espécies, Combate, Equipamentos, Exploração e Descanso/sobrevivência, cada uma com índice próprio.

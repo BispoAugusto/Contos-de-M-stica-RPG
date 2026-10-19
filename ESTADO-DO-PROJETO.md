@@ -41,7 +41,7 @@ Progressão e conjuração serão tratadas com habilidades. Fabricação e equip
 
 ## Progresso e próximas etapas
 
-Núcleo, combate, Alma, descanso, espécies e referências foram migrados documentalmente; guias de [criação](referencias/criacao-de-personagem.md) e [consulta rápida](referencias/guia-rapido.md) refletem esta versão. A consulta foi organizada em [sete categorias](regras/README.md), com uma página por origem e capítulos separados de atributos, testes, turnos, ataques e defesas. O guia de criação tem oito etapas e exemplo completo. O portal acompanha as categorias, com histórico/desenvolvimento opcionais na busca; nenhuma ficha digital foi implementada.
+Núcleo, combate, Alma, descanso, espécies e referências foram migrados documentalmente; guias de [criação](referencias/criacao-de-personagem.md) e [consulta rápida](referencias/guia-rapido.md) refletem esta versão. A consulta foi organizada em [sete categorias](regras/README.md), com uma página por origem e capítulos separados de atributos, testes, turnos, ataques e defesas. O guia de criação tem oito etapas e exemplo completo. O portal acompanha as categorias, com histórico/desenvolvimento opcionais na busca; nenhuma ficha digital foi implementada. O portal usa modo noturno por padrão, com impressão/PDF em fundo claro.
 
 Próxima etapa: desenvolver habilidades/progressão/conjuração, retomar fabricação/equipamentos e montar fichas para playtest, sem tratar a migração como validação de balanceamento. Ver [roadmap](planejamento/roadmap.md) e [plano de sessões](planejamento/playtests.md).
 
