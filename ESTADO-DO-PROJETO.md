@@ -1,5 +1,13 @@
 # Estado do projeto — 2026-10-25
 
+## 2026-10-25 — ND de áreas pendente e três inimigos propostos
+
+- Registrado, a pedido do criador, o conceito de ND 0, 1, 2… das áreas, orientando DTs médias, ND médio dos NPCs, raridades de inimigos/materiais e eventos. Balanceamento, distribuição e tabelas ficam para depois.
+- Criados protótipos de lobo perigoso mas relativamente fraco, cavaleiro fortemente protegido com Aberturas evidentes e salamandra com escamas fortes e pescoço vulnerável durante preparação/disparo da baforada.
+- **Conceitos solicitados; estatísticas e procedimentos específicos propostos pelo assistente para playtest**, sem alegar aprovação dos números: PV, PA, defesas, ataques, custos, graus/pressão de NPCs, DTs de análise e janela de Exposto. Salamandra propõe preparar num turno, disparar no seguinte e permanecer Exposta até o fim desse turno.
+- Fichas incluem RD completa/parcial, comportamento e respostas narrativas. ND dos três não definido, nenhuma simulação executada e nenhuma alteração automática no núcleo de criação ou nas regras de Exposto.
+
+
 ## 2026-10-25 — Abertura parcial, Exposto e NPCs
 
 **Decisões do criador:** Aberturas padrões são parciais e exigem ataque direcionado; RD efetiva restante = metade para cima, salvo RD 1→0. Pleno/crítico não convertem parcial em total. Habilidades ou situações podem aplicar **Exposto**: todo ataque contra o alvo ignora completamente RD, sem direcionamento. A fonte deve definir aplicação/duração/saída; não inventado padrão universal.

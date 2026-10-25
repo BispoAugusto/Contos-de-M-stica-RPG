@@ -69,3 +69,7 @@ Resultados futuros devem separar regra aprovada, parâmetro experimental e arbit
 - Variar quantidade de jogadores, custos de ataques/reação, presença de Equilíbrio e objetivos da cena; medir efeito da exposição sobre ataques de vários aliados.
 - Testar proteção narrativa: descobrir falha, mudar posição para alcançar, NPC protegê-la, aliados criarem outra oportunidade. Conhecimento não desaparece por mera mudança de posição.
 - Dano misto com RD geral exige arbitragem prévia; não escolher silenciosamente uma ordem de arredondamento. Nenhum teste foi executado nesta atualização.
+
+## Três protótipos — ainda não testados
+
+Usar [lobo, cavaleiro e salamandra](inimigos-playtest.md) em encontros separados. Começar por um lobo, depois avaliar uma dupla; medir a diferença causada por matilha e Caído. Para o cavaleiro, registrar RD normal/parcial com e sem Bloquear e possibilidade de alcançar juntas visíveis. Para a salamandra, registrar ordem dos turnos, sinalização do cone, preparação em um turno e disparo no seguinte, ataques durante Exposto e opções de fuga/cobertura. Todas as estatísticas e convenções locais dessas fichas são propostas para teste; nenhum encontro foi executado ou certificado como equilibrado. Não transformar essas faixas relativas em ND 1/2/3.

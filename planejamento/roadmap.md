@@ -62,3 +62,10 @@ O portal de consulta já existe. A migração documental não significa que toda
 - [ ] Definir conversão dos graus de NPCs, faixas de ameaça e PA por configuração do encontro.
 - [ ] Criar inimigos com proteção narrativa, ações próprias e procedimentos de exposição especificados.
 - [ ] Testar duração de Exposto e concentração de ataques de grupos maiores.
+
+## Exploração e primeiros inimigos — 2026-10-25
+
+- [x] Registrar o conceito de ND das áreas como pendência, sem balancear a escala.
+- [x] Preparar [lobo, cavaleiro e salamandra](inimigos-playtest.md) com valores propostos e hipóteses explícitas.
+- [ ] Testar separadamente perigo da matilha, armadura/escudo com Aberturas e janela de Exposto da baforada.
+- [ ] Retomar [ND das áreas](../design/pendencias.md#nd-de-áreas-de-exploração) em etapa posterior.

@@ -74,3 +74,14 @@ Decisões resolvidas estão nas regras e no [registro de decisões](decisoes.md)
 - [ ] Condições, Equilíbrio, PE/NE e vulnerabilidade após gastar todos os PA.
 
 Não houve sessão de playtest nesta atualização. Ver [plano](../planejamento/playtests.md).
+
+## ND de áreas de exploração
+
+**Conceito registrado em 2026-10-25; balanceamento adiado por decisão do criador.** Áreas terão Nível de Dificuldade (**ND 0, 1, 2, 3…**), como referência para DTs médias, ND médio dos NPCs (animais, pessoas, monstros etc.), raridade/frequência de inimigos, raridade dos materiais e eventos. Média não obriga todos os habitantes ou desafios a ter o mesmo nível.
+
+- [ ] Definir as DTs médias de cada ND e variação dos desafios na área.
+- [ ] Calibrar ND dos NPCs, sua distribuição em torno da média da área e encontros excepcionais.
+- [ ] Definir relação entre ND, raridade/frequência dos inimigos, materiais e eventos. Raridade não equivale automaticamente a força.
+- [ ] Relacionar perigo dos encontros, tamanho do grupo e orçamento de ações dos NPCs sem criar escalonamento automático ainda.
+
+Não há tabela numérica, incremento fixo, frequência, progressão ou correspondência com níveis de jogadores aprovada. Não atribuir ND definitivo aos [três protótipos](../planejamento/inimigos-playtest.md); sua ordem de ameaça é apenas relativa. Retomar o balanceamento depois.
