@@ -1,5 +1,9 @@
 # Histórico
 
+## 2026-10-25 — Tag Agredir
+
+**Confirmado pelo criador:** todo ataque recebe a tag **Agredir**, nome sistêmico da ação. Um NPC pode ter várias ações Agredir; todas compartilham a contagem e a penalidade de repetição, conforme a regra geral. Trocar o ataque escolhido não reinicia a contagem. Não repetir essa explicação em cada ficha. Manobras independentes e reações não recebem a tag apenas por gastar PA.
+
 ## 2026-10-25 — Ataques e card do Legionário
 
 **Confirmado pelo criador:** ataques comuns usam 1d20 + proficiência do grupo de arma, sem teste de atributo. Direcionados usam Foco. Ataques não usam pleno/extremo: pesado em Defesa +5 e brutal em Defesa +10. Preservados os efeitos já registrados de dano +1/+2 (não cumulativos), Impacto e crítico +2. Testes que não são ataques preservam suas regras.

@@ -6,10 +6,10 @@
 - [ ] Perfis adicionais, resistências/vulnerabilidades especiais e tipo físico específico das quedas; não presumir automaticamente Contundente.
 - [ ] Penalidades médias/pesadas em conjunto com carga vigente; não implementar propostas anteriores de peso, −2, Desvantagem ou requisitos físicos.
 - [ ] Analisar: DT, critérios de sucesso e resultados; 1 PA é provisório de simulação.
-- [x] Abertura parcial reduz RD efetiva à metade para cima (1→0), sem penetração extra por pleno/crítico. Exposto: todo ataque ignora toda RD sem direcionamento.
+- [x] Abertura parcial reduz RD efetiva à metade para cima (1→0), sem penetração extra por pesado/brutal/crítico. Exposto: todo ataque ignora toda RD sem direcionamento.
 - [ ] Ataque direcionado: dificuldade/penalidades; ordem operacional de dano misto com RD específica/geral.
 - [ ] Exposto: fontes, duração/saída, aplicação e interação com Equilíbrio; nenhuma duração ou custo universal presumido.
-- [ ] NPCs: escala de Corpo/Mente/Espírito, conversão operacional dos graus e teto sob pressão; recursos/Alma não presumidos. Calibrar PV, defesas, PA/custos e ameaça por tamanho de grupo.
+- [ ] NPCs: escala de Corpo/Mente/Espírito, conversão operacional dos graus e teto sob pressão em testes que não sejam ataques; recursos/Alma não presumidos. Calibrar PV, defesas, PA/custos e ameaça por tamanho de grupo.
 - [ ] Atrapalhar: custo próprio não explicitado, efeitos sem Ajuda, disputa de múltiplas intervenções e eventual teste adicional.
 - [ ] Esquivar/Bloquear: cálculos exatos e interação com Defesa; preservar fórmulas anteriores provisoriamente e os novos requisitos.
 - [ ] Apoio especial/Bardo: revisar sem importar sequências antigas substituídas.
@@ -24,7 +24,7 @@ Decisões resolvidas estão nas regras e no [registro de decisões](decisoes.md)
 - [x] Alma por média + espécie, forçar teste e exceção de morte.
 - [x] PV/Defesa/carga, graus de dano, crítico e repetição por Desvantagem.
 - [x] Duas Leves usam menor proficiência; benefício só ao atacar com ambas; fora do turno não conta.
-- [x] Compacta/Potente incompatíveis; Potência/Reflexo/Foco conforme forma de ataque; Devastador aprendido admite arremesso.
+- [x] Compacta/Potente incompatíveis; ataque comum usa proficiência, direcionado usa Foco; pesado em Defesa +5, brutal em Defesa +10; Devastador aprendido admite arremesso.
 - [x] Quatro resistências, dezesseis gerais, oito conhecimentos; Fluxo, Performance, Espiritualismo; sem Liderança.
 - [x] Cinco PP provisórios, Comum fluente gratuito e +2 PP de Humanos.
 - [x] Duas atividades diferentes no curto; cura/tratamento e recuperação de Alma; antiga restauração de cargas retirada em 2026-10-25.

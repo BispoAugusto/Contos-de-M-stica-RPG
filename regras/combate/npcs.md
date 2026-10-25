@@ -88,3 +88,5 @@ Não usar campos “a definir” como zero ou como regra pronta. Fichas de jogad
 [Lobo, cavaleiro e salamandra](../../planejamento/inimigos-playtest.md) apresentam três ameaças relativas e hipóteses locais para permitir testes. Valores, custos e janelas de exposição são propostas, não regras universais. Nenhum recebeu ND definitivo; o [ND das áreas](../../design/pendencias.md#nd-de-áreas-de-exploração) será balanceado depois.
 
 Ataques de NPCs usam os resultados de combate: pesado em Defesa +5 e brutal em Defesa +10, sem pleno/extremo. Corpo/Mente/Espírito não são somados ao ataque.
+
+Todo ataque na ficha recebe a tag **Agredir**. NPCs podem ter mais de uma ação com essa tag; a contagem de repetição é compartilhada. Não é necessário repetir essa regra nas descrições das fichas.

@@ -1,5 +1,9 @@
 # Estado do projeto — 2026-10-25
 
+## 2026-10-25 — Tag Agredir
+
+**Confirmado pelo criador:** todo ataque recebe a tag **Agredir**, nome sistêmico da ação. Um NPC pode ter várias ações Agredir; todas compartilham a contagem e a penalidade de repetição, conforme a regra geral. Trocar o ataque escolhido não reinicia a contagem. Não repetir essa explicação em cada ficha. Manobras independentes e reações não recebem a tag apenas por gastar PA.
+
 ## 2026-10-25 — Ataques e card do Legionário
 
 **Confirmado pelo criador:** ataques comuns usam 1d20 + proficiência do grupo de arma, sem teste de atributo. Direcionados usam Foco. Ataques não usam pleno/extremo: pesado em Defesa +5 e brutal em Defesa +10. Preservados os efeitos já registrados de dano +1/+2 (não cumulativos), Impacto e crítico +2. Testes que não são ataques preservam suas regras.
@@ -58,10 +62,10 @@ Regras atuais: [ações táticas](regras/combate/acoes-taticas.md), [Abertura](r
 - Naturais 1/20, Vantagens/Desvantagens cumulativas com cancelamento, desempates e opostos descritos em [testes](regras/fundamentos/testes.md).
 - Alma máxima = média arredondada para cima dos três atributos + bônus de espécie. Forçar por 1 Alma, ou 1 PE se a reserva estiver vazia, uma vez por teste, preservando dados/modificadores e aceitando novo resultado. Morte não pode ser forçada.
 - PV base 6 +2 × máximo de Corpo; Defesa 10 + Reflexo; carga base do porte +2 × Potência.
-- Pleno dá Golpe Pesado +1 dano; extremo dá Golpe Brutal +2 em vez de +1; crítico 20 natural +2 adicional. Sem progressão contínua de dano por blocos de cinco.
+- Ataques: pesado em Defesa +5 dá +1 dano; brutal em Defesa +10 dá +2 em vez de +1; crítico 20 natural +2 adicional. Não usam pleno/extremo nem requisito de atributo 10.
 - Repetição no turno: normal, 1/2/3... Desvantagens; ataque combinado de duas Leves: normal, normal, 1/2... Desvantagens. Contagem compartilhada, benefício só no ataque com ambas; fora do turno não conta/não penaliza.
 - Duas Leves: 1 PA, uma rolagem, menor proficiência das duas, uma instância, base principal + metade da secundária para cima.
-- Corpo a corpo usa Potência, Leve permite Reflexo; distância/arremesso usam Foco. Golpe Devastador exige aprendizado e Pesada, inclusive arremessada, até 3 PA adicionais por +2 dano cada.
+- Ataques comuns usam 1d20 + proficiência do grupo de arma; direcionados usam Foco. Golpe Devastador exige aprendizado e Pesada, inclusive arremessada, até 3 PA adicionais por +2 dano cada.
 - Quatro resistências (Vigor, Lucidez, Convicção, Esquiva), dezesseis gerais incluindo Fluxo e Linguagens e oito conhecimentos incluindo Espiritualismo. Performance substitui Atuação; Liderança retirada em favor de Persuasão. Profissionais são lista aberta.
 - Curto de 1h: duas atividades diferentes entre recuperar uma reserva ou tratar feridas. Alma recupera metade máxima para cima. Tratamento próprio 2 + Resiliência; de outro 2 + bônus de Medicina. Remove Ferido, automático, um tratamento por paciente/descanso.
 - Morte: 1d20 puro, sem bônus/penalidades ou rerrolagem; DT 10 +5 por nova tentativa na cena, sucesso 1 PV, falha morte; natural 20 sempre sucede.
@@ -89,7 +93,7 @@ Progressão e conjuração serão tratadas com habilidades. Fabricação e equip
 
 ## Progresso e próximas etapas
 
-Núcleo, combate, Alma, descanso, espécies e referências foram migrados documentalmente; guias de [criação](referencias/criacao-de-personagem.md) e [consulta rápida](referencias/guia-rapido.md) refletem esta versão. A consulta foi organizada em [sete categorias](regras/README.md), com uma página por origem e capítulos separados de atributos, testes, turnos, ataques e defesas. O guia de criação tem oito etapas e exemplo completo. O portal acompanha as categorias, com histórico/desenvolvimento opcionais na busca; nenhuma ficha digital foi implementada. O portal usa modo noturno por padrão, com impressão/PDF em fundo claro.
+Núcleo, combate, Alma, descanso, espécies e referências foram migrados documentalmente; guias de [criação](referencias/criacao-de-personagem.md) e [consulta rápida](referencias/guia-rapido.md) refletem esta versão. A consulta foi organizada em [sete categorias](regras/README.md), com uma página por origem e capítulos separados de atributos, testes, turnos, ataques e defesas. O guia de criação tem oito etapas e exemplo completo. O portal acompanha as categorias, com histórico/desenvolvimento opcionais na busca; existem protótipos HTML de Lobo e Legionário em mesa-web, ainda sem editor ou gestão automática de recursos. O portal usa modo noturno por padrão, com impressão/PDF em fundo claro.
 
 Próxima etapa imediata: revisar penalidades de armaduras médias/pesadas com a carga existente; resolver Analisar/Abertura e defesas, depois executar simulações com hipóteses identificadas. Habilidades/progressão/conjuração e fabricação continuam futuras. Ver [roadmap](planejamento/roadmap.md) e [plano de sessões](planejamento/playtests.md).
 

@@ -4,6 +4,10 @@
 
 **Núcleo confirmado; valores de equipamentos permanecem de playtest.**
 
+## Agredir
+
+Todo ataque tem a tag **Agredir**, nome sistêmico desta ação. Um NPC pode ter múltiplas ações Agredir, com nomes, custos e efeitos distintos. Todas compartilham a repetição descrita abaixo: alternar ataques não reinicia a contagem. A ficha mostra a tag, sem repetir a penalidade em cada descrição.
+
 ## Rolagem de ataque
 
 - **Confirmado em 2026-10-25:** ataque comum = **1d20 + proficiência do grupo de arma**. Não é teste de atributo; não aplica teto por Potência/Reflexo nem graus pleno/extremo. Efeitos explícitos de habilidades e repetição continuam aplicáveis.

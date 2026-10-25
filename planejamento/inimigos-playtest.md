@@ -39,7 +39,7 @@ Esses valores não são derivados automaticamente da criação dos jogadores. At
 | Tipo | Ação | Procedimento proposto |
 |---|---|---|
 | Passiva | Pressão da matilha | Uma Vantagem em Mordida se outro lobo consciente estiver em Toque do mesmo alvo. Não acumula por quantidade de lobos. |
-| Ataque — 1 PA | Mordida | Toque, 1d20+4 (Golpes Desarmados); 3 perfurante, 4 em pesado, 5 em brutal; crítico +2. |
+| Agredir — 1 PA | Mordida | Toque, 1d20+4 (Golpes Desarmados); 3 perfurante, 4 em pesado, 5 em brutal; crítico +2. |
 | Manobra — 1 PA | Puxão de presa | Toque, 1d20+4, Corpo, contra Defesa; sem dano. Sucesso tenta aplicar Caído; 1/rodada. Independente, não conta na repetição de ataques. Contra Equilíbrio positivo, reduz 1 em vez de aplicar Caído; se zerar, aplica Caído. |
 | Reação — 1 PA | Esquivar | Defesa 14 contra um ataque. Não melhora resistências automaticamente. |
 
@@ -47,7 +47,7 @@ Esses valores não são derivados automaticamente da criação dos jogadores. At
 
 **Proteção e criatividade:** não possui RD, então Analisar uma Abertura não oferece penetração adicional. Analisar DT 12, Mente com Vigilância ou conhecimento pertinente, pode revelar a dependência de companhia para a Vantagem. Separar os lobos elimina a condição da passiva; ocupar uma passagem pode impedir que vários alcancem o mesmo alvo. Não inventar RD só para obrigar o uso de Aberturas.
 
-**Perigo esperado, ainda não medido:** mordida ameaçapersonagens leves; uma matilha cria mais turnos e pode derrubar. Golpes comuns podem ser anulados pela proteção pesada — diferença intencional para o primeiro teste. Testar um lobo e depois uma dupla separadamente; nenhum tamanho de matilha foi certificado como seguro.
+**Perigo esperado, ainda não medido:** mordida ameaça personagens leves; uma matilha cria mais turnos e pode derrubar. Golpes comuns podem ser anulados pela proteção pesada — diferença intencional para o primeiro teste. Testar um lobo e depois uma dupla separadamente; nenhum tamanho de matilha foi certificado como seguro.
 
 ## Legionário — placas robustas, juntas visíveis
 
@@ -57,7 +57,7 @@ Esses valores não são derivados automaticamente da criação dos jogadores. At
 
 | Tipo | Ação | Procedimento proposto |
 |---|---|---|
-| Ataque — 1 PA | Corte de guarda | Toque, 1d20+4 (Espadas); 4 cortante, 5 em pesado, 6 em brutal; crítico +2. Ataque próprio, não dano de uma espada modular comum. |
+| Agredir — 1 PA | Corte de guarda | Toque, 1d20+4 (Espadas); 4 cortante, 5 em pesado, 6 em brutal; crítico +2. Ataque próprio, não dano de uma espada modular comum. |
 | Manobra — 1 PA | Empurrão de escudo | Toque, 1d20+4, Corpo, contra Defesa; desloca até Curto para longe se houver caminho; sem dano, 1/rodada. Independente. Contra Equilíbrio positivo, reduz 1; se zerar, desloca. |
 | Reação — 1 PA | Bloquear | Após conhecer o dano, RD física adicional 2 por ocorrência. Com armadura: RD completa C6/P5/Cont4; parcial C3/P3/Cont2. Enquanto Exposto, nenhuma dessas RD protege contra ataques. |
 
@@ -77,9 +77,9 @@ Esses valores não são derivados automaticamente da criação dos jogadores. At
 
 | Tipo | Ação | Procedimento proposto |
 |---|---|---|
-| Ataque — 2 PA | Mordida esmagadora | Toque, 1d20+6 (Golpes Desarmados); 5 perfurante, 6 em pesado, 7 em brutal; crítico +2. Uma rolagem e uma instância. |
+| Agredir — 2 PA | Mordida esmagadora | Toque, 1d20+6 (Golpes Desarmados); 5 perfurante, 6 em pesado, 7 em brutal; crítico +2. Uma rolagem e uma instância. |
 | Preparação — 2 PA | Inflar a garganta | Máximo 1/turno; inicia o ciclo abaixo, sinaliza a direção do cone e aplica Exposto à própria salamandra. Não pode ser usada no turno em que solta a baforada. |
-| Ataque de área — 3 PA | Baforada ardente | Só no turno seguinte à preparação. Cone até Curto na direção sinalizada, inclui aliados; 6 Fogo por alvo, sem rolagem de ataque. Resistência Esquiva DT 14: falha 6, padrão 3, pleno 0; pleno do jogador usa seu Reflexo. Uma instância por alvo; RD compatível depois da resistência. |
+| Agredir de área — 3 PA | Baforada ardente | Só no turno seguinte à preparação. Cone até Curto na direção sinalizada, inclui aliados; 6 Fogo por alvo, sem rolagem de ataque. Resistência Esquiva DT 14: falha 6, padrão 3, pleno 0; pleno do jogador usa seu Reflexo. Uma instância por alvo; RD compatível depois da resistência. |
 | Reação | Nenhuma | Não possui defesa reativa nesta versão; conserva Defesa base 12. |
 
 **Janela de exposição, proposta específica desta criatura:**
