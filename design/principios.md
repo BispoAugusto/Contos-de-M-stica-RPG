@@ -12,3 +12,7 @@
 ## Integração de 2026-10-19
 
 Atributos não somam ao teste: graduam o uso da proficiência sob pressão e a qualidade do sucesso. Alma permite insistir mantendo o risco das desvantagens. Origens são categorias de espécies; porte é separado dos traços. Preservar decisões provisórias e lacunas, sem inventar progressão, fabricação ou recursos de magia.
+
+## Direção aprovada — 2026-10-25
+
+Combate tático, perigoso, flexível e que recompensa preparação. O personagem não precisa ter solução garantida para toda ameaça: equipamento, treinamento, conhecimento, posicionamento e planejamento importam. Ações táticas devem recompensar com **dano, controle ou vantagem**. Ações universais admitem improvisações narrativamente justificáveis sem exigir uma ação genérica “Improvisar”; mestre escolhe atributos/proficiências adequados à abordagem. Ficar sem reação defensiva em determinadas circunstâncias é intencional.

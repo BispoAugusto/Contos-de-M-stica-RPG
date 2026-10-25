@@ -194,9 +194,9 @@ Use os valores já calculados:
 | Médio | 10 |
 | Grande | 20 |
 
-Anões têm **+3 PV provisórios**. A perícia Esquiva não se soma permanentemente à Defesa: seu bônus é usado na reação, com custo de PA e limite.
+Anões têm **+3 PV provisórios**. A perícia Esquiva não se soma permanentemente à Defesa: seu bônus é usado na reação Esquivar, que exige treinamento, com custo de PA e limite. O cálculo anterior está preservado provisoriamente até revisão.
 
-Armaduras reduzem dano quando ativadas; não concedem bônus de Defesa. Equipamentos usados e vestidos também ocupam inventário. O inventário usa espaços, não peso.
+Armaduras reduzem dano passivamente, sem cargas; não concedem bônus de Defesa. Equipamentos usados e vestidos também ocupam inventário. O inventário usa espaços, não peso.
 
 **Anote na ficha:** PV atuais/máximos, Defesa, porte e capacidade. [Valores da ficha](../regras/personagem/valores-da-ficha.md) · [Inventário](../regras/equipamentos/porte-e-inventario.md).
 
@@ -209,7 +209,7 @@ Transcreva as características da sua origem e espécie com **custo, alcance, us
 | Ações | 4 PA por turno como padrão |
 | Vida e Alma | Valor atual e máximo de cada reserva |
 | Exaustão | PE e NE separados |
-| Proteções disponíveis | Tipo de RD, usos atuais/máximos e custo |
+| Proteções disponíveis | Tipo de RD passiva e conjunto de valores; usos/custo apenas para proteções especiais que os exijam |
 | Características de espécie | Efeito, PA/Alma gastos, usos e tipo de descanso que recupera |
 | Condições | Ferido e demais condições presentes |
 
@@ -281,3 +281,7 @@ Homens Altos recebem +1 em cada Parte.
 Com Potência 3, o teto sob pressão é +6: a proficiência Espadas +4 cabe integralmente. Com Reflexo 2, a reação Esquiva permite seu bônus +2, elevando a Defesa de 12 para 14 contra um ataque por 1 PA. Sem escudo escolhido/empunhado, não acrescenta +1.
 
 A ficha tem atributos, reservas e proficiências definidos. Espadas 2 não significa que recebeu uma espada: o equipamento inicial continua pendente.
+
+## Atualização de combate — 2026-10-25
+
+Armaduras convencionais não têm cargas. Tabela anterior de RD 2/3/4 preservada para comparação; 1/2/3 é alternativa experimental, sem troca automática. Penalidades médias/pesadas e perfis por dano continuam pendentes. Esquivar exige treino, Bloquear exige escudo/meio especial; a Defesa existente e os cálculos anteriores das reações são referência provisória sob revisão. Ver [ações táticas](../regras/combate/acoes-taticas.md), [Abertura](../regras/combate/aberturas.md) e [fichas preparadas](../planejamento/fichas-combate-2026-10-25.md).

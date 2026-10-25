@@ -4,7 +4,7 @@
 
 ## Estado das regras
 
-**Provisório para playtest — aprovado pelo criador em 2026-10-12.** Caído, Agarrado, Imobilizado e Atordoado, seus procedimentos abaixo e a interação com Postura podem ser revistos após discussão e testes. A aprovação permite usar esta versão; não a torna definitiva.
+**Provisório para playtest — aprovado pelo criador em 2026-10-12.** Caído, Agarrado, Imobilizado e Atordoado, seus procedimentos abaixo e a interação com Equilíbrio podem ser revistos após discussão e testes. A aprovação permite usar esta versão; não a torna definitiva.
 
 **Confirmado:** salvo exceções explícitas, como Regeneração dos Namarés, Ferido bloqueia cura ao chegar à metade dos PV; tratamento remove; cura de personagem caído a 0 PV ou menos retorna 1 PV e remove Ferido. Inconsciente é estado possível após Aceitar a Queda. Ver [morte e recuperação](../recuperacao/morte-e-recuperacao.md).
 
@@ -39,16 +39,16 @@ A redução de 2 PA ocorre no início do próximo turno, não como perda imediat
 
 Exemplo: um personagem atordoado fora do turno não reage até seu turno começar. Recebe 2 PA em vez de 4 e escolhe como usá-los. Com NE 4, recebe 1 PA em vez de 3. Essa interação exige playtest.
 
-### Acúmulo e Postura
+### Acúmulo e Equilíbrio
 
 - Bônus e penalidades equivalentes causados por condições não se somam; aplica-se o mais severo. Por exemplo, Caído e Imobilizado concedem +2, não +4, aos ataques corpo a corpo contra o alvo.
 - Reaplicar a mesma condição não multiplica suas penalidades. O procedimento de renovação de duração por reaplicação permanece pendente.
 - Essa regra de acúmulo trata de condições; não substitui as regras de ataques consecutivos ou Exaustão.
-- A aplicação em inimigos com Postura segue [Postura](postura.md). Restaurar Postura não remove condições já aplicadas.
+- A aplicação em inimigos com Equilíbrio segue [Equilíbrio](postura.md). Restaurar Equilíbrio não remove condições já aplicadas.
 
 ## Pontos a testar ou completar
 
-- Combinação de Agarrado, Caído e Atordoado contra personagens e inimigos com Postura.
+- Combinação de Agarrado, Caído e Atordoado contra personagens e inimigos com Equilíbrio.
 - Custos e testes de aplicação, fuga e manutenção de contenções.
 - Durações por fonte de Imobilizado e renovação de condições.
 - Efeito de ±2 na chance de acerto e no dano por margem de sucesso.
@@ -59,3 +59,7 @@ Exemplo: um personagem atordoado fora do turno não reage até seu turno começa
 Custos, durações e modificadores numéricos específicos das condições permanecem provisórios; a troca para Desvantagens vale para repetição de ataques, não converte automaticamente todos os ±2 do sistema. Fuga oposta favorece quem inicia a fuga em caso de empate; o procedimento completo de contenção ainda está pendente.
 
 O tratamento de [descanso curto](../recuperacao/descansos.md) remove Ferido e cura automaticamente. A cura automática da Regeneração dos Namarés ocorre mesmo Ferido, sem remover a condição.
+
+## Acúmulo e Postura
+
+Nome anterior; consultar [Acúmulo e Equilíbrio](#acúmulo-e-equilíbrio).

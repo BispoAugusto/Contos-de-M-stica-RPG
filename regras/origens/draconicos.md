@@ -17,5 +17,5 @@
 
 +3 Corpo; Médio.
 
-- **Escamas:** **RD geral 1**, sem PA, um uso por aplicação; quantidade máxima de usos igual ao **máximo de Corpo**, todos recuperados no **descanso longo**. Escolher Escamas ou armadura convencional na mesma ocorrência. Pode combinar a escolhida com a resistência elemental e com Defender compatível.
+- **Escamas:** **RD geral 1**, sem PA, um uso por aplicação; quantidade máxima de usos igual ao **máximo de Corpo**, todos recuperados no **descanso longo**. Escolher Escamas ou armadura convencional na mesma ocorrência. Pode combinar a escolhida com a resistência elemental e com Bloquear compatível.
 - **Sopro:** **2 PA, três usos por descanso longo**, cone até Curto, incluindo aliados. Causa **2 de dano** do elemento escolhido, sem teste de ataque. Atingidos fazem Esquiva contra **DT 10 + máximo de Corpo**; sucesso padrão já nega todo o dano. A reação que aumenta Defesa não evita esse efeito automático. Proteções posteriores seguem [RD](../combate/tipos-de-dano.md).

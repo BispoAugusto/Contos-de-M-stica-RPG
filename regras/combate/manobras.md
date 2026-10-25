@@ -15,7 +15,7 @@
 | Interceptar | Reação | 1 PA, redireciona ataque a si, usa própria Defesa; alcance pendente |
 | Ataque de Oportunidade | Reação geral aprendível | Sair do alcance da arma provoca ataque; 1 PA e 1/rodada são provisórios |
 
-Postura pode proteger inimigos de efeitos de controle.
+Equilíbrio pode proteger inimigos de efeitos de controle.
 
 ## Golpe Devastador — regra inicial de playtest
 
@@ -41,13 +41,15 @@ O uso de todos os 4 PA deixa o personagem sem PA restantes para movimento ou rea
 
 Ver [armas](../equipamentos/armas.md), [combate](README.md) e [pendências](../../design/pendencias.md).
 
+## Bloquear com escudo — reação básica de playtest
+
+**Atualizado em 2026-10-25.** Bloquear é o nome atual de Defender. Não exige aprender manobra nem Preparar Ação; exige escudo ou meio especial autorizado. Os cálculos anteriores do escudo básico (1 PA, RD física 2 e +1 Defesa constante) ficam como referência provisória até revisão, conforme [defesas](defesas.md) e [proteções](../equipamentos/armaduras-e-escudos.md).
+
+Só uma reação defensiva por ocorrência: Esquivar ou Bloquear. Pode combinar com RD passiva de armadura. Duas Leves constituem uma instância; ataques expressamente com várias instâncias recebem RD por instância, mantendo uma reação por ocorrência. Esta reação não segue o limite geral de uma manobra por rodada.
+
 ## Defender com escudo — reação básica de playtest
 
-**Aprovada em 2026-10-13, sujeita a revisão.** Empunhar o escudo básico concede +1 de Defesa e acesso a **Defender**: depois de conhecer o dano de um ataque que acertou, gastar **1 PA** para aplicar **RD física 2**. No máximo uma vez por ataque, podendo reagir a outros enquanto houver PA e as reações forem permitidas. Essa reação básica não exige aprender uma manobra e não segue o limite geral de uma manobra por rodada.
-
-Defender pode somar sua RD à de uma ativação da armadura. O ataque combinado de duas Leves tem uma única instância: um uso da armadura e/ou um Defender aplicam RD uma vez sobre seu total, com dano mínimo 0. Ataques que tenham múltiplas instâncias por texto específico mantêm a proteção de todas elas com um uso/uma reação, RD separada. Ver [armaduras e escudos](../equipamentos/armaduras-e-escudos.md).
-
-**Atualização aprovada para playtest em 2026-10-13:** Aparar foi removido. Contra cada ataque, escolha **Esquiva ou Defender**; Defender exige escudo empunhado. Não é permitido usar as duas reações contra o mesmo ataque, mesmo que Esquiva não evite o acerto. A escolha vale para o ataque inteiro, incluindo o ataque combinado de duas Leves. Contra outro ataque, pode escolher novamente, respeitando os PA disponíveis e os impedimentos de reações.
+Nome anterior, preservado para links; consultar [Bloquear](#bloquear-com-escudo--reação-básica-de-playtest).
 
 ## Integração de 2026-10-19
 
@@ -55,4 +57,4 @@ Golpe Devastador exige aprendizado, não vem automaticamente de Pesada. **Pesada
 
 Ataques fora do próprio turno, inclusive Ataque de Oportunidade, **não recebem nem avançam Desvantagens por repetição**. No próprio turno, modificadores de ataque usam a posição do ataque; manobras independentes não entram. Forçar é rerrolar o mesmo teste, não outra ação.
 
-Testes opostos seguem [testes](../fundamentos/testes.md): empate favorece quem inicia a tentativa, inclusive uma fuga. Defender também pode reduzir dano de área/efeito automático se compatível e o personagem puder reagir; o teste obrigatório do efeito é separado da única ação defensiva. RD física não reduz elementos. Ver [proteções](../equipamentos/armaduras-e-escudos.md).
+Testes opostos seguem [testes](../fundamentos/testes.md): empate favorece quem inicia a tentativa, inclusive uma fuga. Bloquear também pode reduzir dano de área/efeito automático se compatível e o personagem puder reagir; o teste obrigatório do efeito é separado da única ação defensiva. RD física não reduz elementos. Ver [proteções](../equipamentos/armaduras-e-escudos.md).

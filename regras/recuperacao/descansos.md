@@ -14,7 +14,6 @@ Dura **1 hora**, em condições adequadas e sem perigo imediato. Cada personagem
 | Recuperar Mente | Estudo/reflexão: metade do máximo de Mente, para cima |
 | Recuperar Espírito | Meditação: metade do máximo de Espírito, para cima |
 | Tratar feridas | Remove Ferido e cura conforme procedimento abaixo |
-| Manutenção de armadura | Restaura os três usos da armadura básica |
 
 Não ultrapassar máximos. Uma pausa contínua prolongada não gera descansos curtos sucessivos: é preciso retomar a jornada ou atividade relevante.
 
@@ -34,7 +33,7 @@ Dura **8 horas**, com sono ou equivalente e condições adequadas. Por enquanto,
 
 Para reduzir PE, precisa estar alimentado, hidratado e ter dormido adequadamente. Se houver falta, não reduz PE e recebe **1 PE por requisito faltante**; fome, sede e falta de sono são cumulativas. Essa decisão trata da exaustão: não presume outros números de recuperação parcial de PV/Alma para repouso inadequado.
 
-Descanso longo também restaura usos que o indiquem, como Escamas, Sopro, Pó de Fada e Manifestação Rúnica. A armadura básica tem recuperação por manutenção, não uma reposição automática por combate.
+Descanso longo também restaura usos que o indiquem, como Escamas, Sopro, Pó de Fada e Manifestação Rúnica. Armaduras convencionais têm RD passiva e não possuem cargas para recuperar.
 
 ## Exceções de espécies
 
@@ -44,3 +43,7 @@ Descanso longo também restaura usos que o indiquem, como Escamas, Sopro, Pó de
 - Namarés precisam beber e molhar o corpo para se hidratar; sem banho/imersão/chuva suficiente, contam como com sede, **sem penalidade adicional duplicada**.
 
 Detalhes em [origens](../origens/README.md). Estabilização fora de descanso tem procedimento próprio em [morte e recuperação](morte-e-recuperacao.md).
+
+## Atualização de armaduras — 2026-10-25
+
+A atividade de restaurar cargas foi retirada porque a RD passou a ser passiva. Mantidas duas atividades diferentes no descanso curto e as demais recuperações. Reparos/manutenção futura continuam sem procedimento definido; não exigir atividade para conservar a RD passiva.

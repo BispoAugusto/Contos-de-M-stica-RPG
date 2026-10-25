@@ -1,5 +1,17 @@
 # Decisões registradas
 
+## 2026-10-25 — Consolidação de combate
+
+Fonte: pacote de decisões enviado pelo criador nesta data. Esta entrada prevalece sobre registros anteriores conflitantes, que permanecem históricos.
+
+- **Aprovado:** combate perigoso e preparação; armadura com RD passiva/constante, sem cargas, dano mínimo 0; renomeação Postura → Equilíbrio, sem mudança funcional; requisitos de Esquivar (treino) e Bloquear (escudo/meio especial), sem preparação.
+- **Aprovado para playtest:** Preparar Ação reserva 1 PA sem pagar antecipadamente; Ajudar custa 1 PA e concede +1d4, acumulável; intervenções de Ajudar/Atrapalhar fora do turno exigem preparação. Proficiências +2 a +10 preservadas.
+- **Experimental/em desenvolvimento:** ataque a Abertura conhecida com Foco sob pressão; Analisar universal com 1 PA provisório; RD alternativa 1/2/3 separada da tabela mantida 2/3/4. Nenhuma validação de balanceamento implícita.
+- **Parcialmente definido:** Atrapalhar nega Ajuda; custo próprio, disputa múltipla e testes adicionais pendentes. Fórmulas antigas de Ajuda/Atrapalhar e sequência antiga do Bardo não são vigentes.
+- **Preservado:** Defesa 10 + Reflexo, +1 escudo e cálculos anteriores das reações como referência provisória até revisão; Escamas ainda têm usos; carga por espaços/base do porte +2 × Potência, criação, demais regras de armas e descanso.
+- Guias, exemplos, quedas, descanso e referências de Equilíbrio atualizados. Removida restauração de cargas de armadura, sem inventar reparos. Fichas e cenários preparados para simulações posteriores; nenhuma simulação estatística ou sessão foi executada neste pacote.
+
+
 ## 2026-10-19 — Linguagens nas perícias básicas
 
 **Confirmado:** inclusão de Linguagens nas perícias básicas, chamadas Gerais no catálogo, conforme pedido do criador. Segue o custo e a escala das gerais. **Pendente:** escopo específico, atributo sugerido e interação com idiomas; não há alteração aprovada no procedimento dos idiomas.

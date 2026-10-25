@@ -1,4 +1,4 @@
-# Guia rápido de mesa — 2026-10-19
+# Guia rápido de mesa — 2026-10-25
 
 ## Testes
 
@@ -33,15 +33,15 @@ Golpe Devastador aprendido com Pesada: até 3 PA adicionais, +2 dano cada. Armas
 
 ## Defesa e dano
 
-Esquiva: 1 PA, soma bônus da perícia limitado a 2 × Reflexo à Defesa, sem rolar. Defender: 1 PA, escudo RD física 2. **Uma ação defensiva por ocorrência**, sem Esquiva + Defender.
+Esquivar exige treino em Esquiva, sem equipamento. Referência anterior sob revisão: 1 PA, soma bônus da perícia limitado a 2 × Reflexo à Defesa, sem rolar. Bloquear exige escudo/meio especial; referência anterior sob revisão: 1 PA, escudo básico RD física 2. Nenhuma das duas reações exige Preparar Ação. **Uma ação defensiva por ocorrência**, sem Esquiva + Bloquear.
 
-Armadura: sem PA, um uso, RD física couro 2/malha 3/placas 4; três usos. Pode acompanhar reação. Resistência obrigatória de um efeito é separada. A reação que aumenta Defesa não evita efeito automático.
+Armadura: RD passiva, sem PA nem cargas; tabela mantida couro 2/malha 3/placas 4. Alternativa experimental 1/2/3 somente para comparação, não substituição automática. Pode acompanhar reação. Resistência obrigatória de um efeito é separada. A reação que aumenta Defesa não evita efeito automático.
 
 Tipos físicos: Contundente/Perfurante/Cortante. Outros: Fogo/Frio/Eletricidade/Ácido/Veneno/Profano/Radiante. RD específica por componente; geral uma vez sobre restante. Proteção incompatível não reduz dano, mesmo pagando custo.
 
 ## Descanso e risco
 
-Curto 1h: **duas atividades diferentes**. Recuperar uma Parte = metade do máximo para cima; tratamento próprio =2 + Resiliência, outro =2 + bônus Medicina, remove Ferido; manutenção restaura três usos de armadura. Um tratamento por paciente; custa atividade de quem trata. Curto adequado reduz 2 PE (1 com NE 1).
+Curto 1h: **duas atividades diferentes**. Recuperar uma Parte = metade do máximo para cima; tratamento próprio =2 + Resiliência, outro =2 + bônus Medicina, remove Ferido. Armadura passiva não exige reposição de cargas. Um tratamento por paciente; custa atividade de quem trata. Curto adequado reduz 2 PE (1 com NE 1).
 
 Longo 8h adequado: toda vida/Alma e remove Ferido, provisoriamente; reduz todos PE e 1 NE. Falta de comida/água/sono impede reduzir PE e gera 1 por faltante. Namarés precisam beber e molhar-se, ou contam como com sede.
 
@@ -50,3 +50,11 @@ Longo 8h adequado: toda vida/Alma e remove Ferido, provisoriamente; reduz todos 
 A 0 PV: Lutar Contra a Morte, Aceitar a Queda ou Último Ato. Lutar é **1d20 puro**, DT 10 +5 por nova tentativa na cena, sem qualquer modificador/rerrolagem; sucesso 1 PV, falha morte. 20 sempre sucede. Corpo de Gnomo entre dois morre a 0 sem escolhas; elas valem apenas no único corpo.
 
 Este resumo não fecha lacunas. Consultar [regras completas](../README.md) e [pendências](../design/pendencias.md).
+
+## Preparação, apoio e Aberturas
+
+Preparar Ação: declarar gatilho no turno e reservar 1 PA para ação de 1 PA até o próximo turno; gastar só se executar. Usar o PA em outra finalidade cancela a preparação. Ajudar: 1 PA, +1d4 ao teste de outro; dados de ajudas justificadas acumulam. Atrapalhar pode negar uma Ajuda, mas custo próprio/disputas/testes adicionais estão pendentes. Fora do turno em combate, ambas exigem Preparar Ação. [Procedimento](../regras/combate/acoes-taticas.md).
+
+Analisar: ação universal, 1 PA provisório; atributo/proficiência pela abordagem, DT e resultados pendentes. Abertura descoberta permanece conhecida enquanto existir. Ataque direcionado experimental usa Foco sob pressão e custo normal; se acertar a Abertura, ignora a RD da armadura relacionada. Dificuldade/penalidades e outras RD ainda pendentes. [Procedimento](../regras/combate/aberturas.md).
+
+Equilíbrio é o novo nome da antiga Postura; funcionamento preservado. Posturas são futuros estilos/estados de combate.

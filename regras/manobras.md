@@ -8,10 +8,14 @@ Este capítulo foi organizado por assunto. [Abrir a referência atual](combate/m
 
 [Consultar esta seção](combate/manobras.md#golpe-devastador--regra-inicial-de-playtest).
 
-## Defender com escudo — reação básica de playtest
+## Bloquear com escudo — reação básica de playtest
 
-[Consultar esta seção](combate/manobras.md#defender-com-escudo--reação-básica-de-playtest).
+[Consultar esta seção](combate/manobras.md#bloquear-com-escudo--reação-básica-de-playtest).
 
 ## Integração de 2026-10-19
 
 [Consultar esta seção](combate/manobras.md#integração-de-2026-10-19).
+
+## Defender com escudo — reação básica de playtest
+
+Nome anterior; consultar [Bloquear](combate/manobras.md#bloquear-com-escudo--reação-básica-de-playtest).

@@ -12,7 +12,7 @@
 | Aplicar reduções de vários tipos | [Tipos de dano e RD](tipos-de-dano.md) |
 | Usar uma técnica aprendida | [Manobras](manobras.md) |
 | Consultar uma limitação sofrida | [Condições](condicoes.md) |
-| Controlar um inimigo resistente | [Postura](postura.md) |
+| Controlar um inimigo resistente | [Equilíbrio](postura.md) |
 
 ## Referências relacionadas
 
@@ -24,3 +24,10 @@
 - [A 0 PV: morte e recuperação](../recuperacao/morte-e-recuperacao.md)
 
 As regras foram separadas para consulta; valores provisórios e pendências continuam identificados nos capítulos.
+
+## Novas ações e vulnerabilidades — 2026-10-25
+
+- [Preparar Ação, Ajudar e Atrapalhar](acoes-taticas.md)
+- [Abertura, Analisar e ataque direcionado](aberturas.md)
+
+Equilíbrio substitui o nome Postura, mantendo o funcionamento. Posturas serão desenvolvidas futuramente.

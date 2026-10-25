@@ -17,10 +17,18 @@
 - **RD:** redução de dano compatível com tipos; física, específica ou geral.
 - **Ferido:** bloqueia cura normal até tratamento, salvo exceções expressas.
 - **Sequela:** consequência persistente de Aceitar a Queda.
-- **Postura:** resistência especial de alguns inimigos a incapacitação.
+- **Equilíbrio:** resistência especial de alguns inimigos a incapacitação.
 - **Origem:** categoria racial; espécie determina características e bônus dentro dela.
 - **Porte:** campo separado de espécie; Minúsculo, Pequeno, Médio ou Grande.
 - **Manobra independente:** não é ataque para contagem de repetição.
 - **Fluxo:** perícia de controle do próprio espírito/mana, Sintonia sugerida; aplicações em habilidades pendentes.
 - **ET:** unidade citada no benefício artesanal dos Gnomos; definição operacional pendente com fabricação.
 - **Toque/Curto/Médio/Longo/Muito Longo/Fora de Alcance:** faixas narrativas, sem conversão fixa em metros.
+
+- **Abertura:** vulnerabilidade de uma proteção; exploração direcionada usa regra experimental.
+- **Analisar:** ação universal de informação tática, 1 PA provisório; resolução pendente.
+- **Preparar Ação:** manter 1 PA reservado para ação de 1 PA sob gatilho, até o próximo turno.
+- **Ajudar:** ação de 1 PA que concede +1d4 ao teste de outro; ajudas justificadas acumulam.
+- **Atrapalhar:** intervenção que pode negar Ajuda; procedimentos adicionais pendentes.
+- **Bloquear:** reação com escudo ou meio especial; nome atual de Defender.
+- **Posturas:** termo reservado a futuros estados/estilos de combate; a antiga resistência de inimigos chama-se Equilíbrio.

@@ -1,5 +1,15 @@
 # Roadmap — 2026-10-19
 
+## Prioridade aprovada — 2026-10-25
+
+- [x] Consolidar RD passiva, Equilíbrio, ações de preparação/apoio, Abertura e requisitos defensivos.
+- [x] Preparar duas fichas comparáveis e cenários, sem executar simulações completas.
+- [ ] Revisar penalidades de armaduras médias/pesadas com a carga existente.
+- [ ] Fechar lacunas de Analisar/Abertura, Atrapalhar e cálculos defensivos.
+- [ ] Realizar simulações em etapa posterior e submeter ajustes a aprovação.
+
+A lista de integração abaixo registra etapas anteriores; manutenção de cargas foi substituída pela RD passiva.
+
 ## Integração documental
 
 - [x] Migrar nove atributos, testes sem soma, pressão, graus e opostos.

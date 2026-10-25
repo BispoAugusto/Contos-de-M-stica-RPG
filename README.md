@@ -18,7 +18,7 @@ Regras e guias do sistema autoral: nove atributos, três reservas de Alma, quatr
 | [Fundamentos](regras/fundamentos/README.md) | Atributos, testes, graus de sucesso e Alma |
 | [Personagem](regras/personagem/README.md) | Proficiências, perícias, idiomas e valores da ficha |
 | [Origens e espécies](regras/origens/README.md) | Humanos, Féericos, Bestiais, Dracônicos, Verdantes e Rúnicos |
-| [Combate](regras/combate/README.md) | Turnos, ataques, defesas, dano, manobras, condições e Postura |
+| [Combate](regras/combate/README.md) | Turnos, ataques, defesas, dano, manobras, condições e Equilíbrio |
 | [Equipamentos](regras/equipamentos/README.md) | Armas, proteções, porte e inventário |
 | [Exploração](regras/exploracao/README.md) | Movimento e quedas |
 | [Descanso e sobrevivência](regras/recuperacao/README.md) | Descansos, tratamento, exaustão e morte |

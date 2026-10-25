@@ -44,7 +44,7 @@ Uma em cada mão, **1 PA, uma rolagem e uma instância de dano**:
 
 Use a menor proficiência das armas, inclusive 0, depois o teto sob pressão. Acrescente grau, crítico e demais modificadores uma vez; aplique RD uma vez. Não há segundo crítico, segundo acerto ou divisão entre alvos automaticamente aprovada.
 
-Duas adagas de base 1 formam base 2. Pleno +1 e natural 20 +2 resultam em 5 antes de RD; couro físico 2 reduz para 3, couro + Defender físico 4 reduz para 1.
+Duas adagas de base 1 formam base 2. Pleno +1 e natural 20 +2 resultam em 5 antes de RD; couro físico 2 reduz para 3, couro + Bloquear físico 4 reduz para 1.
 
 Só ataques **com ambas** usam a sequência especial: normal, normal, 1 Desvantagem, 2 Desvantagens etc. Ataque com uma só usa sua própria proficiência e sequência comum: normal, 1, 2, 3 Desvantagens etc. A posição do ataque é compartilhada, mesmo mudando de modo. Ver [combate](../combate/README.md).
 

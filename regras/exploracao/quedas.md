@@ -15,8 +15,8 @@
 
 - Dano automático, sem teste de ataque, margem de sucesso ou crítico.
 - Uma queda de **Curto ou mais** deixa o personagem **Caído** ao aterrissar, inclusive se a redução levar o dano a 0.
-- Pode gastar **um uso de armadura** para reduzir o dano. Esta é uma permissão específica para quedas; não amplia automaticamente a proteção a qualquer fonte ambiental.
-- **Esquiva e Defender não se aplicam** à queda pela exceção específica deste capítulo; sua aplicação a outros efeitos segue combate.
+- Aplica-se a **RD passiva da armadura**, sem gasto de uso, para reduzir o dano. Esta é uma permissão específica para quedas; não amplia automaticamente a proteção a qualquer fonte ambiental.
+- **Esquiva e Bloquear não se aplicam** à queda pela exceção específica deste capítulo; sua aplicação a outros efeitos segue combate.
 - Chegar a 0 PV segue [morte e recuperação](../recuperacao/morte-e-recuperacao.md); não cria morte automática adicional.
 - Porte não altera automaticamente esse dano.
 - Descida controlada por voo não é queda e não impõe Caído.

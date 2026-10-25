@@ -1,4 +1,16 @@
-# Pendências — estado de 2026-10-19
+# Pendências — estado de 2026-10-25
+
+## Prioridades do combate — 2026-10-25
+
+- [ ] Perfis de RD por tipo, resistências/vulnerabilidades e compatibilidade da tabela passiva 2/3/4 com alternativa 1/2/3.
+- [ ] Penalidades médias/pesadas em conjunto com carga vigente; não implementar propostas anteriores de peso, −2, Desvantagem ou requisitos físicos.
+- [ ] Analisar: DT, critérios de sucesso e resultados; 1 PA é provisório de simulação.
+- [ ] Ataque direcionado: dificuldade/penalidades, critério de acerto da Abertura e interação com outras RD; não ignorar toda proteção sobrenatural.
+- [ ] Atrapalhar: custo próprio não explicitado, efeitos sem Ajuda, disputa de múltiplas intervenções e eventual teste adicional.
+- [ ] Esquivar/Bloquear: cálculos exatos e interação com Defesa; preservar fórmulas anteriores provisoriamente e os novos requisitos.
+- [ ] Apoio especial/Bardo: revisar sem importar sequências antigas substituídas.
+- [ ] Preparação/ajuda: detalhar se necessário simultaneidade de gatilhos, declaração em relação à rolagem e duração de Ajuda concedida no próprio turno, sem inventar resolução neste pacote.
+
 
 Decisões resolvidas estão nas regras e no [registro de decisões](decisoes.md). Não usar listas históricas como pendências atuais.
 
@@ -11,7 +23,7 @@ Decisões resolvidas estão nas regras e no [registro de decisões](decisoes.md)
 - [x] Compacta/Potente incompatíveis; Potência/Reflexo/Foco conforme forma de ataque; Devastador aprendido admite arremesso.
 - [x] Quatro resistências, dezesseis gerais, oito conhecimentos; Fluxo, Performance, Espiritualismo; sem Liderança.
 - [x] Cinco PP provisórios, Comum fluente gratuito e +2 PP de Humanos.
-- [x] Duas atividades diferentes no curto; cura/tratamento, manutenção e recuperação de Alma.
+- [x] Duas atividades diferentes no curto; cura/tratamento e recuperação de Alma; antiga restauração de cargas retirada em 2026-10-25.
 - [x] Fome/sede/sono geram PE por requisito faltante e impedem sua recuperação; umidade dos Namarés integra sede.
 - [x] Tipos de dano, RD compatível, áreas/testes obrigatórios separados da ação defensiva.
 - [x] Seis origens/14 espécies, portes e misturas exceto Gnomos/Fadas; antiga compra de traços retirada da criação.
@@ -54,7 +66,7 @@ Decisões resolvidas estão nas regras e no [registro de decisões](decisoes.md)
 - [ ] Balanceamento do teto 2 × atributo, pleno/extremo, valores iniciais e cinco PP.
 - [ ] Recuperação completa longa, duas atividades curtas, cura por Medicina, tratamento de terceiros e Enraizamento.
 - [ ] Dano natural crescente das Feras; ação dupla dos Gnomos; Escamas geral versus armadura física.
-- [ ] RD, usos, manutenção, pressão sobre PA, ataques repetidos/Devastador e mortalidade.
-- [ ] Condições, Postura, PE/NE e vulnerabilidade após gastar todos os PA.
+- [ ] RD passiva 2/3/4 versus alternativa 1/2/3, usos apenas de proteções especiais, pressão sobre PA, ataques repetidos/Devastador e mortalidade.
+- [ ] Condições, Equilíbrio, PE/NE e vulnerabilidade após gastar todos os PA.
 
 Não houve sessão de playtest nesta atualização. Ver [plano](../planejamento/playtests.md).

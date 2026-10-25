@@ -30,3 +30,9 @@ Ideias não concedem benefícios na ficha. Regras atuais estão em [estado](../E
 ## Ideias históricas superadas
 
 Não reutilizar a soma de atributos, as sequências numéricas de repetição, o dano por blocos de cinco, as duas instâncias de Leves ou a compra de traços como regra atual. Comum fluente gratuito já foi aprovado para playtest. Antigas propostas de custos raciais foram preservadas no [catálogo histórico](catalogo-origens-historico.md).
+
+## Posturas e Aberturas — 2026-10-25
+
+Posturas serão estados ou estilos de combate, especialmente por habilidades. Mudar Postura para eliminar certas Aberturas e mecânicas de chefes para proteger, modificar ou eliminar Aberturas são ideias futuras, **não regras**. Revisar apoio especial/Bardo sem reaproveitar automaticamente 1d8/1d6/1d4. Ajudar comum agora é +1d4 acumulável.
+
+Fórmula de carga 8 +3 × Potência, novas unidades/tabelas de peso e penalidades de −2, Desvantagem ou requisitos físicos para armaduras não foram aprovadas. Preservar inventário por espaços e capacidade atual.

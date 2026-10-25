@@ -1,4 +1,4 @@
-# Postura — navegação
+# Equilíbrio — navegação
 
 <!-- navegacao:compatibilidade -->
 

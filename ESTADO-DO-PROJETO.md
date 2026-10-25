@@ -1,4 +1,18 @@
-# Estado do projeto — 2026-10-19
+# Estado do projeto — 2026-10-25
+
+## 2026-10-25 — Consolidação de combate
+
+Fonte: pacote de decisões enviado pelo criador nesta data. Esta entrada prevalece sobre registros anteriores conflitantes, que permanecem históricos.
+
+- **Aprovado:** combate perigoso e preparação; armadura com RD passiva/constante, sem cargas, dano mínimo 0; renomeação Postura → Equilíbrio, sem mudança funcional; requisitos de Esquivar (treino) e Bloquear (escudo/meio especial), sem preparação.
+- **Aprovado para playtest:** Preparar Ação reserva 1 PA sem pagar antecipadamente; Ajudar custa 1 PA e concede +1d4, acumulável; intervenções de Ajudar/Atrapalhar fora do turno exigem preparação. Proficiências +2 a +10 preservadas.
+- **Experimental/em desenvolvimento:** ataque a Abertura conhecida com Foco sob pressão; Analisar universal com 1 PA provisório; RD alternativa 1/2/3 separada da tabela mantida 2/3/4. Nenhuma validação de balanceamento implícita.
+- **Parcialmente definido:** Atrapalhar nega Ajuda; custo próprio, disputa múltipla e testes adicionais pendentes. Fórmulas antigas de Ajuda/Atrapalhar e sequência antiga do Bardo não são vigentes.
+- **Preservado:** Defesa 10 + Reflexo, +1 escudo e cálculos anteriores das reações como referência provisória até revisão; Escamas ainda têm usos; carga por espaços/base do porte +2 × Potência, criação, demais regras de armas e descanso.
+- Guias, exemplos, quedas, descanso e referências de Equilíbrio atualizados. Removida restauração de cargas de armadura, sem inventar reparos. Fichas e cenários preparados para simulações posteriores; nenhuma simulação estatística ou sessão foi executada neste pacote.
+
+Regras atuais: [ações táticas](regras/combate/acoes-taticas.md), [Abertura](regras/combate/aberturas.md), [armaduras](regras/equipamentos/armaduras-e-escudos.md), [fichas de teste](planejamento/fichas-combate-2026-10-25.md).
+
 
 **CdM RPG**: sistema autoral d20, nove atributos, reservas de Corpo/Mente/Espírito, quatro PA por turno, distâncias narrativas e exaustão persistente.
 
@@ -15,7 +29,7 @@
 - Duas Leves: 1 PA, uma rolagem, menor proficiência das duas, uma instância, base principal + metade da secundária para cima.
 - Corpo a corpo usa Potência, Leve permite Reflexo; distância/arremesso usam Foco. Golpe Devastador exige aprendizado e Pesada, inclusive arremessada, até 3 PA adicionais por +2 dano cada.
 - Quatro resistências (Vigor, Lucidez, Convicção, Esquiva), dezesseis gerais incluindo Fluxo e Linguagens e oito conhecimentos incluindo Espiritualismo. Performance substitui Atuação; Liderança retirada em favor de Persuasão. Profissionais são lista aberta.
-- Curto de 1h: duas atividades diferentes entre recuperar uma reserva, tratar feridas ou manter armadura. Alma recupera metade máxima para cima. Tratamento próprio 2 + Resiliência; de outro 2 + bônus de Medicina. Remove Ferido, automático, um tratamento por paciente/descanso.
+- Curto de 1h: duas atividades diferentes entre recuperar uma reserva ou tratar feridas. Alma recupera metade máxima para cima. Tratamento próprio 2 + Resiliência; de outro 2 + bônus de Medicina. Remove Ferido, automático, um tratamento por paciente/descanso.
 - Morte: 1d20 puro, sem bônus/penalidades ou rerrolagem; DT 10 +5 por nova tentativa na cena, sucesso 1 PV, falha morte; natural 20 sempre sucede.
 - Falta de alimentação, hidratação ou sono impede redução de PE no longo e gera 1 PE por requisito faltante. Namarés precisam beber e molhar-se: falta de banho conta como sede, sem penalidade duplicada.
 - Dez tipos de dano; proteção inicial física, Escamas geral 1, resistência dracônica elemental 2. Teste obrigatório do efeito é separado da ação defensiva; só uma reação defensiva por ocorrência. Aplicar RD compatível por componente e geral uma vez por instância.
@@ -25,11 +39,11 @@
 
 - **5 PP iniciais**, máximo nível 2; conhecimentos/idiomas dois níveis por ponto dentro da categoria. Comum fluente gratuito. Humanos +2 PP em qualquer categoria.
 - Lista de perícias e atributos sugeridos; a abrangência de Espiritualismo ainda precisa de detalhamento. Linguagens foi incluída nas básicas; seu escopo, atributo sugerido e relação com idiomas ainda serão definidos.
-- Valores modulares de armas, dano desarmado comum 0, armaduras físicas 2/3/4 com três usos e acesso 0/1/2; escudo +1 Defesa e Defender 1 PA/RD física 2. Compacta/Potente incompatíveis.
+- Valores modulares de armas, dano desarmado comum 0, armaduras físicas passivas 2/3/4 e acesso 0/1/2, com alternativa experimental 1/2/3 separada; escudo +1 Defesa e Bloquear 1 PA/RD física 2 como referência anterior sob revisão. Compacta/Potente incompatíveis.
 - Recuperação completa de vida/Alma e remoção de Ferido no longo de 8h; PE/NE seguem recuperação normal se condições adequadas.
 - Bases de carga 3/5/10/20, inventário por espaços, modificadores físicos de porte e detalhes de quedas.
 - Valores/traços de espécies conforme [catálogo atual](regras/origens/README.md), incluindo Robustez anã +3 PV, conjunto de Dríades/Arborídeos e divisão dos Gnomos.
-- Condições, tabela de NE, manobras e Postura preservam suas aprovações de playtest anteriores. Não converter todos os modificadores situacionais em Desvantagens por analogia.
+- Condições, tabela de NE, manobras e Equilíbrio preservam suas aprovações de playtest anteriores. Não converter todos os modificadores situacionais em Desvantagens por analogia.
 
 ## Proposto e pendente
 
@@ -43,7 +57,7 @@ Progressão e conjuração serão tratadas com habilidades. Fabricação e equip
 
 Núcleo, combate, Alma, descanso, espécies e referências foram migrados documentalmente; guias de [criação](referencias/criacao-de-personagem.md) e [consulta rápida](referencias/guia-rapido.md) refletem esta versão. A consulta foi organizada em [sete categorias](regras/README.md), com uma página por origem e capítulos separados de atributos, testes, turnos, ataques e defesas. O guia de criação tem oito etapas e exemplo completo. O portal acompanha as categorias, com histórico/desenvolvimento opcionais na busca; nenhuma ficha digital foi implementada. O portal usa modo noturno por padrão, com impressão/PDF em fundo claro.
 
-Próxima etapa: desenvolver habilidades/progressão/conjuração, retomar fabricação/equipamentos e montar fichas para playtest, sem tratar a migração como validação de balanceamento. Ver [roadmap](planejamento/roadmap.md) e [plano de sessões](planejamento/playtests.md).
+Próxima etapa imediata: revisar penalidades de armaduras médias/pesadas com a carga existente; resolver Analisar/Abertura e defesas, depois executar simulações com hipóteses identificadas. Habilidades/progressão/conjuração e fabricação continuam futuras. Ver [roadmap](planejamento/roadmap.md) e [plano de sessões](planejamento/playtests.md).
 
 ## Histórico e alcance
 

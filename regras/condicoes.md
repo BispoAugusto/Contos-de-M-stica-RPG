@@ -24,9 +24,9 @@ Este capítulo foi organizado por assunto. [Abrir a referência atual](combate/c
 
 [Consultar esta seção](combate/condicoes.md#atordoado).
 
-## Acúmulo e Postura
+## Acúmulo e Equilíbrio
 
-[Consultar esta seção](combate/condicoes.md#acúmulo-e-postura).
+[Consultar esta seção](combate/condicoes.md#acúmulo-e-equilíbrio).
 
 ## Pontos a testar ou completar
 
@@ -35,3 +35,7 @@ Este capítulo foi organizado por assunto. [Abrir a referência atual](combate/c
 ## Integração de 2026-10-19
 
 [Consultar esta seção](combate/condicoes.md#integração-de-2026-10-19).
+
+## Acúmulo e Postura
+
+Nome anterior; consultar [regra atual](combate/condicoes.md#acúmulo-e-equilíbrio).

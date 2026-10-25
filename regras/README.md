@@ -31,7 +31,7 @@ Escolha uma categoria ou procure a situação na tabela abaixo. Cada capítulo c
 | Quem começa e quantas ações tenho | [Turnos e iniciativa](combate/turnos-e-iniciativa.md) |
 | Como funciona o segundo ou terceiro ataque | [Repetição](combate/ataques-e-dano.md#repetição-no-próprio-turno) |
 | Como uso duas armas | [Duas Leves](equipamentos/armas.md#duas-armas-leves) |
-| Se posso Esquivar e Defender | [Defesas](combate/defesas.md) |
+| Se posso Esquivar e Bloquear | [Defesas](combate/defesas.md) |
 | Como reduzir dano de vários tipos | [Tipos de dano e RD](combate/tipos-de-dano.md) |
 | O que posso recuperar em um descanso | [Descansos](recuperacao/descansos.md) |
 | O que ocorre a 0 PV | [Morte e recuperação](recuperacao/morte-e-recuperacao.md) |
@@ -40,3 +40,7 @@ Escolha uma categoria ou procure a situação na tabela abaixo. Cada capítulo c
 ## Como ler os status
 
 **Confirmado** é uma decisão aprovada. **Provisório para playtest** pode ser usado nesta versão, mas seus valores serão avaliados. **Proposto** ainda não foi aprovado. **Pendente** exige definição. História de decisões e catálogos antigos ficam em desenvolvimento; não substituem as regras atuais.
+
+## Atualização tática — 2026-10-25
+
+[Preparar Ação e apoio](combate/acoes-taticas.md) · [Analisar e Abertura](combate/aberturas.md) · [Equilíbrio](combate/postura.md).

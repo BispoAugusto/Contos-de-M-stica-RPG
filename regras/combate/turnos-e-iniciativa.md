@@ -12,7 +12,7 @@
 |---|---|
 | Movimento Médio | 1 PA |
 | Ataque básico | 1 PA |
-| Esquiva | 1 PA |
+| Esquivar, com treino em Esquiva | 1 PA, referência anterior sob revisão |
 | Interação simples | 1 PA |
 
 ## Iniciativa dinâmica
@@ -21,4 +21,8 @@ Iniciador evidente pode agir primeiro pela ficção; a comparação de Reflexo r
 
 Ator escolhe o próximo aliado que ainda não agiu; quando seu lado termina, o outro age. Todos têm um turno por rodada. Quem sofreu dano antes de agir pode reivindicar o próximo turno; Inspiração/Medo também permitem interrupções, com no máximo 1 Medo por rodada e última declaração prevalecendo. O procedimento completo de interrupções permanece pendente.
 
-Movimento, Postura e condições preservam seus capítulos. [Quedas](../exploracao/quedas.md) têm exceções expressas de defesa; não são ataques.
+Movimento, Equilíbrio e condições preservam seus capítulos. [Quedas](../exploracao/quedas.md) têm exceções expressas de defesa; não são ataques.
+
+## Preparação e apoio
+
+[Preparar Ação, Ajudar e Atrapalhar](acoes-taticas.md) regulam intervenções fora do turno. Preparar reserva 1 PA para uma ação de 1 PA, sem gasto antecipado; Esquivar/Bloquear continuam reações específicas sem preparação. [Analisar e Abertura](aberturas.md) têm procedimentos ainda em desenvolvimento.

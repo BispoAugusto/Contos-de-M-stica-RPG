@@ -20,7 +20,7 @@ Armaduras e escudo iniciais só têm RD física. Escamas de Draconato têm RD ge
 3. Aplique RD geral **uma vez por instância** sobre o dano restante.
 4. Dano mínimo 0.
 
-Ter dois tipos de dano não cria duas instâncias. O ataque combinado de duas Leves é uma instância. Ataques expressamente com múltiplas instâncias preservam a aplicação por instância e a cobertura de um uso/uma reação ao ataque inteiro.
+Ter dois tipos de dano não cria duas instâncias. O ataque combinado de duas Leves é uma instância. Ataques expressamente com múltiplas instâncias preservam a aplicação por instância e a RD passiva de armadura e a cobertura de uma reação ao ataque inteiro; proteções especiais com usos mantêm seus próprios limites.
 
 Exemplo: uma instância de **4 físico + 2 Fogo**:
 - Couro físico 2: recebe 2 físico + 2 Fogo = 4.
@@ -28,6 +28,10 @@ Exemplo: uma instância de **4 físico + 2 Fogo**:
 - Couro e resistência ao Fogo: recebe 2 físico = 2.
 - Somente Escamas gerais 1: recebe 5 no total.
 
-Armadura convencional e Escamas/natural são alternativas por ocorrência; não somar ambas. A proteção escolhida pode combinar com resistência elemental e Defender compatível, pagando custos.
+Armadura convencional e Escamas/natural são alternativas por ocorrência; não somar ambas. A proteção escolhida pode combinar com resistência elemental e Bloquear compatível, pagando custos.
 
-Pode escolher Defender mesmo com RD incompatível, mas gasta o PA sem redução daquele componente. O mesmo vale para um uso de proteção. O jogador conhece sua RD e deve ter indícios do tipo do ataque. Ver [armaduras e escudos](../equipamentos/armaduras-e-escudos.md).
+Pode escolher Bloquear mesmo com RD incompatível, mas gasta o PA sem redução daquele componente. O mesmo vale para um uso de proteção especial, como Escamas; armadura convencional não gasta usos. O jogador conhece sua RD e deve ter indícios do tipo do ataque. Ver [armaduras e escudos](../equipamentos/armaduras-e-escudos.md).
+
+## Atualização de 2026-10-25
+
+Armaduras convencionais têm RD passiva. Perfis por tipo e vulnerabilidades específicas aguardam definição; exemplos acima mantêm a tabela 2/3/4, não o cenário alternativo 1/2/3. O [ataque à Abertura](aberturas.md) só contorna a proteção relacionada; interação com outras fontes de RD permanece pendente.
