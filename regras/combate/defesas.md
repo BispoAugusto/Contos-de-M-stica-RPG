@@ -21,3 +21,7 @@ Só uma ação defensiva por ocorrência: **Esquivar ou Bloquear**, nunca ambas,
 Testes de resistência exigidos por poderes são separados e não consomem a reação defensiva. Uma área pode exigir teste de Esquiva sem permitir a reação que aumenta Defesa: efeitos de acerto automático não consultam Defesa. Depois do teste, aplica-se RD passiva de armadura compatível; Bloquear exige recursos e permissão de reagir. A consequência do teste (metade, zero etc.) vem do efeito; não há redução universal. Metade é arredondada para cima.
 
 Proteger-se com RD incompatível não reduz aquele dano, mesmo pagando PA/uso. O jogador conhece sua proteção e tem indícios do elemento recebido. Ver [tipos de dano](tipos-de-dano.md) e [proteções](../equipamentos/armaduras-e-escudos.md).
+
+## Exposto e RD
+
+[Exposto](condicoes.md#exposto) não remove Defesa nem impede Esquivar; todo ataque ignora RD, inclusive a concedida por Bloquear ou outra reação. Outros efeitos da reação permanecem. Abertura parcial usa metade da RD efetiva para cima (1→0), incluindo uma reação válida no cálculo; não exige que todas as fontes sejam armaduras.

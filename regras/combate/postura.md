@@ -27,3 +27,7 @@ A duração da vulnerabilidade e a restauração descritas acima permanecem vál
 ## Postura
 
 Nome anterior de Equilíbrio, mantido apenas para links antigos.
+
+## Exposto e fichas de NPCs
+
+Equilíbrio é opcional nas [fichas simplificadas](npcs.md). Sua quebra não aplica [Exposto](condicoes.md#exposto) automaticamente; a fonte da exposição deve definir a interação. Restaurar Equilíbrio não remove condições automaticamente.

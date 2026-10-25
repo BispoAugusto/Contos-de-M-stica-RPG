@@ -18,6 +18,7 @@ A condição **Caído** significa estar no chão; não significa, por si só, es
 | Agarrado | Não pode se deslocar por conta própria. Pode continuar atacando e usando suas defesas. O agarrador mantém uma mão ou membro apropriado ocupado. | Gastar 1 PA para tentar escapar; também termina se for solto ou se a ligação física for rompida. |
 | Imobilizado | Não pode se deslocar nem levantar; −2 nos próprios ataques e +2 nos ataques recebidos. Não elimina automaticamente todas as reações. | Depende da origem: escapar da contenção, romper amarras, destruir uma teia etc. |
 | Atordoado | Recebe 2 PA a menos no início do próximo turno; não pode reagir até esse início. Depois, age normalmente com os PA restantes. | Termina quando essa redução é aplicada. |
+| Exposto | Abertura total: todo ataque contra o alvo ignora completamente sua RD, sem precisar ser direcionado. | Duração e saída dependem da habilidade ou situação que aplicou; sem duração universal definida. |
 
 ### Caído
 
@@ -27,7 +28,7 @@ A condição **Caído** significa estar no chão; não significa, por si só, es
 
 ### Agarrado e Imobilizado
 
-Agarrado controla posição; Imobilizado também prejudica ataques e expõe o alvo. Agarrar não aplica automaticamente Imobilizado.
+Agarrado controla posição; Imobilizado também prejudica ataques e facilita acertos contra o alvo, mas não aplica a condição Exposto automaticamente. Agarrar não aplica automaticamente Imobilizado.
 
 Para **imobilização feita por agarrão**, a recuperação é em etapas: gastar 1 PA remove Imobilizado, mas mantém Agarrado; escapar completamente exige outra ação de 1 PA e teste. Essa saída não é universal para correntes, teias, raízes ou outros efeitos.
 
@@ -63,3 +64,11 @@ O tratamento de [descanso curto](../recuperacao/descansos.md) remove Ferido e cu
 ## Acúmulo e Postura
 
 Nome anterior; consultar [Acúmulo e Equilíbrio](#acúmulo-e-equilíbrio).
+
+## Exposto
+
+**Aprovado para playtest — 2026-10-25.** Habilidades ou situações da cena podem deixar o alvo sob **Abertura total**: enquanto Exposto, **todo ataque contra ele ignora completamente a RD**, seja de armadura, proteção natural, elemental, geral ou reação. Não exige ataque direcionado nem descoberta individual da Abertura. Ver [Aberturas](aberturas.md).
+
+Defesa, necessidade de acertar e possibilidade de Esquivar permanecem. Bloquear não recupera RD ignorada; efeitos adicionais da reação continuam conforme seu texto. Exposto não significa acerto automático nem remove efeitos que não sejam RD, como imunidade ou teste obrigatório. Não estender a regra de ataques automaticamente a quedas/dano ambiental.
+
+Registrar fonte, gatilho, custo/teste quando houver, duração e condição de término. **Esses valores dependem da fonte; não foram definidos universalmente.** Conhecer uma Abertura parcial, tirar pleno/crítico, ficar Caído/Imobilizado ou chegar a Equilíbrio 0 não concede Exposto por si só. Restaurar Equilíbrio não remove condições automaticamente. A aplicação de Exposto em alvos com Equilíbrio deve ser explicitada pela fonte, sem presumir imunidade nem aplicação automática.

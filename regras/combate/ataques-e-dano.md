@@ -48,4 +48,4 @@ Golpe Devastador é uma **manobra aprendida**, exige Pesada e não é caracterí
 
 ## Ataque direcionado — experimental
 
-[Abertura conhecida](aberturas.md#ataque-direcionado) permite direcionar usando Foco sob pressão, mantendo custo normal e demais regras aplicáveis. Ignora somente a RD da armadura relacionada se acertar a Abertura; dificuldade/penalidades e outras fontes de RD permanecem pendentes. Não assumir Potência/Reflexo nesse ataque experimental.
+[Abertura conhecida](aberturas.md#ataque-direcionado) permite direcionar usando Foco sob pressão, mantendo custo normal e demais regras aplicáveis. Se acertar uma Abertura parcial, a RD efetiva fica pela metade para cima, salvo RD 1→0; pleno/extremo/crítico não ampliam a penetração. Contra Exposto, todo ataque ignora completamente RD, sem exigir direcionamento. Dificuldade/penalidades do ataque direcionado continuam pendentes. Não assumir Potência/Reflexo nesse ataque experimental.

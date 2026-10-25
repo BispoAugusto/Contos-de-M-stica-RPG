@@ -31,3 +31,8 @@ As regras foram separadas para consulta; valores provisórios e pendências cont
 - [Abertura, Analisar e ataque direcionado](aberturas.md)
 
 Equilíbrio substitui o nome Postura, mantendo o funcionamento. Posturas serão desenvolvidas futuramente.
+
+## NPCs e exposição
+
+- [NPCs: ficha simplificada, PA variáveis e proteções narrativas](npcs.md)
+- [Exposto: Abertura total](condicoes.md#exposto)

@@ -44,3 +44,7 @@ Escolha uma categoria ou procure a situação na tabela abaixo. Cada capítulo c
 ## Atualização tática — 2026-10-25
 
 [Preparar Ação e apoio](combate/acoes-taticas.md) · [Analisar e Abertura](combate/aberturas.md) · [Equilíbrio](combate/postura.md).
+
+## Inimigos e vulnerabilidades
+
+[Fichas simplificadas de NPCs](combate/npcs.md) · [Exposto](combate/condicoes.md#exposto) · [Abertura parcial e total](combate/aberturas.md).

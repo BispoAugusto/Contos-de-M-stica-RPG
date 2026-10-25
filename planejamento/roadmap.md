@@ -55,3 +55,10 @@ O portal de consulta já existe. A migração documental não significa que toda
 - [x] Aplicar três categorias com RD distribuída e peso 2/4/6 espaços, inclusive equipadas.
 - [x] Atualizar fichas e cenários sem tabelas de RD uniforme.
 - [ ] Avaliar distribuições por tipo, dano zero e carga; penalidades continuam pendentes.
+
+## PVE e exposição — 2026-10-25
+
+- [x] Registrar Abertura parcial, Exposto e estrutura simplificada de NPCs.
+- [ ] Definir conversão dos graus de NPCs, faixas de ameaça e PA por configuração do encontro.
+- [ ] Criar inimigos com proteção narrativa, ações próprias e procedimentos de exposição especificados.
+- [ ] Testar duração de Exposto e concentração de ataques de grupos maiores.

@@ -60,3 +60,12 @@ Usar as [duas fichas](fichas-combate-2026-10-25.md), com o mesmo orçamento de c
 6. Abertura: comparar conhecida/evidente com não identificada; Foco limita proficiência. Registrar dificuldade/penalidade e quais RD são contornadas antes da execução. Conhecimento persiste até mudança relevante, sem repetir Analisar todo ataque.
 
 Resultados futuros devem separar regra aprovada, parâmetro experimental e arbitragem. Não usar simulação para mudar regras automaticamente.
+
+## PVE, Aberturas e Exposto — próxima rodada
+
+- Conferir RD parcial 0→0, 1→0, 2→1, 3→2, 4→2; pleno/crítico não tornam a exposição total.
+- Exposto: ataques direcionados e comuns ignoram toda RD; Defesa/Esquivar permanecem; testar duração e saída definidas pela fonte. Não usar dano ambiental como ataque automaticamente.
+- Comparar NPCs com Corpo/Mente/Espírito, perícias treinadas e ações próprias. Registrar arbitragens de graus, PA e custos; não produzir estatísticas sem esses números.
+- Variar quantidade de jogadores, custos de ataques/reação, presença de Equilíbrio e objetivos da cena; medir efeito da exposição sobre ataques de vários aliados.
+- Testar proteção narrativa: descobrir falha, mudar posição para alcançar, NPC protegê-la, aliados criarem outra oportunidade. Conhecimento não desaparece por mera mudança de posição.
+- Dano misto com RD geral exige arbitragem prévia; não escolher silenciosamente uma ordem de arredondamento. Nenhum teste foi executado nesta atualização.

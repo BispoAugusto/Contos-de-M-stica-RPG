@@ -6,7 +6,10 @@
 - [ ] Perfis adicionais, resistências/vulnerabilidades especiais e tipo físico específico das quedas; não presumir automaticamente Contundente.
 - [ ] Penalidades médias/pesadas em conjunto com carga vigente; não implementar propostas anteriores de peso, −2, Desvantagem ou requisitos físicos.
 - [ ] Analisar: DT, critérios de sucesso e resultados; 1 PA é provisório de simulação.
-- [ ] Ataque direcionado: dificuldade/penalidades, critério de acerto da Abertura e interação com outras RD; não ignorar toda proteção sobrenatural.
+- [x] Abertura parcial reduz RD efetiva à metade para cima (1→0), sem penetração extra por pleno/crítico. Exposto: todo ataque ignora toda RD sem direcionamento.
+- [ ] Ataque direcionado: dificuldade/penalidades; ordem operacional de dano misto com RD específica/geral.
+- [ ] Exposto: fontes, duração/saída, aplicação e interação com Equilíbrio; nenhuma duração ou custo universal presumido.
+- [ ] NPCs: escala de Corpo/Mente/Espírito, conversão operacional dos graus e teto sob pressão; recursos/Alma não presumidos. Calibrar PV, defesas, PA/custos e ameaça por tamanho de grupo.
 - [ ] Atrapalhar: custo próprio não explicitado, efeitos sem Ajuda, disputa de múltiplas intervenções e eventual teste adicional.
 - [ ] Esquivar/Bloquear: cálculos exatos e interação com Defesa; preservar fórmulas anteriores provisoriamente e os novos requisitos.
 - [ ] Apoio especial/Bardo: revisar sem importar sequências antigas substituídas.

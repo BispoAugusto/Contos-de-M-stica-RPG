@@ -6,7 +6,7 @@
 
 ## Pontos de Ação
 
-4 PA renovados no início do próprio turno, sem acumular acima de 4, ressalvadas exceções expressas. PA restantes podem pagar reações fora dele.
+Personagens jogadores têm 4 PA renovados no início do próprio turno, sem acumular acima de 4, ressalvadas exceções expressas. PA restantes podem pagar reações fora dele.
 
 | Ação básica | Custo |
 |---|---|
@@ -26,3 +26,7 @@ Movimento, Equilíbrio e condições preservam seus capítulos. [Quedas](../expl
 ## Preparação e apoio
 
 [Preparar Ação, Ajudar e Atrapalhar](acoes-taticas.md) regulam intervenções fora do turno. Preparar reserva 1 PA para uma ação de 1 PA, sem gasto antecipado; Esquivar/Bloquear continuam reações específicas sem preparação. [Analisar e Abertura](aberturas.md) têm procedimentos ainda em desenvolvimento.
+
+## PA de NPCs
+
+[NPCs](npcs.md) podem ter quantidade de PA e custos próprios por ação/ataque/reação, conforme força e número de jogadores do encontro. Não presumir quatro PA nem 1 PA por ataque. Registrar na ficha; não há fórmula universal aprovada de escalonamento nem concessão automática de turnos extras.

@@ -33,6 +33,6 @@ Não reutilizar a soma de atributos, as sequências numéricas de repetição, o
 
 ## Posturas e Aberturas — 2026-10-25
 
-Posturas serão estados ou estilos de combate, especialmente por habilidades. Mudar Postura para eliminar certas Aberturas e mecânicas de chefes para proteger, modificar ou eliminar Aberturas são ideias futuras, **não regras**. Revisar apoio especial/Bardo sem reaproveitar automaticamente 1d8/1d6/1d4. Ajudar comum agora é +1d4 acumulável.
+Posturas serão estados ou estilos de combate, especialmente por habilidades. Mudar Postura para eliminar certas Aberturas permanece ideia futura. A orientação de descrever proteções e meios narrativos de proteger/modificar Aberturas de NPCs já foi aprovada; seus custos e procedimentos específicos devem constar na ficha. Revisar apoio especial/Bardo sem reaproveitar automaticamente 1d8/1d6/1d4. Ajudar comum agora é +1d4 acumulável.
 
 Fórmula de carga 8 +3 × Potência, conversão para quilogramas e penalidades de −2, Desvantagem ou requisitos físicos para armaduras não foram aprovadas. Peso em espaços e armaduras de 2/4/6 espaços foram aprovados posteriormente em 2026-10-25; preservar a capacidade atual. Os catálogos por materiais anteriormente sugeridos não são modelos adicionais deste playtest.

@@ -1,5 +1,16 @@
 # Estado do projeto — 2026-10-25
 
+## 2026-10-25 — Abertura parcial, Exposto e NPCs
+
+**Decisões do criador:** Aberturas padrões são parciais e exigem ataque direcionado; RD efetiva restante = metade para cima, salvo RD 1→0. Pleno/crítico não convertem parcial em total. Habilidades ou situações podem aplicar **Exposto**: todo ataque contra o alvo ignora completamente RD, sem direcionamento. A fonte deve definir aplicação/duração/saída; não inventado padrão universal.
+
+Substituído o antigo acerto direcionado que ignorava toda armadura e descartada a proposta intermediária de pleno com penetração total. Dano normal por grau/crítico preservado. Para dano único, metade sobre RD efetiva; misturas com RD geral ainda precisam de procedimento.
+
+Foco em PVE: ficha de NPC com Corpo/Mente/Espírito como referência de graus, só perícias treinadas, vida, defesas prontas, RD completa/parcial, passivas, ações, reações e Equilíbrio opcional. Ataques únicos independem de inventário; PA e custos podem variar conforme força e grupo enfrentado. Sem fórmula de ameaça/PA nem conversão numérica nova de graus aprovada automaticamente.
+
+Quase todo NPC com proteção ou RD passiva forte deve descrever sua proteção, Aberturas, maneiras de expô-la e como pode protegê-la, incentivando tática e narrativa. Criados capítulo/modelo de NPCs e condição Exposto; atualizados guias, fichas e pendências. Nenhuma simulação executada.
+
+
 ## 2026-10-25 — Três modelos de armadura e peso em espaços
 
 **Aprovado para playtest pelo criador:** leve distribui 2/1/0 (peso 2 espaços), média 3/2/1 (4 espaços) e pesada 4/3/2 (6 espaços). Um valor para cada tipo: Cortante, Perfurante e Contundente. O jogador escolhe a permutação ao definir a armadura, sem redistribuição livre de pontos e sem troca durante combate. RD por tipo de 0 a 4, passiva, dano mínimo 0; não há proteção automática contra os demais tipos.
@@ -71,3 +82,7 @@ Próxima etapa imediata: revisar penalidades de armaduras médias/pesadas com a 
 ## Histórico e alcance
 
 As regras substituídas de seis atributos aditivos, repetição numérica, dano contínuo por margem e compra de traços não são vigentes. [Decisões](design/decisoes.md), [changelog](CHANGELOG.md) e [catálogo histórico](design/catalogo-origens-historico.md) preservam o contexto. Nenhum playtest de mesa foi realizado nesta integração.
+
+## Referência atual de NPCs
+
+[Modelo simplificado](regras/combate/npcs.md) e [Exposto](regras/combate/condicoes.md#exposto). Os nove atributos, criação e quatro PA permanecem como estrutura dos jogadores; NPCs seguem a direção própria documentada.

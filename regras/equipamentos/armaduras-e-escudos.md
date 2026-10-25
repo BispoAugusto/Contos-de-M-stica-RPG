@@ -62,4 +62,4 @@ O antigo traço comprável Armadura Natural RD 2/dois usos é apenas [histórico
 
 Registrar categoria, acesso, RD de cada um dos três tipos e peso em espaços; não registrar cargas de armadura convencional. Exemplo: “Média, acesso 1, Cortante 3 / Perfurante 2 / Contundente 1, peso 4 espaços”. Escudo registra Defesa +1 e Bloquear 1 PA/RD física 2, como referência provisória sob revisão.
 
-[Abertura](../combate/aberturas.md) permite contornar a RD da proteção relacionada no ataque direcionado experimental; não ignora automaticamente escudo, Escamas ou toda RD sobrenatural. Perfis adicionais além dos três modelos, penalidades, melhorias, novos escudos, preços e aquisição inicial continuam pendentes.
+[Abertura parcial](../combate/aberturas.md) reduz a RD efetiva do alvo à metade para cima contra o ataque direcionado (RD 1→0), sem melhoria por pleno/crítico. Enquanto [Exposto](../combate/condicoes.md#exposto), todo ataque ignora completamente RD, inclusive de escudo, Escamas e outras fontes, sem exigir direcionamento. Perfis adicionais além dos três modelos, penalidades, melhorias, novos escudos, preços e aquisição inicial continuam pendentes.

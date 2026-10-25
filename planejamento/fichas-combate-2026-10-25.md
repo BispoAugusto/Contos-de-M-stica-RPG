@@ -77,9 +77,18 @@ Nilo pode arremessar uma adaga até Médio: Foco, 1d20+2 sob pressão, base 1, r
 
 - Ambos podem Preparar Ação e Ajudar: +1d4 por ajuda válida, 1 PA. Atrapalhar tem resolução/custo próprio pendentes.
 - Analisar por observação pode usar Percepção/Vigilância: ambos +2 sob pressão, se essa abordagem for apropriada. Custo 1 PA provisório; DT e resultado ainda não definidos.
-- Ataque direcionado à Abertura usa Foco 1: ambos ficam em **1d20+2**, limiar de pleno **DT +9**, preservando dano base e custo. Dificuldade/penalidade e interação com outras RD devem ser resolvidas antes de simular; não presumir acerto pela Defesa comum. Abertura conhecida não exige nova análise a cada ataque.
+- Ataque direcionado à Abertura usa Foco 1: ambos ficam em **1d20+2**, limiar de pleno **DT +9**, preservando dano base e custo. Contra Abertura parcial, RD efetiva pela metade para cima, salvo 1→0, mesmo em pleno/crítico. Dificuldade/penalidade devem ser resolvidas antes de simular; não presumir acerto pela Defesa comum. Abertura conhecida não exige nova análise a cada ataque.
 - Defesa passiva e Esquivar usam as fórmulas anteriores preservadas provisoriamente. Comparações que envolvam Bloquear precisam de um módulo com escudo, proficiência e mãos livres, sem concedê-los gratuitamente a estas fichas.
 - Não atribuir Equilíbrio aos dois personagens: é recurso especial de alguns inimigos.
 - Distância inicial, iniciativa, uso de Alma, política de reações e término do combate precisam constar no cenário. Não produzir taxas de vitória preenchendo lacunas silenciosamente.
 
 Procedimentos: [ações táticas](../regras/combate/acoes-taticas.md), [Abertura](../regras/combate/aberturas.md) e [plano de simulações](playtests.md#rodada-de-combate-de-2026-10-25--preparação-não-resultados).
+
+## Consulta de RD parcial e Exposto
+
+| Personagem | RD completa C/P/Cont | RD parcial restante C/P/Cont | Exposto, contra qualquer ataque |
+|---|---|---|---|
+| Borin | 4/3/2 | 2/2/1 | 0 |
+| Nilo | 2/1/0 | 1/0/0 | 0 |
+
+Parcial exige ataque direcionado a Abertura acessível. Pleno/crítico não concedem exposição total; Exposto exige fonte definida e não muda Defesa. Estas continuam fichas de jogadores, não usam o modelo simplificado de NPC.

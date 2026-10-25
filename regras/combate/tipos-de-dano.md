@@ -34,4 +34,4 @@ Pode escolher Bloquear mesmo com RD incompatível, mas gasta o PA sem redução 
 
 ## Atualização de 2026-10-25
 
-Armaduras convencionais têm RD passiva distribuída entre os três tipos físicos: leve 2/1/0, média 3/2/1, pesada 4/3/2. Para cada componente do dano, aplicar apenas o valor atribuído àquele tipo; RD 0 não reduz. As antigas tabelas de RD uniforme foram substituídas. O [ataque à Abertura](aberturas.md) só contorna a proteção relacionada; interação com outras fontes de RD permanece pendente.
+Armaduras convencionais têm RD passiva distribuída entre os três tipos físicos: leve 2/1/0, média 3/2/1, pesada 4/3/2. Para cada componente do dano, aplicar apenas o valor atribuído àquele tipo; RD 0 não reduz. As antigas tabelas de RD uniforme foram substituídas. O [ataque à Abertura parcial](aberturas.md) reduz a RD efetiva à metade para cima, salvo 1→0. [Exposto](condicoes.md#exposto) faz todo ataque ignorar completamente a RD, de qualquer fonte, sem direcionamento. Para um único tipo, combinar fontes compatíveis antes de calcular a metade; dano misto com RD geral ainda precisa de detalhamento operacional.

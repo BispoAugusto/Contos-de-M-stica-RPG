@@ -39,3 +39,7 @@ Este capítulo foi organizado por assunto. [Abrir a referência atual](combate/c
 ## Acúmulo e Postura
 
 Nome anterior; consultar [regra atual](combate/condicoes.md#acúmulo-e-equilíbrio).
+
+## Exposto
+
+[Consultar a condição Exposto](combate/condicoes.md#exposto).

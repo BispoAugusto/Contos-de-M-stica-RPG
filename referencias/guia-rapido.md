@@ -16,7 +16,7 @@ Vantagens/Desvantagens cancelam uma a uma; role 1 + saldo de d20, maior/menor. F
 
 ## Combate
 
-4 PA por turno. Ataque/movimento Médio/interação simples: 1 PA. Defesa 10 + Reflexo; escudo +1. Corpo a corpo Potência; Leve permite Reflexo; distância/arremesso Foco.
+Jogadores: 4 PA por turno. Ataque/movimento Médio/interação simples: 1 PA. NPCs podem ter PA e custos próprios, registrados na ficha. Defesa 10 + Reflexo; escudo +1. Corpo a corpo Potência; Leve permite Reflexo; distância/arremesso Foco.
 
 | Ataque do próprio turno | Comum | Com duas Leves |
 |---|---|---|
@@ -55,6 +55,10 @@ Este resumo não fecha lacunas. Consultar [regras completas](../README.md) e [pe
 
 Preparar Ação: declarar gatilho no turno e reservar 1 PA para ação de 1 PA até o próximo turno; gastar só se executar. Usar o PA em outra finalidade cancela a preparação. Ajudar: 1 PA, +1d4 ao teste de outro; dados de ajudas justificadas acumulam. Atrapalhar pode negar uma Ajuda, mas custo próprio/disputas/testes adicionais estão pendentes. Fora do turno em combate, ambas exigem Preparar Ação. [Procedimento](../regras/combate/acoes-taticas.md).
 
-Analisar: ação universal, 1 PA provisório; atributo/proficiência pela abordagem, DT e resultados pendentes. Abertura descoberta permanece conhecida enquanto existir. Ataque direcionado experimental usa Foco sob pressão e custo normal; se acertar a Abertura, ignora a RD da armadura relacionada. Dificuldade/penalidades e outras RD ainda pendentes. [Procedimento](../regras/combate/aberturas.md).
+Analisar: ação universal, 1 PA provisório; atributo/proficiência pela abordagem, DT e resultados pendentes. Abertura descoberta permanece conhecida enquanto existir. Ataque direcionado experimental usa Foco sob pressão e custo normal; se acertar a Abertura parcial, RD efetiva pela metade para cima, salvo 1→0. Pleno/crítico não a tornam total. Exposto: todo ataque ignora completamente RD, sem direcionamento; fonte define duração/saída. Dificuldade/penalidades do direcionado e dano misto com várias RD ainda pendentes. [Procedimento](../regras/combate/aberturas.md).
 
 Equilíbrio é o novo nome da antiga Postura; funcionamento preservado. Posturas são futuros estilos/estados de combate.
+
+## NPCs de consulta rápida
+
+[Ficha simplificada](../regras/combate/npcs.md): Corpo/Mente/Espírito para referência de graus, só perícias treinadas, PV, Defesa base/com Esquiva, RD completa/parcial, PA, passivas, ações, reações e Equilíbrio quando pertinente. Ataques podem ser próprios, sem inventário. Descrever proteção, acesso às Aberturas, como protegê-las e situações que podem aplicar Exposto; números de ameaça e conversão exata dos graus ainda em desenvolvimento.
