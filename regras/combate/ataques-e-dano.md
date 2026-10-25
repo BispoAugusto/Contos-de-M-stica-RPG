@@ -6,8 +6,8 @@
 
 ## Rolagem de ataque
 
-- Ataque: **1d20 + bônus de proficiência + modificadores**. Sob pressão, limitar somente a proficiência a **2 × atributo**.
-- Corpo a corpo usa Potência; Leve permite Reflexo; distância e arremesso usam Foco.
+- **Confirmado em 2026-10-25:** ataque comum = **1d20 + proficiência do grupo de arma**. Não é teste de atributo; não aplica teto por Potência/Reflexo nem graus pleno/extremo. Efeitos explícitos de habilidades e repetição continuam aplicáveis.
+- Ataque direcionado é a exceção: usa Foco e proficiência do grupo de arma, com as regras de pressão de Foco. Foco não é somado ao dado.
 - Manobra ofensiva independente não é ataque. As que exigem/modificam ataque contam pelo ataque.
 
 ## Repetição no próprio turno
@@ -31,14 +31,14 @@ Em um acerto, aplique base da arma, grau, crítico e demais efeitos:
 | Grau | Dano adicional |
 |---|---|
 | Padrão | Nenhum |
-| Pleno — Golpe Pesado | +1 |
-| Extremo — Golpe Brutal | +2, substitui o +1 |
+| Golpe Pesado — total ≥ Defesa +5 | +1 |
+| Golpe Brutal — total ≥ Defesa +10 | +2, substitui o +1 |
 
-20 natural dá **+2 adicional**, cumulativo com pleno/extremo; não concede esses graus automaticamente. Impacto dá +1 em pleno ou extremo. A antiga progressão de +1 a cada cinco pontos de margem foi substituída.
+20 natural dá **+2 adicional**, cumulativo com pesado/brutal; não concede esses resultados automaticamente. Impacto dá +1 em pesado ou brutal. Não é necessário atributo 10 para brutal. Os limiares são inclusivos e não geram aumentos adicionais a cada cinco pontos.
 
-Exemplo: Potência 3, proficiência 3 (+6), primeiro ataque sob pressão; dado 16 resulta em 22. Contra Defesa 15, o limiar pleno é 22. Uma Pesada de base 4 causa 5, ou 6 com Impacto, antes de RD. Se o dado for 20, total 26, continua pleno (atributo abaixo de 10), com +2 de crítico adicional.
+Exemplo: proficiência +4, dado 16, total 20 contra Defesa 15: pesado. Base 4 causa 5. Total 25 seria brutal e causaria 6.
 
-O teto da proficiência não altera o dano base. Golpes Desarmados comuns mantêm base 0 para playtest; armas naturais das Feras têm base igual ao nível de Golpes Desarmados, mínimo 1. Ver [armas](../equipamentos/armas.md).
+A proficiência não altera o dano base. Golpes Desarmados comuns mantêm base 0 para playtest; armas naturais das Feras têm base igual ao nível de Golpes Desarmados, mínimo 1. Ver [armas](../equipamentos/armas.md).
 
 ## Duas armas e manobras
 
@@ -48,4 +48,4 @@ Golpe Devastador é uma **manobra aprendida**, exige Pesada e não é caracterí
 
 ## Ataque direcionado — experimental
 
-[Abertura conhecida](aberturas.md#ataque-direcionado) permite direcionar usando Foco sob pressão, mantendo custo normal e demais regras aplicáveis. Se acertar uma Abertura parcial, a RD efetiva fica pela metade para cima, salvo RD 1→0; pleno/extremo/crítico não ampliam a penetração. Contra Exposto, todo ataque ignora completamente RD, sem exigir direcionamento. Dificuldade/penalidades do ataque direcionado continuam pendentes. Não assumir Potência/Reflexo nesse ataque experimental.
+[Abertura conhecida](aberturas.md#ataque-direcionado) permite direcionar usando Foco sob pressão, mantendo custo normal e demais regras aplicáveis. Se acertar uma Abertura parcial, a RD efetiva fica pela metade para cima, salvo RD 1→0; pesado/brutal/crítico não ampliam a penetração. Contra Exposto, todo ataque ignora completamente RD, sem exigir direcionamento. Dificuldade/penalidades do ataque direcionado continuam pendentes. Não assumir Potência/Reflexo nesse ataque experimental.

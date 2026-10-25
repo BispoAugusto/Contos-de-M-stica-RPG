@@ -22,7 +22,7 @@ Tipos físicos (Contundente, Perfurante, Cortante) não concedem efeitos passivo
 | Versátil | 1 | +1 no dano usando duas mãos |
 | Pesada | 1 | +2 no dano; exige duas mãos |
 | Alcance | 1 | Ataque corpo a corpo até Curto |
-| Impacto | 1 | +1 dano em pleno ou extremo |
+| Impacto | 1 | +1 dano em pesado ou brutal |
 | Furtiva | 1 | 1 Vantagem para ocultar a arma, não para atacar |
 | Arremessável | 1 | Arremesso até Médio, usando Foco |
 
@@ -32,7 +32,7 @@ Pesada não aumenta o custo básico de atacar e não concede automaticamente Gol
 
 ## Dano por sucesso
 
-Padrão: base. Pleno (Golpe Pesado): **+1**. Extremo (Golpe Brutal): **+2 em vez de +1**, disponível a partir de atributo 10. Natural 20: **+2 adicional**, sem garantir pleno/extremo. Impacto soma +1 somente se o grau for pleno ou extremo. Não há aumento contínuo a cada cinco pontos de margem.
+Padrão: base. Pesado (Defesa +5): **+1**. Brutal (Defesa +10): **+2 em vez de +1**, sem requisito de atributo. Natural 20: **+2 adicional**. Impacto soma +1 em pesado ou brutal. Não há progressão além de brutal.
 
 Atributos e bônus numéricos de proficiência não somam diretamente ao dano. A característica natural das Feras é uma exceção expressa por **nível**, não pelo bônus.
 
@@ -44,7 +44,7 @@ Uma em cada mão, **1 PA, uma rolagem e uma instância de dano**:
 
 Use a menor proficiência das armas, inclusive 0, depois o teto sob pressão. Acrescente grau, crítico e demais modificadores uma vez; aplique RD uma vez. Não há segundo crítico, segundo acerto ou divisão entre alvos automaticamente aprovada.
 
-Duas adagas de base 1 formam base 2. Pleno +1 e natural 20 +2 resultam em 5 antes de RD; se o dano for perfurante, uma armadura leve com Perfurante 2 / Cortante 1 / Contundente 0 reduz para 3; essa armadura + Bloquear reduz para 1.
+Duas adagas de base 1 formam base 2. Pesado +1 e natural 20 +2 resultam em 5 antes de RD; se o dano for perfurante, uma armadura leve com Perfurante 2 / Cortante 1 / Contundente 0 reduz para 3; essa armadura + Bloquear reduz para 1.
 
 Só ataques **com ambas** usam a sequência especial: normal, normal, 1 Desvantagem, 2 Desvantagens etc. Ataque com uma só usa sua própria proficiência e sequência comum: normal, 1, 2, 3 Desvantagens etc. A posição do ataque é compartilhada, mesmo mudando de modo. Ver [combate](../combate/README.md).
 
@@ -66,7 +66,7 @@ Exemplo: arma Potente + Recarregar já carregada permite atirar (1 PA), recarreg
 
 ## Golpes Desarmados e armas naturais
 
-Golpes Desarmados comuns mantêm **base 0**, sem propriedades automáticas, para playtest. Podem causar 0 num acerto padrão sem bônus; pleno soma 1, extremo 2, natural 20 soma 2. Habilidades de pugilista e sua relação com espaços/propriedades continuam pendentes.
+Golpes Desarmados comuns mantêm **base 0**, sem propriedades automáticas, para playtest. Podem causar 0 num acerto padrão sem bônus; pesado soma 1, brutal 2, natural 20 soma 2. Habilidades de pugilista e sua relação com espaços/propriedades continuam pendentes.
 
 **Feras:** garras/presas têm base igual ao **nível de Golpes Desarmados**, mínimo 1:
 
@@ -74,7 +74,7 @@ Golpes Desarmados comuns mantêm **base 0**, sem propriedades automáticas, para
 |---|---|---|---|---|---|---|
 | Base natural | 1 | 1 | 2 | 3 | 4 | 5 |
 
-Usam Potência e **não têm Leve**. Não qualificam para o ataque combinado de duas Leves. Bônus de pleno/extremo/crítico se aplicam. O teto sob pressão só limita a rolagem, nunca essa base; RD pode reduzir dano recebido a 0.
+Ataques usam a proficiência de Golpes Desarmados e **não têm Leve**. Não qualificam para o ataque combinado de duas Leves. Bônus de pesado/brutal/crítico se aplicam. Ataques comuns não usam teto de atributo; RD pode reduzir dano recebido a 0.
 
 Os antigos traços compráveis Arma Natural/Avançada não são opções atuais de criação; estão no [catálogo histórico](../../design/catalogo-origens-historico.md).
 

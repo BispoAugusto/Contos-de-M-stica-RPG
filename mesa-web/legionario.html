@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>Legionário · Contos de Mística</title>
+  <link rel="stylesheet" href="card.css">
+  <script src="card.js" defer></script>
+</head>
+<body class="card-demo">
+  <main class="demo-stage">
+    <nav class="demo-nav" aria-label="Fichas"><a href="index.html">Lobo</a><a href="legionario.html" aria-current="page">Legionário</a></nav>
+    <p class="demo-label">CONTOS DE MÍSTICA <span>/</span> BESTIÁRIO</p>
+
+    <!-- Componente reutilizável: copie este article e carregue card.css. -->
+    <article class="npc-card" aria-labelledby="legion-name">
+      <header class="npc-card__header">
+        <div>
+          <p class="npc-card__eyebrow">HUMANOIDE · DEFENSOR DE LINHA</p>
+          <h1 id="legion-name">Legionário<span aria-hidden="true">.</span></h1>
+        </div>
+        <span class="npc-card__nd" aria-label="ND ainda não definido">ND <strong>—</strong><small>a definir</small></span>
+      </header>
+
+      <div class="npc-card__attributes" aria-label="Atributos e teto de proficiência sob pressão">
+        <div class="npc-card__attribute npc-card__attribute--body">
+          <img src="assets/icon_body.png" width="441" height="501" alt="" class="npc-card__icon">
+          <span class="npc-card__attribute-name">Corpo</span>
+          <strong class="npc-card__attribute-value">3</strong>
+          <span class="npc-card__pressure" title="Teto de proficiência sob pressão: 2 × Corpo"><b>+6</b> pressão</span>
+        </div>
+        <div class="npc-card__attribute npc-card__attribute--mind">
+          <img src="assets/icon_mind.png" width="345" height="501" alt="" class="npc-card__icon">
+          <span class="npc-card__attribute-name">Mente</span>
+          <strong class="npc-card__attribute-value">2</strong>
+          <span class="npc-card__pressure" title="Teto de proficiência sob pressão: 2 × Mente"><b>+4</b> pressão</span>
+        </div>
+        <div class="npc-card__attribute npc-card__attribute--spirit">
+          <img src="assets/icon_spirit.png" width="279" height="501" alt="" class="npc-card__icon">
+          <span class="npc-card__attribute-name">Espírito</span>
+          <strong class="npc-card__attribute-value">2</strong>
+          <span class="npc-card__pressure" title="Teto de proficiência sob pressão: 2 × Espírito"><b>+4</b> pressão</span>
+        </div>
+      </div>
+
+      <section class="npc-card__vitals" aria-label="Vida e status">
+        <div class="npc-card__health-label"><label for="legion-health">Pontos de vida</label><span><strong>20</strong><span class="npc-card__muted"> / 20</span></span></div>
+        <progress id="legion-health" class="npc-card__health" value="20" max="20">20 de 20 PV</progress>
+        <dl class="npc-card__stats">
+          <div><dt>Defesa</dt><dd>12</dd><small>11 sem escudo</small></div>
+          <div><dt>Movimento</dt><dd class="npc-card__movement">Médio</dd><small>1 PA</small></div>
+          <div><dt>PA / rodada</dt><dd>4</dd><small>renova no turno</small></div>
+        </dl>
+      </section>
+
+      <section class="npc-card__section" aria-labelledby="legion-skills">
+        <h2 id="legion-skills">Proficiências <span>06</span></h2>
+        <ul class="npc-card__skills"><li>Espadas <b>+4</b></li><li>Vigor <b>+4</b></li><li>Atletismo <b>+2</b></li><li>Vigilância <b>+2</b></li><li>Convicção <b>+2</b></li><li>Armaduras <b>2</b></li></ul><p class="npc-card__note">Treinado em escudos. Sem Esquiva treinada.</p>
+      </section>
+
+      <section class="npc-card__section" aria-labelledby="legion-protection">
+        <h2 id="legion-protection">Proteções <span>RD</span></h2>
+        <table class="npc-card__rd">
+          <caption>Redução de dano completa e restante em Abertura parcial</caption>
+          <thead><tr><th scope="col">Tipo</th><th scope="col">Completa</th><th scope="col">Parcial</th></tr></thead>
+          <tbody>
+            <tr><th scope="row">Cortante</th><td>4</td><td>2</td></tr>
+            <tr><th scope="row">Perfurante</th><td>3</td><td>2</td></tr>
+            <tr><th scope="row">Contundente</th><td>2</td><td>1</td></tr>
+          </tbody>
+        </table>
+        <p class="npc-card__note">Armadura pesada · 6 espaços. Escudo empunhado. Equilíbrio 2. Demais RD: 0. Parcial indica a RD restante.</p>
+      </section>
+
+<section class="npc-card__section npc-card__section--actions"><div class="npc-card__tabs" role="tablist" aria-label="Opções da ficha"><button role="tab" id="legion-actions-tab" aria-controls="legion-actions-panel" aria-selected="true">Ações</button><button role="tab" id="legion-skills-tab" aria-controls="legion-skills-panel" aria-selected="false" tabindex="-1">Habilidades</button></div><div role="tabpanel" id="legion-actions-panel" aria-labelledby="legion-actions-tab"><details class="npc-card__action"><summary><span class="npc-card__action-text"><strong>Corte de guarda</strong><small>ATAQUE · TOQUE</small></span><span class="npc-card__cost">1 PA</span><span class="npc-card__chevron" aria-hidden="true"></span></summary><div class="npc-card__description"><p><strong>1d20 +4</strong> (Espadas). Dano: <strong>4 cortante</strong>; pesado <strong>5</strong> (Defesa +5); brutal <strong>6</strong> (Defesa +10). Natural 20 acrescenta +2 de dano.</p><p>Repetição no turno: normal, 1 Desvantagem, 2 Desvantagens… Não usa atributo nem pleno.</p></div></details><details class="npc-card__action"><summary><span class="npc-card__action-text"><strong>Empurrão de escudo</strong><small>MANOBRA · TOQUE</small></span><span class="npc-card__cost">1 PA</span><span class="npc-card__chevron" aria-hidden="true"></span></summary><div class="npc-card__description"><p><strong>1d20 +4</strong> contra Defesa. Desloca até Curto para longe, havendo caminho. Sem dano; uma vez por rodada. Manobra independente: não conta na repetição.</p><p>Contra Equilíbrio positivo, reduz 1; se zerar, desloca. Procedimento provisório de playtest.</p></div></details><details class="npc-card__action"><summary><span class="npc-card__action-text"><strong>Bloquear</strong><small>REAÇÃO · PROTEÇÃO</small></span><span class="npc-card__cost">1 PA</span><span class="npc-card__chevron" aria-hidden="true"></span></summary><div class="npc-card__description"><p>Após conhecer o dano, recebe <strong>RD física adicional 2</strong> contra aquela ocorrência. Com armadura: C/P/Cont <strong>6/5/4</strong>; parcial <strong>3/3/2</strong>.</p><p>Uma reação defensiva por ocorrência, com PA disponível. Enquanto Exposto, ataques ignoram toda essa RD.</p></div></details></div><div role="tabpanel" id="legion-skills-panel" aria-labelledby="legion-skills-tab" hidden><details class="npc-card__action"><summary><span class="npc-card__action-text"><strong>Armadura de legionário</strong><small>PASSIVA · PROTEÇÃO</small></span><span class="npc-card__cost">Passiva</span><span class="npc-card__chevron" aria-hidden="true"></span></summary><div class="npc-card__description"><p>Placas robustas cobrem o corpo. As juntas dos cotovelos, joelhos e gorjal são <strong>Aberturas evidentes</strong> quando visíveis, sem exigir Analisar. Um ataque direcionado que alcance a junta usa a RD parcial.</p><p>Proteger uma junta exige posição ou obstáculo real; não apaga todas as Aberturas. Ser pesado ou brutal não ignora mais RD. Exposto faz todo ataque ignorar RD completamente.</p></div></details><details class="npc-card__action"><summary><span class="npc-card__action-text"><strong>Equilíbrio</strong><small>PASSIVA · ESTABILIDADE</small></span><span class="npc-card__cost">2 pontos</span><span class="npc-card__chevron" aria-hidden="true"></span></summary><div class="npc-card__description"><p>Controle bem-sucedido desgasta 1 ponto. A manobra que zera aplica o controle possível. Restaura ao fim do próximo turno do Legionário.</p><p>Quebrar Equilíbrio não causa Exposto automaticamente. Procedimento de controle proposto para este playtest.</p></div></details></div></section>
+      <footer class="npc-card__footer"><span class="npc-card__dot" aria-hidden="true"></span>PROTÓTIPO DE PLAYTEST <span>CdM / 02</span></footer>
+    </article>
+    <p class="demo-hint">Selecione uma ação para ver os detalhes.</p>
+  </main>
+</body>
+</html>

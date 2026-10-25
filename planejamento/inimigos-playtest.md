@@ -6,8 +6,8 @@ As três faixas de ameaça são **relativas entre estas fichas**, não ND 1/2/3.
 
 ## Convenções exclusivas deste teste
 
-- Usar Corpo/Mente/Espírito no lugar do atributo para graus: pleno = DT + máximo(0, 10 − Parte); extremo apenas com Parte 10+. Teto sob pressão = 2 × Parte. **Esta aplicação numérica é hipótese local**, não resolve a pendência geral dos NPCs. Partes não são reservas gastáveis; sem Forçar dos NPCs nesta primeira versão.
-- Bônus de ataques abaixo já respeitam esse teto. Não somar a Parte ao dado. Natural 1 falha, 20 acerta e dá +2 dano; pleno acrescenta +1, sem tornar Abertura total.
+- Usar Corpo/Mente/Espírito no lugar do atributo para graus de testes que não sejam ataques: pleno = DT + máximo(0, 10 − Parte); extremo apenas com Parte 10+. Teto sob pressão = 2 × Parte. **Esta aplicação numérica é hipótese local**, não resolve a pendência geral dos NPCs. Partes não são reservas gastáveis; sem Forçar dos NPCs nesta primeira versão.
+- Ataques não usam esse teto nem pleno: 1d20 + proficiência. Pesado em Defesa +5 acrescenta 1 dano; brutal em Defesa +10 acrescenta 2 em vez de 1. Natural 1 falha; 20 acerta e dá +2 dano adicional.
 - Ataques comuns seguem repetição normal no próprio turno: normal, 1 Desvantagem, 2 etc.; custo maior não concede acertos extras. Esquivar não rola dados. Uma reação defensiva por ocorrência, com PA disponíveis.
 - Começar com PV, PA e Equilíbrio cheios. Renovar PA até o máximo da ficha no início do próprio turno, sem acumular. Movimento Médio custa 1 PA, salvo ação específica. A 0 PV, retirar o NPC do combate; destino narrativo decidido pela cena. São convenções de teste, não novos procedimentos gerais de morte.
 - Ataque direcionado de jogador: Foco e proficiência da arma; **neste teste, usar a Defesa atual do alvo sem penalidade adicional**. Exige acesso à Abertura. Essa DT é arbitragem local. Analisar, quando indicado: 1 PA, atributo/perícia pela abordagem, com DT proposta na ficha. Pistas evidentes não cobram análise.
@@ -16,7 +16,7 @@ As três faixas de ameaça são **relativas entre estas fichas**, não ND 1/2/3.
 
 ## Comparação rápida
 
-| Campo | Lobo | Cavaleiro | Salamandra |
+| Campo | Lobo | Legionário | Salamandra |
 |---|---|---|---|
 | Ameaça relativa | Menor; perigoso em grupo | Intermediária; defensor | Maior; monstro de pressão em área |
 | Corpo / Mente / Espírito | 2 / 1 / 1 | 3 / 2 / 2 | 4 / 2 / 2 |
@@ -39,7 +39,7 @@ Esses valores não são derivados automaticamente da criação dos jogadores. At
 | Tipo | Ação | Procedimento proposto |
 |---|---|---|
 | Passiva | Pressão da matilha | Uma Vantagem em Mordida se outro lobo consciente estiver em Toque do mesmo alvo. Não acumula por quantidade de lobos. |
-| Ataque — 1 PA | Mordida | Toque, 1d20+4, Corpo; 3 perfurante, 4 em pleno, crítico +2. Pleno no total Defesa +8. |
+| Ataque — 1 PA | Mordida | Toque, 1d20+4 (Golpes Desarmados); 3 perfurante, 4 em pesado, 5 em brutal; crítico +2. |
 | Manobra — 1 PA | Puxão de presa | Toque, 1d20+4, Corpo, contra Defesa; sem dano. Sucesso tenta aplicar Caído; 1/rodada. Independente, não conta na repetição de ataques. Contra Equilíbrio positivo, reduz 1 em vez de aplicar Caído; se zerar, aplica Caído. |
 | Reação — 1 PA | Esquivar | Defesa 14 contra um ataque. Não melhora resistências automaticamente. |
 
@@ -47,9 +47,9 @@ Esses valores não são derivados automaticamente da criação dos jogadores. At
 
 **Proteção e criatividade:** não possui RD, então Analisar uma Abertura não oferece penetração adicional. Analisar DT 12, Mente com Vigilância ou conhecimento pertinente, pode revelar a dependência de companhia para a Vantagem. Separar os lobos elimina a condição da passiva; ocupar uma passagem pode impedir que vários alcancem o mesmo alvo. Não inventar RD só para obrigar o uso de Aberturas.
 
-**Perigo esperado, ainda não medido:** mordida ameaça personagens leves; uma matilha cria mais turnos e pode derrubar. Golpes comuns podem ser anulados pela proteção pesada — diferença intencional para o primeiro teste. Testar um lobo e depois uma dupla separadamente; nenhum tamanho de matilha foi certificado como seguro.
+**Perigo esperado, ainda não medido:** mordida ameaçapersonagens leves; uma matilha cria mais turnos e pode derrubar. Golpes comuns podem ser anulados pela proteção pesada — diferença intencional para o primeiro teste. Testar um lobo e depois uma dupla separadamente; nenhum tamanho de matilha foi certificado como seguro.
 
-## Cavaleiro — placas robustas, juntas visíveis
+## Legionário — placas robustas, juntas visíveis
 
 **Perícias treinadas:** Espadas 2 (+4), Vigor 2 (+4), Atletismo 1 (+2), Vigilância 1 (+2), Convicção 1 (+2); proficiente em escudos e acesso 2 a armaduras. Corpo para espada/Vigor/Atletismo, Mente para Vigilância, Espírito para Convicção. Sem treino em Esquiva.
 
@@ -57,11 +57,11 @@ Esses valores não são derivados automaticamente da criação dos jogadores. At
 
 | Tipo | Ação | Procedimento proposto |
 |---|---|---|
-| Ataque — 1 PA | Corte de guarda | Toque, 1d20+4, Corpo; 4 cortante, 5 em pleno, crítico +2. Pleno no total Defesa +7. Ataque próprio, não dano de uma espada modular comum. |
+| Ataque — 1 PA | Corte de guarda | Toque, 1d20+4 (Espadas); 4 cortante, 5 em pesado, 6 em brutal; crítico +2. Ataque próprio, não dano de uma espada modular comum. |
 | Manobra — 1 PA | Empurrão de escudo | Toque, 1d20+4, Corpo, contra Defesa; desloca até Curto para longe se houver caminho; sem dano, 1/rodada. Independente. Contra Equilíbrio positivo, reduz 1; se zerar, desloca. |
 | Reação — 1 PA | Bloquear | Após conhecer o dano, RD física adicional 2 por ocorrência. Com armadura: RD completa C6/P5/Cont4; parcial C3/P3/Cont2. Enquanto Exposto, nenhuma dessas RD protege contra ataques. |
 
-**Aberturas óbvias:** juntas dos cotovelos, parte interna dos joelhos e junção do gorjal. São reconhecidas sem teste quando visíveis em Toque ou Curto, mas só podem ser atacadas de um alcance e ângulo que permitam alcançá-las. Ataque direcionado usa a RD parcial, mesmo em pleno. Abertura evidente não significa Exposto.
+**Aberturas óbvias:** juntas dos cotovelos, parte interna dos joelhos e junção do gorjal. São reconhecidas sem teste quando visíveis em Toque ou Curto, mas só podem ser atacadas de um alcance e ângulo que permitam alcançá-las. Ataque direcionado usa a RD parcial, mesmo em pesado ou brutal. Abertura evidente não significa Exposto.
 
 **Como protege as falhas:** pode mover-se para uma passagem ou colocar uma junta contra uma parede, tornando aquela abordagem inacessível. O reposicionamento paga movimento normal; não fecha todas as juntas gratuitamente nem elimina o conhecimento dos jogadores. Analisar DT 12 pode apontar uma junta acessível a partir de outra posição. Se nenhuma mudança material ocorrer, repetir “protejo as juntas” não apaga a Abertura.
 
@@ -77,7 +77,7 @@ Esses valores não são derivados automaticamente da criação dos jogadores. At
 
 | Tipo | Ação | Procedimento proposto |
 |---|---|---|
-| Ataque — 2 PA | Mordida esmagadora | Toque, 1d20+6, Corpo; 5 perfurante, 6 em pleno, crítico +2. Pleno no total Defesa +6. Uma rolagem e uma instância. |
+| Ataque — 2 PA | Mordida esmagadora | Toque, 1d20+6 (Golpes Desarmados); 5 perfurante, 6 em pesado, 7 em brutal; crítico +2. Uma rolagem e uma instância. |
 | Preparação — 2 PA | Inflar a garganta | Máximo 1/turno; inicia o ciclo abaixo, sinaliza a direção do cone e aplica Exposto à própria salamandra. Não pode ser usada no turno em que solta a baforada. |
 | Ataque de área — 3 PA | Baforada ardente | Só no turno seguinte à preparação. Cone até Curto na direção sinalizada, inclui aliados; 6 Fogo por alvo, sem rolagem de ataque. Resistência Esquiva DT 14: falha 6, padrão 3, pleno 0; pleno do jogador usa seu Reflexo. Uma instância por alvo; RD compatível depois da resistência. |
 | Reação | Nenhuma | Não possui defesa reativa nesta versão; conserva Defesa base 12. |
@@ -100,7 +100,7 @@ Ataques preparados podem usar como gatilho o início visível da exposição, de
 ## O que medir antes de aprovar os números
 
 - Lobo: dano em dupla, pressão de Caído/Vantagem e se personagens leves conseguem reagir.
-- Cavaleiro: RD com escudo versus ataques direcionados; acesso real às juntas e custo de reposicionamento.
+- Legionário: RD com escudo versus ataques direcionados; acesso real às juntas e custo de reposicionamento.
 - Salamandra: quantos ataques de jogadores cabem na janela de Exposto; risco de ser eliminada antes da primeira baforada e dano da área contra grupos de tamanhos diferentes.
 - Comparar encontros separados, sem somar os três inimigos como encontro equilibrado. Registrar ordem dos turnos, terreno, jogadores, PA, plenos, dano evitado, uso de Aberturas e exposição.
 - As fichas não aprovam ND numérico, conversão universal dos graus de NPCs, DT geral de Analisar ou duração universal de Exposto. Não alterar o núcleo a partir de resultados sem nova decisão.

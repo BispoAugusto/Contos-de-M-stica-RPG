@@ -4,6 +4,8 @@
 
 **Confirmado.** Defina abordagem, atributo e proficiência antes da rolagem. O atributo nunca é somado ao dado.
 
+Ataques têm regra própria: **1d20 + proficiência do grupo de arma**, com pesado em Defesa +5 e brutal em Defesa +10. Não usam os graus abaixo; direcionados usam Foco. Ver [ataques](../combate/ataques-e-dano.md). Testes de análise, resistência e outras ações continuam seguindo suas regras específicas.
+
 ## Rolagem e pressão
 
 **Teste = 1d20 + bônus de proficiência aplicável + modificadores.**
@@ -14,7 +16,7 @@ Sob pressão, use no máximo **2 × atributo** do bônus de proficiência. Perig
 
 O teto afeta **somente o bônus de proficiência na rolagem**, não modificadores de outras fontes, nível adquirido, dano base ou bônus de dano. Pode reduzir indiretamente o dano ao impedir pleno/extremo.
 
-Exemplo: Potência 1 e Golpes Desarmados 3 (+6), sob pressão, usam **1d20 +2**. Uma Fera mantém dano base 3.
+Exemplo: em um teste de atributo, atributo 1 e proficiência +6 sob pressão usam **1d20 +2**. Isso não limita ataques comuns.
 
 ## Graus de sucesso
 
@@ -30,7 +32,7 @@ Exemplo: DT 15, atributo 3: resultado 15 é padrão; 22 é pleno; extremo ainda 
 
 ## Naturais e testes opostos
 
-O d20 selecionado determina naturais: **1 falha; 20 sucede**. Dados descartados não produzem crítico. Em ataques, 20 também dá +2 de dano; pleno/extremo ainda dependem dos totais.
+O d20 selecionado determina naturais: **1 falha; 20 sucede**. Dados descartados não produzem crítico. Em ataques, 20 também dá +2 de dano; pesado/brutal dependem do total contra Defesa +5/+10.
 
 Em teste oposto, use o total do adversário como DT para as margens. Empate favorece o atacante/iniciador, salvo regra específica; quem tenta escapar de um agarrão inicia essa tentativa. Sem atacante definido, desempate pelo **maior máximo da Parte da Alma do teste de cada participante**; persistindo, os empatados rolam novamente. Se ambos tirarem 20, compare totais e aplique os mesmos desempates.
 

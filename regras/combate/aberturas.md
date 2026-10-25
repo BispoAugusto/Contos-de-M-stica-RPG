@@ -20,7 +20,7 @@ Aberturas evidentes podem ser reconhecidas sem teste, conforme a situação. Des
 
 Contra uma Abertura parcial conhecida e acessível, o jogador direciona o ataque usando a referência experimental existente: **Foco sob pressão**, teto de proficiência 2 × Foco, família da arma e custo normal preservados. Dificuldade/penalidades específicas continuam pendentes; a redução abaixo depende de acertar o ataque direcionado.
 
-A RD efetiva aplicável ao ataque passa a contar pela **metade, arredondada para cima**, exceto **RD 1, que é negada completamente**. RD 0 continua 0. A redução vale apenas para aquele ataque; não danifica permanentemente a proteção. Pleno, extremo e crítico não transformam Abertura parcial em total; seus demais efeitos normais de dano permanecem.
+A RD efetiva aplicável ao ataque passa a contar pela **metade, arredondada para cima**, exceto **RD 1, que é negada completamente**. RD 0 continua 0. A redução vale apenas para aquele ataque; não danifica permanentemente a proteção. Pesado, brutal e crítico não transformam Abertura parcial em total; seus demais efeitos normais de dano permanecem.
 
 | RD efetiva completa | RD parcial restante | RD contra ataques enquanto Exposto |
 |---|---|---|
@@ -32,7 +32,7 @@ A RD efetiva aplicável ao ataque passa a contar pela **metade, arredondada para
 
 A regra é sobre **RD efetiva do alvo**, não apenas armadura convencional. Para valores maiores decorrentes de combinações válidas, aplicar a mesma metade para cima (ex.: RD efetiva 6 → 3). A tabela 0–4 não limita a RD total de várias fontes válidas.
 
-Exemplo com apenas uma proteção: contra RD perfurante 3, um ataque direcionado que cause 3 perfurante deixa passar 1. Mesmo que esse dano resulte de pleno, a RD restante continua 2; pleno não a zera. Contra alvo Exposto, o mesmo ataque causa 3 porque a RD é ignorada.
+Exemplo com apenas uma proteção: contra RD perfurante 3, um ataque direcionado que cause 3 perfurante deixa passar 1. Mesmo que esse dano resulte de pesado ou brutal, a RD restante continua 2; esses resultados não a zeram. Contra alvo Exposto, o mesmo ataque causa 3 porque a RD é ignorada.
 
 ## Abertura total e Exposto
 

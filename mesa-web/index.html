@@ -6,9 +6,11 @@
   <meta name="color-scheme" content="dark">
   <title>Lobo · Contos de Mística</title>
   <link rel="stylesheet" href="card.css">
+  <script src="card.js" defer></script>
 </head>
 <body class="card-demo">
   <main class="demo-stage">
+    <nav class="demo-nav" aria-label="Fichas"><a href="index.html" aria-current="page">Lobo</a><a href="legionario.html">Legionário</a></nav>
     <p class="demo-label">CONTOS DE MÍSTICA <span>/</span> BESTIÁRIO</p>
 
     <!-- Componente reutilizável: copie este article e carregue card.css. -->
@@ -75,25 +77,21 @@
         <p class="npc-card__note">Sem armadura ou RD nos demais tipos. Não possui Equilíbrio.</p>
       </section>
 
-      <section class="npc-card__section npc-card__section--actions" aria-labelledby="wolf-actions">
-        <h2 id="wolf-actions">Ações <span>04</span></h2>
-        <details class="npc-card__action">
+<section class="npc-card__section npc-card__section--actions"><div class="npc-card__tabs" role="tablist" aria-label="Opções da ficha"><button role="tab" id="wolf-actions-tab" aria-controls="wolf-actions-panel" aria-selected="true">Ações</button><button role="tab" id="wolf-skills-tab" aria-controls="wolf-skills-panel" aria-selected="false" tabindex="-1">Habilidades</button></div><div role="tabpanel" id="wolf-actions-panel" aria-labelledby="wolf-actions-tab"><details class="npc-card__action">
           <summary><span class="npc-card__action-text"><strong>Mordida</strong><small>ATAQUE · TOQUE</small></span><span class="npc-card__cost">1 PA</span><span class="npc-card__chevron" aria-hidden="true"></span></summary>
-          <div class="npc-card__description"><p><strong>1d20 +4</strong> com Corpo. Causa <strong>3 perfurante</strong>; 4 em pleno e +2 no crítico. Pleno em Defesa do alvo +8.</p><p>Ataques repetidos no turno: normal, 1 Desvantagem, 2 Desvantagens…</p></div>
+          <div class="npc-card__description"><p><strong>1d20 +4</strong> (Golpes Desarmados). Causa <strong>3 perfurante</strong>; 4 em pesado (Defesa +5), 5 em brutal (Defesa +10) e +2 no crítico.</p><p>Ataques repetidos no turno: normal, 1 Desvantagem, 2 Desvantagens…</p></div>
         </details>
-        <details class="npc-card__action">
+<details class="npc-card__action">
           <summary><span class="npc-card__action-text"><strong>Puxão de presa</strong><small>MANOBRA · TOQUE</small></span><span class="npc-card__cost">1 PA</span><span class="npc-card__chevron" aria-hidden="true"></span></summary>
           <div class="npc-card__description"><p><strong>1d20 +4</strong> com Corpo contra Defesa. Tenta aplicar <strong>Caído</strong>, sem dano; uma vez por rodada. Não conta como ataque para repetição.</p><p>Contra Equilíbrio positivo, reduz 1; se zerar, aplica Caído. Procedimento proposto para este playtest.</p></div>
         </details>
-        <details class="npc-card__action">
+<details class="npc-card__action">
           <summary><span class="npc-card__action-text"><strong>Esquivar</strong><small>REAÇÃO · DEFESA</small></span><span class="npc-card__cost">1 PA</span><span class="npc-card__chevron" aria-hidden="true"></span></summary>
           <div class="npc-card__description"><p>Com PA disponível, eleva a Defesa de 12 para <strong>14 contra um ataque</strong>, sem rolagem. Apenas uma reação defensiva por ocorrência.</p></div>
-        </details>
-        <details class="npc-card__action">
+        </details></div><div role="tabpanel" id="wolf-skills-panel" aria-labelledby="wolf-skills-tab" hidden><details class="npc-card__action">
           <summary><span class="npc-card__action-text"><strong>Pressão da matilha</strong><small>PASSIVA · COOPERAÇÃO</small></span><span class="npc-card__cost npc-card__cost--passive">Passiva</span><span class="npc-card__chevron" aria-hidden="true"></span></summary>
           <div class="npc-card__description"><p>Recebe <strong>uma Vantagem em Mordida</strong> quando outro lobo consciente estiver em Toque do mesmo alvo. Não acumula por quantidade de lobos.</p><p>Separar os lobos elimina o benefício. Procura alvos isolados e tenta cercá-los.</p></div>
-        </details>
-      </section>
+        </details></div></section>
       <footer class="npc-card__footer"><span class="npc-card__dot" aria-hidden="true"></span>PROTÓTIPO DE PLAYTEST <span>CdM / 01</span></footer>
     </article>
     <p class="demo-hint">Selecione uma ação para ver os detalhes.</p>

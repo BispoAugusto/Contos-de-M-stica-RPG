@@ -1,5 +1,11 @@
 # Histórico
 
+## 2026-10-25 — Ataques e card do Legionário
+
+**Confirmado pelo criador:** ataques comuns usam 1d20 + proficiência do grupo de arma, sem teste de atributo. Direcionados usam Foco. Ataques não usam pleno/extremo: pesado em Defesa +5 e brutal em Defesa +10. Preservados os efeitos já registrados de dano +1/+2 (não cumulativos), Impacto e crítico +2. Testes que não são ataques preservam suas regras.
+
+Criada ficha HTML do Legionário, com números propostos do cavaleiro, abas Ações (custos de PA e reações) e Habilidades (passivas). Lobo atualizado. ND e balanceamento continuam pendentes; nenhuma simulação realizada.
+
 ## 2026-10-25 — ND de áreas pendente e três inimigos propostos
 
 - Registrado, a pedido do criador, o conceito de ND 0, 1, 2… das áreas, orientando DTs médias, ND médio dos NPCs, raridades de inimigos/materiais e eventos. Balanceamento, distribuição e tabelas ficam para depois.

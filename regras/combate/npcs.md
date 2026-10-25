@@ -24,7 +24,7 @@
 
 ## Corpo, Mente, Espírito e graus
 
-Os três números substituem a lista de atributos na referência de graus do NPC. Identificar qual Parte corresponde à abordagem de cada teste/ataque. **Não somá-los automaticamente à rolagem.** Perícias só aparecem se treinadas; omitir uma perícia não cria proficiência gratuita.
+Os três números substituem a lista de atributos na referência de graus do NPC. Identificar qual Parte corresponde à abordagem de cada teste de atributo. **Não somá-los automaticamente à rolagem.** Perícias só aparecem se treinadas; omitir uma perícia não cria proficiência gratuita.
 
 **Pendente de detalhamento:** escala/faixa desses três números e aplicação operacional aos limiares de pleno/extremo e ao teto de proficiência sob pressão. Não impor uma fórmula nova por inferência. Até isso ser definido, cada ficha de playtest deve registrar a referência de graus e qualquer arbitragem usada. Esses números não foram definidos como reservas gastáveis de Alma; não derivar PV, Defesa ou recursos pelas fórmulas dos jogadores automaticamente.
 
@@ -86,3 +86,5 @@ Não usar campos “a definir” como zero ou como regra pronta. Fichas de jogad
 ## Protótipos para avaliação
 
 [Lobo, cavaleiro e salamandra](../../planejamento/inimigos-playtest.md) apresentam três ameaças relativas e hipóteses locais para permitir testes. Valores, custos e janelas de exposição são propostas, não regras universais. Nenhum recebeu ND definitivo; o [ND das áreas](../../design/pendencias.md#nd-de-áreas-de-exploração) será balanceado depois.
+
+Ataques de NPCs usam os resultados de combate: pesado em Defesa +5 e brutal em Defesa +10, sem pleno/extremo. Corpo/Mente/Espírito não são somados ao ataque.
