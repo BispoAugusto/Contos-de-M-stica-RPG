@@ -1,0 +1,89 @@
+/* Componente sem dependências. Regras visuais isoladas em .npc-card. */
+.card-demo { margin:0; color:#e8e9ed; background:#0b0d11; font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+.demo-stage { min-height:100vh; box-sizing:border-box; display:flex; flex-direction:column; align-items:center; padding:48px 16px 28px; background:radial-gradient(ellipse at 50% 0%,#20253255,transparent 65%); }
+.demo-label { font-size:10px; font-weight:650; letter-spacing:2px; color:#a0a7b5; margin:0 0 22px; }
+.demo-label span { color:#414958; margin:0 10px; }
+.demo-hint { color:#87909e; font-size:12px; margin:22px 0 0; }
+.npc-card { --card-accent:#b8c4db; width:100%; max-width:480px; box-sizing:border-box; overflow:hidden; border:1px solid #343943; border-radius:22px; background:linear-gradient(145deg,#1c2029,#15181f 45%); color:#eceef3; box-shadow:0 24px 90px #0005; font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; font-size:14px; line-height:1.5; }
+.npc-card *, .npc-card *::before, .npc-card *::after { box-sizing:border-box; }
+.npc-card__header { display:flex; align-items:center; justify-content:space-between; gap:16px; padding:28px 28px 0; }
+.npc-card__eyebrow { margin:0 0 5px; font-size:9px; font-weight:700; letter-spacing:1.8px; color:#a4adbd; }
+.npc-card h1 { font-size:40px; font-weight:650; line-height:1.15; letter-spacing:-1.8px; margin:0; }
+.npc-card h1 span { color:#8495b2; }
+.npc-card__nd { min-width:64px; padding-left:16px; border-left:1px solid #383d47; color:#a5adba; font-size:11px; letter-spacing:1px; text-align:center; }
+.npc-card__nd strong { color:#e9ecf2; font-size:20px; margin-left:5px; }
+.npc-card__nd small { display:block; font-size:10px; letter-spacing:0; color:#9da6b5; }
+.npc-card__attributes { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); padding:28px 16px 24px; gap:4px; }
+.npc-card__attribute { display:flex; flex-direction:column; align-items:center; position:relative; }
+.npc-card__attribute::before { content:""; position:absolute; inset:0 5px 55px; background:radial-gradient(ellipse,var(--glow),transparent 70%); pointer-events:none; }
+.npc-card__attribute--body { --tone:#ff707d; --glow:#e04c5218; }
+.npc-card__attribute--mind { --tone:#78a9ff; --glow:#4b7ded20; }
+.npc-card__attribute--spirit { --tone:#55d796; --glow:#36ba7518; }
+.npc-card__icon { object-fit:contain; width:88px; height:96px; margin-bottom:12px; position:relative; }
+.npc-card__attribute--body .npc-card__icon { filter:brightness(2.1) saturate(.85); }
+.npc-card__attribute--mind .npc-card__icon { filter:brightness(2.7) saturate(.65); }
+.npc-card__attribute--spirit .npc-card__icon { filter:brightness(1.65) saturate(.7); }
+.npc-card__attribute-name { color:var(--tone); font-size:10px; font-weight:700; letter-spacing:1.4px; text-transform:uppercase; }
+.npc-card__attribute-value { margin:2px 0 3px; font-size:32px; line-height:1.15; font-weight:600; font-variant-numeric:tabular-nums; }
+.npc-card__pressure { font-size:10px; color:#a5adba; }
+.npc-card__pressure b { color:var(--tone); font-size:12px; font-weight:650; margin-right:3px; }
+.npc-card__vitals { padding:0 28px 23px; }
+.npc-card__health-label { display:flex; align-items:baseline; justify-content:space-between; font-size:12px; color:#b4bcc9; margin-bottom:8px; }
+.npc-card__health-label strong { color:#e9edf4; font-size:16px; font-weight:600; }
+.npc-card__muted { color:#9aa4b4; }
+.npc-card__health { display:block; width:100%; height:6px; appearance:none; border:0; border-radius:10px; overflow:hidden; background:#303641; color:#bc6571; }
+.npc-card__health::-webkit-progress-bar { background:#303641; border-radius:10px; }
+.npc-card__health::-webkit-progress-value { background:linear-gradient(90deg,#985660,#d5818b); border-radius:10px; }
+.npc-card__health::-moz-progress-bar { background:linear-gradient(90deg,#985660,#d5818b); border-radius:10px; }
+.npc-card__stats { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); margin:23px 0 0; gap:10px; }
+.npc-card__stats>div { border-left:1px solid #343a45; padding-left:14px; }
+.npc-card__stats>div:first-child { border:0; padding-left:0; }
+.npc-card__stats dt { font-size:10px; color:#b1b9c6; }
+.npc-card__stats dd { font-size:24px; font-weight:550; margin:2px 0 0; line-height:1.4; }
+.npc-card__stats dd.npc-card__movement { font-size:19px; line-height:1.77; }
+.npc-card__stats small { display:block; color:#9aa4b4; font-size:10px; }
+.npc-card__section { border-top:1px solid #303540; padding:20px 28px; }
+.npc-card h2 { font-size:11px; letter-spacing:1.1px; text-transform:uppercase; font-weight:650; margin:0 0 14px; display:flex; align-items:center; justify-content:space-between; }
+.npc-card h2 span { color:#9ba5b6; font-size:10px; font-weight:500; }
+.npc-card__skills { list-style:none; margin:0; padding:0; display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:7px 20px; }
+.npc-card__skills li { display:flex; justify-content:space-between; align-items:baseline; gap:8px; font-size:12px; color:#b8c0cd; }
+.npc-card__skills b { flex-shrink:0; color:#e4e9f2; font-weight:550; font-variant-numeric:tabular-nums; }
+.npc-card__rd { width:100%; border-collapse:collapse; text-align:left; font-size:12px; }
+.npc-card__rd caption { position:absolute; width:1px; height:1px; overflow:hidden; clip-path:inset(50%); white-space:nowrap; }
+.npc-card__rd thead { font-size:10px; color:#9fa9b9; }
+.npc-card__rd th { font-weight:450; padding:4px 0; }
+.npc-card__rd td { padding:4px 0; font-variant-numeric:tabular-nums; }
+.npc-card__rd th:not(:first-child),.npc-card__rd td { text-align:right; }
+.npc-card__rd tbody th { color:#c1c9d5; }
+.npc-card__rd tbody td:last-child { color:#9ca8ba; }
+.npc-card__note { font-size:10px; color:#a0abba; margin:11px 0 0; line-height:1.6; }
+.npc-card__section--actions { padding-bottom:10px; }
+.npc-card__action { border-top:1px solid #2d333e; }
+.npc-card__action summary { display:flex; align-items:center; gap:12px; min-height:68px; cursor:pointer; list-style:none; border-radius:6px; transition:background .15s; }
+.npc-card__action summary::-webkit-details-marker { display:none; }
+.npc-card__action summary:hover { background:#ffffff06; }
+.npc-card__action summary:focus-visible { outline:2px solid #8caee5; outline-offset:4px; }
+.npc-card__action-text { flex:1; min-width:0; }
+.npc-card__action-text strong { display:block; font-size:13px; font-weight:550; }
+.npc-card__action-text small { display:block; margin-top:2px; font-size:8px; letter-spacing:1px; color:#a2aec0; }
+.npc-card__cost { border:1px solid #3d4655; color:#d8dfeb; border-radius:6px; padding:3px 7px; font-size:10px; white-space:nowrap; }
+.npc-card__cost--passive { color:#aeb9ca; border-color:#333b48; }
+.npc-card__chevron { width:7px; height:7px; border-right:1.5px solid #abb7ca; border-bottom:1.5px solid #abb7ca; transform:rotate(45deg); margin:0 3px 3px 0; transition:transform .15s; }
+.npc-card__action[open] .npc-card__chevron { transform:rotate(225deg); margin-top:6px; }
+.npc-card__description { color:#b5bfce; font-size:12px; padding:0 12px 10px 0; line-height:1.75; }
+.npc-card__description p { margin:0 0 10px; }
+.npc-card__description strong { color:#e3e9f3; font-weight:550; }
+.npc-card__footer { border-top:1px solid #303540; background:#10131955; display:flex; align-items:center; gap:7px; padding:14px 28px; font-size:8px; letter-spacing:1.2px; color:#a5afbe; }
+.npc-card__footer>span:last-child { margin-left:auto; white-space:nowrap; }
+.npc-card__dot { width:5px; height:5px; border-radius:50%; background:#b5a078; }
+@media(max-width:380px) {
+  .demo-stage { padding:24px 10px; }
+  .npc-card__header { padding:23px 20px 0; }
+  .npc-card__vitals,.npc-card__section { padding-left:20px; padding-right:20px; }
+  .npc-card__icon { width:72px; height:82px; }
+  .npc-card__skills { gap:7px 14px; }
+  .npc-card__skills li { font-size:11px; }
+  .npc-card__stats>div { padding-left:10px; }
+  .npc-card__footer { padding-left:20px; padding-right:20px; }
+}
+@media(prefers-reduced-motion:reduce) { .npc-card * { transition:none!important; } }
