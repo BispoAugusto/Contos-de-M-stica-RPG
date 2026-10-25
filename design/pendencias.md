@@ -2,7 +2,8 @@
 
 ## Prioridades do combate — 2026-10-25
 
-- [ ] Perfis de RD por tipo, resistências/vulnerabilidades e compatibilidade da tabela passiva 2/3/4 com alternativa 1/2/3.
+- [x] Três modelos de armadura com RD por tipo e peso em espaços: leve 2/1/0 e 2 espaços, média 3/2/1 e 4, pesada 4/3/2 e 6; jogador distribui entre Cortante/Perfurante/Contundente, sem troca em combate.
+- [ ] Perfis adicionais, resistências/vulnerabilidades especiais e tipo físico específico das quedas; não presumir automaticamente Contundente.
 - [ ] Penalidades médias/pesadas em conjunto com carga vigente; não implementar propostas anteriores de peso, −2, Desvantagem ou requisitos físicos.
 - [ ] Analisar: DT, critérios de sucesso e resultados; 1 PA é provisório de simulação.
 - [ ] Ataque direcionado: dificuldade/penalidades, critério de acerto da Abertura e interação com outras RD; não ignorar toda proteção sobrenatural.
@@ -66,7 +67,7 @@ Decisões resolvidas estão nas regras e no [registro de decisões](decisoes.md)
 - [ ] Balanceamento do teto 2 × atributo, pleno/extremo, valores iniciais e cinco PP.
 - [ ] Recuperação completa longa, duas atividades curtas, cura por Medicina, tratamento de terceiros e Enraizamento.
 - [ ] Dano natural crescente das Feras; ação dupla dos Gnomos; Escamas geral versus armadura física.
-- [ ] RD passiva 2/3/4 versus alternativa 1/2/3, usos apenas de proteções especiais, pressão sobre PA, ataques repetidos/Devastador e mortalidade.
+- [ ] RD distribuída 2/1/0, 3/2/1 e 4/3/2 versus tipos de dano e peso equipado 2/4/6 espaços, usos apenas de proteções especiais, pressão sobre PA, ataques repetidos/Devastador e mortalidade.
 - [ ] Condições, Equilíbrio, PE/NE e vulnerabilidade após gastar todos os PA.
 
 Não houve sessão de playtest nesta atualização. Ver [plano](../planejamento/playtests.md).

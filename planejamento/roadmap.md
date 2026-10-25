@@ -49,3 +49,9 @@ A lista de integração abaixo registra etapas anteriores; manutenção de carga
 - [ ] Ficha digital e automação de recursos, inclusive divisão de Gnomos.
 
 O portal de consulta já existe. A migração documental não significa que todas as regras estão fechadas nem que houve playtest.
+
+## Modelos de armadura — 2026-10-25
+
+- [x] Aplicar três categorias com RD distribuída e peso 2/4/6 espaços, inclusive equipadas.
+- [x] Atualizar fichas e cenários sem tabelas de RD uniforme.
+- [ ] Avaliar distribuições por tipo, dano zero e carga; penalidades continuam pendentes.

@@ -8,15 +8,23 @@
 
 Armaduras aplicam **RD passiva e constante**, sem PA, ativação ou cargas. Dano mínimo 0: proteção pesada pode anular ataques de baixo dano. RD não aumenta a dificuldade de acertar; armaduras não dão Defesa adicional.
 
-| Modelo | Categoria | Acesso mínimo | RD física mantida para comparação |
+**Modelos aprovados para playtest — 2026-10-25.** Um modelo por categoria:
+
+| Categoria | Acesso mínimo | Três valores de RD para distribuir | Peso em espaços |
 |---|---|---|---|
-| Couro | Leve | 0 | 2 |
-| Malha | Média | 1 | 3 |
-| Placas | Pesada | 2 | 4 |
+| Leve | 0 | 2, 1, 0 | 2 |
+| Média | 1 | 3, 2, 1 | 4 |
+| Pesada | 2 | 4, 3, 2 | 6 |
 
-**Compatibilidade:** a tabela anterior 2/3/4 foi preservada numericamente, agora passiva, sem presumir que seu balanceamento anterior se mantém. O cenário **experimental alternativo** é leve 1 / média 2 / pesada 3; serve para simulações e não substitui esta tabela. Registrar qual conjunto foi usado. Com dano físico base 2, placas anulam o acerto padrão em ambos os conjuntos; couro anula com RD 2, mas deixa passar 1 com RD 1. Essa diferença exige avaliação, não alteração automática.
+O jogador atribui **um valor a cada tipo: Cortante, Perfurante e Contundente**, usando os três valores uma vez cada. Escolhe a distribuição ao definir a armadura e a registra na ficha; não pode trocar durante o combate. É uma permutação dos valores fixos, **não compra ou redistribuição livre de pontos**.
 
-A RD pode variar por tipo de dano, com resistências e vulnerabilidades específicas. **Perfis por tipo e penalidades de armaduras médias/pesadas estão pendentes**; os modelos acima continuam físicos, sem novas penalidades de Reflexo/movimento, requisitos ou Desvantagens. Acesso não é bônus de teste. Carga por espaços e capacidade permanecem em [inventário](porte-e-inventario.md).
+Exemplo: uma pesada pode ter Cortante 4 / Perfurante 2 / Contundente 3, ou qualquer outra permutação de 4, 3 e 2. A RD de cada tipo fica entre 0 e 4; RD 0 significa nenhuma redução, não dano adicional. Os modelos básicos não concedem RD contra os demais tipos, como Fogo. Não usar RD única para todos os físicos nem somar os três valores contra um golpe.
+
+**Peso é medido em espaços, não quilogramas.** Armaduras equipadas ocupam integralmente 2/4/6 espaços. Quatro não é um limite: armaduras e outros itens especialmente pesados podem ultrapassá-lo. Capacidade permanece base do porte +2 × Potência; ver [inventário](porte-e-inventario.md). Nenhuma conversão automática por porte foi criada.
+
+Esta tabela substitui os modelos anteriores Couro/Malha/Placas com RD física uniforme 2/3/4 e a alternativa uniforme 1/2/3. Materiais e aparência podem descrever a armadura, mas não criam outros perfis mecânicos neste playtest.
+
+**Penalidades de armaduras médias/pesadas permanecem pendentes**: não acrescentar penalidades de Reflexo/movimento, requisitos ou Desvantagens. Acesso continua sendo permissão de uso, não bônus de teste.
 
 Não existe mais reposição de cargas de armadura no descanso. Desgaste, reparos e manutenção futura não recebem novos custos neste pacote.
 
@@ -38,9 +46,9 @@ Proteção física não reduz Fogo. Bloquear com escudo básico contra dano excl
 
 ## Combinações e exemplos
 
-Usando a tabela mantida 2/3/4: contra **8 físico**, malha reduz para 5 sem custo; Bloquear reduz para 6 por 1 PA; juntos reduzem para 3 por 1 PA. Placas + Bloquear somam RD física 6: contra 10 físico, recebe 4.
+Uma média com Cortante 3 / Perfurante 2 / Contundente 1 recebe **5 de um golpe cortante de 8**, sem custo. Bloquear com escudo básico soma RD física 2 por 1 PA: recebe 3. Uma pesada com Cortante 4 / Perfurante 3 / Contundente 2 recebe 0 de um golpe cortante de 3, mas recebe 1 se o mesmo dano for contundente.
 
-Duas Leves com base combinada 2, pleno +1 e crítico +2 causam 5: couro reduz para 3; couro + Bloquear para 1. Uma rolagem e uma instância; tipos diferentes não criam instâncias. RD por instância nos ataques que explicitamente possuam várias. Ver [tipos de dano](../combate/tipos-de-dano.md).
+Duas adagas Leves com base combinada 2, pleno +1 e crítico +2 causam 5 perfurante: uma leve com Perfurante 2 / Cortante 1 / Contundente 0 reduz para 3; com Bloquear, para 1. Uma rolagem e uma instância; tipos diferentes não criam instâncias. RD por instância nos ataques que explicitamente possuam várias. Ver [tipos de dano](../combate/tipos-de-dano.md).
 
 ## Proteções naturais e quedas
 
@@ -52,6 +60,6 @@ O antigo traço comprável Armadura Natural RD 2/dois usos é apenas [histórico
 
 ## Registro e expansão
 
-Registrar modelo, categoria, acesso, perfil de RD e conjunto numérico do teste; não registrar cargas de armadura convencional. Exemplo: “Malha, acesso 1, RD física passiva 3, tabela mantida”. Escudo registra Defesa +1 e Bloquear 1 PA/RD física 2, como referência provisória sob revisão.
+Registrar categoria, acesso, RD de cada um dos três tipos e peso em espaços; não registrar cargas de armadura convencional. Exemplo: “Média, acesso 1, Cortante 3 / Perfurante 2 / Contundente 1, peso 4 espaços”. Escudo registra Defesa +1 e Bloquear 1 PA/RD física 2, como referência provisória sob revisão.
 
-[Abertura](../combate/aberturas.md) permite contornar a RD da proteção relacionada no ataque direcionado experimental; não ignora automaticamente escudo, Escamas ou toda RD sobrenatural. Perfis, penalidades, melhorias, novos escudos, preços e aquisição inicial continuam pendentes.
+[Abertura](../combate/aberturas.md) permite contornar a RD da proteção relacionada no ataque direcionado experimental; não ignora automaticamente escudo, Escamas ou toda RD sobrenatural. Perfis adicionais além dos três modelos, penalidades, melhorias, novos escudos, preços e aquisição inicial continuam pendentes.

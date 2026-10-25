@@ -20,7 +20,7 @@ Uma Abertura descoberta permanece conhecida e explorável enquanto o alvo conser
 
 Penalidades ou dificuldade específica do ataque direcionado continuam pendentes: não presumir que acertar a Defesa comum basta em todo caso. Também está pendente a interação com outras fontes de RD. Não ignorar automaticamente proteção sobrenatural, escudo, Escamas ou toda redução de dano.
 
-Exemplo condicional: se um ataque de dano 2 acertar uma Abertura nas placas, a RD dessas placas não o reduz; outras proteções exigem resolver a interação pendente. O exemplo não fixa a dificuldade do acerto.
+Exemplo condicional: se um ataque de dano 2 acertar uma Abertura numa armadura pesada, a RD dessa armadura não o reduz; outras proteções exigem resolver a interação pendente. O exemplo não fixa a dificuldade do acerto.
 
 ## Desenvolvimento futuro
 

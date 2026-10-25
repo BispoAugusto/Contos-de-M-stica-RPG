@@ -196,7 +196,7 @@ Use os valores já calculados:
 
 Anões têm **+3 PV provisórios**. A perícia Esquiva não se soma permanentemente à Defesa: seu bônus é usado na reação Esquivar, que exige treinamento, com custo de PA e limite. O cálculo anterior está preservado provisoriamente até revisão.
 
-Armaduras reduzem dano passivamente, sem cargas; não concedem bônus de Defesa. Equipamentos usados e vestidos também ocupam inventário. O inventário usa espaços, não peso.
+Armaduras reduzem dano passivamente, sem cargas; não concedem bônus de Defesa. Equipamentos usados e vestidos também ocupam inventário. O peso é medido em espaços, não quilogramas.
 
 **Anote na ficha:** PV atuais/máximos, Defesa, porte e capacidade. [Valores da ficha](../regras/personagem/valores-da-ficha.md) · [Inventário](../regras/equipamentos/porte-e-inventario.md).
 
@@ -284,4 +284,4 @@ A ficha tem atributos, reservas e proficiências definidos. Espadas 2 não signi
 
 ## Atualização de combate — 2026-10-25
 
-Armaduras convencionais não têm cargas. Tabela anterior de RD 2/3/4 preservada para comparação; 1/2/3 é alternativa experimental, sem troca automática. Penalidades médias/pesadas e perfis por dano continuam pendentes. Esquivar exige treino, Bloquear exige escudo/meio especial; a Defesa existente e os cálculos anteriores das reações são referência provisória sob revisão. Ver [ações táticas](../regras/combate/acoes-taticas.md), [Abertura](../regras/combate/aberturas.md) e [fichas preparadas](../planejamento/fichas-combate-2026-10-25.md).
+Armaduras convencionais não têm cargas. Escolha leve (RD 2/1/0, peso 2 espaços), média (3/2/1, 4 espaços) ou pesada (4/3/2, 6 espaços); atribua um valor a Cortante, Perfurante e Contundente, sem redistribuir pontos. Registre a escolha ao definir a armadura, sem trocar durante combate. Peso equipado conta integralmente. Penalidades médias/pesadas continuam pendentes. Esquivar exige treino, Bloquear exige escudo/meio especial; a Defesa existente e os cálculos anteriores das reações são referência provisória sob revisão. Ver [ações táticas](../regras/combate/acoes-taticas.md), [Abertura](../regras/combate/aberturas.md) e [fichas preparadas](../planejamento/fichas-combate-2026-10-25.md).

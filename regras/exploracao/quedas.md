@@ -23,7 +23,7 @@
 - Inconsciência interrompe voo e sustentação ativa. Atordoado não provoca queda automaticamente.
 - Reagir durante uma queda para retomar voo, aderir ou agarrar apoio permanece pendente.
 
-**Exemplo:** queda Média causa 4. Usar couro (RD 2) reduz para 2, consome um uso e ainda deixa Caído. Placas (RD 4) reduzem para 0, também com Caído. Não são resultados de playtest.
+**Exemplo condicional:** queda Média causa 4. Se o tipo físico definido para o cenário corresponder a RD 2 da armadura, recebe 2; se corresponder a RD 4, recebe 0. Em ambos os casos, não gasta cargas e fica Caído. O tipo físico específico das quedas ainda está pendente: não escolher automaticamente o maior valor, somar as RDs ou fixar Contundente sem nova decisão. Não são resultados de playtest.
 
 Ver [movimento](movimento.md), [espécies](../origens/README.md) e [armaduras](../equipamentos/armaduras-e-escudos.md).
 

@@ -11,7 +11,7 @@
 
 **RD física** cobre os três físicos. **RD específica** cobre somente o tipo descrito. **RD geral** cobre os dez. RD de Veneno não implica imunidade à condição Envenenado.
 
-Armaduras e escudo iniciais só têm RD física. Escamas de Draconato têm RD geral 1 limitada por usos; a origem Dracônicos tem RD elemental 2 passiva, no elemento escolhido entre Fogo, Frio, Eletricidade, Ácido e Veneno. Profano/Radiante não foram adicionados às escolhas dracônicas.
+Armaduras básicas têm valores independentes de RD Cortante, Perfurante e Contundente, conforme a distribuição escolhida; não possuem RD uniforme contra todos os físicos. O escudo básico mantém sua RD física 2 ao Bloquear. Escamas de Draconato têm RD geral 1 limitada por usos; a origem Dracônicos tem RD elemental 2 passiva, no elemento escolhido entre Fogo, Frio, Eletricidade, Ácido e Veneno. Profano/Radiante não foram adicionados às escolhas dracônicas.
 
 ## Ordem e dano misto
 
@@ -22,10 +22,10 @@ Armaduras e escudo iniciais só têm RD física. Escamas de Draconato têm RD ge
 
 Ter dois tipos de dano não cria duas instâncias. O ataque combinado de duas Leves é uma instância. Ataques expressamente com múltiplas instâncias preservam a aplicação por instância e a RD passiva de armadura e a cobertura de uma reação ao ataque inteiro; proteções especiais com usos mantêm seus próprios limites.
 
-Exemplo: uma instância de **4 físico + 2 Fogo**:
-- Couro físico 2: recebe 2 físico + 2 Fogo = 4.
-- Resistência ao Fogo 2: recebe 4 físico = 4.
-- Couro e resistência ao Fogo: recebe 2 físico = 2.
+Exemplo: uma instância de **4 cortante + 2 Fogo**, armadura leve com Cortante 2 / Perfurante 1 / Contundente 0:
+- Só armadura: recebe 2 cortante + 2 Fogo = 4.
+- Só resistência ao Fogo 2: recebe 4 cortante = 4.
+- Armadura e resistência ao Fogo: recebe 2 cortante = 2.
 - Somente Escamas gerais 1: recebe 5 no total.
 
 Armadura convencional e Escamas/natural são alternativas por ocorrência; não somar ambas. A proteção escolhida pode combinar com resistência elemental e Bloquear compatível, pagando custos.
@@ -34,4 +34,4 @@ Pode escolher Bloquear mesmo com RD incompatível, mas gasta o PA sem redução 
 
 ## Atualização de 2026-10-25
 
-Armaduras convencionais têm RD passiva. Perfis por tipo e vulnerabilidades específicas aguardam definição; exemplos acima mantêm a tabela 2/3/4, não o cenário alternativo 1/2/3. O [ataque à Abertura](aberturas.md) só contorna a proteção relacionada; interação com outras fontes de RD permanece pendente.
+Armaduras convencionais têm RD passiva distribuída entre os três tipos físicos: leve 2/1/0, média 3/2/1, pesada 4/3/2. Para cada componente do dano, aplicar apenas o valor atribuído àquele tipo; RD 0 não reduz. As antigas tabelas de RD uniforme foram substituídas. O [ataque à Abertura](aberturas.md) só contorna a proteção relacionada; interação com outras fontes de RD permanece pendente.

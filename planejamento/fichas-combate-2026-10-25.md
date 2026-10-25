@@ -58,10 +58,12 @@ Lucidez, Convicção e demais proficiências não compradas: nível 0. Comum flu
 | Natural 20 | +2 dano, total 8 se pleno | +2 dano, total 5 se pleno |
 | Limiar pleno principal | Defesa do alvo +7 | Defesa do alvo +7 |
 | Repetição 1º / 2º / 3º / 4º | Normal / 1 / 2 / 3 Desvantagens | Normal / normal / 1 / 2 Desvantagens, com ambas |
-| Proteção | Placas, RD física passiva 4 | Couro, RD física passiva 2 |
-| Alternativa experimental de RD | 3 | 1 |
+| Proteção | Pesada: Cortante 4 / Perfurante 3 / Contundente 2 | Leve: Cortante 2 / Perfurante 1 / Contundente 0 |
+| Peso da armadura equipada | 6 espaços | 2 espaços |
+| Peso das armas | 3 espaços | 1 por adaga, total 2 |
+| Carga equipada / capacidade | 9/11 espaços; 2 livres | 4/7 espaços; 3 livres |
 
-Usar um conjunto de RD por cenário, sem misturar as tabelas. Sem cargas, penalidades novas ou manutenção para recarregar armadura. A ocupação exata dos itens adaptados ao porte permanece a combinar; não inventar peso. Armadura não altera Defesa nem deslocamento neste pacote.
+Distribuições de RD acima são escolhas destas fichas, não padrões obrigatórios por categoria; registrar antes da simulação e não trocar durante combate. Para estes dois personagens, usar os pesos tabelados sem desconto por porte: armadura pesada 6/leve 2, arma de duas mãos 3 e cada adaga 1. A adaptação geral por porte segue pendente. Sem cargas, penalidades novas ou manutenção para recarregar armadura. Armadura não altera Defesa nem deslocamento neste pacote.
 
 Nilo pode arremessar uma adaga até Médio: Foco, 1d20+2 sob pressão, base 1, repetição comum. Duas Leves corpo a corpo fazem uma rolagem e uma instância; RD uma vez. Extremo indisponível. [Armas](../regras/equipamentos/armas.md) · [Proteções](../regras/equipamentos/armaduras-e-escudos.md).
 

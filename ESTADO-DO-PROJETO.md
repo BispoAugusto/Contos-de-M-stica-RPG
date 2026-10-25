@@ -1,12 +1,21 @@
 # Estado do projeto — 2026-10-25
 
+## 2026-10-25 — Três modelos de armadura e peso em espaços
+
+**Aprovado para playtest pelo criador:** leve distribui 2/1/0 (peso 2 espaços), média 3/2/1 (4 espaços) e pesada 4/3/2 (6 espaços). Um valor para cada tipo: Cortante, Perfurante e Contundente. O jogador escolhe a permutação ao definir a armadura, sem redistribuição livre de pontos e sem troca durante combate. RD por tipo de 0 a 4, passiva, dano mínimo 0; não há proteção automática contra os demais tipos.
+
+Peso é medido em espaços, inclusive para armaduras equipadas, e pode superar 4. Referências gerais: 0 para acessórios/documentos muito pequenos ou leves, 1 adaga, 2 item maior de uma ou duas mãos, 3 item de duas mãos, 4 quase do tamanho do corpo; itens maiores/pesados escalam. Capacidade base do porte +2 × Potência preservada.
+
+Substituídas as tabelas de RD física uniforme e os catálogos propostos por materiais. Atualizados exemplos, guias, fichas, inventário e plano de testes. Penalidades médias/pesadas e adaptação geral por porte continuam pendentes. O exemplo antigo de queda ainda mencionava gasto de uso: corrigido para RD passiva, sem fixar o tipo físico de queda que segue pendente. Nenhuma simulação executada.
+
+
 ## 2026-10-25 — Consolidação de combate
 
 Fonte: pacote de decisões enviado pelo criador nesta data. Esta entrada prevalece sobre registros anteriores conflitantes, que permanecem históricos.
 
 - **Aprovado:** combate perigoso e preparação; armadura com RD passiva/constante, sem cargas, dano mínimo 0; renomeação Postura → Equilíbrio, sem mudança funcional; requisitos de Esquivar (treino) e Bloquear (escudo/meio especial), sem preparação.
 - **Aprovado para playtest:** Preparar Ação reserva 1 PA sem pagar antecipadamente; Ajudar custa 1 PA e concede +1d4, acumulável; intervenções de Ajudar/Atrapalhar fora do turno exigem preparação. Proficiências +2 a +10 preservadas.
-- **Experimental/em desenvolvimento:** ataque a Abertura conhecida com Foco sob pressão; Analisar universal com 1 PA provisório; RD alternativa 1/2/3 separada da tabela mantida 2/3/4. Nenhuma validação de balanceamento implícita.
+- **Experimental/em desenvolvimento:** ataque a Abertura conhecida com Foco sob pressão; Analisar universal com 1 PA provisório; armaduras agora usam os três modelos de RD distribuída descritos abaixo, substituindo as tabelas uniformes. Nenhuma validação de balanceamento implícita.
 - **Parcialmente definido:** Atrapalhar nega Ajuda; custo próprio, disputa múltipla e testes adicionais pendentes. Fórmulas antigas de Ajuda/Atrapalhar e sequência antiga do Bardo não são vigentes.
 - **Preservado:** Defesa 10 + Reflexo, +1 escudo e cálculos anteriores das reações como referência provisória até revisão; Escamas ainda têm usos; carga por espaços/base do porte +2 × Potência, criação, demais regras de armas e descanso.
 - Guias, exemplos, quedas, descanso e referências de Equilíbrio atualizados. Removida restauração de cargas de armadura, sem inventar reparos. Fichas e cenários preparados para simulações posteriores; nenhuma simulação estatística ou sessão foi executada neste pacote.
@@ -39,7 +48,7 @@ Regras atuais: [ações táticas](regras/combate/acoes-taticas.md), [Abertura](r
 
 - **5 PP iniciais**, máximo nível 2; conhecimentos/idiomas dois níveis por ponto dentro da categoria. Comum fluente gratuito. Humanos +2 PP em qualquer categoria.
 - Lista de perícias e atributos sugeridos; a abrangência de Espiritualismo ainda precisa de detalhamento. Linguagens foi incluída nas básicas; seu escopo, atributo sugerido e relação com idiomas ainda serão definidos.
-- Valores modulares de armas, dano desarmado comum 0, armaduras físicas passivas 2/3/4 e acesso 0/1/2, com alternativa experimental 1/2/3 separada; escudo +1 Defesa e Bloquear 1 PA/RD física 2 como referência anterior sob revisão. Compacta/Potente incompatíveis.
+- Valores modulares de armas, dano desarmado comum 0, armaduras passivas com RD distribuída entre Cortante/Perfurante/Contundente: leve 2/1/0, média 3/2/1, pesada 4/3/2; peso equipado 2/4/6 espaços e acesso 0/1/2; escudo +1 Defesa e Bloquear 1 PA/RD física 2 como referência anterior sob revisão. Compacta/Potente incompatíveis.
 - Recuperação completa de vida/Alma e remoção de Ferido no longo de 8h; PE/NE seguem recuperação normal se condições adequadas.
 - Bases de carga 3/5/10/20, inventário por espaços, modificadores físicos de porte e detalhes de quedas.
 - Valores/traços de espécies conforme [catálogo atual](regras/origens/README.md), incluindo Robustez anã +3 PV, conjunto de Dríades/Arborídeos e divisão dos Gnomos.

@@ -21,17 +21,18 @@ A capacidade reduzida dos menores é intencional e pode ser uma dificuldade a su
 
 ## Espaços dos itens
 
-Inventário usa espaços, não peso. Equipamentos vestidos e empunhados **ocupam espaço**.
+**Peso e carga são medidos em espaços, não em quilogramas.** Equipamentos vestidos e empunhados **ocupam integralmente seus espaços**, incluindo armaduras.
 
 | Espaços | Referência inicial |
 |---|---|
-| Menos de 1 | Não ocupa espaço por enquanto; interação com fabricação futura. |
+| 0 | Item muito pequeno ou leve, como acessório ou documento. |
 | 1 | Item pequeno e leve que cabe em uma mão: adaga, varinha, livro. |
-| 2 | Item um pouco maior, ainda carregável com uma mão. |
+| 2 | Item maior que pode ser segurado/utilizado com uma ou duas mãos. |
 | 3 | Item grande que exige duas mãos. |
-| 4 | Item quase do tamanho de uma pessoa: martelo de guerra, armadura completa. |
+| 4 | Item quase do tamanho do corpo. |
+| 5 ou mais | Itens maiores ou especialmente pesados; armaduras podem ultrapassar 4. |
 
-O catálogo inicial se concentra em 1–4; itens maiores podem existir. Não confundir espaços de inventário com os dois espaços de **propriedades** de uma arma. Equipamentos adaptados a outros portes podem variar de espaço; mestre e jogador combinam isso na criação, sem tabela universal por enquanto.
+Itens normalmente carregados variam entre 0 e 4, mas esse intervalo não é um limite. No playtest, [armaduras](armaduras-e-escudos.md) leves/médias/pesadas pesam 2/4/6 espaços, inclusive vestidas. Não confundir espaços de inventário com os dois espaços de **propriedades** de uma arma. Equipamentos adaptados a outros portes podem variar de espaço; mestre e jogador combinam isso na criação, sem tabela universal por enquanto.
 
 ## Força e acesso
 
@@ -53,4 +54,4 @@ As limitações de porte não concedem pontos de compra. Gnomos usam porte pelo 
 
 ## Desenvolvimento adiado
 
-Criar depois regras completas de ocupação/passagens, sobrecarga, catálogo, adaptação de equipamento e fabricação. Não há novas regras para peso ou compensação de itens minúsculos neste registro.
+Criar depois regras completas de ocupação/passagens, sobrecarga, catálogo, adaptação de equipamento e fabricação. A escala de peso em espaços acima foi atualizada em 2026-10-25; não há nova fórmula de capacidade nem regra automática de compensação de itens minúsculos.

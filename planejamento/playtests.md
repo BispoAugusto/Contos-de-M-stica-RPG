@@ -23,7 +23,7 @@ Data/versão, participantes e fichas; atributos, níveis de proficiência e bôn
 - Testar Fera com Potência 1/proficiência 3: bônus limitado +2, dano base 3.
 - Comparar Esquiva, Bloquear e armadura, PA restantes e RD passiva, sem cargas de armadura convencional.
 - Área automática com teste obrigatório: permitir proteção posterior compatível; não reação de aumentar Defesa.
-- Dano misto 4 físico +2 Fogo: couro recebe 4; resistência Fogo 2 recebe 4; ambos recebem 2; somente Escamas geral 1 recebe 5.
+- Dano misto 4 cortante +2 Fogo: leve com Cortante 2 / Perfurante 1 / Contundente 0 recebe 4; só resistência Fogo 2 recebe 4; ambos recebem 2; somente Escamas geral 1 recebe 5.
 - RD geral das Escamas, RD elemental passiva, exclusão escamas/armadura e combinação com escudo compatível.
 
 ## Descanso e sobrevivência
@@ -50,9 +50,9 @@ Medir frequência de pleno, gasto de Alma/PE, dano efetivo por PA, importância 
 
 ## Rodada de combate de 2026-10-25 — preparação, não resultados
 
-Usar as [duas fichas](fichas-combate-2026-10-25.md), com o mesmo orçamento de criação. Registrar versão, conjunto de RD, ordem inicial, distância, PA reservados e cada hipótese. Simulações completas ficam para outra conversa; não inventar valores para fechar lacunas.
+Usar as [duas fichas](fichas-combate-2026-10-25.md), com o mesmo orçamento de criação. Registrar versão, distribuição de RD por tipo, ordem inicial, distância, PA reservados e cada hipótese. Simulações completas ficam para outra conversa; não inventar valores para fechar lacunas.
 
-1. Ataques comuns: comparar Pesada e duas Leves, graus/críticos/repetição, RD passiva e dano zero; repetir com tabela 2/3/4 e alternativa experimental 1/2/3 separadas.
+1. Ataques comuns: comparar Pesada e duas Leves, graus/críticos/repetição, RD passiva e dano zero; comparar distribuições de leve 2/1/0, média 3/2/1 e pesada 4/3/2, fixadas antes de cada combate. Registrar peso equipado 2/4/6 espaços, capacidade e tipo de cada dano, sem trocar a distribuição durante combate.
 2. Defesas: Esquivar do leve e ausência dessa reação no pesado sem treino; módulos separados para Bloquear com equipamento/proficiência apropriados. Usar cálculos anteriores explicitamente provisórios.
 3. Preparar/Ajudar: reservar 1 PA, gatilho válido, gatilho ausente, cancelamento ao gastar o PA, múltiplas ajudas. Atrapalhar depende de arbitrar custo/disputa pendentes; não presumir teste ou penalidade numérica.
 4. Manobras: em módulo separado, usar somente manobra aprendida e custos existentes; não ativar habilidades nas fichas-base. Equilíbrio só para inimigo que o possua; não conceder aos duelistas.

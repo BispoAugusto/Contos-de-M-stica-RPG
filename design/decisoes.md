@@ -1,5 +1,14 @@
 # Decisões registradas
 
+## 2026-10-25 — Três modelos de armadura e peso em espaços
+
+**Aprovado para playtest pelo criador:** leve distribui 2/1/0 (peso 2 espaços), média 3/2/1 (4 espaços) e pesada 4/3/2 (6 espaços). Um valor para cada tipo: Cortante, Perfurante e Contundente. O jogador escolhe a permutação ao definir a armadura, sem redistribuição livre de pontos e sem troca durante combate. RD por tipo de 0 a 4, passiva, dano mínimo 0; não há proteção automática contra os demais tipos.
+
+Peso é medido em espaços, inclusive para armaduras equipadas, e pode superar 4. Referências gerais: 0 para acessórios/documentos muito pequenos ou leves, 1 adaga, 2 item maior de uma ou duas mãos, 3 item de duas mãos, 4 quase do tamanho do corpo; itens maiores/pesados escalam. Capacidade base do porte +2 × Potência preservada.
+
+Substituídas as tabelas de RD física uniforme e os catálogos propostos por materiais. Atualizados exemplos, guias, fichas, inventário e plano de testes. Penalidades médias/pesadas e adaptação geral por porte continuam pendentes. O exemplo antigo de queda ainda mencionava gasto de uso: corrigido para RD passiva, sem fixar o tipo físico de queda que segue pendente. Nenhuma simulação executada.
+
+
 ## 2026-10-25 — Consolidação de combate
 
 Fonte: pacote de decisões enviado pelo criador nesta data. Esta entrada prevalece sobre registros anteriores conflitantes, que permanecem históricos.
