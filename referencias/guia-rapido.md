@@ -16,7 +16,7 @@ Vantagens/Desvantagens cancelam uma a uma; role 1 + saldo de d20, maior/menor. F
 
 ## Combate
 
-Jogadores: 4 PA iniciais; renovam ao fim da rodada, sem acumular e sem renovar no próprio turno. Reações antes e depois do turno usam o mesmo saldo. NE 4 reduz a renovação para 3. Ataque/movimento Médio/interação simples: 1 PA. NPCs podem ter PA e custos próprios, registrados na ficha. Defesa 10 + Reflexo; escudo +1. Ataques comuns usam proficiência da arma sem atributo nem teto; direcionados usam Foco sob pressão.
+Jogadores: 4 PA iniciais; renovam no início do próprio turno, sem acumular. O fim da rodada não renova PA. Reações anteriores ao primeiro turno usam a reserva inicial sem reduzir a renovação desse turno; depois, é preciso poupar PA entre os próprios turnos. NE 4 reduz a renovação para 3. Atordoado desconta 2 após renovar no próximo turno, mínimo 0. Ataque/movimento Médio/interação simples: 1 PA. NPCs podem ter PA e custos próprios, registrados na ficha. Defesa 10 + Reflexo; escudo +1. Ataques comuns usam proficiência da arma sem atributo nem teto; direcionados usam Foco sob pressão.
 
 | Ataque do próprio turno | Comum | Com duas Leves |
 |---|---|---|
@@ -53,7 +53,7 @@ Este resumo não fecha lacunas. Consultar [regras completas](../README.md) e [pe
 
 ## Preparação, apoio e Aberturas
 
-Preparar Ação: declarar gatilho no turno e reservar 1 PA para ação de 1 PA até o próximo turno; gastar só se executar. Usar o PA em outra finalidade cancela a preparação. Ajudar: 1 PA, +1d4 ao teste de outro; dados de ajudas justificadas acumulam. Atrapalhar pode negar uma Ajuda, mas custo próprio/disputas/testes adicionais estão pendentes. Fora do turno em combate, ambas exigem Preparar Ação. [Procedimento](../regras/combate/acoes-taticas.md).
+Preparar Ação: declarar gatilho no turno e reservar 1 PA para ação de 1 PA até o início do próximo turno do personagem, mesmo atravessando a rodada; gastar só se executar. Usar o PA em outra finalidade cancela a preparação. Ajudar: 1 PA, +1d4 ao teste de outro; dados de ajudas justificadas acumulam. Atrapalhar pode negar uma Ajuda, mas custo próprio/disputas/testes adicionais estão pendentes. Fora do turno em combate, ambas exigem Preparar Ação. [Procedimento](../regras/combate/acoes-taticas.md).
 
 Analisar: ação universal, 1 PA provisório; atributo/proficiência pela abordagem, DT e resultados pendentes. Abertura descoberta permanece conhecida enquanto existir. Ataque direcionado experimental usa Foco sob pressão e custo normal; se acertar a Abertura parcial, RD efetiva pela metade para cima, salvo 1→0. Pesado/brutal/crítico não a tornam total. Exposto: todo ataque ignora completamente RD, sem direcionamento; fonte define duração/saída. Dificuldade/penalidades do direcionado e dano misto com várias RD ainda pendentes. [Procedimento](../regras/combate/aberturas.md).
 

@@ -1,6 +1,6 @@
 # Glossário
 
-- **PA:** Pontos de Ação, normalmente quatro por rodada, renovados ao fim dela; ações e reações compartilham o saldo.
+- **PA:** Pontos de Ação, normalmente quatro, renovados no início do próprio turno; ações e reações compartilham o saldo até o próximo turno. Há uma reserva inicial para reações antes do primeiro turno.
 - **PV:** Pontos de Vida; base 6 +2 × máximo de Corpo.
 - **DT:** dificuldade do teste; em oposição, o total adversário é referência.
 - **Atributo:** capacidade que determina teto de proficiência sob pressão, margens e Parte da Alma; não soma à rolagem.
@@ -29,7 +29,7 @@
 - **Exposto / Abertura total:** condição em que todo ataque ignora completamente a RD do alvo, sem direcionamento; duração/saída pela fonte.
 - **NPC:** personagem não jogador; ficha simplificada de Corpo/Mente/Espírito, perícias treinadas, defesas, RD e ações próprias. PA e custos podem variar por encontro.
 - **Analisar:** ação universal de informação tática, 1 PA provisório; resolução pendente.
-- **Preparar Ação:** manter 1 PA reservado para ação de 1 PA sob gatilho, até o próximo turno.
+- **Preparar Ação:** manter 1 PA reservado para ação de 1 PA sob gatilho, até o início do próximo turno do personagem; mudança de rodada não encerra a preparação.
 - **Ajudar:** ação de 1 PA que concede +1d4 ao teste de outro; ajudas justificadas acumulam.
 - **Atrapalhar:** intervenção que pode negar Ajuda; procedimentos adicionais pendentes.
 - **Bloquear:** reação com escudo ou meio especial; nome atual de Defender.

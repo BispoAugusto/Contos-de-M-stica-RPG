@@ -27,7 +27,7 @@ Sem habilidades especiais adquiridas, magia ou manobras na comparação-base. Ma
 | Defesa passiva | 11 | 13 |
 | Esquivar | Indisponível: sem treino | 1 PA, Defesa 17 contra um ataque, cálculo anterior provisório |
 | Bloquear | Indisponível: sem escudo/meio especial | Indisponível: sem escudo/meio especial |
-| PA | 4 por rodada, renovados ao fim dela | 4 por rodada, renovados ao fim dela |
+| PA | 4 iniciais; renova a 4 no início do próprio turno | 4 iniciais; renova a 4 no início do próprio turno |
 | Movimento | Médio / 1 PA | Médio / 1 PA |
 | Capacidade | 11 espaços | 7 espaços |
 | Estado inicial | PE 0, NE 0, sem condições | PE 0, NE 0, sem condições |

@@ -16,7 +16,7 @@
 | Defesa com Esquiva | Valor pronto, custo e requisitos; indicar indisponível se não possuir essa reação |
 | Reduções de dano | Perfil completo e parcial por tipo; indicar origem e condições das proteções |
 | Equilíbrio | Valor atual/máximo e efeitos, somente se fizer sentido para esse NPC |
-| PA | Orçamento por rodada, renovado ao fim dela, e configuração do encontro |
+| PA | Orçamento renovado no início do próprio turno e configuração do encontro |
 | Passivas | Efeito, condições e limites de cada uma |
 | Ações e ataques únicos | PA, alcance/alvo, bônus do teste, Parte usada para graus, dano/tipo e efeitos |
 | Reações | Gatilho, PA/custo, efeito e frequência, quando houver |
@@ -32,7 +32,7 @@ Os três números substituem a lista de atributos na referência de graus do NPC
 
 NPCs podem ter ataques únicos definidos diretamente na ficha, sem depender de inventário, catálogo modular ou itens carregados. Descrever a origem do ataque não concede automaticamente um item equivalente como saque.
 
-**PA não precisam ser quatro e ataques não precisam custar 1 PA.** Quantidade disponível e custos podem variar conforme a força do inimigo e quantos jogadores o enfrentam. Registrar os valores na configuração do encontro e em cada ação/reação; não inventar fórmula linear de PA por jogador. Esta autorização não altera o orçamento padrão de quatro PA dos jogadores nem cria turnos extras automaticamente. No playtest de 26/10, NPCs renovam seu próprio orçamento ao fim da rodada, sem acumular e sem renovar no início do turno.
+**PA não precisam ser quatro e ataques não precisam custar 1 PA.** Quantidade disponível e custos podem variar conforme a força do inimigo e quantos jogadores o enfrentam. Registrar os valores na configuração do encontro e em cada ação/reação; não inventar fórmula linear de PA por jogador. Esta autorização não altera o orçamento padrão de quatro PA dos jogadores nem cria turnos extras automaticamente. No playtest de 26/10, NPCs renovam seu próprio orçamento no início do próprio turno, sem acumular; o fim da rodada não renova PA. Seus PA iniciais podem pagar reações antes do primeiro turno, respeitando custos e requisitos.
 
 Não presumir que um ataque de custo maior concede vários acertos ou ignora repetição. Indicar essas exceções no texto da ação quando forem definidas. Curva de ameaça, orçamento por número de jogadores, renovação especial de PA e balanceamento dos custos continuam para desenvolvimento.
 

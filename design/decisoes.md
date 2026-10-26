@@ -1,6 +1,16 @@
 # Decisões registradas
 
-## 2026-10-26 — Ataques, Forçar e orçamento de PA por rodada
+## 2026-10-26 — Revisão vigente: PA no início do próprio turno
+
+**Aprovado para playtest pelo criador:** substituída a renovação ao fim da rodada pela renovação no início do próprio turno, sem acumular sobras. Preparar Ação permanece até o início do próximo turno do personagem, mesmo atravessando o fim de uma rodada; a proposta de encerrar preparação ao fim da rodada não foi adotada.
+
+Personagens podem pagar reações antes do primeiro turno com seus PA iniciais, respeitando requisitos. O primeiro turno renova normalmente; essa reserva inicial é uma vantagem aceita apenas na entrada do combate, não uma concessão repetida por rodada. Depois, ações e reações consomem o saldo até o próximo turno. NPCs preservam seus máximos próprios.
+
+Atordoado mantém desconto de até 2 PA no próximo início de turno, mínimo 0, aplicado após a renovação; com 4 PA fica com 2, com NE 4 fica com 1. A proibição de reagir termina nesse início. D1 e D2 permanecem: ataques comuns sem teto de atributo e ataques sem Forçar, salvo habilidades futuras expressas.
+
+A pendência de Preparar Ação atravessando a rodada está resolvida. Nenhuma sessão ou simulação realizada. Esta revisão prevalece sobre a proposta de renovação coletiva registrada abaixo, que fica apenas como histórico.
+
+## 2026-10-26 — Histórico: ataques, Forçar e orçamento coletivo substituído
 
 **Confirmado pelo criador (D1):** ataques comuns, inclusive duas Leves, distância, arremessos e armas naturais, usam proficiência sem atributo nem teto por atributo. Duas Leves mantêm a menor proficiência. Direcionados preservam Foco sob pressão; pesado/brutal continuam em Defesa +5/+10. Corrigidos capítulos e exemplos divergentes.
 

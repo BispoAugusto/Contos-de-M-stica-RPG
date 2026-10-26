@@ -37,7 +37,7 @@ Equilíbrio pode proteger inimigos de efeitos de controle.
 
 Os danos da tabela não incluem margem de sucesso, crítico ou outros efeitos. **Exemplo:** com 4 PA, gastar 1 no ataque e 3 em Golpe Devastador dá +6 de dano em uma única rolagem; a arma comum de base 2 com Pesada causa 10 antes dos demais modificadores se acertar. Se esse for o primeiro ataque do turno, não há penalidade de repetição. Se for posterior, aplica-se a penalidade correspondente, independentemente de quantos PA forem investidos.
 
-O uso de todos os 4 PA deixa o personagem sem PA restantes para movimento ou reações até a renovação ao fim da rodada. A interação com efeitos futuros que concedam PA e a frequência de uso devem ser revisitadas explicitamente, sem ampliar automaticamente o limite de 3 PA adicionais.
+O uso de todos os 4 PA deixa o personagem sem PA restantes para movimento ou reações até a renovação no início do próximo turno do personagem. A interação com efeitos futuros que concedam PA e a frequência de uso devem ser revisitadas explicitamente, sem ampliar automaticamente o limite de 3 PA adicionais.
 
 Ver [armas](../equipamentos/armas.md), [combate](README.md) e [pendências](../../design/pendencias.md).
 

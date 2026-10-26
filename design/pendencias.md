@@ -4,10 +4,10 @@
 
 - [x] D1: ataques comuns sem atributo/teto, direcionados com Foco; corrigir aplicações divergentes sem modificar custos/dano base.
 - [x] D2: ataques não podem ser forçados; exceções dependem de habilidades futuras expressas. Morte continua proibida.
-- [x] D3: PA renovados ao fim da rodada, saldo compartilhado entre ações e reações; NE 4 renova a 3.
-- [x] Atordoado: desconto de até 2 PA disponíveis no início do próximo turno, mínimo 0; proibição de reações termina nesse início. Aprovação específica do criador.
-- [ ] Preparar Ação: decidir duração ao atravessar fim de rodada; proposta de expirar antes da renovação ainda aguardando aprovação.
-- [ ] Último Ato: especificar PA disponíveis para o último turno, agora que turnos não renovam PA; não conceder recarga extra por inferência.
+- [x] D3 revisada: PA renovados no início do próprio turno; PA iniciais permitem reações anteriores ao primeiro turno sem reduzir sua renovação. Fim de rodada não renova PA; NE 4 renova a 3.
+- [x] Atordoado: desconto de até 2 PA após renovar no início do próximo turno, mínimo 0; proibição de reações termina nesse início. Aprovação específica do criador.
+- [x] Preparar Ação: dura até o início do próximo turno do personagem, inclusive atravessando fim de rodada. Proposta de expirar ao fim da rodada não adotada.
+- [ ] Último Ato: esclarecer momento do turno concedido e sua interação com a renovação normal no início do turno, sem inventar turnos adicionais ou duplicar recursos.
 
 ## Prioridades do combate — 2026-10-25
 

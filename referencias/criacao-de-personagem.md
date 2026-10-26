@@ -206,7 +206,7 @@ Transcreva as características da sua origem e espécie com **custo, alcance, us
 
 | Recurso | O que registrar |
 |---|---|
-| Ações | 4 PA por rodada, renovados ao fim dela; sem renovar no próprio turno |
+| Ações | 4 PA iniciais; renovação no início do próprio turno, sem acumular sobras |
 | Vida e Alma | Valor atual e máximo de cada reserva |
 | Exaustão | PE e NE separados |
 | Proteções disponíveis | Tipo de RD passiva e conjunto de valores; usos/custo apenas para proteções especiais que os exijam |

@@ -9,7 +9,7 @@ As três faixas de ameaça são **relativas entre estas fichas**, não ND 1/2/3.
 - Usar Corpo/Mente/Espírito no lugar do atributo para graus de testes que não sejam ataques: pleno = DT + máximo(0, 10 − Parte); extremo apenas com Parte 10+. Teto sob pressão = 2 × Parte. **Esta aplicação numérica é hipótese local**, não resolve a pendência geral dos NPCs. Partes não são reservas gastáveis; sem Forçar dos NPCs nesta primeira versão.
 - Ataques não usam esse teto nem pleno: 1d20 + proficiência. Pesado em Defesa +5 acrescenta 1 dano; brutal em Defesa +10 acrescenta 2 em vez de 1. Natural 1 falha; 20 acerta e dá +2 dano adicional.
 - Ataques comuns seguem repetição normal no próprio turno: normal, 1 Desvantagem, 2 etc.; custo maior não concede acertos extras. Esquivar não rola dados. Uma reação defensiva por ocorrência, com PA disponíveis.
-- Começar com PV, PA e Equilíbrio cheios. Renovar PA até o máximo da ficha ao fim da rodada, sem acumular; o início do próprio turno não renova. A atualização de 26/10 altera essa convenção de teste, preservando os máximos próprios dos NPCs. Movimento Médio custa 1 PA, salvo ação específica. A 0 PV, retirar o NPC do combate; destino narrativo decidido pela cena. São convenções de teste, não novos procedimentos gerais de morte.
+- Começar com PV, PA e Equilíbrio cheios. Renovar PA até o máximo da ficha no início do próprio turno, sem acumular; o fim da rodada não renova. PA iniciais podem pagar reações antes do primeiro turno sem reduzir sua renovação. A atualização de 26/10 altera essa convenção de teste, preservando os máximos próprios dos NPCs. Movimento Médio custa 1 PA, salvo ação específica. A 0 PV, retirar o NPC do combate; destino narrativo decidido pela cena. São convenções de teste, não novos procedimentos gerais de morte.
 - Ataque direcionado de jogador: Foco e proficiência da arma; **neste teste, usar a Defesa atual do alvo sem penalidade adicional**. Exige acesso à Abertura. Essa DT é arbitragem local. Analisar, quando indicado: 1 PA, atributo/perícia pela abordagem, com DT proposta na ficha. Pistas evidentes não cobram análise.
 - RD parcial é a proteção restante: metade para cima, salvo 1→0. Somar somente fontes compatíveis antes de reduzir. Exposto faz todos os ataques ignorarem toda RD, mas não Defesa. Perfis abaixo são C/P/Cont = Cortante/Perfurante/Contundente; demais tipos RD 0, exceto onde indicado.
 - Esta versão fixa PA por criatura. Não escalonar automaticamente com a quantidade de jogadores; registrar tamanho do grupo em cada teste. Recomenda-se comparar primeiro com as [fichas de Borin e Nilo](fichas-combate-2026-10-25.md), sem afirmar que os encontros são equilibrados.
@@ -21,7 +21,7 @@ As três faixas de ameaça são **relativas entre estas fichas**, não ND 1/2/3.
 | Ameaça relativa | Menor; perigoso em grupo | Intermediária; defensor | Maior; monstro de pressão em área |
 | Corpo / Mente / Espírito | 2 / 1 / 1 | 3 / 2 / 2 | 4 / 2 / 2 |
 | PV | 8 | 20 | 30 |
-| PA por rodada | 3 | 4 | 5 |
+| PA por renovação no próprio turno | 3 | 4 | 5 |
 | Defesa base equipada | 12 | 12, inclui escudo +1 | 12 |
 | Defesa com Esquiva | 14 por 1 PA | Indisponível | Indisponível |
 | Equilíbrio | Não possui | 2 | 4 |

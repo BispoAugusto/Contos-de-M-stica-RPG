@@ -6,13 +6,17 @@
 
 ## Pontos de Ação
 
-**Aprovado para playtest em 2026-10-26:** personagens jogadores começam o combate com 4 PA, ressalvadas restrições expressas. Ao **fim de cada rodada**, os PA são renovados para o valor vigente, normalmente 4, sem acumular sobras. **O início do próprio turno não renova PA.** Com NE 4, a renovação é para 3 PA.
+**Revisão aprovada para playtest em 2026-10-26:** personagens jogadores começam o combate com 4 PA, ressalvadas restrições expressas. No **início do próprio turno**, renovam os PA para o valor vigente, normalmente 4, sem acumular sobras. **O fim da rodada não renova PA.** Com NE 4, a renovação é para 3 PA.
 
-O mesmo saldo paga ações no turno e reações antes/depois dele. Se gastar 1 PA reagindo antes de agir, começa seu turno com 3. Se gastar outros 2 no turno, resta 1 para reagir depois. Ao fim da rodada, renova para 4; se restasse 1, não receberia 5.
+Ações no turno e reações após ele usam o mesmo saldo até o início do próximo turno do personagem. Para reagir nesse intervalo, é preciso poupar PA. Preparar Ação reserva PA desse saldo e vale até o início do próximo turno; passar de uma rodada para outra não renova recursos nem encerra a preparação.
 
-A rodada compreende os turnos de todos os participantes; mudar a ordem ou reivindicar o próximo turno não inicia outra rodada nem renova PA. A renovação de PA não concede turno extra nem transforma reações em ações livres. Repetição de ataques permanece contada no próprio turno.
+**Vantagem inicial aceita pelo criador:** antes do primeiro turno, o personagem pode pagar reações legalmente disponíveis com seus PA iniciais. Esses gastos não reduzem a renovação do primeiro turno. As reações não são gratuitas nem dispensam requisitos: com 4 PA iniciais, reagir por 1 deixa 3; quando chega seu primeiro turno, renova para 4, não para 7.
 
-Atordoado desconta até 2 PA do saldo disponível no início do próximo turno, mínimo 0, sem renovar PA; sua proibição de reagir termina nesse início. A duração de preparações que atravessam o fim da rodada aguarda decisão específica em [pendências](../../design/pendencias.md).
+Depois disso, gastar 3 PA no turno deixa 1 para reagir até o próximo turno, mesmo que outra rodada comece antes. A reserva inicial é concedida uma vez na entrada do combate, não a cada rodada.
+
+No início do próximo turno de um personagem Atordoado, renovar o orçamento normal e aplicar o desconto de até 2 PA, mínimo 0. A proibição de reagir termina nesse início. Com orçamento 4, age com 2; com NE 4, renova a 3 e fica com 1. Não há uma segunda renovação após o desconto.
+
+A rodada compreende os turnos de todos os participantes. A mudança do momento de renovação não concede turnos extras nem altera a contagem de repetição de ataques no próprio turno.
 
 | Ação básica | Custo |
 |---|---|
