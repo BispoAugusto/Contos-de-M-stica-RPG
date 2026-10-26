@@ -14,7 +14,7 @@ O atributo sugerido na perícia pode mudar conforme a abordagem, definida antes 
 
 Sob pressão, use no máximo **2 × atributo** do bônus de proficiência. Perigo imediato, urgência real ou interferência ativa caracterizam pressão; dificuldade por si só não. O mestre informa a pressão antes da rolagem. Fora dela, use o bônus integral. Atributo 0 não impõe Desvantagem sozinho, mas limita a proficiência a +0 sob pressão.
 
-O teto afeta **somente o bônus de proficiência na rolagem**, não modificadores de outras fontes, nível adquirido, dano base ou bônus de dano. Pode reduzir indiretamente o dano ao impedir pleno/extremo.
+O teto afeta **somente o bônus de proficiência na rolagem**, não modificadores de outras fontes, nível adquirido, dano base ou bônus de dano. Essa regra não limita ataques comuns; ataques direcionados aplicam o teto de Foco, mantendo pesado/brutal.
 
 Exemplo: em um teste de atributo, atributo 1 e proficiência +6 sob pressão usam **1d20 +2**. Isso não limita ataques comuns.
 
@@ -40,6 +40,6 @@ Em teste oposto, use o total do adversário como DT para as margens. Empate favo
 
 Cancelam-se uma a uma. Role **1 + saldo** de d20 e selecione o maior com Vantagem ou o menor com Desvantagem. Saldo zero: 1d20. Some proficiência e modificadores uma vez, nunca os dados entre si. Não há limite de acúmulo aprovado.
 
-Exemplo: três Vantagens e uma Desvantagem deixam duas Vantagens: 3d20, maior. Forçar não é Vantagem: refaz a mesma configuração de dados; ver [Alma](alma.md).
+Exemplo: três Vantagens e uma Desvantagem deixam duas Vantagens: 3d20, maior. Forçar não é Vantagem: refaz a mesma configuração de dados nos testes permitidos. Não permite rerrolar ataques nem testes contra a morte; ver [Alma](alma.md).
 
 As [proficiências](../personagem/proficiencias.md) têm escalas próprias. Repetição de [ataques](../combate/README.md) usa Desvantagens, não penalidades numéricas.

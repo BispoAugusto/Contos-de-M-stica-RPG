@@ -17,7 +17,7 @@ A condição **Caído** significa estar no chão; não significa, por si só, es
 | Caído | −2 nos próprios ataques corpo a corpo; ataques corpo a corpo contra você recebem +2. Rastejar permite deslocamento Curto por 1 PA. | Levantar por 1 PA, sem teste, se nada impedir. |
 | Agarrado | Não pode se deslocar por conta própria. Pode continuar atacando e usando suas defesas. O agarrador mantém uma mão ou membro apropriado ocupado. | Gastar 1 PA para tentar escapar; também termina se for solto ou se a ligação física for rompida. |
 | Imobilizado | Não pode se deslocar nem levantar; −2 nos próprios ataques e +2 nos ataques recebidos. Não elimina automaticamente todas as reações. | Depende da origem: escapar da contenção, romper amarras, destruir uma teia etc. |
-| Atordoado | Recebe 2 PA a menos no início do próximo turno; não pode reagir até esse início. Depois, age normalmente com os PA restantes. | Termina quando essa redução é aplicada. |
+| Atordoado | No início do próximo turno, perde até 2 dos PA disponíveis, mínimo 0; não renova PA. Não pode reagir até esse início. Depois, age com o saldo restante. | Termina quando essa redução é aplicada. |
 | Exposto | Abertura total: todo ataque contra o alvo ignora completamente sua RD, sem precisar ser direcionado. | Duração e saída dependem da habilidade ou situação que aplicou; sem duração universal definida. |
 
 ### Caído
@@ -36,9 +36,9 @@ O teste exato de fuga, a manobra para imobilizar, os custos de aplicação e man
 
 ### Atordoado
 
-A redução de 2 PA ocorre no início do próximo turno, não como perda imediata dos PA atuais. A proibição de reações termina nesse início, em vez de persistir até o fim do turno como no rascunho anterior.
+**Adaptação aprovada em 2026-10-26:** no início do próximo turno, subtraia 2 dos PA disponíveis, até o mínimo de 0, sem renová-los. Não há perda imediata ao receber a condição. A proibição de reações termina nesse início. A condição termina após aplicar o desconto; PA só renovam ao fim da rodada.
 
-Exemplo: um personagem atordoado fora do turno não reage até seu turno começar. Recebe 2 PA em vez de 4 e escolhe como usá-los. Com NE 4, recebe 1 PA em vez de 3. Essa interação exige playtest.
+Exemplos: começando o turno atordoado com 4 PA, fica com 2; com 3 PA, fica com 1; com 1 ou 0 PA, fica com 0. Com NE 4 e saldo ainda cheio de 3, fica com 1. Se já gastou PA antes, o desconto incide sobre o saldo real. Não cria dívida de PA para a rodada seguinte.
 
 ### Acúmulo e Equilíbrio
 

@@ -16,4 +16,4 @@
 
 ## Recursos a acompanhar
 
-Registre PA (normalmente 4), PV atuais/máximos, Corpo/Mente/Espírito atuais/máximos, PE/NE, condições, RD passiva de armadura e usos dos traços/proteções que ainda os exigirem. Registre custo e recuperação junto dos usos. O [guia de criação](../../referencias/criacao-de-personagem.md) orienta o preenchimento.
+Registre PA atuais (orçamento normalmente 4, renovado ao fim da rodada, sem renovação no próprio turno), PV atuais/máximos, Corpo/Mente/Espírito atuais/máximos, PE/NE, condições, RD passiva de armadura e usos dos traços/proteções que ainda os exigirem. Registre custo e recuperação junto dos usos. O [guia de criação](../../referencias/criacao-de-personagem.md) orienta o preenchimento.

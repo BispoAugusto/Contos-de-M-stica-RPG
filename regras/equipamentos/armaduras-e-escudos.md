@@ -48,7 +48,7 @@ Proteção física não reduz Fogo. Bloquear com escudo básico contra dano excl
 
 Uma média com Cortante 3 / Perfurante 2 / Contundente 1 recebe **5 de um golpe cortante de 8**, sem custo. Bloquear com escudo básico soma RD física 2 por 1 PA: recebe 3. Uma pesada com Cortante 4 / Perfurante 3 / Contundente 2 recebe 0 de um golpe cortante de 3, mas recebe 1 se o mesmo dano for contundente.
 
-Duas adagas Leves com base combinada 2, pleno +1 e crítico +2 causam 5 perfurante: uma leve com Perfurante 2 / Cortante 1 / Contundente 0 reduz para 3; com Bloquear, para 1. Uma rolagem e uma instância; tipos diferentes não criam instâncias. RD por instância nos ataques que explicitamente possuam várias. Ver [tipos de dano](../combate/tipos-de-dano.md).
+Duas adagas Leves com base combinada 2, pesado +1 e crítico +2 causam 5 perfurante: uma leve com Perfurante 2 / Cortante 1 / Contundente 0 reduz para 3; com Bloquear, para 1. Uma rolagem e uma instância; tipos diferentes não criam instâncias. RD por instância nos ataques que explicitamente possuam várias. Ver [tipos de dano](../combate/tipos-de-dano.md).
 
 ## Proteções naturais e quedas
 
@@ -62,4 +62,4 @@ O antigo traço comprável Armadura Natural RD 2/dois usos é apenas [histórico
 
 Registrar categoria, acesso, RD de cada um dos três tipos e peso em espaços; não registrar cargas de armadura convencional. Exemplo: “Média, acesso 1, Cortante 3 / Perfurante 2 / Contundente 1, peso 4 espaços”. Escudo registra Defesa +1 e Bloquear 1 PA/RD física 2, como referência provisória sob revisão.
 
-[Abertura parcial](../combate/aberturas.md) reduz a RD efetiva do alvo à metade para cima contra o ataque direcionado (RD 1→0), sem melhoria por pleno/crítico. Enquanto [Exposto](../combate/condicoes.md#exposto), todo ataque ignora completamente RD, inclusive de escudo, Escamas e outras fontes, sem exigir direcionamento. Perfis adicionais além dos três modelos, penalidades, melhorias, novos escudos, preços e aquisição inicial continuam pendentes.
+[Abertura parcial](../combate/aberturas.md) reduz a RD efetiva do alvo à metade para cima contra o ataque direcionado (RD 1→0), sem melhoria por pesado/brutal/crítico. Enquanto [Exposto](../combate/condicoes.md#exposto), todo ataque ignora completamente RD, inclusive de escudo, Escamas e outras fontes, sem exigir direcionamento. Perfis adicionais além dos três modelos, penalidades, melhorias, novos escudos, preços e aquisição inicial continuam pendentes.

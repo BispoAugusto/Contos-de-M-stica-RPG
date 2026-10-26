@@ -10,7 +10,7 @@ Todo ataque tem a tag **Agredir**, nome sistêmico desta ação. Um NPC pode ter
 
 ## Rolagem de ataque
 
-- **Confirmado em 2026-10-25:** ataque comum = **1d20 + proficiência do grupo de arma**. Não é teste de atributo; não aplica teto por Potência/Reflexo nem graus pleno/extremo. Efeitos explícitos de habilidades e repetição continuam aplicáveis.
+- **Confirmado em 2026-10-25:** ataque comum = **1d20 + proficiência do grupo de arma**. Não é teste de atributo; não aplica teto por Potência, Reflexo ou Foco nem graus pleno/extremo. Efeitos explícitos de habilidades e repetição continuam aplicáveis.
 - Ataque direcionado é a exceção: usa Foco e proficiência do grupo de arma, com as regras de pressão de Foco. Foco não é somado ao dado.
 - Manobra ofensiva independente não é ataque. As que exigem/modificam ataque contam pelo ataque.
 
@@ -26,7 +26,7 @@ Todo ataque tem a tag **Agredir**, nome sistêmico desta ação. Um NPC pode ter
 
 A contagem é compartilhada entre todos os ataques do turno. Trocar arma, mover ou recarregar não reinicia. A coluna depende **do ataque realizado**, não apenas de segurar duas armas. Ataques gratuitos contam salvo texto específico. **Fora do próprio turno, ataques não recebem nem avançam essa contagem.**
 
-Exemplo: primeiro ataque com uma arma é normal; segundo com ambas é normal; terceiro com ambas tem 1 Desvantagem, ou 2 se realizado com uma só. Vantagens cancelam Desvantagens normalmente; [forçar](../fundamentos/alma.md) rerrola preservando essa configuração.
+Exemplo: primeiro ataque com uma arma é normal; segundo com ambas é normal; terceiro com ambas tem 1 Desvantagem, ou 2 se realizado com uma só. Vantagens cancelam Desvantagens normalmente. **Ataques não podem ser forçados**, comuns ou direcionados, inclusive fora do turno e com modificadores de ataque. Apenas habilidades futuras que autorizem expressamente poderão criar exceção; nenhuma é concedida nesta revisão.
 
 ## Dano e graus
 
@@ -46,7 +46,7 @@ A proficiência não altera o dano base. Golpes Desarmados comuns mantêm base 0
 
 ## Duas armas e manobras
 
-Duas Leves em mãos distintas: 1 PA, uma rolagem, base principal + metade da base secundária arredondada para cima. Usar a **menor proficiência**, mesmo 0, antes de aplicar o teto. Bônus e RD uma vez, uma instância, um ataque. Pode atacar só com uma arma usando sua própria proficiência e a coluna comum de repetição.
+Duas Leves em mãos distintas: 1 PA, uma rolagem, base principal + metade da base secundária arredondada para cima. Usar a **menor proficiência**, mesmo 0, sem teto de atributo no ataque comum. Apenas o direcionado aplica o teto de Foco sob pressão. Bônus e RD uma vez, uma instância, um ataque. Pode atacar só com uma arma usando sua própria proficiência e a coluna comum de repetição.
 
 Golpe Devastador é uma **manobra aprendida**, exige Pesada e não é característica automática da propriedade. Modifica um ataque: 1 PA do ataque + até 3 PA adicionais, +2 dano por adicional (máximo +6). Pode usar Pesada + Arremessável com Foco. Ver [manobras](manobras.md).
 

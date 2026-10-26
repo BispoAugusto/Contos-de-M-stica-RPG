@@ -1,6 +1,6 @@
 # Glossário
 
-- **PA:** Pontos de Ação, normalmente quatro por turno.
+- **PA:** Pontos de Ação, normalmente quatro por rodada, renovados ao fim dela; ações e reações compartilham o saldo.
 - **PV:** Pontos de Vida; base 6 +2 × máximo de Corpo.
 - **DT:** dificuldade do teste; em oposição, o total adversário é referência.
 - **Atributo:** capacidade que determina teto de proficiência sob pressão, margens e Parte da Alma; não soma à rolagem.
@@ -9,10 +9,10 @@
 - **Padrão:** sucesso na DT, ainda sujeito a consequências narrativas.
 - **Pleno:** sucesso sem penalidades narrativas, respeitando custos explícitos.
 - **Extremo:** sucesso com benefício adicional, desbloqueado em atributo 10.
-- **Golpe Pesado/Brutal:** pleno/extremo em ataque; +1/+2 dano, sem somar os dois.
+- **Golpe Pesado/Brutal:** resultados de ataque em Defesa +5/+10; +1/+2 dano, sem somar os dois. Não usam pleno/extremo.
 - **Golpe Devastador:** manobra aprendida com Pesada; não é sinônimo de pleno.
 - **Alma:** reservas de Corpo, Mente e Espírito, média arredondada dos atributos + bônus de espécie.
-- **Forçar:** rerrolar uma vez o teste, mantendo configuração e aceitando novo resultado; custa Alma ou PE com reserva vazia.
+- **Forçar:** rerrolar uma vez o teste, mantendo configuração e aceitando novo resultado; custa Alma ou PE com reserva vazia. Proibido em ataques e testes contra a morte; ataques só poderão ter exceção por habilidade futura.
 - **PE/NE:** Pontos/Níveis de Exaustão; cinco PE geram um NE; mais PE é mais desgaste.
 - **RD:** redução de dano compatível com tipos; física, específica ou geral.
 - **Ferido:** bloqueia cura normal até tratamento, salvo exceções expressas.

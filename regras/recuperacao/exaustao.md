@@ -10,14 +10,14 @@ Descanso curto adequado remove 2 PE, sujeito à penalidade de NE 1, sem consumir
 
 **Atualização confirmada de 2026-10-19:** sem alimentação, hidratação ou sono adequado, não reduz PE no descanso longo e recebe **1 PE por requisito faltante**, cumulativamente. Namarés precisam beber e molhar o corpo; sem banho/imersão/chuva suficiente, contam como com sede, sem outra penalidade duplicada de umidade. Ver [descansos](descansos.md).
 
-Com a reserva de Alma correspondente vazia, pode receber **1 PE para forçar um teste**; não pode forçar morte. Isso já é regra aprovada, não hipótese futura. Ver [Alma](../fundamentos/alma.md).
+Com a reserva de Alma correspondente vazia, pode receber **1 PE para forçar um teste**; não pode forçar ataques nem testes contra a morte. Isso já é regra aprovada, não hipótese futura. Ver [Alma](../fundamentos/alma.md).
 
 | NE | Efeito cumulativo |
 |---|---|
 | 1 | Recuperação de PE em descanso curto cai pela metade, arredondando para cima (2→1) |
 | 2 | 1 Desvantagem em testes, ataques e manobras, cumulativa com outras fontes conforme [atributos e testes](../fundamentos/testes.md) |
 | 3 | Movimento diminui uma faixa |
-| 4 | Recebe somente 3 PA no início do turno |
+| 4 | Renova para somente 3 PA ao fim da rodada, sem acumular sobras |
 | 5 | Morte ou perda definitiva de controle |
 
 **Adequação ao núcleo atual:** a penalidade de NE 2 mantém uma Desvantagem, agora resolvida com um d20 adicional e escolha do menor após cancelamentos. Os demais efeitos e a progressão de Exaustão permanecem os mesmos.

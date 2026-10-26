@@ -1,5 +1,17 @@
 # Decisões registradas
 
+## 2026-10-26 — Ataques, Forçar e orçamento de PA por rodada
+
+**Confirmado pelo criador (D1):** ataques comuns, inclusive duas Leves, distância, arremessos e armas naturais, usam proficiência sem atributo nem teto por atributo. Duas Leves mantêm a menor proficiência. Direcionados preservam Foco sob pressão; pesado/brutal continuam em Defesa +5/+10. Corrigidos capítulos e exemplos divergentes.
+
+**Confirmado pelo criador (D2, substituindo a proposta do assistente):** ataques não podem ser forçados. Somente habilidades futuras poderão autorizar exceção; nenhuma é criada aqui. Resistências e testes que não sejam ataques preservam Forçar; morte continua proibida. Removidas referências permissivas em ataques, Golpe Vulcânico e plano de testes.
+
+**Aprovado para playtest (D3, reformulado pelo criador):** PA renovam ao fim da rodada, sem acumular e sem renovar no início do turno. Jogadores têm orçamento padrão 4; NPCs preservam os próprios máximos. Ações e reações antes/depois do turno usam o mesmo saldo. NE 4 reduz a renovação a 3. Atordoado desconta até 2 PA disponíveis no início do próximo turno, mínimo 0, e impede reações até esse início, conforme aprovação específica do criador.
+
+**Ainda pendente:** duração de Preparar Ação ao atravessar a renovação de rodada; proposta de expirar antes da renovação foi apresentada, sem aprovação presumida. Também falta definir PA do Último Ato, que concede um turno mas não especifica recursos próprios. Nenhuma simulação ou sessão foi realizada nesta alteração.
+
+Esta entrada prevalece sobre registros históricos conflitantes.
+
 ## 2026-10-25 — Tag Agredir
 
 **Confirmado pelo criador:** todo ataque recebe a tag **Agredir**, nome sistêmico da ação. Um NPC pode ter várias ações Agredir; todas compartilham a contagem e a penalidade de repetição, conforme a regra geral. Trocar o ataque escolhido não reinicia a contagem. Não repetir essa explicação em cada ficha. Manobras independentes e reações não recebem a tag apenas por gastar PA.

@@ -19,8 +19,8 @@ Data/versão, participantes e fichas; atributos, níveis de proficiência e bôn
 - Duelo: uma arma, duas Leves, Pesada/Impacto, Potente/Recarregar e Golpe Devastador aprendido.
 - Alternar primeiro ataque simples, segundo combinado, terceiro simples/combinado; confirmar posição compartilhada e benefício só com ambas.
 - Proficiências diferentes nas duas armas, inclusive uma 0. Ataques gratuitos dentro e fora do turno.
-- Forçar ataque com desvantagens não remove repetição nem consome novo uso de Golpe Vulcânico.
-- Testar Fera com Potência 1/proficiência 3: bônus limitado +2, dano base 3.
+- Conferir que nenhum ataque pode ser forçado, inclusive direcionado, preparado, natural ou modificado por Golpe Vulcânico/Devastador. Forçar continua disponível para testes permitidos que não sejam ataques nem morte.
+- Testar Fera com Potência 1/proficiência 3: ataque comum +6 sem teto, dano base 3. No direcionado, aplicar o teto de Foco sob pressão.
 - Comparar Esquiva, Bloquear e armadura, PA restantes e RD passiva, sem cargas de armadura convencional.
 - Área automática com teste obrigatório: permitir proteção posterior compatível; não reação de aumentar Defesa.
 - Dano misto 4 cortante +2 Fogo: leve com Cortante 2 / Perfurante 1 / Contundente 0 recebe 4; só resistência Fogo 2 recebe 4; ambos recebem 2; somente Escamas geral 1 recebe 5.
@@ -73,3 +73,11 @@ Resultados futuros devem separar regra aprovada, parâmetro experimental e arbit
 ## Três protótipos — ainda não testados
 
 Usar [lobo, cavaleiro e salamandra](inimigos-playtest.md) em encontros separados. Começar por um lobo, depois avaliar uma dupla; medir a diferença causada por matilha e Caído. Para o cavaleiro, registrar RD normal/parcial com e sem Bloquear e possibilidade de alcançar juntas visíveis. Para a salamandra, registrar ordem dos turnos, sinalização do cone, preparação em um turno e disparo no seguinte, ataques durante Exposto e opções de fuga/cobertura. Todas as estatísticas e convenções locais dessas fichas são propostas para teste; nenhum encontro foi executado ou certificado como equilibrado. Não transformar essas faixas relativas em ND 1/2/3.
+
+## Orçamento por rodada — atualização aprovada de 2026-10-26
+
+- Começar jogador sem restrições com 4 PA; reação anterior ao turno de 1 PA deixa 3, sem renovação no início do turno. Gastar 2 no turno deixa 1 para reação posterior. Renovar para 4 ao fim da rodada, sem somar sobras.
+- NE 4: renovação para 3. Atordoado no próximo início de turno transforma saldos 4/3/2/1/0 em 2/1/0/0/0, sem nova concessão de PA. O impedimento de reagir termina nesse início.
+- Preservar contagem de repetição no próprio turno. Renovação de PA não altera custos, dá ações gratuitas nem concede turnos extras.
+- Medir se reagir cedo reduz ações ofensivas e se poupar PA permite defesa tardia; registrar ordem de iniciativa em cada rodada. Sem dados de sessão ainda.
+- Preparação atravessando rodada e PA de Último Ato têm pendências explícitas; não simular resoluções como aprovadas.

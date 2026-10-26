@@ -20,8 +20,9 @@ Após conhecer o resultado/grau e **antes das consequências**, gaste **1 ponto 
 - O novo resultado é obrigatório, mesmo pior.
 - Apenas uma rerrolagem por teste.
 - Se a reserva correspondente estiver vazia, pode forçar recebendo **1 PE**.
-- Não é Vantagem, não é novo ataque, não avança a repetição e não paga novamente PA ou usos da ação original.
-- Vale para qualquer teste próprio, inclusive ataques e resistências, **exceto testes contra a morte**.
+- Não é Vantagem nem uma nova ação; não paga novamente PA ou usos do teste permitido.
+- Vale para testes próprios permitidos, inclusive resistências. **Ataques e testes contra a morte não podem ser forçados.** A proibição abrange ataques comuns, direcionados, preparados e ataques modificados por manobras ou características existentes. Somente habilidades futuras com autorização expressa poderão permitir Forçar ataques; esta revisão não concede nenhuma.
+- Uma manobra independente que não seja ataque continua seguindo a regra geral de testes; gastar PA ou usar Defesa como DT não a transforma em ataque.
 - Não permite forçar a rolagem de outra pessoa.
 
 Benefícios expressos, como Até o Limite dos Homens Altos, modificam o novo resultado conforme seu texto.

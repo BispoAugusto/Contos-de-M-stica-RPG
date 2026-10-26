@@ -27,7 +27,7 @@ Sem habilidades especiais adquiridas, magia ou manobras na comparação-base. Ma
 | Defesa passiva | 11 | 13 |
 | Esquivar | Indisponível: sem treino | 1 PA, Defesa 17 contra um ataque, cálculo anterior provisório |
 | Bloquear | Indisponível: sem escudo/meio especial | Indisponível: sem escudo/meio especial |
-| PA | 4 por turno | 4 por turno |
+| PA | 4 por rodada, renovados ao fim dela | 4 por rodada, renovados ao fim dela |
 | Movimento | Médio / 1 PA | Médio / 1 PA |
 | Capacidade | 11 espaços | 7 espaços |
 | Estado inicial | PE 0, NE 0, sem condições | PE 0, NE 0, sem condições |
@@ -46,17 +46,17 @@ Corpo de Borin: teto(7/3) +2 =5; PV 6 +2×5 +3 de Robustez =19. Nilo: teto(6/3) 
 | Acrobacia | Nível 0 | Nível 1, +2 (1 PP) |
 | Total | 7 PP | 7 PP |
 
-Lucidez, Convicção e demais proficiências não compradas: nível 0. Comum fluente gratuito. Bônus de teste sob pressão limitado a 2 × atributo; atributos não somam ao dado. O grau 1 de arma normalmente concede uma manobra aprendida: fica **fora da comparação-base**, por recorte sem habilidades/manobras. Para módulo separado, Borin pode escolher Golpe Devastador e Nilo Golpe de Derrubada, registrando o aprendizado antes de usar; não são benefícios automáticos das propriedades.
+Lucidez, Convicção e demais proficiências não compradas: nível 0. Comum fluente gratuito. Testes de atributo sob pressão limitam a proficiência a 2 × atributo; atributos não somam ao dado. Ataques comuns não usam esse teto; direcionados usam Foco. O grau 1 de arma normalmente concede uma manobra aprendida: fica **fora da comparação-base**, por recorte sem habilidades/manobras. Para módulo separado, Borin pode escolher Golpe Devastador e Nilo Golpe de Derrubada, registrando o aprendizado antes de usar; não são benefícios automáticos das propriedades.
 
 ## Equipamentos e ataques
 
 | Campo | Borin | Nilo |
 |---|---|---|
 | Arma | Espada Pesada + Impacto, duas mãos | Duas adagas Leve + Arremessável, uma por mão |
-| Ataque principal | 1d20+4 com Potência, 1 PA | 1d20+4 com Reflexo, 1 PA com ambas |
-| Dano padrão / pleno | 4 / 6 cortante | 2 / 3 perfurante, combinado |
-| Natural 20 | +2 dano, total 8 se pleno | +2 dano, total 5 se pleno |
-| Limiar pleno principal | Defesa do alvo +7 | Defesa do alvo +7 |
+| Ataque principal | 1d20+4, sem atributo, 1 PA | 1d20+4, sem atributo, 1 PA com ambas |
+| Dano padrão / pesado / brutal | 4 / 6 / 7 cortante, incluindo Impacto | 2 / 3 / 4 perfurante, combinado |
+| Natural 20 | +2 dano adicional | +2 dano adicional |
+| Limiares pesado / brutal | Defesa do alvo +5 / +10 | Defesa do alvo +5 / +10 |
 | Repetição 1º / 2º / 3º / 4º | Normal / 1 / 2 / 3 Desvantagens | Normal / normal / 1 / 2 Desvantagens, com ambas |
 | Proteção | Pesada: Cortante 4 / Perfurante 3 / Contundente 2 | Leve: Cortante 2 / Perfurante 1 / Contundente 0 |
 | Peso da armadura equipada | 6 espaços | 2 espaços |
@@ -65,7 +65,7 @@ Lucidez, Convicção e demais proficiências não compradas: nível 0. Comum flu
 
 Distribuições de RD acima são escolhas destas fichas, não padrões obrigatórios por categoria; registrar antes da simulação e não trocar durante combate. Para estes dois personagens, usar os pesos tabelados sem desconto por porte: armadura pesada 6/leve 2, arma de duas mãos 3 e cada adaga 1. A adaptação geral por porte segue pendente. Sem cargas, penalidades novas ou manutenção para recarregar armadura. Armadura não altera Defesa nem deslocamento neste pacote.
 
-Nilo pode arremessar uma adaga até Médio: Foco, 1d20+2 sob pressão, base 1, repetição comum. Duas Leves corpo a corpo fazem uma rolagem e uma instância; RD uma vez. Extremo indisponível. [Armas](../regras/equipamentos/armas.md) · [Proteções](../regras/equipamentos/armaduras-e-escudos.md).
+Nilo pode arremessar uma adaga até Médio: 1d20+4 no ataque comum, sem teto de atributo, base 1, repetição comum. Duas Leves corpo a corpo fazem uma rolagem e uma instância; RD uma vez. Ataques usam pesado/brutal, sem pleno/extremo. [Armas](../regras/equipamentos/armas.md) · [Proteções](../regras/equipamentos/armaduras-e-escudos.md).
 
 ## Características raciais
 
@@ -77,7 +77,7 @@ Nilo pode arremessar uma adaga até Médio: Foco, 1d20+2 sob pressão, base 1, r
 
 - Ambos podem Preparar Ação e Ajudar: +1d4 por ajuda válida, 1 PA. Atrapalhar tem resolução/custo próprio pendentes.
 - Analisar por observação pode usar Percepção/Vigilância: ambos +2 sob pressão, se essa abordagem for apropriada. Custo 1 PA provisório; DT e resultado ainda não definidos.
-- Ataque direcionado à Abertura usa Foco 1: ambos ficam em **1d20+2**, limiar de pleno **DT +9**, preservando dano base e custo. Contra Abertura parcial, RD efetiva pela metade para cima, salvo 1→0, mesmo em pleno/crítico. Dificuldade/penalidade devem ser resolvidas antes de simular; não presumir acerto pela Defesa comum. Abertura conhecida não exige nova análise a cada ataque.
+- Ataque direcionado à Abertura usa Foco 1: ambos ficam em **1d20+2**, usando pesado/brutal de ataques, preservando dano base e custo. Contra Abertura parcial, RD efetiva pela metade para cima, salvo 1→0, mesmo em pesado/brutal/crítico. Dificuldade/penalidade devem ser resolvidas antes de simular; não presumir acerto pela Defesa comum. Abertura conhecida não exige nova análise a cada ataque.
 - Defesa passiva e Esquivar usam as fórmulas anteriores preservadas provisoriamente. Comparações que envolvam Bloquear precisam de um módulo com escudo, proficiência e mãos livres, sem concedê-los gratuitamente a estas fichas.
 - Não atribuir Equilíbrio aos dois personagens: é recurso especial de alguns inimigos.
 - Distância inicial, iniciativa, uso de Alma, política de reações e término do combate precisam constar no cenário. Não produzir taxas de vitória preenchendo lacunas silenciosamente.
@@ -91,4 +91,4 @@ Procedimentos: [ações táticas](../regras/combate/acoes-taticas.md), [Abertura
 | Borin | 4/3/2 | 2/2/1 | 0 |
 | Nilo | 2/1/0 | 1/0/0 | 0 |
 
-Parcial exige ataque direcionado a Abertura acessível. Pleno/crítico não concedem exposição total; Exposto exige fonte definida e não muda Defesa. Estas continuam fichas de jogadores, não usam o modelo simplificado de NPC.
+Parcial exige ataque direcionado a Abertura acessível. Pesado/brutal/crítico não concedem exposição total; Exposto exige fonte definida e não muda Defesa. Estas continuam fichas de jogadores, não usam o modelo simplificado de NPC.

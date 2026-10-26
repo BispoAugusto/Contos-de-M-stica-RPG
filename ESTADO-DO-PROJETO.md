@@ -1,4 +1,16 @@
-# Estado do projeto — 2026-10-25
+# Estado do projeto — 2026-10-26
+
+## 2026-10-26 — Ataques, Forçar e orçamento de PA por rodada
+
+**Confirmado pelo criador (D1):** ataques comuns, inclusive duas Leves, distância, arremessos e armas naturais, usam proficiência sem atributo nem teto por atributo. Duas Leves mantêm a menor proficiência. Direcionados preservam Foco sob pressão; pesado/brutal continuam em Defesa +5/+10. Corrigidos capítulos e exemplos divergentes.
+
+**Confirmado pelo criador (D2, substituindo a proposta do assistente):** ataques não podem ser forçados. Somente habilidades futuras poderão autorizar exceção; nenhuma é criada aqui. Resistências e testes que não sejam ataques preservam Forçar; morte continua proibida. Removidas referências permissivas em ataques, Golpe Vulcânico e plano de testes.
+
+**Aprovado para playtest (D3, reformulado pelo criador):** PA renovam ao fim da rodada, sem acumular e sem renovar no início do turno. Jogadores têm orçamento padrão 4; NPCs preservam os próprios máximos. Ações e reações antes/depois do turno usam o mesmo saldo. NE 4 reduz a renovação a 3. Atordoado desconta até 2 PA disponíveis no início do próximo turno, mínimo 0, e impede reações até esse início, conforme aprovação específica do criador.
+
+**Ainda pendente:** duração de Preparar Ação ao atravessar a renovação de rodada; proposta de expirar antes da renovação foi apresentada, sem aprovação presumida. Também falta definir PA do Último Ato, que concede um turno mas não especifica recursos próprios. Nenhuma simulação ou sessão foi realizada nesta alteração.
+
+Esta entrada prevalece sobre registros históricos conflitantes.
 
 ## 2026-10-25 — Tag Agredir
 
@@ -52,7 +64,7 @@ Fonte: pacote de decisões enviado pelo criador nesta data. Esta entrada prevale
 Regras atuais: [ações táticas](regras/combate/acoes-taticas.md), [Abertura](regras/combate/aberturas.md), [armaduras](regras/equipamentos/armaduras-e-escudos.md), [fichas de teste](planejamento/fichas-combate-2026-10-25.md).
 
 
-**CdM RPG**: sistema autoral d20, nove atributos, reservas de Corpo/Mente/Espírito, quatro PA por turno, distâncias narrativas e exaustão persistente.
+**CdM RPG**: sistema autoral d20, nove atributos, reservas de Corpo/Mente/Espírito, quatro PA por rodada, distâncias narrativas e exaustão persistente.
 
 ## Confirmado nesta integração
 
@@ -60,7 +72,7 @@ Regras atuais: [ações táticas](regras/combate/acoes-taticas.md), [Abertura](r
 - **1d20 + proficiência + modificadores, sem somar atributo**. Sob pressão, só o bônus de proficiência é limitado a 2 × atributo. Abordagem pode mudar o atributo sugerido.
 - Padrão na DT; pleno em DT + máximo(0, 10 − atributo); extremo desbloqueado em 10, DT +20 − atributo. Todo sucesso com atributo 10+ é pleno, sem converter falhas em sucessos.
 - Naturais 1/20, Vantagens/Desvantagens cumulativas com cancelamento, desempates e opostos descritos em [testes](regras/fundamentos/testes.md).
-- Alma máxima = média arredondada para cima dos três atributos + bônus de espécie. Forçar por 1 Alma, ou 1 PE se a reserva estiver vazia, uma vez por teste, preservando dados/modificadores e aceitando novo resultado. Morte não pode ser forçada.
+- Alma máxima = média arredondada para cima dos três atributos + bônus de espécie. Forçar por 1 Alma, ou 1 PE se a reserva estiver vazia, uma vez por teste, preservando dados/modificadores e aceitando novo resultado. Ataques e morte não podem ser forçados.
 - PV base 6 +2 × máximo de Corpo; Defesa 10 + Reflexo; carga base do porte +2 × Potência.
 - Ataques: pesado em Defesa +5 dá +1 dano; brutal em Defesa +10 dá +2 em vez de +1; crítico 20 natural +2 adicional. Não usam pleno/extremo nem requisito de atributo 10.
 - Repetição no turno: normal, 1/2/3... Desvantagens; ataque combinado de duas Leves: normal, normal, 1/2... Desvantagens. Contagem compartilhada, benefício só no ataque com ambas; fora do turno não conta/não penaliza.

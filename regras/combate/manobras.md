@@ -37,7 +37,7 @@ Equilíbrio pode proteger inimigos de efeitos de controle.
 
 Os danos da tabela não incluem margem de sucesso, crítico ou outros efeitos. **Exemplo:** com 4 PA, gastar 1 no ataque e 3 em Golpe Devastador dá +6 de dano em uma única rolagem; a arma comum de base 2 com Pesada causa 10 antes dos demais modificadores se acertar. Se esse for o primeiro ataque do turno, não há penalidade de repetição. Se for posterior, aplica-se a penalidade correspondente, independentemente de quantos PA forem investidos.
 
-O uso de todos os 4 PA deixa o personagem sem PA restantes para movimento ou reações até a próxima renovação. A interação com efeitos futuros que concedam PA e a frequência de uso devem ser revisitadas explicitamente, sem ampliar automaticamente o limite de 3 PA adicionais.
+O uso de todos os 4 PA deixa o personagem sem PA restantes para movimento ou reações até a renovação ao fim da rodada. A interação com efeitos futuros que concedam PA e a frequência de uso devem ser revisitadas explicitamente, sem ampliar automaticamente o limite de 3 PA adicionais.
 
 Ver [armas](../equipamentos/armas.md), [combate](README.md) e [pendências](../../design/pendencias.md).
 
@@ -53,8 +53,8 @@ Nome anterior, preservado para links; consultar [Bloquear](#bloquear-com-escudo-
 
 ## Integração de 2026-10-19
 
-Golpe Devastador exige aprendizado, não vem automaticamente de Pesada. **Pesada + Arremessável pode usá-lo com Foco**, mantendo custos/requisitos e até três PA adicionais. A frequência geral de uma vez por rodada permanece até aprovação de exceção; o acúmulo de PA não concede usos extras.
+Golpe Devastador exige aprendizado, não vem automaticamente de Pesada. **Pesada + Arremessável pode usá-lo; Foco só se o ataque for direcionado**, mantendo custos/requisitos e até três PA adicionais. A frequência geral de uma vez por rodada permanece até aprovação de exceção; o acúmulo de PA não concede usos extras.
 
-Ataques fora do próprio turno, inclusive Ataque de Oportunidade, **não recebem nem avançam Desvantagens por repetição**. No próprio turno, modificadores de ataque usam a posição do ataque; manobras independentes não entram. Forçar é rerrolar o mesmo teste, não outra ação.
+Ataques fora do próprio turno, inclusive Ataque de Oportunidade, **não recebem nem avançam Desvantagens por repetição**. No próprio turno, modificadores de ataque usam a posição do ataque; manobras independentes não entram. Ataques não podem ser forçados, inclusive com Golpe Devastador ou Ataque de Oportunidade. Manobras independentes que não sejam ataques seguem as regras gerais de testes permitidos.
 
 Testes opostos seguem [testes](../fundamentos/testes.md): empate favorece quem inicia a tentativa, inclusive uma fuga. Bloquear também pode reduzir dano de área/efeito automático se compatível e o personagem puder reagir; o teste obrigatório do efeito é separado da única ação defensiva. RD física não reduz elementos. Ver [proteções](../equipamentos/armaduras-e-escudos.md).

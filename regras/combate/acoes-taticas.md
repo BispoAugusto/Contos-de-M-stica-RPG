@@ -8,7 +8,9 @@
 
 **Aprovado para playtest.** No próprio turno, declarar uma condição específica e uma ação de custo **1 PA**. Reservar **1 PA**, mantendo-o disponível: não pagar antecipadamente nem cobrar um PA extra pela preparação.
 
-A preparação vale até o próximo turno. Quando a condição ocorrer, se puder agir, o personagem pode executar a ação e gastar o PA reservado. Se o gatilho não ocorrer ou a ação se tornar impossível, o PA não é gasto. Usar esse PA para outra finalidade cancela a preparação correspondente. A renovação normal não acumula PA acima de quatro.
+A preparação vale até o próximo turno. Quando a condição ocorrer, se puder agir, o personagem pode executar a ação e gastar o PA reservado. Se o gatilho não ocorrer ou a ação se tornar impossível, o PA não é gasto. Usar esse PA para outra finalidade cancela a preparação correspondente. A renovação normal ocorre ao fim da rodada e não acumula PA acima de quatro.
+
+**Pendência de adaptação — 2026-10-26:** a duração acima, até o próximo turno, é a redação anterior. Com PA renovados ao fim da rodada, foi proposta a expiração antes dessa renovação, mas a alteração de duração ainda não foi aprovada. Não presumir liberação ou nova reserva do PA ao atravessar essa janela; aguardar decisão para testar esse caso.
 
 Preparar não elimina reações defensivas: **Esquivar e Bloquear não precisam ser preparados**. Outras exceções seguem regras/habilidades específicas; não retirar reações aprendidas já existentes por inferência.
 

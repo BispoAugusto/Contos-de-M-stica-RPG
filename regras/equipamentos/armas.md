@@ -10,7 +10,7 @@ Arma modular: **dano base 2 e dois espaços de propriedades**. Cada propriedade 
 
 A família define a proficiência: Espadas, Machados, Martelos, Adagas, Armas de Haste, Arcos, Bestas, Armas de Fogo, Correntes e Chicotes, Golpes Desarmados. “Armas Flexíveis” continua apenas sugestão para Correntes e Chicotes. Não foram adicionadas Fundas nem as perícias Luta/Pontaria.
 
-Corpo a corpo usa **Potência**; Leve permite **Reflexo**. Ataques à distância e **arremessos usam Foco**, mantendo a família da arma. Propriedades definem formas de usar a arma, não trocam sua família.
+**Atualização confirmada em 2026-10-26:** ataques comuns corpo a corpo, à distância, arremessados, combinados e naturais usam **1d20 + proficiência da família**, sem atributo nem teto por atributo. Apenas ataques direcionados usam Foco sob pressão. Propriedades definem formas de usar a arma, não trocam sua família. Nenhum ataque pode ser forçado sem autorização expressa de habilidade futura.
 
 Tipos físicos (Contundente, Perfurante, Cortante) não concedem efeitos passivos automáticos. Ver [tipos de dano](../combate/tipos-de-dano.md).
 
@@ -18,13 +18,13 @@ Tipos físicos (Contundente, Perfurante, Cortante) não concedem efeitos passivo
 
 | Propriedade | Espaços | Efeito |
 |---|---|---|
-| Leve | 1 | −1 no dano base; permite Reflexo e, com duas Leves, ataque combinado |
+| Leve | 1 | −1 no dano base; com duas Leves, permite ataque combinado |
 | Versátil | 1 | +1 no dano usando duas mãos |
 | Pesada | 1 | +2 no dano; exige duas mãos |
 | Alcance | 1 | Ataque corpo a corpo até Curto |
 | Impacto | 1 | +1 dano em pesado ou brutal |
 | Furtiva | 1 | 1 Vantagem para ocultar a arma, não para atacar |
-| Arremessável | 1 | Arremesso até Médio, usando Foco |
+| Arremessável | 1 | Arremesso até Médio; Foco apenas se direcionado |
 
 **Leve, Versátil e Pesada são mutuamente exclusivas.** Na base comum 2, resultam em dano 1, 2/3 e 4. São modificadores, não substituições universais da base.
 
@@ -42,7 +42,7 @@ Uma em cada mão, **1 PA, uma rolagem e uma instância de dano**:
 
 **Base combinada = base da principal + metade da base da secundária, arredondada para cima.**
 
-Use a menor proficiência das armas, inclusive 0, depois o teto sob pressão. Acrescente grau, crítico e demais modificadores uma vez; aplique RD uma vez. Não há segundo crítico, segundo acerto ou divisão entre alvos automaticamente aprovada.
+Use a menor proficiência das armas, inclusive 0, sem teto no ataque comum. Se direcionado, aplicar o teto de Foco sob pressão. Acrescente grau, crítico e demais modificadores uma vez; aplique RD uma vez. Não há segundo crítico, segundo acerto ou divisão entre alvos automaticamente aprovada.
 
 Duas adagas de base 1 formam base 2. Pesado +1 e natural 20 +2 resultam em 5 antes de RD; se o dano for perfurante, uma armadura leve com Perfurante 2 / Cortante 1 / Contundente 0 reduz para 3; essa armadura + Bloquear reduz para 1.
 
@@ -50,7 +50,7 @@ Só ataques **com ambas** usam a sequência especial: normal, normal, 1 Desvanta
 
 ## Distância
 
-Base **2**, dois espaços, duas mãos e alcance **Médio**, usando Foco.
+Base **2**, dois espaços, duas mãos e alcance **Médio**. Ataque comum sem atributo; direcionado usa Foco sob pressão.
 
 | Propriedade | Espaços | Efeito |
 |---|---|---|
@@ -80,6 +80,6 @@ Os antigos traços compráveis Arma Natural/Avançada não são opções atuais 
 
 ## Manobras e limites
 
-Golpe Devastador: exige Pesada e aprendizado, 1 PA de ataque + até 3 PA, +2 dano por adicional, máximo +6. Uma rolagem e um ataque para repetição; aplicável a Pesada + Arremessável usando Foco. Frequência geral e exceções seguem [manobras](../combate/manobras.md).
+Golpe Devastador: exige Pesada e aprendizado, 1 PA de ataque + até 3 PA, +2 dano por adicional, máximo +6. Uma rolagem e um ataque para repetição; aplicável a Pesada + Arremessável; Foco somente no ataque direcionado. Frequência geral e exceções seguem [manobras](../combate/manobras.md).
 
 Não foram aprovadas novas propriedades, valores de armas mágicas, propriedades repetidas ou ataques gratuitos. Ver [pendências](../../design/pendencias.md) e [playtests](../../planejamento/playtests.md).

@@ -1,5 +1,14 @@
 # Pendências — estado de 2026-10-25
 
+## Decisões de 2026-10-26
+
+- [x] D1: ataques comuns sem atributo/teto, direcionados com Foco; corrigir aplicações divergentes sem modificar custos/dano base.
+- [x] D2: ataques não podem ser forçados; exceções dependem de habilidades futuras expressas. Morte continua proibida.
+- [x] D3: PA renovados ao fim da rodada, saldo compartilhado entre ações e reações; NE 4 renova a 3.
+- [x] Atordoado: desconto de até 2 PA disponíveis no início do próximo turno, mínimo 0; proibição de reações termina nesse início. Aprovação específica do criador.
+- [ ] Preparar Ação: decidir duração ao atravessar fim de rodada; proposta de expirar antes da renovação ainda aguardando aprovação.
+- [ ] Último Ato: especificar PA disponíveis para o último turno, agora que turnos não renovam PA; não conceder recarga extra por inferência.
+
 ## Prioridades do combate — 2026-10-25
 
 - [x] Três modelos de armadura com RD por tipo e peso em espaços: leve 2/1/0 e 2 espaços, média 3/2/1 e 4, pesada 4/3/2 e 6; jogador distribui entre Cortante/Perfurante/Contundente, sem troca em combate.

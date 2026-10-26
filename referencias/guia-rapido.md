@@ -12,11 +12,11 @@
 
 Natural 1 falha; natural 20 sucede. Em opostos, use total adversário como DT; empate favorece iniciador. Sem iniciador, compare máximos das Partes de Alma correspondentes; igual novamente, rerrole empatados. Dois naturais 20 comparam totais.
 
-Vantagens/Desvantagens cancelam uma a uma; role 1 + saldo de d20, maior/menor. Forçar: 1 Alma correspondente (ou +1 PE com reserva vazia), uma vez, antes das consequências, rerrole tudo preservando condições e aceite o novo resultado. Nunca na morte.
+Vantagens/Desvantagens cancelam uma a uma; role 1 + saldo de d20, maior/menor. Forçar: 1 Alma correspondente (ou +1 PE com reserva vazia), uma vez, antes das consequências, rerrole tudo preservando condições e aceite o novo resultado. Nunca em ataques ou testes contra a morte; exceção para ataques dependerá de habilidade futura expressa.
 
 ## Combate
 
-Jogadores: 4 PA por turno. Ataque/movimento Médio/interação simples: 1 PA. NPCs podem ter PA e custos próprios, registrados na ficha. Defesa 10 + Reflexo; escudo +1. Corpo a corpo Potência; Leve permite Reflexo; distância/arremesso Foco.
+Jogadores: 4 PA iniciais; renovam ao fim da rodada, sem acumular e sem renovar no próprio turno. Reações antes e depois do turno usam o mesmo saldo. NE 4 reduz a renovação para 3. Ataque/movimento Médio/interação simples: 1 PA. NPCs podem ter PA e custos próprios, registrados na ficha. Defesa 10 + Reflexo; escudo +1. Ataques comuns usam proficiência da arma sem atributo nem teto; direcionados usam Foco sob pressão.
 
 | Ataque do próprio turno | Comum | Com duas Leves |
 |---|---|---|
@@ -27,7 +27,7 @@ Jogadores: 4 PA por turno. Ataque/movimento Médio/interação simples: 1 PA. NP
 
 Contagem compartilhada; a coluna especial só vale ao atacar com ambas. Fora do turno não conta/não penaliza.
 
-Dano = base +1 pleno **ou** +2 extremo, +2 por 20 natural e demais efeitos. Impacto +1 em pleno/extremo. Duas Leves: menor proficiência, uma rolagem/1 PA, base principal + metade secundária para cima, uma instância.
+Dano = base +1 em pesado (Defesa +5) **ou** +2 em brutal (Defesa +10), +2 por 20 natural e demais efeitos. Impacto +1 em pesado/brutal. Duas Leves: menor proficiência, uma rolagem/1 PA, base principal + metade secundária para cima, uma instância.
 
 Golpe Devastador aprendido com Pesada: até 3 PA adicionais, +2 dano cada. Armas naturais das Feras: nível de Golpes Desarmados, mínimo 1, sem Leve.
 
@@ -55,7 +55,7 @@ Este resumo não fecha lacunas. Consultar [regras completas](../README.md) e [pe
 
 Preparar Ação: declarar gatilho no turno e reservar 1 PA para ação de 1 PA até o próximo turno; gastar só se executar. Usar o PA em outra finalidade cancela a preparação. Ajudar: 1 PA, +1d4 ao teste de outro; dados de ajudas justificadas acumulam. Atrapalhar pode negar uma Ajuda, mas custo próprio/disputas/testes adicionais estão pendentes. Fora do turno em combate, ambas exigem Preparar Ação. [Procedimento](../regras/combate/acoes-taticas.md).
 
-Analisar: ação universal, 1 PA provisório; atributo/proficiência pela abordagem, DT e resultados pendentes. Abertura descoberta permanece conhecida enquanto existir. Ataque direcionado experimental usa Foco sob pressão e custo normal; se acertar a Abertura parcial, RD efetiva pela metade para cima, salvo 1→0. Pleno/crítico não a tornam total. Exposto: todo ataque ignora completamente RD, sem direcionamento; fonte define duração/saída. Dificuldade/penalidades do direcionado e dano misto com várias RD ainda pendentes. [Procedimento](../regras/combate/aberturas.md).
+Analisar: ação universal, 1 PA provisório; atributo/proficiência pela abordagem, DT e resultados pendentes. Abertura descoberta permanece conhecida enquanto existir. Ataque direcionado experimental usa Foco sob pressão e custo normal; se acertar a Abertura parcial, RD efetiva pela metade para cima, salvo 1→0. Pesado/brutal/crítico não a tornam total. Exposto: todo ataque ignora completamente RD, sem direcionamento; fonte define duração/saída. Dificuldade/penalidades do direcionado e dano misto com várias RD ainda pendentes. [Procedimento](../regras/combate/aberturas.md).
 
 Equilíbrio é o novo nome da antiga Postura; funcionamento preservado. Posturas são futuros estilos/estados de combate.
 

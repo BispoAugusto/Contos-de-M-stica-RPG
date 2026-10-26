@@ -206,7 +206,7 @@ Transcreva as características da sua origem e espécie com **custo, alcance, us
 
 | Recurso | O que registrar |
 |---|---|
-| Ações | 4 PA por turno como padrão |
+| Ações | 4 PA por rodada, renovados ao fim dela; sem renovar no próprio turno |
 | Vida e Alma | Valor atual e máximo de cada reserva |
 | Exaustão | PE e NE separados |
 | Proteções disponíveis | Tipo de RD passiva e conjunto de valores; usos/custo apenas para proteções especiais que os exijam |
@@ -278,7 +278,7 @@ Homens Altos recebem +1 em cada Parte.
 | Dracônico 2 | 1 | Fluente; +2 quando precisar testar |
 | **Total** | **7** | Comum fluente é gratuito e fica fora da compra |
 
-Com Potência 3, o teto sob pressão é +6: a proficiência Espadas +4 cabe integralmente. Com Reflexo 2, a reação Esquiva permite seu bônus +2, elevando a Defesa de 12 para 14 contra um ataque por 1 PA. Sem escudo escolhido/empunhado, não acrescenta +1.
+O ataque comum com Espadas usa +4 sem teto de atributo. Se direcionado, Foco 1 limita a proficiência a +2 sob pressão. Ataques não podem ser forçados. Com Reflexo 2, a reação Esquiva permite seu bônus +2, elevando a Defesa de 12 para 14 contra um ataque por 1 PA. Sem escudo escolhido/empunhado, não acrescenta +1.
 
 A ficha tem atributos, reservas e proficiências definidos. Espadas 2 não significa que recebeu uma espada: o equipamento inicial continua pendente.
 

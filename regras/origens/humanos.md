@@ -17,7 +17,7 @@
 
 ### Homens Altos
 
-- **Até o Limite:** ao forçar por 1 PE porque a reserva correspondente está vazia, recebe +2 na nova rolagem.
+- **Até o Limite:** ao forçar por 1 PE porque a reserva correspondente está vazia, recebe +2 na nova rolagem. Não autoriza Forçar ataques nem testes contra a morte.
 - **Potencial Humano:** +2 pontos de atributos na criação, respeitando máximo inicial 3.
 
 ### Anões

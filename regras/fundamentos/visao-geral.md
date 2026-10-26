@@ -10,7 +10,7 @@ PV representam perigo imediato; condições, limitações temporárias; Exaustã
 
 ## Arredondamento
 
-Por padrão, arredondar para cima, salvo exceção explícita. Aplica-se às médias de Alma, metades de recuperação e metade da arma secundária. O dano por margem agora é discreto por pleno/extremo, conforme [testes](testes.md), sem a antiga progressão por blocos de cinco.
+Por padrão, arredondar para cima, salvo exceção explícita. Aplica-se às médias de Alma, metades de recuperação e metade da arma secundária. Ataques usam pesado em Defesa +5 (+1 dano) e brutal em Defesa +10 (+2 em vez de +1), sem progressão além de brutal. Pleno/extremo ficam para [testes que não sejam ataques](testes.md).
 
 ## Status das regras
 
