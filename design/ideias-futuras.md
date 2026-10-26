@@ -36,3 +36,7 @@ Não reutilizar a soma de atributos, as sequências numéricas de repetição, o
 Posturas serão estados ou estilos de combate, especialmente por habilidades. Mudar Postura para eliminar certas Aberturas permanece ideia futura. A orientação de descrever proteções e meios narrativos de proteger/modificar Aberturas de NPCs já foi aprovada; seus custos e procedimentos específicos devem constar na ficha. Revisar apoio especial/Bardo sem reaproveitar automaticamente 1d8/1d6/1d4. Ajudar comum agora é +1d4 acumulável.
 
 Fórmula de carga 8 +3 × Potência, conversão para quilogramas e penalidades de −2, Desvantagem ou requisitos físicos para armaduras não foram aprovadas. Peso em espaços e armaduras de 2/4/6 espaços foram aprovados posteriormente em 2026-10-25; preservar a capacidade atual. Os catálogos por materiais anteriormente sugeridos não são modelos adicionais deste playtest.
+
+## 2026-10-26 — Fabricação, catálogo geral e equipamento inicial
+
+**Proposta solicitada pelo criador; ainda não aprovada.** [Documento completo](propostas/itens-e-fabricacao-2026-10-26.md): I1 kit +6 pontos de equipamento; I2 catálogo geral; I3 materiais e Etapas de Trabalho de 4h; I4 melhorias utilitárias, benefícios de Anões/Gnomos e reparos. Números, tempos, concessões e efeitos são propostas, não regras vigentes. A aprovação individual da espada/armadura de Caio não aprova esses blocos.

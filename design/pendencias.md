@@ -20,7 +20,8 @@
 - [ ] Exposto: fontes, duração/saída, aplicação e interação com Equilíbrio; nenhuma duração ou custo universal presumido.
 - [ ] NPCs: escala de Corpo/Mente/Espírito, conversão operacional dos graus e teto sob pressão em testes que não sejam ataques; recursos/Alma não presumidos. Calibrar PV, defesas, PA/custos e ameaça por tamanho de grupo.
 - [ ] Atrapalhar: custo próprio não explicitado, efeitos sem Ajuda, disputa de múltiplas intervenções e eventual teste adicional.
-- [ ] Esquivar/Bloquear: cálculos exatos e interação com Defesa; preservar fórmulas anteriores provisoriamente e os novos requisitos.
+- [x] Esquivar: declarar antes de conhecer o resultado do teste de ataque, por decisão de 26/10; proposta posterior ao resultado rejeitada.
+- [ ] Esquivar/Bloquear: revisão dos cálculos e interação com graus de dano permanece pendente; preservar fórmulas anteriores provisoriamente e requisitos. Bloquear mantém sua janela após conhecer dano.
 - [ ] Apoio especial/Bardo: revisar sem importar sequências antigas substituídas.
 - [ ] Preparação/ajuda: detalhar se necessário simultaneidade de gatilhos, declaração em relação à rolagem e duração de Ajuda concedida no próprio turno, sem inventar resolução neste pacote.
 

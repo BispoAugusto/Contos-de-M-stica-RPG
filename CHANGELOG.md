@@ -1,5 +1,13 @@
 # Histórico
 
+## 2026-10-26 — Esquivar antes do resultado e equipamento de Caio
+
+**Confirmado pelo criador:** Esquivar é declarado antes de conhecer o resultado do teste de ataque; não usar a proposta de decisão após conhecer o total. Custos, requisito de treino e fórmula provisória preservados; Bloquear mantém sua janela própria. A interação da Defesa elevada com os graus de dano não recebeu aprovação nova neste pacote.
+
+**Aprovado especificamente para o personagem Caio Vale:** espada Pesada + Impacto e armadura leve com RD Cortante 2 / Perfurante 1 / Contundente 0, carga total 5/14. Isso não concede equipamento inicial universal.
+
+Fabricação, catálogo geral e aquisição inicial foram solicitados como propostas fundamentadas e simples; não promovê-los a regras aprovadas antes da decisão do criador.
+
 ## 2026-10-26 — Revisão vigente: PA no início do próprio turno
 
 **Aprovado para playtest pelo criador:** substituída a renovação ao fim da rodada pela renovação no início do próprio turno, sem acumular sobras. Preparar Ação permanece até o início do próximo turno do personagem, mesmo atravessando o fim de uma rodada; a proposta de encerrar preparação ao fim da rodada não foi adotada.

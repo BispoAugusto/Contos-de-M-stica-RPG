@@ -14,6 +14,8 @@
 
 **Esquivar:** exige treinamento na perícia Esquiva (nível 1 ou mais), não exige equipamento nem Preparar Ação. Pela referência anterior preservada, é reação de 1 PA, sem rolagem, soma o bônus da perícia à Defesa contra um ataque, limitado a 2 × Reflexo. Reflexo 0 limita o bônus a +0; treinamento continua obrigatório. Essa exigência trata da reação, não proíbe testes de resistência de Esquiva sem treino quando exigidos por um efeito.
 
+**Decisão de 2026-10-26:** declarar Esquivar e gastar seu PA **antes de conhecer o resultado do teste de ataque**. Não é permitido esperar o resultado para decidir. A proposta de declarar após conhecer o total foi rejeitada. Bloquear mantém sua janela própria após conhecer o dano.
+
 **Bloquear:** exige escudo ou meio especial que autorize bloqueio, sem Preparar Ação; não é universal. O antigo nome era Defender. Pela referência anterior do escudo básico, é reação de 1 PA com escudo, após conhecer o dano, aplica RD física 2. No máximo uma vez por ocorrência; pode reagir a outras se tiver PA e puder agir.
 
 Só uma ação defensiva por ocorrência: **Esquivar ou Bloquear**, nunca ambas, mesmo se Esquivar falhar em impedir o acerto. Aparar permanece removido. Armadura aplica RD passiva, sem PA nem cargas, e pode acompanhar a reação escolhida. O +1 constante do escudo continua ao Esquivar.

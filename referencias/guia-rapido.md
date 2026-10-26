@@ -33,7 +33,7 @@ Golpe Devastador aprendido com Pesada: até 3 PA adicionais, +2 dano cada. Armas
 
 ## Defesa e dano
 
-Esquivar exige treino em Esquiva, sem equipamento. Referência anterior sob revisão: 1 PA, soma bônus da perícia limitado a 2 × Reflexo à Defesa, sem rolar. Bloquear exige escudo/meio especial; referência anterior sob revisão: 1 PA, escudo básico RD física 2. Nenhuma das duas reações exige Preparar Ação. **Uma ação defensiva por ocorrência**, sem Esquiva + Bloquear.
+Esquivar exige treino em Esquiva, sem equipamento; declarar e pagar antes de conhecer o resultado do teste de ataque. Referência anterior sob revisão: 1 PA, soma bônus da perícia limitado a 2 × Reflexo à Defesa, sem rolar. Bloquear exige escudo/meio especial; referência anterior sob revisão: 1 PA, escudo básico RD física 2. Nenhuma das duas reações exige Preparar Ação. **Uma ação defensiva por ocorrência**, sem Esquiva + Bloquear.
 
 Armadura: RD passiva, sem PA nem cargas. Leve: 2/1/0 e peso 2 espaços; média: 3/2/1 e peso 4; pesada: 4/3/2 e peso 6. Distribuir os três valores entre Cortante/Perfurante/Contundente ao definir a armadura, sem troca em combate nem compra livre de pontos. Peso equipado conta integralmente; RD 0 não reduz. Pode acompanhar reação. Resistência obrigatória de um efeito é separada. A reação que aumenta Defesa não evita efeito automático.
 

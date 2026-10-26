@@ -15,7 +15,7 @@ Atributos são sugestões e podem mudar conforme a abordagem. Não somam ao test
 | Convicção | Vontade | Medo, coerção, compulsão e firmeza interior |
 | Esquiva | Reflexo | Evitar golpes e áreas; reação defensiva e testes exigidos por efeitos |
 
-A reação Esquivar exige treinamento em Esquiva (nível 1 ou mais), sem equipamento nem Preparar Ação. Pela fórmula anterior preservada provisoriamente até revisão, custa 1 PA, soma o bônus limitado à Defesa contra um ataque e **não rola dados**. Um efeito pode exigir um **teste de Esquiva** separado, com consequências descritas nele. A perícia não determina a Defesa passiva. Ver [combate](../combate/README.md).
+A reação Esquivar deve ser declarada antes de conhecer o resultado do teste de ataque. Exige treinamento em Esquiva (nível 1 ou mais), sem equipamento nem Preparar Ação. Pela fórmula anterior preservada provisoriamente até revisão, custa 1 PA, soma o bônus limitado à Defesa contra um ataque e **não rola dados**. Um efeito pode exigir um **teste de Esquiva** separado, com consequências descritas nele. A perícia não determina a Defesa passiva. Ver [combate](../combate/README.md).
 
 ## Gerais
 
