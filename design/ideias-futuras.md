@@ -40,3 +40,7 @@ Fórmula de carga 8 +3 × Potência, conversão para quilogramas e penalidades d
 ## 2026-10-26 — Fabricação, catálogo geral e equipamento inicial
 
 **Proposta solicitada pelo criador; ainda não aprovada.** [Documento completo](propostas/itens-e-fabricacao-2026-10-26.md): I1 kit +6 pontos de equipamento; I2 catálogo geral; I3 materiais e Etapas de Trabalho de 4h; I4 melhorias utilitárias, benefícios de Anões/Gnomos e reparos. Números, tempos, concessões e efeitos são propostas, não regras vigentes. A aprovação individual da espada/armadura de Caio não aprova esses blocos.
+
+## 2026-10-27 — Anotações do criador sobre combate, armaduras e armas
+
+[Registro integral das anotações](anotacoes/combate-armaduras-e-armas-2026-10-27.md). Salvo a pedido do criador como material de revisão: economia de PA, apoio/interferência, vantagens, defesas, variações de armadura, Analisar/Aberturas, propriedades/maestria de armas e proteção de NPCs versus jogadores. Dúvidas, propostas e divergências foram preservadas; nenhuma regra vigente foi alterada por este registro. As propostas de fabricação e equipamento inicial continuam aguardando avaliação.
