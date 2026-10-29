@@ -1,5 +1,8 @@
 # Criar um personagem
 
+> **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../regras/revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
+
+
 [Índice de regras](../regras/README.md) · [Guia rápido de mesa](guia-rapido.md) · [Glossário](glossario.md)
 
 Este guia acompanha o preenchimento da ficha com as decisões disponíveis. Ao terminar, você terá origem, espécie, atributos, Alma, proficiências e valores básicos calculados.

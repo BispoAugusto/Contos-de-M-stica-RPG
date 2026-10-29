@@ -1,5 +1,16 @@
 # Pendências — estado de 2026-10-25
 
+## Atualização vigente — 2026-10-29
+
+A [revisão de playtest](../regras/revisao-playtest-2026-10-29.md) resolve ou substitui itens antigos abaixo. As listas datadas anteriores ficam como histórico, não como estado atual desses itens.
+
+**Resolvido:** Vigor substitui Esquiva; janelas de reação/graus; escudo sem treino; penalidades de armadura e sobrecarga; aquisição de proficiência de armadura apenas por habilidades; seleção inicial; Leve com uma arma; proibição de duas Pesadas; recarga dupla; queda Contundente; movimento mínimo Curto; cobertura/visibilidade com ônus; escala de DT; opostos; procedimento de Analisar; Aberturas de jogadores sem padrão universal; reserva coletiva de Medo; Resistir/Cair e origem das Sequelas.
+
+**Ainda aberto:** controle/condições/Desprevenido; simultaneidade e duração de apoio/interrupções; catálogo geral/munição/mochila; artesanato; tabela/frequência de Sequelas; detalhes médicos e retorno com PV não positivos; Forçar/naturais em Resistir e Última Ação; detalhes de Linguagens; dano misto/RD; benefício de Leve em combinação mista; complementos de famílias/tipos do catálogo; arremesso com Devastador; revisão de espécies; NPCs/encontros; habilidades/magia/catalisadores por último. Ver distinções de aprovação no suplemento.
+
+**Documentação:** harmonizar texto integral, guias, fichas e exemplos antigos; avisos de precedência foram adicionados, sem alegar migração integral concluída.
+
+
 ## Decisões de 2026-10-26
 
 - [x] D1: ataques comuns sem atributo/teto, direcionados com Foco; corrigir aplicações divergentes sem modificar custos/dano base.

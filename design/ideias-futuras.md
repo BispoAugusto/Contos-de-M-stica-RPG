@@ -1,5 +1,12 @@
 # Ideias futuras — não aprovadas como regras
 
+## Revisão de status — 2026-10-29
+
+Consultar a [revisão aprovada](../regras/revisao-playtest-2026-10-29.md) antes das propostas antigas. Equipamento inicial sem PEq, penalidades de armadura e diversos procedimentos foram aprovados posteriormente. Não tratar esses itens como ainda inteiramente propostos.
+
+Continuam propostas não aprovadas: mochila peso 0/limite de uma; lista geral de itens e seus números; tabela específica de Sequelas; ambas Leves como requisito do benefício de repetição em combinação mista; complementos de famílias/tipos explicitamente marcados; detalhes de Arremessável; fabricação I3/I4. Última Ação não recebeu aprovação dos detalhes sugeridos. Não promover sugestões silenciosamente.
+
+
 Ideias não concedem benefícios na ficha. Regras atuais estão em [estado](../ESTADO-DO-PROJETO.md); decisões a fechar em [pendências](pendencias.md).
 
 ## Habilidades, progressão e magia

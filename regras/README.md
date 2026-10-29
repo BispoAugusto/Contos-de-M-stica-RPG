@@ -1,5 +1,12 @@
 # Regras — índice por assunto
 
+## 2026-10-29 — Consolidação das decisões de playtest
+
+**Aprovado pelo criador na conversa de 27–29/10:** [revisão completa](revisao-playtest-2026-10-29.md). Ela prevalece sobre os trechos anteriores conflitantes. Inclui Vigor no lugar de Esquiva, reações antes do resultado, Leve e catálogo de armas, armaduras/proficiência/sobrecarga, equipamento inicial, Resistir/Cair/Sequelas, movimento/ambiente, DTs, Medo PVE e Analisar/Aberturas.
+
+Registro em suplemento normativo com avisos nos capítulos afetados; reescrita integral de capítulos, exemplos e fichas ainda pendente. Propostas e lacunas estão identificadas no próprio suplemento; nenhuma sessão foi realizada. Próximo assunto: controle, condições e interrupções. Habilidades/magia ficam para o final.
+
+
 [Início](../README.md) · [Criar personagem](../referencias/criacao-de-personagem.md) · [Guia rápido de mesa](../referencias/guia-rapido.md)
 
 Escolha uma categoria ou procure a situação na tabela abaixo. Cada capítulo contém a regra completa e seus status de aprovação.

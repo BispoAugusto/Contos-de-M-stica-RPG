@@ -1,5 +1,8 @@
 # Defesas, reações e efeitos de área
 
+> **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
+
+
 **Atualização de 2026-10-25:** requisitos de Esquivar/Bloquear aprovados; cálculos exatos e interação com Defesa permanecem pendentes de revisão. As fórmulas anteriores abaixo são preservadas como referência provisória, sem apagar Defesa 10 + Reflexo.
 
 [Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)

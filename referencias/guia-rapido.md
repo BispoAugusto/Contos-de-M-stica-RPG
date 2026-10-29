@@ -1,5 +1,8 @@
 # Guia rápido de mesa — 2026-10-25
 
+> **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../regras/revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
+
+
 ## Testes
 
 **1d20 + proficiência + modificadores; nunca somar atributo.** Sob pressão: bônus de proficiência até 2 × atributo. Dificuldade sozinha não é pressão. Atributo depende da abordagem.

@@ -1,5 +1,12 @@
 # Histórico
 
+## 2026-10-29 — Consolidação das decisões de playtest
+
+**Aprovado pelo criador na conversa de 27–29/10:** [revisão completa](regras/revisao-playtest-2026-10-29.md). Ela prevalece sobre os trechos anteriores conflitantes. Inclui Vigor no lugar de Esquiva, reações antes do resultado, Leve e catálogo de armas, armaduras/proficiência/sobrecarga, equipamento inicial, Resistir/Cair/Sequelas, movimento/ambiente, DTs, Medo PVE e Analisar/Aberturas.
+
+Registro em suplemento normativo com avisos nos capítulos afetados; reescrita integral de capítulos, exemplos e fichas ainda pendente. Propostas e lacunas estão identificadas no próprio suplemento; nenhuma sessão foi realizada. Próximo assunto: controle, condições e interrupções. Habilidades/magia ficam para o final.
+
+
 ## 2026-10-26 — Esquivar antes do resultado e equipamento de Caio
 
 **Confirmado pelo criador:** Esquivar é declarado antes de conhecer o resultado do teste de ataque; não usar a proposta de decisão após conhecer o total. Custos, requisito de treino e fórmula provisória preservados; Bloquear mantém sua janela própria. A interação da Defesa elevada com os graus de dano não recebeu aprovação nova neste pacote.
