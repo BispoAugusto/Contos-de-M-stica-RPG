@@ -1,5 +1,8 @@
 # Revisão de playtest — decisões de 27 a 29/10/2026
 
+> **Alteração posterior — 01/11/2026:** [iniciativa](combate/turnos-e-iniciativa.md) passa a tratar simultaneidade narrativa, escolha de inimigos e continuação do último participante com PA dobrados; [Analisar](combate/aberturas.md) inclui observar a preparação aparente mais uma pergunta com teste. Essas alterações prevalecem nos pontos correspondentes deste registro de 29/10.
+
+
 **Status: decisões confirmadas pelo criador, com aplicação provisória para playtest.** Este documento registra a conversa até a aprovação de Analisar e Aberturas em 29/10. Nos assuntos expressamente alterados, prevalece sobre capítulos, exemplos e registros anteriores. O restante das regras permanece. Nenhuma sessão ou validação de equilíbrio é alegada.
 
 Esta é uma consolidação em suplemento: os capítulos anteriores recebem aviso de precedência, mas sua reescrita integral e a atualização de todas as fichas/exemplos ainda não foram realizadas. Não usar trechos antigos conflitantes como alternativas vigentes.

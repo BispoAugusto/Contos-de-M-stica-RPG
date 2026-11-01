@@ -1,5 +1,13 @@
 # Guia rápido de mesa — 2026-10-25
 
+## Atualização — 01/11/2026
+
+- Rodada simultânea na ficção; passar a iniciativa escolhe foco, podendo escolher aliado ou inimigo ainda sem agir.
+- Último participante pode escolher a si mesmo e dobrar PA do turno. Não são dois turnos completos nem gatilho automático de próximo turno; detalhes de contabilidade entre rodadas continuam pendentes.
+- Analisar (1 PA) observa sinais da ação/preparação do alvo sem passar-lhe iniciativa e inclui uma pergunta com teste apropriado. DT = Defesa base, salvo proteção do NPC; informações evidentes não exigem teste.
+- Consultar [iniciativa](../regras/combate/turnos-e-iniciativa.md) e [Analisar](../regras/combate/aberturas.md) para a regra vigente.
+
+
 > **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../regras/revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
 
 

@@ -1,5 +1,14 @@
 # Decisões registradas
 
+## 2026-11-01 — Iniciativa simultânea, continuação com PA dobrados e Analisar
+
+**Confirmado pelo criador para playtest.** Rodada representa simultaneidade na ficção; turnos escolhem foco narrativo. Pode passar iniciativa a aliado ou inimigo ainda sem agir. O último participante pode escolher a si mesmo, dobrando os PA de seu turno, tanto jogador quanto NPC, sem transformar isso em dois turnos completos nem antecipar automaticamente efeitos de próximo turno.
+
+Analisar permite observar o que o inimigo parece preparar sem lhe passar o turno; além dos sinais perceptíveis, inclui uma pergunta e teste apropriado (resistências, magia em preparação, Aberturas etc.), mantendo custo e resultados aprovados.
+
+Regras: [iniciativa](../regras/combate/turnos-e-iniciativa.md) e [Analisar](../regras/combate/aberturas.md). Contabilidade entre rodadas, momento da declaração e interações de recursos/limites permanecem identificados como pendentes; não foram inventadas regras de feitiço estendido. Nenhum playtest executado nesta alteração.
+
+
 ## 2026-10-29 — Consolidação das decisões de playtest
 
 **Aprovado pelo criador na conversa de 27–29/10:** [revisão completa](../regras/revisao-playtest-2026-10-29.md). Ela prevalece sobre os trechos anteriores conflitantes. Inclui Vigor no lugar de Esquiva, reações antes do resultado, Leve e catálogo de armas, armaduras/proficiência/sobrecarga, equipamento inicial, Resistir/Cair/Sequelas, movimento/ambiente, DTs, Medo PVE e Analisar/Aberturas.

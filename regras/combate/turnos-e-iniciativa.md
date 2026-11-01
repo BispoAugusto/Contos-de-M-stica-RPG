@@ -1,5 +1,8 @@
 # Turnos, PA e iniciativa
 
+> **Atualização de 01/11/2026:** as seções de iniciativa abaixo incorporam as novas decisões e prevalecem sobre a revisão de 29/10 nos pontos alterados.
+
+
 > **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
 
 
@@ -19,22 +22,38 @@ Depois disso, gastar 3 PA no turno deixa 1 para reagir até o próximo turno, me
 
 No início do próximo turno de um personagem Atordoado, renovar o orçamento normal e aplicar o desconto de até 2 PA, mínimo 0. A proibição de reagir termina nesse início. Com orçamento 4, age com 2; com NE 4, renova a 3 e fica com 1. Não há uma segunda renovação após o desconto.
 
-A rodada compreende os turnos de todos os participantes. A mudança do momento de renovação não concede turnos extras nem altera a contagem de repetição de ataques no próprio turno.
+A rodada compreende a participação dos combatentes. A renovação normal não concede turnos extras. A escolha especial do último participante, descrita abaixo, permite continuar com PA dobrados no turno; não reinicia automaticamente a repetição de ataques.
 
 | Ação básica | Custo |
 |---|---|
 | Movimento Médio | 1 PA |
 | Ataque básico | 1 PA |
-| Esquivar, com treino em Esquiva | 1 PA, referência anterior sob revisão |
+| Esquivar, com treino em Vigor | 1 PA, referência anterior sob revisão |
 | Interação simples | 1 PA |
 
 ## Iniciativa dinâmica
 
 Iniciador evidente pode agir primeiro pela ficção; a comparação de Reflexo resolve a maioria das disputas. Não há perícia fixa. Se precisar rolar, use Reflexo e uma proficiência adequada à primeira ação pretendida, com teto sob pressão e sem somar Reflexo. Desempates seguem [testes](../fundamentos/testes.md).
 
-Ator escolhe o próximo aliado que ainda não agiu; quando seu lado termina, o outro age. Todos têm um turno por rodada. Quem sofreu dano antes de agir pode reivindicar o próximo turno; Inspiração/Medo também permitem interrupções, com no máximo 1 Medo por rodada e última declaração prevalecendo. O procedimento completo de interrupções permanece pendente.
+O ator escolhe o próximo participante que ainda não agiu, aliado ou inimigo. Quem sofreu dano antes de agir pode reivindicar o próximo turno; Inspiração/Medo também permitem interrupções. Medo é reserva coletiva do encontro PVE de 1 ponto por jogador por combate, com gasto máximo de 1 por rodada. O procedimento completo de interrupções simultâneas permanece pendente. A exceção do último participante está descrita a seguir.
 
 Movimento, Equilíbrio e condições preservam seus capítulos. [Quedas](../exploracao/quedas.md) têm exceções expressas de defesa; não são ataques.
+
+## Rodada simultânea e foco narrativo — 2026-11-01
+
+**Confirmado pelo criador para playtest.** A rodada representa acontecimentos simultâneos na ficção. A ordem dos turnos escolhe o foco da narração e da resolução; quem ainda não recebeu o foco não está necessariamente parado esperando.
+
+Quem passa a iniciativa pode escolher outro participante que ainda não agiu, inclusive um inimigo, e não apenas um aliado. Passar ao feiticeiro inimigo, por exemplo, permite resolver e ver o que ele está fazendo naquela rodada; isso não concede antecipadamente toda informação secreta sobre sua magia. Analisar permite observar o que ele parece estar fazendo sem entregar-lhe o turno.
+
+### Último participante escolhendo a si mesmo
+
+O último a agir na rodada pode escolher a si mesmo para continuar agindo. Jogadores e inimigos podem fazer isso. Nesse caso, **dobra a quantidade de PA do turno**: orçamento normal 4 passa a 8; NPC usa seu próprio orçamento como referência. Isso não concede dois turnos completos independentes nem autoriza duplicar todos os gatilhos de turno.
+
+Uma ação que só pode terminar ou ser conjurada no **próximo turno** não fica pronta apenas por essa continuação com mais PA. Por isso, passar a outra pessoa pode ser preferível quando há uma preparação que precisa desse intervalo. Ações poderosas de NPCs podem exigir preparação e dar oportunidade de resposta aos jogadores.
+
+Um feitiço estendido poderá aproveitar mais PA ou concentração de ações se sua futura habilidade permitir; esta regra não cria custo, dano, duração nem escalonamento universal de magia.
+
+**Pontos operacionais ainda a fechar:** marcação do turno na rodada seguinte ao escolher a si mesmo; possibilidade/limite de repetir essa escolha em transições sucessivas; momento da declaração e contabilização de PA já gastos; interação da duplicação com Atordoado, manutenção e limites por rodada. Registrar essas lacunas sem converter o texto em renovação adicional automática ou em uma segunda ativação de efeitos de início/fim de turno.
 
 ## Preparação e apoio
 

@@ -1,5 +1,8 @@
 # Abertura e Analisar
 
+> **Atualização de 01/11/2026:** Analisar observa a ação aparente do inimigo e inclui uma pergunta com teste apropriado, sem passar a iniciativa. As seções atualizadas abaixo prevalecem sobre referências anteriores.
+
+
 > **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
 
 
@@ -15,13 +18,26 @@ Aberturas evidentes podem ser reconhecidas sem teste, conforme a situação. Des
 
 ## Analisar
 
-**Mecânica em desenvolvimento.** Ação universal para descobrir fraquezas, vulnerabilidades e informações táticas. Observação, conhecimentos profissionais e outros métodos podem justificar atributo e proficiência; o mestre escolhe conforme abordagem e regras de [testes](../fundamentos/testes.md).
+**Procedimento aprovado em 29/10, ampliado em 01/11/2026.** Em combate, custa **1 PA** e permite observar o alvo sem passar a iniciativa para ele.
 
-**Custo provisório para simulações: 1 PA.** DT, critérios de sucesso e resultados exatos continuam pendentes. Analisar não concede Exposto automaticamente, mesmo em pleno ou crítico.
+Ao olhar para o inimigo, o mestre descreve o que ele **parece estar fazendo**, conforme sinais perceptíveis: preparando um feitiço, preparando uma ação poderosa ou mostrando intenção de realizar algo específico. Essa descrição não é leitura de pensamentos nem revelação automática de planos ocultos. Informações evidentes dispensam teste para serem reconhecidas.
+
+Além dessa descrição, o jogador faz **uma pergunta de análise**: uma resistência, uma Abertura, uma propriedade da magia em preparação ou outra informação pertinente. Não cobra uma segunda ação pela pergunta. O jogador descreve sua abordagem; o mestre indica atributo e proficiência apropriados e resolve o teste. Observação e conhecimentos podem sustentar perguntas diferentes.
+
+- **DT:** Defesa base do alvo, salvo aumento especificado na proteção do NPC.
+- **Sucesso:** informação verdadeira e útil relacionada à pergunta; premissa incorreta recebe correção útil.
+- **Pleno:** detalhe adicional relevante, como um modo de aproveitar a descoberta.
+- **Falha:** não obtém conclusão útil para a pergunta; não recebe mentira automaticamente. Isso não apaga os sinais evidentes já descritos.
+- **Repetição:** exige nova pista, mudança relevante ou abordagem realmente diferente.
+- **Persistência:** descoberta permanece conhecida; mudar de posição pode impedir seu aproveitamento sem apagar conhecimento.
+
+Exemplo: o mestre descreve o feiticeiro traçando um círculo incandescente. O jogador pergunta se a magia parece envolver fogo e faz o teste apropriado. A informação resultante ajuda a decidir se enfrenta, interrompe ou evita a preparação. Analisar não executa a ação do inimigo nem passa o foco de iniciativa para ele.
+
+Analisar não concede Exposto automaticamente, mesmo em pleno ou crítico.
 
 ## Ataque direcionado
 
-Contra uma Abertura parcial conhecida e acessível, o jogador direciona o ataque usando a referência experimental existente: **Foco sob pressão**, teto de proficiência 2 × Foco, família da arma e custo normal preservados. Dificuldade/penalidades específicas continuam pendentes; a redução abaixo depende de acertar o ataque direcionado.
+Contra uma Abertura parcial conhecida e acessível, o jogador direciona o ataque usando a referência experimental existente: **Foco sob pressão**, teto de proficiência 2 × Foco, família da arma e custo normal preservados. A dificuldade é a Defesa base do alvo, podendo ser elevada por Esquivar; a redução abaixo depende de acertar o ataque direcionado.
 
 A RD efetiva aplicável ao ataque passa a contar pela **metade, arredondada para cima**, exceto **RD 1, que é negada completamente**. RD 0 continua 0. A redução vale apenas para aquele ataque; não danifica permanentemente a proteção. Pesado, brutal e crítico não transformam Abertura parcial em total; seus demais efeitos normais de dano permanecem.
 
@@ -49,7 +65,7 @@ A fonte deve descrever como aplica Exposto, sua duração e como termina. Não h
 
 Usar apenas proteções compatíveis e combinações permitidas em [tipos de dano](tipos-de-dano.md). Para dano de um único tipo, calcular a RD efetiva válida e depois sua metade, não arredondar cada fonte separadamente. RD concedida por reação integra esse cálculo se usada. Exposto ignora toda RD contra o ataque, independentemente da fonte.
 
-Para dano misto com RD específica e geral, ainda falta detalhar a ordem operacional da metade sem duplicar RD geral; registrar a arbitragem antes de simular esse caso. Condições de acesso, dificuldades de ataque direcionado, duração/saída por fonte de Exposto e interação de sua aplicação com Equilíbrio também precisam de especificação nos efeitos.
+Para dano misto com RD específica e geral, ainda falta detalhar a ordem operacional da metade sem duplicar RD geral; registrar a arbitragem antes de simular esse caso. Condições de acesso, duração/saída por fonte de Exposto e interação de sua aplicação com Equilíbrio também precisam de especificação nos efeitos.
 
 ## Desenvolvimento futuro
 

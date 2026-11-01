@@ -1,5 +1,14 @@
 # Pendências — estado de 2026-10-25
 
+## 2026-11-01 — Operação da nova iniciativa
+
+Aprovados: rodada simultânea na ficção; passagem a aliado ou inimigo; último participante pode escolher a si mesmo com PA dobrados no turno; isso não antecipa automaticamente efeitos de próximo turno. Analisar revela sinais perceptíveis da ação em preparação e permite a pergunta com teste, sem passar iniciativa.
+
+Ainda definir: marcação da participação na rodada seguinte; limite de repetição da autoescolha entre rodadas; momento de declarar e cálculo considerando PA gastos; duplicação com Atordoado/manutenção; limites por rodada e interrupções durante a continuação. Não presumir uma segunda renovação ou dois gatilhos de turno. Magias estendidas terão parâmetros próprios nas habilidades.
+
+Ver [iniciativa](../regras/combate/turnos-e-iniciativa.md) e [Analisar](../regras/combate/aberturas.md).
+
+
 ## Atualização vigente — 2026-10-29
 
 A [revisão de playtest](../regras/revisao-playtest-2026-10-29.md) resolve ou substitui itens antigos abaixo. As listas datadas anteriores ficam como histórico, não como estado atual desses itens.
