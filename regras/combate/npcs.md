@@ -13,7 +13,7 @@
 | Perícias importantes | Listar apenas as que possuem nível; anotar nível e bônus para consulta |
 | Vida | PV atuais/máximos, definidos para o NPC |
 | Defesa base | Valor pronto para uso |
-| Defesa com Esquiva | Valor pronto, custo e requisitos; indicar indisponível se não possuir essa reação |
+| Teste de Esquivar | Vigor, referência de Reflexo e modificadores por proteção; 1 PA, superar o ataque |
 | Reduções de dano | Perfil completo e parcial por tipo; indicar origem e condições das proteções |
 | Equilíbrio | Valor atual/máximo e efeitos, somente se fizer sentido para esse NPC |
 | PA | Orçamento renovado no início do próprio turno e configuração do encontro |
@@ -37,6 +37,9 @@ NPCs podem ter ataques únicos definidos diretamente na ficha, sem depender de i
 Não presumir que um ataque de custo maior concede vários acertos ou ignora repetição. Indicar essas exceções no texto da ação quando forem definidas. Curva de ameaça, orçamento por número de jogadores, renovação especial de PA e balanceamento dos custos continuam para desenvolvimento.
 
 ## RDs completas e parciais
+
+**Atualização 04/11/2026:** registrar RD por fonte e limiar Pesado/Brutal da abertura acessível. O limiar ignora a fonte inteira. A antiga coluna parcial pela metade abaixo é histórica, substituída por [Aberturas](aberturas.md).
+
 
 Anotar a RD efetiva completa e a restante quando um ataque explora Abertura parcial: 0→0, 1→0, 2→1, 3→2, 4→2; valores maiores usam metade para cima. **RD parcial é o valor que ainda protege**, não a quantidade ignorada. Enquanto Exposto, toda RD contra ataques é ignorada, sem direcionamento.
 

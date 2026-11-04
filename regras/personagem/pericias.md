@@ -5,7 +5,7 @@
 
 [Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
 
-**Lista aprovada para playtest — atualizada em 2026-10-19.** São **28 perícias nomeadas**: quatro resistências, dezesseis gerais e oito conhecimentos, além das profissionais personalizadas.
+**Lista aprovada para playtest — atualizada em 2026-10-19.** São **27 perícias nomeadas**: três resistências, dezesseis gerais e oito conhecimentos, além das profissionais personalizadas.
 
 Atributos são sugestões e podem mudar conforme a abordagem. Não somam ao teste: **1d20 + proficiência + modificadores**, com teto de **2 × atributo** para a proficiência sob pressão. Ver [testes](../fundamentos/testes.md) e [compra de níveis](proficiencias.md).
 
@@ -13,7 +13,7 @@ Atributos são sugestões e podem mudar conforme a abordagem. Não somam ao test
 
 | Perícia | Atributo sugerido | Aplicação |
 |---|---|---|
-| Vigor | Resiliência | Veneno, doença, fadiga, ambiente e dor física; não é teste contra a morte |
+| Vigor | Resiliência | Veneno, doença, fadiga, ambiente, dor física e resistências antes chamadas Esquiva; com Reflexo, reação Esquivar |
 | Lucidez | Raciocínio | Ilusões, confusão e distorções da percepção/compreensão |
 | Convicção | Vontade | Medo, coerção, compulsão e firmeza interior |
 | Esquiva | Reflexo | Evitar golpes e áreas; reação defensiva e testes exigidos por efeitos |

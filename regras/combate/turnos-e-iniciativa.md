@@ -28,7 +28,7 @@ A rodada compreende a participação dos combatentes. A renovação normal não 
 |---|---|
 | Movimento Médio | 1 PA |
 | Ataque básico | 1 PA |
-| Esquivar, com treino em Vigor | 1 PA, referência anterior sob revisão |
+| Esquivar, Vigor com Reflexo maior que o ataque | 1 PA |
 | Interação simples | 1 PA |
 
 ## Iniciativa dinâmica

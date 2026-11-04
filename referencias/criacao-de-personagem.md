@@ -1,5 +1,7 @@
 # Criar um personagem
 
+> **Atualização 04/11/2026:** leve RD física 1, média 3, pesada 5. Médias/pesadas dão Desvantagem com Reflexo. Defesa 8 + bônus de Vigor. Esquivar custa 1 PA, rola Vigor com Reflexo e exige superar o ataque; sem proteção tem Vantagem. [Defesas](../regras/combate/defesas.md) e [tipos físicos](../regras/combate/tipos-de-dano.md) prevalecem nos exemplos ainda em conversão.
+
 > **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../regras/revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
 
 
@@ -186,7 +188,7 @@ Use os valores já calculados:
 | Campo | Fórmula |
 |---|---|
 | PV máximos | **6 + 2 × máximo de Corpo + bônus explícitos** |
-| Defesa passiva | **10 + Reflexo** |
+| Defesa passiva | **8 + bônus de Vigor** |
 | Defesa com escudo empunhado | Defesa passiva +1 |
 | Capacidade de inventário | **Base do porte + 2 × Potência** |
 
@@ -197,7 +199,7 @@ Use os valores já calculados:
 | Médio | 10 |
 | Grande | 20 |
 
-Anões têm **+3 PV provisórios**. A perícia Esquiva não se soma permanentemente à Defesa: seu bônus é usado na reação Esquivar, que exige treinamento, com custo de PA e limite. O cálculo anterior está preservado provisoriamente até revisão.
+Anões têm **+3 PV provisórios**. Vigor compõe a Defesa pelo bônus. Esquivar custa 1 PA e rola Vigor com Reflexo para superar o ataque.
 
 Armaduras reduzem dano passivamente, sem cargas; não concedem bônus de Defesa. Equipamentos usados e vestidos também ocupam inventário. O peso é medido em espaços, não quilogramas.
 
@@ -266,7 +268,7 @@ Homens Altos recebem +1 em cada Parte.
 | Mente máxima | Arredondar 4 ÷ 3 para cima, depois +1 | **3** |
 | Espírito máximo | Arredondar 4 ÷ 3 para cima, depois +1 | **3** |
 | PV máximos | 6 +2 ×4 | **14** |
-| Defesa passiva | 10 +2 | **12** |
+| Defesa passiva | 8 +2 de Vigor | **10** |
 | Capacidade | Médio 10 +2 ×3 | **16 espaços** |
 
 ### Sete pontos de proficiência
@@ -281,10 +283,10 @@ Homens Altos recebem +1 em cada Parte.
 | Dracônico 2 | 1 | Fluente; +2 quando precisar testar |
 | **Total** | **7** | Comum fluente é gratuito e fica fora da compra |
 
-O ataque comum com Espadas usa +4 sem teto de atributo. Se direcionado, Foco 1 limita a proficiência a +2 sob pressão. Ataques não podem ser forçados. Com Reflexo 2, a reação Esquiva permite seu bônus +2, elevando a Defesa de 12 para 14 contra um ataque por 1 PA. Sem escudo escolhido/empunhado, não acrescenta +1.
+Espadas usa +4 no ataque comum. Vigor 1 dá +2 e Defesa 10. Esquivar usa Vigor com Reflexo por 1 PA e exige superar o ataque. O ponto anteriormente registrado em Esquiva neste exemplo precisa de realocação, pois essa perícia foi removida em 29/10.
 
 A ficha tem atributos, reservas e proficiências definidos. Espadas 2 não significa que recebeu uma espada: o equipamento inicial continua pendente.
 
 ## Atualização de combate — 2026-10-25
 
-Armaduras convencionais não têm cargas. Escolha leve (RD 2/1/0, peso 2 espaços), média (3/2/1, 4 espaços) ou pesada (4/3/2, 6 espaços); atribua um valor a Cortante, Perfurante e Contundente, sem redistribuir pontos. Registre a escolha ao definir a armadura, sem trocar durante combate. Peso equipado conta integralmente. Penalidades médias/pesadas continuam pendentes. Esquivar exige treino, Bloquear exige escudo/meio especial; a Defesa existente e os cálculos anteriores das reações são referência provisória sob revisão. Ver [ações táticas](../regras/combate/acoes-taticas.md), [Abertura](../regras/combate/aberturas.md) e [fichas preparadas](../planejamento/fichas-combate-2026-10-25.md).
+Armaduras têm RD física leve 1, média 3 e pesada 5, pesos 2/4/6. Médias/pesadas dão Desvantagem com Reflexo. Confira [armaduras](../regras/equipamentos/armaduras-e-escudos.md).

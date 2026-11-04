@@ -1,68 +1,49 @@
 # Armaduras e escudos
 
-> **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
-
-
-[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
-
-**RD passiva aprovada em 2026-10-25. Valores de equipamentos provisórios para playtest.** A mudança substitui cargas de armaduras convencionais; não altera automaticamente os usos de traços especiais como Escamas.
+**Confirmado pelo criador — 2026-11-04.**
 
 ## Armaduras
 
-Armaduras aplicam **RD passiva e constante**, sem PA, ativação ou cargas. Dano mínimo 0: proteção pesada pode anular ataques de baixo dano. RD não aumenta a dificuldade de acertar; armaduras não dão Defesa adicional.
-
-**Modelos aprovados para playtest — 2026-10-25.** Um modelo por categoria:
-
-| Categoria | Acesso mínimo | Três valores de RD para distribuir | Peso em espaços |
+| Armadura | RD física | Peso em espaços | Testes com Reflexo |
 |---|---|---|---|
-| Leve | 0 | 2, 1, 0 | 2 |
-| Média | 1 | 3, 2, 1 | 4 |
-| Pesada | 2 | 4, 3, 2 | 6 |
+| Leve | 1 | 2 | Normal |
+| Média | 3 | 4 | 1 Desvantagem |
+| Pesada | 5 | 6 | 1 Desvantagem |
 
-O jogador atribui **um valor a cada tipo: Cortante, Perfurante e Contundente**, usando os três valores uma vez cada. Escolhe a distribuição ao definir a armadura e a registra na ficha; não pode trocar durante o combate. É uma permutação dos valores fixos, **não compra ou redistribuição livre de pontos**.
+RD física cobre igualmente Cortante, Perfurante e Contundente. É passiva, sem PA nem cargas, com dano mínimo 0. Substitui a distribuição de valores por tipo. Qualquer personagem pode escolher a categoria, conforme revisão de 29/10. Proficiência em armaduras vem de habilidades, sem compra de acesso por PP. A Desvantagem com Reflexo desta revisão vale para médias/pesadas; outras interações de proficiência com essa penalidade dependem de descrição expressa. Os pesos permanecem 2/4/6; equipamento vestido ocupa espaços integralmente.
 
-Exemplo: uma pesada pode ter Cortante 4 / Perfurante 2 / Contundente 3, ou qualquer outra permutação de 4, 3 e 2. A RD de cada tipo fica entre 0 e 4; RD 0 significa nenhuma redução, não dano adicional. Os modelos básicos não concedem RD contra os demais tipos, como Fogo. Não usar RD única para todos os físicos nem somar os três valores contra um golpe.
-
-**Peso é medido em espaços, não quilogramas.** Armaduras equipadas ocupam integralmente 2/4/6 espaços. Quatro não é um limite: armaduras e outros itens especialmente pesados podem ultrapassá-lo. Capacidade permanece base do porte +2 × Potência; ver [inventário](porte-e-inventario.md). Nenhuma conversão automática por porte foi criada.
-
-Esta tabela substitui os modelos anteriores Couro/Malha/Placas com RD física uniforme 2/3/4 e a alternativa uniforme 1/2/3. Materiais e aparência podem descrever a armadura, mas não criam outros perfis mecânicos neste playtest.
-
-**Penalidades de armaduras médias/pesadas permanecem pendentes**: não acrescentar penalidades de Reflexo/movimento, requisitos ou Desvantagens. Acesso continua sendo permissão de uso, não bônus de teste.
-
-Não existe mais reposição de cargas de armadura no descanso. Desgaste, reparos e manutenção futura não recebem novos custos neste pacote.
+A Desvantagem vale em qualquer teste cujo atributo efetivamente usado seja Reflexo, inclusive Vigor para Esquivar. Vigor com Resiliência não recebe a penalidade só pela armadura. Sem nenhum tipo de proteção, há 1 Vantagem especificamente na reação Esquivar. Leve não concede essa Vantagem. Médias/pesadas aplicam uma única Desvantagem de armadura, sujeita ao cancelamento normal.
 
 ## Escudo básico
 
-Uma mão, **+1 de Defesa constante** enquanto empunhado. A reação passa a ser chamada **Bloquear** (antes Defender). Como referência anterior preservada até revisão: **1 PA para RD física 2**, após conhecer o dano, uma vez por ocorrência; pode reagir a outras com PA e capacidade de agir. Não exige manobra aprendida nem Preparar Ação. Exige escudo ou meio especial explicitamente autorizado; não é defesa universal.
+Escudo empunhado com proficiência concede +1 de Defesa. **Defesa com escudo = 8 + bônus de Vigor +1.** O bônus do escudo não se soma ao teste de Esquivar.
 
-Os cálculos exatos de Esquivar/Bloquear e a interação com Defesa estão pendentes de revisão; manter os valores anteriores não equivale a nova aprovação definitiva. Proficiência em escudo é comprável; uso sem proficiência continua pendente.
+Bloquear preserva a referência provisória de 1 PA para RD física 2,  com escudo ou meio especial autorizado. Só uma reação defensiva por ocorrência, Esquivar ou Bloquear. Armadura passiva pode acompanhar a escolhida. Sem proficiência, o escudo não concede +1 de Defesa e sua RD é metade para cima, mínimo 1; o escudo básico dá RD física 1. Peso do escudo básico: 2 espaços. Declarar Bloquear antes de conhecer o resultado do ataque, conforme decisão de 29/10.
 
-Defesa com escudo: **10 + Reflexo +1**. O +1 permanece sem PA e ao Esquivar. Com duas mãos habituais, escudo não acompanha duas Leves nem arma usada com duas mãos; Versátil pode acompanhar no modo de uma mão.
+## Proteções especiais e aberturas
 
-## Escolha defensiva e resistência
+NPCs podem ter proteções próprias. Uma abertura acessível permite ignorar a RD da armadura em Pesado ou apenas em Brutal, conforme a ficha. A categoria de armadura do jogador não define automaticamente um limiar de abertura. Ver [Aberturas](../combate/aberturas.md).
 
-Só uma ação defensiva por ocorrência: **Esquivar ou Bloquear**, nunca ambas, mesmo se Esquivar não evitar o acerto. Esquivar exige treinamento em Esquiva e nenhum equipamento. Aparar permanece removido. Armadura passiva não é ação defensiva e pode somar à reação escolhida.
+Perfurante em Pesado/Brutal ignora RD compatível igual à metade da base para cima. Não garante dano mínimo 1. Ver [tipos de dano](../combate/tipos-de-dano.md).
 
-Testes obrigatórios de habilidades/áreas são separados da ação defensiva. Não usar aumento de Defesa contra acerto automático. Se restar dano, aplicar RD compatível; Bloquear depende de PA e permissão de reagir. RD passiva de armadura não depende de poder reagir. Ver [defesas](../combate/defesas.md).
-
-Proteção física não reduz Fogo. Bloquear com escudo básico contra dano exclusivamente de Fogo gasta 1 PA sem redução. Não inventar proteção elemental por analogia.
+Escamas dos Draconatos preservam RD geral 1, usos iguais ao máximo de Corpo e recuperação no longo. Escolher Escamas ou armadura convencional por ocorrência, nunca ambas. Resistência elemental e Bloquear compatível podem acompanhar a escolhida. Quedas preservam sua permissão específica de RD passiva, sem Esquivar/Bloquear.
 
 ## Combinações e exemplos
 
-Uma média com Cortante 3 / Perfurante 2 / Contundente 1 recebe **5 de um golpe cortante de 8**, sem custo. Bloquear com escudo básico soma RD física 2 por 1 PA: recebe 3. Uma pesada com Cortante 4 / Perfurante 3 / Contundente 2 recebe 0 de um golpe cortante de 3, mas recebe 1 se o mesmo dano for contundente.
+Anote categoria, RD física, peso e efeito em Reflexo. Média: RD física 3, peso 4 espaços, Desvantagem com Reflexo.
 
-Duas adagas Leves com base combinada 2, pesado +1 e crítico +2 causam 5 perfurante: uma leve com Perfurante 2 / Cortante 1 / Contundente 0 reduz para 3; com Bloquear, para 1. Uma rolagem e uma instância; tipos diferentes não criam instâncias. RD por instância nos ataques que explicitamente possuam várias. Ver [tipos de dano](../combate/tipos-de-dano.md).
+Golpe cortante padrão de dano 4 contra média causa 1. Golpe perfurante pesado de arma base 4 causa 5 antes de RD; ignora 2 dos 3 de RD física e causa 4, sem outras proteções.
+
+**Pendente:** enquadramento de proteções especiais/intermitentes na expressão “sem nenhum tipo de proteção”. Escudo e proteção natural existente contam como proteção; precisar o tratamento de fontes condicionais em suas descrições.
+
+## Escolha defensiva e resistência
+
+Escolha uma reação por ocorrência. Consulte [Defesas](../combate/defesas.md).
 
 ## Proteções naturais e quedas
 
-Escamas dos Draconatos preservam **RD geral 1**, usos iguais ao máximo de Corpo e recuperação no longo. Escolher Escamas ou armadura convencional por ocorrência, nunca ambas. Pode combinar a escolhida com resistência elemental e Bloquear compatível. A atualização de armaduras não tornou Escamas ilimitadas.
-
-O antigo traço comprável Armadura Natural RD 2/dois usos é apenas [histórico](../../design/catalogo-origens-historico.md).
-
-[Quedas](../exploracao/quedas.md) mantêm a permissão de RD de armadura, agora passiva, sem Esquivar/Bloquear pela exceção específica.
+Escamas e quedas seguem as exceções descritas em Proteções especiais e aberturas acima.
 
 ## Registro e expansão
 
-Registrar categoria, acesso, RD de cada um dos três tipos e peso em espaços; não registrar cargas de armadura convencional. Exemplo: “Média, acesso 1, Cortante 3 / Perfurante 2 / Contundente 1, peso 4 espaços”. Escudo registra Defesa +1 e Bloquear 1 PA/RD física 2, como referência provisória sob revisão.
-
-[Abertura parcial](../combate/aberturas.md) reduz a RD efetiva do alvo à metade para cima contra o ataque direcionado (RD 1→0), sem melhoria por pesado/brutal/crítico. Enquanto [Exposto](../combate/condicoes.md#exposto), todo ataque ignora completamente RD, inclusive de escudo, Escamas e outras fontes, sem exigir direcionamento. Perfis adicionais além dos três modelos, penalidades, melhorias, novos escudos, preços e aquisição inicial continuam pendentes.
+Registre categoria, RD física, peso e Desvantagem com Reflexo. NPCs indicam a fonte e o limiar da abertura.

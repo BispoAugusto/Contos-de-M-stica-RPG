@@ -72,3 +72,7 @@ Nome anterior; consultar [Acúmulo e Equilíbrio](#acúmulo-e-equilíbrio).
 Defesa, necessidade de acertar e possibilidade de Esquivar permanecem. Bloquear não recupera RD ignorada; efeitos adicionais da reação continuam conforme seu texto. Exposto não significa acerto automático nem remove efeitos que não sejam RD, como imunidade ou teste obrigatório. Não estender a regra de ataques automaticamente a quedas/dano ambiental.
 
 Registrar fonte, gatilho, custo/teste quando houver, duração e condição de término. **Esses valores dependem da fonte; não foram definidos universalmente.** Conhecer uma Abertura parcial, tirar pleno/crítico, ficar Caído/Imobilizado ou chegar a Equilíbrio 0 não concede Exposto por si só. Restaurar Equilíbrio não remove condições automaticamente. A aplicação de Exposto em alvos com Equilíbrio deve ser explicitada pela fonte, sem presumir imunidade nem aplicação automática.
+
+## Sangramento — 2026-11-04
+
+Cortante em Pesado/Brutal aplica Sangramento; Vigor contra o total do ataque pode evitá-lo conforme proposta do criador. Dano, duração, acúmulo, remoção e necessidade de dano após RD estão pendentes. Ver [tipos de dano](tipos-de-dano.md).

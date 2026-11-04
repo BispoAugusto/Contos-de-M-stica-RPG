@@ -25,7 +25,7 @@
 - **ET:** unidade citada no benefício artesanal dos Gnomos; definição operacional pendente com fabricação.
 - **Toque/Curto/Médio/Longo/Muito Longo/Fora de Alcance:** faixas narrativas, sem conversão fixa em metros.
 
-- **Abertura parcial:** vulnerabilidade explorada por ataque direcionado; RD efetiva pela metade para cima, salvo 1→0.
+- **Abertura parcial:** falha acessível que permite ignorar a RD da fonte indicada em Pesado/Brutal, conforme a proteção; substitui a antiga metade de RD.
 - **Exposto / Abertura total:** condição em que todo ataque ignora completamente a RD do alvo, sem direcionamento; duração/saída pela fonte.
 - **NPC:** personagem não jogador; ficha simplificada de Corpo/Mente/Espírito, perícias treinadas, defesas, RD e ações próprias. PA e custos podem variar por encontro.
 - **Analisar:** ação universal de informação tática, 1 PA provisório; resolução pendente.

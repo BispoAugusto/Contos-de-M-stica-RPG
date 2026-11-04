@@ -49,10 +49,14 @@ A proficiência não altera o dano base. Golpes Desarmados comuns mantêm base 0
 
 ## Duas armas e manobras
 
-Duas Leves em mãos distintas: 1 PA, uma rolagem, base principal + metade da base secundária arredondada para cima. Usar a **menor proficiência**, mesmo 0, sem teto de atributo no ataque comum. Apenas o direcionado aplica o teto de Foco sob pressão. Bônus e RD uma vez, uma instância, um ataque. Pode atacar só com uma arma usando sua própria proficiência e a coluna comum de repetição.
+Duas Leves em mãos distintas: 1 PA, uma rolagem, base principal + metade da base secundária arredondada para cima. Usar a **menor proficiência**, mesmo 0, sem teto de atributo no ataque comum. Aberturas usam o ataque comum. Bônus e RD uma vez, uma instância, um ataque. Pode atacar só com uma arma usando sua própria proficiência e a coluna comum de repetição.
 
 Golpe Devastador é uma **manobra aprendida**, exige Pesada e não é característica automática da propriedade. Modifica um ataque: 1 PA do ataque + até 3 PA adicionais, +2 dano por adicional (máximo +6). Pode usar Pesada + Arremessável com Foco. Ver [manobras](manobras.md).
 
 ## Ataque direcionado — experimental
 
-[Abertura conhecida](aberturas.md#ataque-direcionado) permite direcionar usando Foco sob pressão, mantendo custo normal e demais regras aplicáveis. Se acertar uma Abertura parcial, a RD efetiva fica pela metade para cima, salvo RD 1→0; pesado/brutal/crítico não ampliam a penetração. Contra Exposto, todo ataque ignora completamente RD, sem exigir direcionamento. Dificuldade/penalidades do ataque direcionado continuam pendentes. Não assumir Potência/Reflexo nesse ataque experimental.
+**Substituído em 04/11/2026.** Abertura acessível permite ignorar a RD da proteção indicada em Pesado ou Brutal, conforme a ficha. Abaixo do limiar, acertos enfrentam RD normalmente. Ver [Aberturas](aberturas.md).
+
+## Propriedades físicas — 2026-11-04
+
+Pesado/Brutal ativa Cortante (Sangramento), Perfurante (ignora RD compatível igual à metade da base para cima) ou Contundente (empurra ou retira 1 Equilíbrio). Ver [tipos de dano](tipos-de-dano.md).

@@ -1,5 +1,7 @@
 # Revisão de playtest — decisões de 27 a 29/10/2026
 
+> **Atualização de 04/11/2026:** [armaduras](equipamentos/armaduras-e-escudos.md), [defesas](combate/defesas.md), [tipos físicos](combate/tipos-de-dano.md) e [aberturas](combate/aberturas.md) têm redação posterior. RD 1/3/5, Desvantagem com Reflexo em médias/pesadas, Defesa 8 + bônus de Vigor e Esquivar com rolagem substituem os trechos correspondentes deste registro. O catálogo de armas consolidado também prevalece sobre a lista anterior.
+
 > **Alteração posterior — 01/11/2026:** [iniciativa](combate/turnos-e-iniciativa.md) passa a tratar simultaneidade narrativa, escolha de inimigos e continuação do último participante com PA dobrados; [Analisar](combate/aberturas.md) inclui observar a preparação aparente mais uma pergunta com teste. Essas alterações prevalecem nos pontos correspondentes deste registro de 29/10.
 
 

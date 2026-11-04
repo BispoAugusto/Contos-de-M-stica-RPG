@@ -31,3 +31,7 @@ Nome anterior de Equilíbrio, mantido apenas para links antigos.
 ## Exposto e fichas de NPCs
 
 Equilíbrio é opcional nas [fichas simplificadas](npcs.md). Sua quebra não aplica [Exposto](condicoes.md#exposto) automaticamente; a fonte da exposição deve definir a interação. Restaurar Equilíbrio não remove condições automaticamente.
+
+## Contundente — 2026-11-04
+
+Pesado/Brutal contundente pode retirar 1 Equilíbrio, mínimo 0, ou empurrar. Limites do empurrão aguardam definição. Restauração e vulnerabilidade seguem este capítulo.

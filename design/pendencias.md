@@ -1,5 +1,15 @@
 # Pendências — estado de 2026-10-25
 
+## Armadura e defesa — 04/11/2026
+
+- [x] RD física 1/3/5, Defesa 8 + bônus de Vigor, Esquivar com Vigor/Reflexo por 1 PA.
+- [x] Propriedades físicas em Pesado/Brutal; abertura por grau da proteção.
+- [ ] Sangramento: dano, duração, remoção, acúmulo e necessidade de ferir após RD.
+- [ ] Empurrão: alcance, porte, escolha e resistências.
+- [ ] Compatibilidade de Esquivar com pressão/naturais; proteções intermitentes.
+- [ ] Penetração em ataques combinados/mistos; composição de fontes; aberturas dos PJs.
+
+
 ## Catálogo de armas — 2026-11-04
 
 - [x] Publicar os 20 modelos e regras acordadas no [capítulo principal](../regras/equipamentos/armas.md).

@@ -1,32 +1,38 @@
 # Defesas, reações e efeitos de área
 
-> **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
-
-
-**Atualização de 2026-10-25:** requisitos de Esquivar/Bloquear aprovados; cálculos exatos e interação com Defesa permanecem pendentes de revisão. As fórmulas anteriores abaixo são preservadas como referência provisória, sem apagar Defesa 10 + Reflexo.
-
-[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
-
-**Núcleo confirmado; valores de proteção para playtest.**
+**Confirmado pelo criador — 2026-11-04.**
 
 ## Defesa passiva
 
-**Defesa = 10 + Reflexo**, com +1 do escudo empunhado. A perícia Esquiva não aumenta a Defesa passiva.
+**Defesa = 8 + bônus de proficiência em Vigor.** Vigor nível 2 concede +4 e Defesa 12. Sem treino, Defesa 8. Escudo empunhado com proficiência acrescenta +1. Atributo, pressão e armadura não limitam o bônus usado nessa fórmula passiva.
+
+## Esquivar
+
+Declare a reação antes de conhecer o resultado do ataque, preservando a janela de decisão aprovada em 29/10. Ao receber um ataque, pode gastar **1 PA** para rolar **Vigor com Reflexo**. O total deve ser **estritamente maior que o total do ataque** para evitar o golpe. Empate não evita. Se falhar, resolva o ataque contra a Defesa passiva, preservando grau e RD aplicável.
+
+- Nenhum tipo de proteção: 1 Vantagem.
+- Armadura leve: normal.
+- Armadura média ou pesada: 1 Desvantagem.
+- Outros modificadores cancelam/acumulam conforme as regras gerais.
+
+Reflexo é a abordagem, não um bônus somado ao dado. O antigo requisito de treino em Esquiva e a reação sem rolagem foram substituídos. Pode usar Vigor 0 (+0). Não exige Preparar Ação.
+
+Ataque total 16, Vigor +4: dado selecionado 12 resulta em empate e não evita; 13 resulta em 17 e evita. Com média/pesada e sem outros modificadores, role 2d20 e selecione o menor.
+
+**Pendente de compatibilidade:** confirmar a incidência do teto sob pressão enquanto o modelo A está em playtest e o tratamento dos naturais 1/20 frente à comparação estrita. Até definição, a comparação estrita é a regra específica desta reação; registrar a arbitragem de pressão da sessão.
+
+## Bloquear e resistências
+
+Bloquear exige escudo ou meio especial autorizado. Referência provisória preservada: 1 PA, RD física 2 no escudo básico com proficiência, ou 1 sem proficiência. Declarar antes do resultado do ataque. Pode reagir a outras ocorrências com PA e capacidade de agir.
+
+Só uma reação defensiva por ocorrência: Esquivar ou Bloquear, mesmo se Esquivar falhar. Armadura passiva acompanha a reação. O +1 de Defesa do escudo não entra no teste de Vigor.
+
+Testes obrigatórios de poderes são separados da reação. Efeitos automáticos não passam a consultar Defesa. Áreas seguem os testes e consequências de sua fonte; Vigor substitui Esquiva nas resistências, conforme revisão de 29/10; use o atributo indicado pelo efeito.
+
+## Exposto e aberturas
+
+Exposto ignora toda RD contra ataques, inclusive Bloquear, sem remover Defesa ou impedir Esquivar. Abertura explorada em Pesado/Brutal ignora somente a proteção indicada. Ver [Aberturas](aberturas.md).
 
 ## Defesas e efeitos automáticos
 
-**Esquivar:** exige treinamento na perícia Esquiva (nível 1 ou mais), não exige equipamento nem Preparar Ação. Pela referência anterior preservada, é reação de 1 PA, sem rolagem, soma o bônus da perícia à Defesa contra um ataque, limitado a 2 × Reflexo. Reflexo 0 limita o bônus a +0; treinamento continua obrigatório. Essa exigência trata da reação, não proíbe testes de resistência de Esquiva sem treino quando exigidos por um efeito.
-
-**Decisão de 2026-10-26:** declarar Esquivar e gastar seu PA **antes de conhecer o resultado do teste de ataque**. Não é permitido esperar o resultado para decidir. A proposta de declarar após conhecer o total foi rejeitada. Bloquear mantém sua janela própria após conhecer o dano.
-
-**Bloquear:** exige escudo ou meio especial que autorize bloqueio, sem Preparar Ação; não é universal. O antigo nome era Defender. Pela referência anterior do escudo básico, é reação de 1 PA com escudo, após conhecer o dano, aplica RD física 2. No máximo uma vez por ocorrência; pode reagir a outras se tiver PA e puder agir.
-
-Só uma ação defensiva por ocorrência: **Esquivar ou Bloquear**, nunca ambas, mesmo se Esquivar falhar em impedir o acerto. Aparar permanece removido. Armadura aplica RD passiva, sem PA nem cargas, e pode acompanhar a reação escolhida. O +1 constante do escudo continua ao Esquivar.
-
-Testes de resistência exigidos por poderes são separados e não consomem a reação defensiva. Uma área pode exigir teste de Esquiva sem permitir a reação que aumenta Defesa: efeitos de acerto automático não consultam Defesa. Depois do teste, aplica-se RD passiva de armadura compatível; Bloquear exige recursos e permissão de reagir. A consequência do teste (metade, zero etc.) vem do efeito; não há redução universal. Metade é arredondada para cima.
-
-Proteger-se com RD incompatível não reduz aquele dano, mesmo pagando PA/uso. O jogador conhece sua proteção e tem indícios do elemento recebido. Ver [tipos de dano](tipos-de-dano.md) e [proteções](../equipamentos/armaduras-e-escudos.md).
-
-## Exposto e RD
-
-[Exposto](condicoes.md#exposto) não remove Defesa nem impede Esquivar; todo ataque ignora RD, inclusive a concedida por Bloquear ou outra reação. Outros efeitos da reação permanecem. Abertura parcial usa metade da RD efetiva para cima (1→0), incluindo uma reação válida no cálculo; não exige que todas as fontes sejam armaduras.
+Esquivar e Bloquear seguem os procedimentos acima. Efeitos automáticos mantêm seus próprios testes de resistência.

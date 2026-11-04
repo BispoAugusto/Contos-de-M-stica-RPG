@@ -1,5 +1,7 @@
 # Guia rápido de mesa — 2026-10-25
 
+> **Atualização 04/11/2026:** leve RD física 1, média 3, pesada 5. Médias/pesadas dão Desvantagem com Reflexo. Defesa 8 + bônus de Vigor. Esquivar custa 1 PA, rola Vigor com Reflexo e exige superar o ataque; sem proteção tem Vantagem. [Defesas](../regras/combate/defesas.md) e [tipos físicos](../regras/combate/tipos-de-dano.md) prevalecem nos exemplos ainda em conversão.
+
 ## Atualização — 01/11/2026
 
 - Rodada simultânea na ficção; passar a iniciativa escolhe foco, podendo escolher aliado ou inimigo ainda sem agir.
@@ -27,7 +29,7 @@ Vantagens/Desvantagens cancelam uma a uma; role 1 + saldo de d20, maior/menor. F
 
 ## Combate
 
-Jogadores: 4 PA iniciais; renovam no início do próprio turno, sem acumular. O fim da rodada não renova PA. Reações anteriores ao primeiro turno usam a reserva inicial sem reduzir a renovação desse turno; depois, é preciso poupar PA entre os próprios turnos. NE 4 reduz a renovação para 3. Atordoado desconta 2 após renovar no próximo turno, mínimo 0. Ataque/movimento Médio/interação simples: 1 PA. NPCs podem ter PA e custos próprios, registrados na ficha. Defesa 10 + Reflexo; escudo +1. Ataques comuns usam proficiência da arma sem atributo nem teto; direcionados usam Foco sob pressão.
+Jogadores: 4 PA iniciais; renovam no início do próprio turno, sem acumular. O fim da rodada não renova PA. Reações anteriores ao primeiro turno usam a reserva inicial sem reduzir a renovação desse turno; depois, é preciso poupar PA entre os próprios turnos. NE 4 reduz a renovação para 3. Atordoado desconta 2 após renovar no próximo turno, mínimo 0. Ataque/movimento Médio/interação simples: 1 PA. NPCs podem ter PA e custos próprios, registrados na ficha. Defesa 8 + bônus de Vigor; escudo +1. Ataques comuns usam proficiência da arma sem atributo nem teto; direcionados usam Foco sob pressão.
 
 | Ataque do próprio turno | Comum | Com duas Leves |
 |---|---|---|
@@ -44,9 +46,9 @@ Golpe Devastador aprendido com Pesada: até 3 PA adicionais, +2 dano cada. Armas
 
 ## Defesa e dano
 
-Esquivar exige treino em Esquiva, sem equipamento; declarar e pagar antes de conhecer o resultado do teste de ataque. Referência anterior sob revisão: 1 PA, soma bônus da perícia limitado a 2 × Reflexo à Defesa, sem rolar. Bloquear exige escudo/meio especial; referência anterior sob revisão: 1 PA, escudo básico RD física 2. Nenhuma das duas reações exige Preparar Ação. **Uma ação defensiva por ocorrência**, sem Esquiva + Bloquear.
+Esquivar custa 1 PA, usa Vigor com Reflexo e deve superar o ataque. Sem proteção tem Vantagem; média/pesada dá Desvantagem. Bloquear segue o escudo; escolher uma reação por ocorrência.
 
-Armadura: RD passiva, sem PA nem cargas. Leve: 2/1/0 e peso 2 espaços; média: 3/2/1 e peso 4; pesada: 4/3/2 e peso 6. Distribuir os três valores entre Cortante/Perfurante/Contundente ao definir a armadura, sem troca em combate nem compra livre de pontos. Peso equipado conta integralmente; RD 0 não reduz. Pode acompanhar reação. Resistência obrigatória de um efeito é separada. A reação que aumenta Defesa não evita efeito automático.
+Armadura: RD física passiva 1/3/5, pesos 2/4/6. Médias/pesadas impõem Desvantagem com Reflexo. Sem proteção, Vantagem apenas em Esquivar.
 
 Tipos físicos: Contundente/Perfurante/Cortante. Outros: Fogo/Frio/Eletricidade/Ácido/Veneno/Profano/Radiante. RD específica por componente; geral uma vez sobre restante. Proteção incompatível não reduz dano, mesmo pagando custo.
 
@@ -66,7 +68,7 @@ Este resumo não fecha lacunas. Consultar [regras completas](../README.md) e [pe
 
 Preparar Ação: declarar gatilho no turno e reservar 1 PA para ação de 1 PA até o início do próximo turno do personagem, mesmo atravessando a rodada; gastar só se executar. Usar o PA em outra finalidade cancela a preparação. Ajudar: 1 PA, +1d4 ao teste de outro; dados de ajudas justificadas acumulam. Atrapalhar pode negar uma Ajuda, mas custo próprio/disputas/testes adicionais estão pendentes. Fora do turno em combate, ambas exigem Preparar Ação. [Procedimento](../regras/combate/acoes-taticas.md).
 
-Analisar: ação universal, 1 PA provisório; atributo/proficiência pela abordagem, DT e resultados pendentes. Abertura descoberta permanece conhecida enquanto existir. Ataque direcionado experimental usa Foco sob pressão e custo normal; se acertar a Abertura parcial, RD efetiva pela metade para cima, salvo 1→0. Pesado/brutal/crítico não a tornam total. Exposto: todo ataque ignora completamente RD, sem direcionamento; fonte define duração/saída. Dificuldade/penalidades do direcionado e dano misto com várias RD ainda pendentes. [Procedimento](../regras/combate/aberturas.md).
+Analisar custa 1 PA, descreve a preparação aparente e permite uma pergunta com teste, sem passar a iniciativa. Veja [Analisar](../regras/combate/aberturas.md#analisar). Aberturas acessíveis são exploradas em Pesado/Brutal conforme a ficha, ignorando a RD da fonte indicada. Exposto ignora toda RD contra ataques.
 
 Equilíbrio é o novo nome da antiga Postura; funcionamento preservado. Posturas são futuros estilos/estados de combate.
 

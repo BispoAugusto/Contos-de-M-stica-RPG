@@ -1,5 +1,17 @@
 # Decisões registradas
 
+## 2026-11-04 — Armadura, Defesa, Esquivar e tipos físicos
+
+**Confirmado pelo criador.** Armaduras leves/médias/pesadas concedem RD física uniforme 1/3/5. Médias/pesadas impõem Desvantagem em testes com Reflexo. Defesa = 8 + bônus de Vigor (nível 2 dá Defesa 12). Esquivar custa 1 PA e rola Vigor com Reflexo, exigindo total estritamente maior que o ataque; sem proteção recebe Vantagem. Substitui a reação antiga sem rolagem.
+
+Pesado/Brutal ativa Cortante (Sangramento), Perfurante (ignora RD compatível igual à metade da base) e Contundente (empurra ou retira 1 Equilíbrio). Aberturas acessíveis de NPCs indicam Pesado ou Brutal para ignorar RD da armadura. Substitui direcionamento por Foco e RD parcial pela metade.
+
+Pesos 2/4/6 preservados. Uso/proficiência de armaduras e escudos seguem a revisão de 29/10; a nova Desvantagem com Reflexo se aplica às médias/pesadas. Aplicado arredondamento geral para cima à penetração. Usar base combinada de duas Leves perfurantes é interpretação provisória. Sangramento mantém a resistência de Vigor contra ataque proposta anteriormente pelo criador; seus demais parâmetros estão pendentes.
+
+Revisados regras principais, guias, valores da ficha, modelo de NPCs e exemplos relacionados. Balanceamento ainda depende de playtest. Fichas antigas exigem conversão. Integrada sobre a versão publicada, preservando catálogo de armas e decisões de 29/10 e 01/11.
+
+
+
 ## 2026-11-04 — Catálogo de armas no capítulo principal
 
 A pedido do criador, consolidada a [lista de armas](../regras/equipamentos/armas.md) antes registrada no suplemento. Vinte modelos com famílias, dano/tipo, propriedades, peso e alcances das armas à distância. Espada curta retirada; alabarda preservada. Sistema modular passa a guia do mestre.

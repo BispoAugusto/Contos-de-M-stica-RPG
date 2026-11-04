@@ -8,7 +8,7 @@
 
 ## Defesa
 
-**Defesa passiva = 10 + Reflexo.** Escudo empunhado acrescenta +1. Esquiva é uma reação separada; não some a perícia permanentemente.
+**Defesa passiva = 8 + bônus de Vigor.** Nível 2 (+4) dá Defesa 12. Escudo com proficiência acrescenta +1. Esquivar custa 1 PA e testa Vigor com Reflexo, exigindo superar o ataque.
 
 ## Carga e porte
 

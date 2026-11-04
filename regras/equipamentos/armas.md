@@ -10,9 +10,9 @@ O jogador escolhe uma arma pronta. O modelo modular serve de guia de criação p
 
 Famílias de proficiência: Espadas, Machados, Martelos, Adagas, Armas de Haste, Picaretas, Arcos, Bestas, Armas de Fogo, Correntes e Chicotes e Golpes Desarmados. Picaretas foi indicada como família no novo catálogo.
 
-Ataques comuns usam **1d20 + proficiência da família + bônus aplicáveis**, sem somar atributo e sem teto por atributo. Direcionados usam Foco sob pressão. Ataques não podem ser forçados sem autorização expressa de habilidade.
+Ataques comuns usam **1d20 + proficiência da família + bônus aplicáveis**, sem somar atributo e sem teto por atributo. Aberturas usam o limiar de Pesado/Brutal da proteção, sem teste separado de Foco. Ataques não podem ser forçados sem autorização expressa de habilidade.
 
-Tipo de dano e propriedades constam na arma. Penetração e efeitos especiais exigem descrição própria; não se presume penetração automática para todas as armas perfurantes.
+Tipo de dano e propriedades constam na arma. Desde 04/11/2026, Pesado/Brutal ativa Sangramento (Cortante), penetração igual à metade da base para cima (Perfurante) ou empurrão/retirada de 1 Equilíbrio (Contundente). Ver [tipos de dano](../combate/tipos-de-dano.md).
 
 ## Corpo a corpo
 
@@ -75,7 +75,7 @@ Impacto permanece uma propriedade existente para armas específicas autorizadas:
 | Brutal — Defesa +10 | Base +2, substituindo o +1 de pesado |
 | 20 natural | +2 adicionais |
 
-A Defesa elevada por Esquivar também eleva os limiares de pesado/brutal. Aplicar RD depois de calcular o dano. Atributos e bônus de proficiência não somam diretamente ao dano; efeitos expressos podem alterar a base.
+Esquivar agora é um teste de Vigor com Reflexo para evitar o ataque; não aumenta a Defesa nem os limiares de Pesado/Brutal. Aplicar RD depois de calcular o dano. Atributos e bônus de proficiência não somam diretamente ao dano; efeitos expressos podem alterar a base.
 
 ## Duas armas
 

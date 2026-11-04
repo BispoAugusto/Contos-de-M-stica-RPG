@@ -7,7 +7,7 @@
 
 **Confirmado.** Defina abordagem, atributo e proficiência antes da rolagem. O atributo nunca é somado ao dado.
 
-Ataques têm regra própria: **1d20 + proficiência do grupo de arma**, com pesado em Defesa +5 e brutal em Defesa +10. Não usam os graus abaixo; direcionados usam Foco. Ver [ataques](../combate/ataques-e-dano.md). Testes de análise, resistência e outras ações continuam seguindo suas regras específicas.
+Ataques têm regra própria: **1d20 + proficiência do grupo de arma**, com pesado em Defesa +5 e brutal em Defesa +10. Não usam os graus abaixo; aberturas usam o grau Pesado/Brutal da proteção, sem Foco separado. Ver [ataques](../combate/ataques-e-dano.md). Testes de análise, resistência e outras ações continuam seguindo suas regras específicas.
 
 ## Rolagem e pressão
 
