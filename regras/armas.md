@@ -1,8 +1,8 @@
-# Armas e construção modular — navegação
+# Armas — catálogo e regras de uso
 
 <!-- navegacao:compatibilidade -->
 
-Este capítulo foi organizado por assunto. [Abrir a referência atual](equipamentos/armas.md) ou consultar o [índice de regras](README.md).
+O catálogo de playtest e as regras de uso estão no capítulo de equipamentos. [Abrir a referência atual](equipamentos/armas.md) ou consultar o [índice de regras](README.md).
 
 ## Base, família e atributo
 

@@ -1,5 +1,14 @@
 # Pendências — estado de 2026-10-25
 
+## Catálogo de armas — 2026-11-04
+
+- [x] Publicar os 20 modelos e regras acordadas no [capítulo principal](../regras/equipamentos/armas.md).
+- [ ] Conferir complementos de tipo/família marcados com asterisco na tabela.
+- [ ] Benefício de Leve no ataque combinado misto; composição de danos diferentes/divisão entre alvos.
+- [ ] Confirmar alcance de Arremessável para catálogo revisado; explicitar Devastador em arremessos na habilidade futura.
+- [ ] Definir Desprevenido/ataque furtivo com habilidades e munição com itens.
+
+
 ## 2026-11-01 — Operação da nova iniciativa
 
 Aprovados: rodada simultânea na ficção; passagem a aliado ou inimigo; último participante pode escolher a si mesmo com PA dobrados no turno; isso não antecipa automaticamente efeitos de próximo turno. Analisar revela sinais perceptíveis da ação em preparação e permite a pergunta com teste, sem passar iniciativa.

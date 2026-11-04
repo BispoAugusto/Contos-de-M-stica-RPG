@@ -1,71 +1,114 @@
-# Armas e construção modular
-
-> **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
-
+# Armas — catálogo de playtest
 
 [Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
 
-**Modelo e valores provisórios para playtest; regras de testes, graus e repetição confirmadas em 2026-10-19.**
+**Catálogo consolidado em 04/11/2026 a pedido do criador.** Valores para playtest, sujeitos a avaliação em mesa. Esta página reúne a lista e as decisões de armas da conversa, anteriormente registradas no suplemento de 29/10. Nos assuntos de armas, esta redação substitui o antigo capítulo modular. Complementos ainda propostos estão marcados abaixo.
 
 ## Base, família e atributo
 
-Arma modular: **dano base 2 e dois espaços de propriedades**. Cada propriedade ocupa um espaço; Munição ocupa zero. Não há autorização automática para repetir propriedades ou aumentar espaços.
+O jogador escolhe uma arma pronta. O modelo modular serve de guia de criação para o mestre, que pode discutir alternativas com o jogador. Os valores do catálogo são finais: não somar novamente bônus de Pesada nem reduzir novamente o dano por Leve.
 
-A família define a proficiência: Espadas, Machados, Martelos, Adagas, Armas de Haste, Arcos, Bestas, Armas de Fogo, Correntes e Chicotes, Golpes Desarmados. “Armas Flexíveis” continua apenas sugestão para Correntes e Chicotes. Não foram adicionadas Fundas nem as perícias Luta/Pontaria.
+Famílias de proficiência: Espadas, Machados, Martelos, Adagas, Armas de Haste, Picaretas, Arcos, Bestas, Armas de Fogo, Correntes e Chicotes e Golpes Desarmados. Picaretas foi indicada como família no novo catálogo.
 
-**Atualização confirmada em 2026-10-26:** ataques comuns corpo a corpo, à distância, arremessados, combinados e naturais usam **1d20 + proficiência da família**, sem atributo nem teto por atributo. Apenas ataques direcionados usam Foco sob pressão. Propriedades definem formas de usar a arma, não trocam sua família. Nenhum ataque pode ser forçado sem autorização expressa de habilidade futura.
+Ataques comuns usam **1d20 + proficiência da família + bônus aplicáveis**, sem somar atributo e sem teto por atributo. Direcionados usam Foco sob pressão. Ataques não podem ser forçados sem autorização expressa de habilidade.
 
-Tipos físicos (Contundente, Perfurante, Cortante) não concedem efeitos passivos automáticos. Ver [tipos de dano](../combate/tipos-de-dano.md).
+Tipo de dano e propriedades constam na arma. Penetração e efeitos especiais exigem descrição própria; não se presume penetração automática para todas as armas perfurantes.
 
 ## Corpo a corpo
 
-| Propriedade | Espaços | Efeito |
-|---|---|---|
-| Leve | 1 | −1 no dano base; com duas Leves, permite ataque combinado |
-| Versátil | 1 | +1 no dano usando duas mãos |
-| Pesada | 1 | +2 no dano; exige duas mãos |
-| Alcance | 1 | Ataque corpo a corpo até Curto |
-| Impacto | 1 | +1 dano em pesado ou brutal |
-| Furtiva | 1 | 1 Vantagem para ocultar a arma, não para atacar |
-| Arremessável | 1 | Arremesso até Médio; Foco apenas se direcionado |
+Peso é medido em espaços de inventário. Armas comuns de uma mão atacam em Toque; Alcance permite atacar até Curto.
 
-**Leve, Versátil e Pesada são mutuamente exclusivas.** Na base comum 2, resultam em dano 1, 2/3 e 4. São modificadores, não substituições universais da base.
+| Arma | Família | Dano base | Propriedades | Peso |
+|---|---|---|---|---|
+| Adaga | Adagas | 1 perfurante | Leve, Furtiva | 1 |
+| Faca de arremesso | Adagas | 1 perfurante | Leve, Arremessável | 1 |
+| Espada longa | Espadas | 2/3 cortante | Versátil | 2 |
+| Montante | Espadas | 4 cortante | Pesada | 3 |
+| Machadinha | Machados | 2 cortante | Arremessável | 1 |
+| Machado de batalha | Machados | 4 cortante* | Pesada | 3 |
+| Lança | Armas de Haste | 2 perfurante | Arremessável, Alcance | 2 |
+| Alabarda | Armas de Haste | 4 cortante | Alcance, Pesada | 4 |
+| Picareta | Picaretas | 2/3 perfurante | Versátil | 2 |
+| Picareta de batalha | Picaretas* | 4 perfurante | Pesada | 3 |
+| Maça | Martelos | 2 contundente | — | 2 |
+| Martelo de guerra | Martelos* | 4 contundente | Pesada | 3 |
+| Estrela da manhã | Martelos* | 2 perfurante | — | 2 |
+| Corrente/chicote | Correntes e Chicotes | 2 cortante | Alcance | 2 |
 
-Pesada não aumenta o custo básico de atacar e não concede automaticamente Golpe Devastador: a manobra deve ser aprendida.
+* Complementos propostos pelo assistente para os campos omitidos na lista original: Cortante no machado de batalha; Picaretas na picareta de batalha; Martelos no martelo de guerra e na estrela da manhã. Permanecem para conferência, conforme registro de 29/10.
 
-## Dano por sucesso
-
-Padrão: base. Pesado (Defesa +5): **+1**. Brutal (Defesa +10): **+2 em vez de +1**, sem requisito de atributo. Natural 20: **+2 adicional**. Impacto soma +1 em pesado ou brutal. Não há progressão além de brutal.
-
-Atributos e bônus numéricos de proficiência não somam diretamente ao dano. A característica natural das Feras é uma exceção expressa por **nível**, não pelo bônus.
-
-## Duas armas Leves
-
-Uma em cada mão, **1 PA, uma rolagem e uma instância de dano**:
-
-**Base combinada = base da principal + metade da base da secundária, arredondada para cima.**
-
-Use a menor proficiência das armas, inclusive 0, sem teto no ataque comum. Se direcionado, aplicar o teto de Foco sob pressão. Acrescente grau, crítico e demais modificadores uma vez; aplique RD uma vez. Não há segundo crítico, segundo acerto ou divisão entre alvos automaticamente aprovada.
-
-Duas adagas de base 1 formam base 2. Pesado +1 e natural 20 +2 resultam em 5 antes de RD; se o dano for perfurante, uma armadura leve com Perfurante 2 / Cortante 1 / Contundente 0 reduz para 3; essa armadura + Bloquear reduz para 1.
-
-Só ataques **com ambas** usam a sequência especial: normal, normal, 1 Desvantagem, 2 Desvantagens etc. Ataque com uma só usa sua própria proficiência e sequência comum: normal, 1, 2, 3 Desvantagens etc. A posição do ataque é compartilhada, mesmo mudando de modo. Ver [combate](../combate/README.md).
+A espada curta foi retirada pelo criador. A alabarda mantém seus números para playtest, incluindo a vantagem de alcance em relação ao montante e o peso maior.
 
 ## Distância
 
-Base **2**, dois espaços, duas mãos e alcance **Médio**. Ataque comum sem atributo; direcionado usa Foco sob pressão.
+| Arma | Família | Dano base | Alcance | Propriedades | Mãos | Peso |
+|---|---|---|---|---|---|---|
+| Arco curto | Arcos | 2 perfurante | Longo | Leve | 2 | 1 |
+| Arco longo | Arcos | 3 perfurante | Muito Longo | Pesada | 2 | 2 |
+| Besta de mão | Bestas | 3 perfurante | Longo | Leve, Recarregar | 1 | 1 |
+| Pistola | Armas de Fogo | 3 perfurante | Longo | Leve, Recarregar | 1 | 1 |
+| Besta pesada | Bestas | 5 perfurante | Muito Longo | Pesada, Recarregar | 2 | 3 |
+| Canhão de mão | Armas de Fogo | 5 perfurante | Muito Longo | Pesada, Recarregar | 2 | 3 |
 
-| Propriedade | Espaços | Efeito |
-|---|---|---|
-| Munição | 0 | Recurso necessário quando aplicável; gratuita em espaços, não em aquisição |
-| Compacta | 1 | −1 no dano base, uma mão; proibida em arcos |
-| Potente | 1 | +1 dano, duas mãos |
-| Recarregar | 1 | +2 dano; após cada tiro, 1 PA para recarregar antes do próximo |
-| Estendida | 1 | Alcance Longo |
+A família usada é a da arma escolhida, mesmo quando duas armas compartilham os mesmos números.
 
-**Compacta e Potente são incompatíveis.** Potente + Recarregar causa base 5; Recarregar + Estendida causa base 4 a Longo. Intercalar recarga não reinicia repetição.
+## Propriedades
 
-Exemplo: arma Potente + Recarregar já carregada permite atirar (1 PA), recarregar (1 PA), atirar (1 PA). O segundo tiro sofre 1 Desvantagem antes de cancelamentos; resta 1 PA. Não se garante que os dois acertem.
+| Propriedade | Regra |
+|---|---|
+| Leve | Ignora a penalidade do primeiro ataque repetido no próprio turno, usando uma ou duas Leves. A quantidade de mãos consta na arma. |
+| Versátil | Primeiro dano com uma mão; segundo dano com duas. Espada longa: 2/3. |
+| Pesada | Exige duas mãos; dano já incluído no catálogo. Ataque básico continua custando 1 PA. |
+| Alcance | Ataque corpo a corpo até Curto. |
+| Arremessável | Permite arremessar a arma. A referência anterior é até Médio; sua confirmação para o catálogo revisado permanece pendente. |
+| Furtiva | 1 Vantagem para ocultar a arma. Uma arma escondida pode permitir surpreender um alvo. Dano adicional de ataque furtivo dependerá de habilidade; Desprevenido ainda será detalhado. |
+| Recarregar | Depois do disparo, custa 1 PA por arma para recarregar antes de disparar novamente. |
+
+Impacto permanece uma propriedade existente para armas específicas autorizadas: +1 dano em acerto pesado ou brutal. Não é acrescentada automaticamente às armas deste catálogo.
+
+## Dano por sucesso
+
+| Resultado | Dano |
+|---|---|
+| Acerto comum | Base da arma |
+| Pesado — Defesa +5 | Base +1 |
+| Brutal — Defesa +10 | Base +2, substituindo o +1 de pesado |
+| 20 natural | +2 adicionais |
+
+A Defesa elevada por Esquivar também eleva os limiares de pesado/brutal. Aplicar RD depois de calcular o dano. Atributos e bônus de proficiência não somam diretamente ao dano; efeitos expressos podem alterar a base.
+
+## Duas armas
+
+Cada arma precisa poder ser usada com uma mão. Versáteis usam seu dano de uma mão. Pesadas e arcos exigem duas mãos e não participam.
+
+| Combinação | Penalidade da combinação |
+|---|---|
+| Duas Leves de uma mão | Nenhuma |
+| Uma Leve e uma não Leve, ou duas não Leves | 1 Desvantagem |
+
+Ataque combinado custa **1 PA**, usa **uma rolagem**, a **menor proficiência** das duas armas e causa **uma instância de dano**.
+
+**Base combinada = base da principal + metade da base da secundária, arredondada para cima.**
+
+Acrescentar grau/crítico uma vez e aplicar RD à instância resultante. Duas adagas têm base 2; duas pistolas têm base 5. Divisão entre alvos e composição de tipos de dano diferentes ainda precisam de detalhamento.
+
+### Duas armas Leves
+
+Este subtítulo preserva os links existentes.
+
+A sequência ao atacar com uma Leve ou com duas Leves é normal, normal, 1 Desvantagem, 2 Desvantagens, até o limite de 3 aplicado à rolagem. A contagem de ataques no turno é compartilhada entre modos de ataque; trocar de arma não reinicia a contagem.
+
+O benefício de repetição numa combinação mista (uma Leve e uma não Leve) permanece pendente. A penalidade da combinação é separada da repetição e segue cancelamentos/limite geral.
+
+### Recarga de duas armas
+
+Cada arma custa 1 PA para recarregar, total 2 PA pelas duas. A sequência aprovada com duas pistolas ou bestas de mão já carregadas é:
+
+1. Atacar com ambas — 1 PA.
+2. Recarregar ambas — 2 PA.
+3. Atacar com ambas — 1 PA.
+
+O segundo ataque não sofre penalidade de repetição por serem Leves. Não se exige guardar uma delas entre as recargas dessa sequência. Munição e controle de estoque serão detalhados no catálogo de itens.
 
 ## Golpes Desarmados e armas naturais
 
@@ -81,8 +124,11 @@ Ataques usam a proficiência de Golpes Desarmados e **não têm Leve**. Não qua
 
 Os antigos traços compráveis Arma Natural/Avançada não são opções atuais de criação; estão no [catálogo histórico](../../design/catalogo-origens-historico.md).
 
+
 ## Manobras e limites
 
-Golpe Devastador: exige Pesada e aprendizado, 1 PA de ataque + até 3 PA, +2 dano por adicional, máximo +6. Uma rolagem e um ataque para repetição; aplicável a Pesada + Arremessável; Foco somente no ataque direcionado. Frequência geral e exceções seguem [manobras](../combate/manobras.md).
+**Golpe Devastador** é adquirido por habilidade e exclusivo de armas **corpo a corpo Pesadas**. Arcos, bestas e armas de fogo não se qualificam apenas por terem Pesada.
 
-Não foram aprovadas novas propriedades, valores de armas mágicas, propriedades repetidas ou ataques gratuitos. Ver [pendências](../../design/pendencias.md) e [playtests](../../planejamento/playtests.md).
+Sua referência de playtest é 1 PA do ataque + até 3 PA adicionais, +2 dano por adicional, máximo +6, uma rolagem e um ataque para repetição. Frequência e exceções seguem [manobras](../combate/manobras.md). O caso de arremessar uma arma corpo a corpo Pesada ainda precisa ser explicitado na futura habilidade.
+
+[Pendências](../../design/pendencias.md) · [Registro de decisões](../../design/decisoes.md).

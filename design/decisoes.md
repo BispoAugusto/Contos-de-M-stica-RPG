@@ -1,5 +1,14 @@
 # Decisões registradas
 
+## 2026-11-04 — Catálogo de armas no capítulo principal
+
+A pedido do criador, consolidada a [lista de armas](../regras/equipamentos/armas.md) antes registrada no suplemento. Vinte modelos com famílias, dano/tipo, propriedades, peso e alcances das armas à distância. Espada curta retirada; alabarda preservada. Sistema modular passa a guia do mestre.
+
+Incorporadas Leve com uma ou duas armas, penalidade de 1 Desvantagem em combinação não composta só por Leves, exclusão de Pesadas/arcos do combate com duas armas, recarga dupla por 2 PA e Golpe Devastador exclusivo de armas corpo a corpo Pesadas. Valores de playtest, sem validação de equilíbrio alegada.
+
+Campos complementados pelo assistente e interações ainda abertas permanecem explicitamente marcados. Esta atualização trata do catálogo de armas; demais revisões de criação continuam em discussão.
+
+
 ## 2026-11-01 — Iniciativa simultânea, continuação com PA dobrados e Analisar
 
 **Confirmado pelo criador para playtest.** Rodada representa simultaneidade na ficção; turnos escolhem foco narrativo. Pode passar iniciativa a aliado ou inimigo ainda sem agir. O último participante pode escolher a si mesmo, dobrando os PA de seu turno, tanto jogador quanto NPC, sem transformar isso em dois turnos completos nem antecipar automaticamente efeitos de próximo turno.
