@@ -82,7 +82,7 @@ Escreva **1 em cada atributo** e distribua **4 pontos adicionais**. Pode reduzir
 
 A soma inicial é **13**, antes de benefícios específicos. Homens Altos recebem **mais 2 pontos**, totalizando 15, mas mantêm o máximo inicial 3.
 
-Atributos **não somam à rolagem**: determinam o teto de proficiência sob pressão, margens de sucesso e a reserva de Alma correspondente. O limite normal futuro é 10; a progressão ainda não foi definida.
+Atributos **não somam à rolagem**: determinam a margem de pleno e a reserva de Alma correspondente. O limite normal futuro é 10; a progressão ainda não foi definida.
 
 **Anote na ficha:** os nove valores e confira a soma. [Regra completa de atributos](../regras/fundamentos/atributos.md).
 
@@ -160,9 +160,9 @@ Fluxo usa Sintonia como sugestão e mede controle espiritual/mana; sua aplicaç�
 
 ### Bônus sob pressão
 
-Registre o bônus normal da proficiência. Quando houver teste sob pressão, aplique no máximo **2 × o atributo escolhido**.
+Registre o bônus normal da proficiência. Quando houver teste sob pressão, use **metade** do bônus; se o d20 cair na **margem de pleno** do atributo escolhido (21 − atributo ou mais), use o bônus inteiro.
 
-Exemplo: proficiência 2 dá +4, mas com atributo 1 usa somente +2 sob pressão. Fora dela, usa +4. O nível aprendido permanece 2.
+Exemplo: proficiência 2 dá +4, mas sob pressão usa +2. Com atributo 1, só um 20 natural devolve o +4; com atributo 3, 18, 19 ou 20. Fora de pressão, usa +4. O nível aprendido permanece 2.
 
 **Anote na ficha:** níveis, bônus normais, pontos gastos e acessos de equipamento. Comprar proficiência **não concede o equipamento**. [Compra e exceções](../regras/personagem/proficiencias.md).
 

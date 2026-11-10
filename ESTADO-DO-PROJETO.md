@@ -1,4 +1,10 @@
-# Estado do projeto — 2026-11-04
+# Estado do projeto — 2026-11-09
+
+## 2026-11-09 — Pressão com proficiência pela metade e pleno por margem do d20
+
+**Confirmado pelo criador para playtest.** Sob pressão, a proficiência vale metade; se o d20 selecionado cair na margem de pleno (21 − atributo ou mais; atributo 1 = só o 20), soma o bônus inteiro. Substitui o teto de 2 × atributo e o pleno por DT + 10 − atributo. Regra em [testes](regras/fundamentos/testes.md); registro em [decisões](design/decisoes.md).
+
+**Em aberto:** extremo precisa ser redefinido; confirmar se o pleno vale fora de pressão e se exige alcançar a DT (interpretações do assistente); fichas de NPCs, mesa-web e exemplos antigos ainda mostram o teto antigo. Balanceamento depende de playtest.
 
 ## 2026-11-04 — Armadura, Defesa, Esquivar e tipos físicos
 

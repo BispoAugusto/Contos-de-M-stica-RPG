@@ -4,7 +4,7 @@
 
 **Núcleo atualizado em 2026-10-19.** RPG d20 de fantasia com combate tático narrativo de 4 PA e distâncias por faixas. A evolução modular, habilidades e miniclasses serão desenvolvidas depois desta integração.
 
-Nove atributos descrevem capacidades; não somam aos testes. Proficiências fornecem bônus e os atributos determinam seu teto sob pressão e as margens de sucesso. Corpo, Mente e Espírito são [reservas de Alma](alma.md), calculadas a partir dos atributos e da espécie.
+Nove atributos descrevem capacidades; não somam aos testes. Proficiências fornecem bônus, que valem metade sob pressão; os atributos determinam a margem de pleno, que devolve o bônus inteiro. Corpo, Mente e Espírito são [reservas de Alma](alma.md), calculadas a partir dos atributos e da espécie.
 
 PV representam perigo imediato; condições, limitações temporárias; Exaustão, desgaste persistente; Sequelas, o preço de sobreviver à morte. Origens são categorias de espécies, não formação cultural.
 

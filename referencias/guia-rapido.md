@@ -15,13 +15,13 @@
 
 ## Testes
 
-**1d20 + proficiência + modificadores; nunca somar atributo.** Sob pressão: bônus de proficiência até 2 × atributo. Dificuldade sozinha não é pressão. Atributo depende da abordagem.
+**1d20 + proficiência + modificadores; nunca somar atributo.** Sob pressão: bônus de proficiência **pela metade** (igual ao nível); se o d20 cair na **margem de pleno**, soma o bônus inteiro. Dificuldade sozinha não é pressão. Atributo depende da abordagem.
 
 | Grau | Exigência |
 |---|---|
 | Padrão | DT |
-| Pleno | DT + máximo(0, 10 − atributo) |
-| Extremo | Só atributo 10+: DT +20 − atributo |
+| Pleno | d20 selecionado em 21 − atributo ou mais (atributo 1: só 20; 2: 19–20; 3: 18–20) e total alcançando a DT |
+| Extremo | Pendente de revisão |
 
 Natural 1 falha; natural 20 sucede. Em opostos, use total adversário como DT; empate favorece iniciador. Sem iniciador, compare máximos das Partes de Alma correspondentes; igual novamente, rerrole empatados. Dois naturais 20 comparam totais.
 

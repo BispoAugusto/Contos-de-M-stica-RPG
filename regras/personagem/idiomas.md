@@ -18,6 +18,6 @@ Opções: Comum, Bestial, Miridiano, Arak, Faarongiano, Primordial, Abissal, Dra
 
 Um ponto compra dois níveis em idiomas, juntos ou distribuídos. Não pode misturar essa compra com conhecimentos.
 
-Quando houver teste, use **1d20 + bônus de idioma + modificadores**, normalmente com **Raciocínio** como atributo de referência; ele não soma à rolagem. Sob pressão, limite o bônus de idioma a 2 × atributo. Fluente tem +2, não +4. Vantagens, margens e Alma seguem [testes](../fundamentos/testes.md).
+Quando houver teste, use **1d20 + bônus de idioma + modificadores**, normalmente com **Raciocínio** como atributo de referência; ele não soma à rolagem. Sob pressão, o bônus de idioma vale metade (Fluente +1), salvo se o d20 cair na margem de pleno. Fluente tem +2, não +4. Vantagens, margens e Alma seguem [testes](../fundamentos/testes.md).
 
 Não somar automaticamente História, Arcanismo ou outra perícia. Testes sem nível no idioma, DT de complexidade e interação detalhada com conhecimentos continuam pendentes.

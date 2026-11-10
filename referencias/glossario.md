@@ -3,12 +3,13 @@
 - **PA:** Pontos de Ação, normalmente quatro, renovados no início do próprio turno; ações e reações compartilham o saldo até o próximo turno. Há uma reserva inicial para reações antes do primeiro turno.
 - **PV:** Pontos de Vida; base 6 +2 × máximo de Corpo.
 - **DT:** dificuldade do teste; em oposição, o total adversário é referência.
-- **Atributo:** capacidade que determina teto de proficiência sob pressão, margens e Parte da Alma; não soma à rolagem.
+- **Atributo:** capacidade que determina a margem de pleno e a Parte da Alma; não soma à rolagem.
 - **Proficiência:** nível aprendido; em escala comum, níveis 1–5 dão +2 a +10, nível 0 dá +0.
-- **Pressão:** perigo imediato, urgência real ou interferência ativa; limita bônus de proficiência a 2 × atributo.
+- **Pressão:** perigo imediato, urgência real ou interferência ativa; o bônus de proficiência vale metade, salvo se o d20 cair na margem de pleno, quando vale inteiro.
 - **Padrão:** sucesso na DT, ainda sujeito a consequências narrativas.
-- **Pleno:** sucesso sem penalidades narrativas, respeitando custos explícitos.
-- **Extremo:** sucesso com benefício adicional, desbloqueado em atributo 10.
+- **Pleno:** d20 selecionado em 21 − atributo ou mais (atributo 1: só o 20), com total que alcança a DT; sucesso sem penalidades narrativas, respeitando custos explícitos. Sob pressão, devolve a proficiência inteira.
+- **Margem de pleno:** faixa de naturais do d20 definida pelo atributo, como a margem de um crítico: atributo 1 = 20; 2 = 19–20; 3 = 18–20; atributo 0 não tem margem.
+- **Extremo:** sucesso com benefício adicional; definição pendente de revisão após a mudança do pleno (texto anterior: desbloqueado em atributo 10).
 - **Golpe Pesado/Brutal:** resultados de ataque em Defesa +5/+10; +1/+2 dano, sem somar os dois. Não usam pleno/extremo.
 - **Golpe Devastador:** manobra aprendida com Pesada; não é sinônimo de pleno.
 - **Alma:** reservas de Corpo, Mente e Espírito, média arredondada dos atributos + bônus de espécie.

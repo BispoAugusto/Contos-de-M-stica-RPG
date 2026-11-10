@@ -1,5 +1,9 @@
 # Histórico
 
+## 2026-11-09 — Pressão com proficiência pela metade e pleno por margem do d20
+
+**Confirmado pelo criador para playtest.** Sob pressão, a proficiência vale metade; o pleno passa a ocorrer quando o d20 selecionado cai em 21 − atributo ou mais, e devolve a proficiência inteira. Substitui o teto de 2 × atributo e o pleno por DT + 10 − atributo. Reescrito [testes](regras/fundamentos/testes.md) e harmonizados guias, glossário, perícias, proficiências, idiomas, iniciativa, defesas, NPCs e plano de playtests. Extremo marcado como pendente. Nenhum playtest executado.
+
 ## 2026-11-04 — Armadura, Defesa, Esquivar e tipos físicos
 
 **Confirmado pelo criador.** Armaduras leves/médias/pesadas concedem RD física uniforme 1/3/5. Médias/pesadas impõem Desvantagem em testes com Reflexo. Defesa = 8 + bônus de Vigor (nível 2 dá Defesa 12). Esquivar custa 1 PA e rola Vigor com Reflexo, exigindo total estritamente maior que o ataque; sem proteção recebe Vantagem. Substitui a reação antiga sem rolagem.

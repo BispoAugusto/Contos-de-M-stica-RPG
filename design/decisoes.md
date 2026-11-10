@@ -1,5 +1,13 @@
 # Decisões registradas
 
+## 2026-11-09 — Pressão com proficiência pela metade e pleno por margem do d20
+
+**Confirmado pelo criador para playtest.** Sob pressão, o bônus de proficiência vale **metade** (nível 2 dá +2 em vez de +4; o bônus sob pressão é igual ao nível). Se o d20 selecionado cair na **margem de pleno**, soma o bônus **inteiro**. A margem funciona como a de um crítico: atributo 1 = 20 natural, e cada ponto de atributo acrescenta um número abaixo (2 = 19–20, 3 = 18–20, 10 = 11–20). Isso substitui o teto de 2 × atributo e o pleno por "DT + 10 − atributo". Atributo 0 não tem margem de pleno.
+
+**Interpretações provisórias do assistente, a confirmar:** o grau pleno (sucesso sem penalidades narrativas) também passa a depender da margem fora de pressão; pleno exige que o total alcance a DT; o extremo, que dependia do pleno medido acima da DT, fica **pendente de revisão**; a regra "atributo 10 torna todo sucesso pleno" foi retirada.
+
+Efeitos observados para o playtest: atributos baixos com proficiência alta ganham (atributo 1, +6: de +2 para ≈ +3,15 esperado) e atributos médios com proficiência alta perdem (atributo 3, +6: de +6 para ≈ +3,45). Ataques comuns não são afetados. Mesa-web e fichas de NPCs ainda mostram o antigo teto e precisam de conversão. Nenhum playtest foi executado.
+
 ## 2026-11-04 — Armadura, Defesa, Esquivar e tipos físicos
 
 **Confirmado pelo criador.** Armaduras leves/médias/pesadas concedem RD física uniforme 1/3/5. Médias/pesadas impõem Desvantagem em testes com Reflexo. Defesa = 8 + bônus de Vigor (nível 2 dá Defesa 12). Esquivar custa 1 PA e rola Vigor com Reflexo, exigindo total estritamente maior que o ataque; sem proteção recebe Vantagem. Substitui a reação antiga sem rolagem.

@@ -33,7 +33,7 @@ A rodada compreende a participação dos combatentes. A renovação normal não 
 
 ## Iniciativa dinâmica
 
-Iniciador evidente pode agir primeiro pela ficção; a comparação de Reflexo resolve a maioria das disputas. Não há perícia fixa. Se precisar rolar, use Reflexo e uma proficiência adequada à primeira ação pretendida, com teto sob pressão e sem somar Reflexo. Desempates seguem [testes](../fundamentos/testes.md).
+Iniciador evidente pode agir primeiro pela ficção; a comparação de Reflexo resolve a maioria das disputas. Não há perícia fixa. Se precisar rolar, use Reflexo e uma proficiência adequada à primeira ação pretendida, com as regras de pressão (proficiência pela metade, inteira na margem de pleno) e sem somar Reflexo. Desempates seguem [testes](../fundamentos/testes.md).
 
 O ator escolhe o próximo participante que ainda não agiu, aliado ou inimigo. Quem sofreu dano antes de agir pode reivindicar o próximo turno; Inspiração/Medo também permitem interrupções. Medo é reserva coletiva do encontro PVE de 1 ponto por jogador por combate, com gasto máximo de 1 por rodada. O procedimento completo de interrupções simultâneas permanece pendente. A exceção do último participante está descrita a seguir.
 
