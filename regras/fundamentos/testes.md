@@ -1,6 +1,6 @@
 # Testes, pressão e graus de sucesso
 
-> **Atualização de 09/11/2026:** sob pressão a proficiência vale metade e o **pleno** passa a ser definido por uma margem no d20, ligada ao atributo. Isso substitui o teto de 2 × atributo e o pleno por "DT + 10 − atributo". O registro está em [decisões](../../design/decisoes.md).
+> **Atualização de 09/11/2026:** sob pressão a proficiência vale metade e o **pleno** passa a ser definido por uma margem no d20, ligada ao atributo. Isso substitui o teto de 2 × atributo e o pleno por "DT + 10 − atributo". O **extremo** (10/11/2026) passa a existir só com atributo 10, na margem do 20 natural. O registro está em [decisões](../../design/decisoes.md).
 
 > **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
 
@@ -49,13 +49,23 @@ Exemplos, todos sob pressão:
 |---|---|
 | Padrão | Alcançar a DT: realiza a ação; consequências narrativas situacionais ainda podem ocorrer |
 | Pleno | d20 selecionado na margem de pleno **e** total alcançando a DT: sucesso sem penalidades narrativas |
-| Extremo | **Pendente de revisão.** Texto anterior: desbloqueado em atributo 10, DT + (20 − atributo), com benefício adicional contextual |
+| Extremo | Só com **atributo 10**: d20 selecionado na margem de extremo (**20 natural**, reduzida por atributos bônus) e total alcançando a DT. Tem tudo do pleno e um benefício adicional contextual |
 
 Pleno não elimina custos explícitos, riscos preexistentes ou efeitos definidos por uma habilidade. Pleno não transforma falha em sucesso: se o total, já com a proficiência inteira, não alcança a DT, o teste falha.
 
 **Interpretação provisória, a confirmar:** o grau pleno vale com ou sem pressão, pois a margem só define o grau fora dela. A exigência de alcançar a DT para haver pleno também é interpretação do assistente.
 
-**Extremo.** A definição antiga dependia do pleno medido acima da DT e não foi revalidada. Ela fica como estava, marcada como pendente, até o criador decidir o que o extremo passa a ser. A regra antiga "atributo 10 ou mais torna todo sucesso pleno" foi retirada, porque o pleno deixou de ser medido acima da DT.
+## Extremo
+
+**Confirmado pelo criador para playtest (10/11/2026).** O extremo funciona como o pleno, mas só existe para quem chegou a **atributo 10**, o máximo. Quem tem menos de 10 no atributo usado não alcança extremo.
+
+- Com atributo 10, a margem de extremo é o **20 natural**.
+- O jogador pode **diminuir essa margem** ganhando **atributos bônus** por itens, habilidades ou magias. Cada ponto de bônus reduz a margem em 1: com +1 o extremo ocorre em 19–20, com +2 em 18–20.
+- O extremo inclui tudo do pleno (sob pressão, a proficiência inteira) e acrescenta um benefício adicional contextual. Por enquanto ele **não se diferencia muito do pleno** e **não será usado no primeiro playtest**.
+
+A regra antiga "atributo 10 ou mais torna todo sucesso pleno" foi retirada, porque o pleno deixou de ser medido acima da DT.
+
+**Interpretações provisórias do assistente, a confirmar:** cada ponto de bônus reduz a margem em exatamente 1; o extremo também exige alcançar a DT. **Pendentes:** se o atributo bônus também amplia a margem de pleno, a reserva de Alma ou o limite do atributo; até onde a margem de extremo pode descer (ela não deve passar da margem de pleno, 11–20); o benefício contextual do extremo.
 
 ## Naturais e testes opostos
 

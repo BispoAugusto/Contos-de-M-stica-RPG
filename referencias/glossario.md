@@ -9,7 +9,7 @@
 - **Padrão:** sucesso na DT, ainda sujeito a consequências narrativas.
 - **Pleno:** d20 selecionado em 21 − atributo ou mais (atributo 1: só o 20), com total que alcança a DT; sucesso sem penalidades narrativas, respeitando custos explícitos. Sob pressão, devolve a proficiência inteira.
 - **Margem de pleno:** faixa de naturais do d20 definida pelo atributo, como a margem de um crítico: atributo 1 = 20; 2 = 19–20; 3 = 18–20; atributo 0 não tem margem.
-- **Extremo:** sucesso com benefício adicional; definição pendente de revisão após a mudança do pleno (texto anterior: desbloqueado em atributo 10).
+- **Extremo:** como o pleno, mas só com atributo 10 (o máximo): d20 selecionado em 20 natural, margem reduzida em 1 por atributo bônus de itens, habilidades ou magias. Traz benefício adicional contextual; não será usado no primeiro playtest.
 - **Golpe Pesado/Brutal:** resultados de ataque em Defesa +5/+10; +1/+2 dano, sem somar os dois. Não usam pleno/extremo.
 - **Golpe Devastador:** manobra aprendida com Pesada; não é sinônimo de pleno.
 - **Alma:** reservas de Corpo, Mente e Espírito, média arredondada dos atributos + bônus de espécie.

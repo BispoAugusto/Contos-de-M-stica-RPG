@@ -1,10 +1,14 @@
-# Estado do projeto — 2026-11-09
+# Estado do projeto — 2026-11-10
+
+## 2026-11-10 — Extremo por margem do d20 em atributo 10
+
+**Confirmado pelo criador para playtest.** Extremo só com atributo 10 (o máximo), na margem do 20 natural; atributos bônus de itens, habilidades ou magias reduzem a margem. Funciona como o pleno com um benefício adicional contextual e não será usado no primeiro playtest. Regra em [testes](regras/fundamentos/testes.md#extremo); registro em [decisões](design/decisoes.md). Pendentes: efeito do atributo bônus em pleno/Alma/limite, piso da margem e o benefício do extremo.
 
 ## 2026-11-09 — Pressão com proficiência pela metade e pleno por margem do d20
 
 **Confirmado pelo criador para playtest.** Sob pressão, a proficiência vale metade; se o d20 selecionado cair na margem de pleno (21 − atributo ou mais; atributo 1 = só o 20), soma o bônus inteiro. Substitui o teto de 2 × atributo e o pleno por DT + 10 − atributo. Regra em [testes](regras/fundamentos/testes.md); registro em [decisões](design/decisoes.md).
 
-**Em aberto:** extremo precisa ser redefinido; confirmar se o pleno vale fora de pressão e se exige alcançar a DT (interpretações do assistente); fichas de NPCs, mesa-web e exemplos antigos ainda mostram o teto antigo. Balanceamento depende de playtest.
+**Em aberto:** confirmar se o pleno vale fora de pressão e se exige alcançar a DT (interpretações do assistente); fichas de NPCs, mesa-web e exemplos antigos ainda mostram o teto antigo. Balanceamento depende de playtest.
 
 ## 2026-11-04 — Armadura, Defesa, Esquivar e tipos físicos
 

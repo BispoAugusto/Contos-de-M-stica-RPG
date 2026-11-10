@@ -11,7 +11,7 @@ Data/versão, participantes e fichas; atributos, níveis de proficiência e bôn
 - Comparar atributos 0, 1, 3 e 10, com e sem pressão; bônus de níveis 0–5, sem soma do atributo.
 - Pressão (regra de 09/11/2026): atributo 3, nível 3 (+6): margem 18–20; bônus esperado sob pressão ≈ 3 + 0,15 × 3 = 3,45. Atributo 1, mesmo nível: ≈ 3,15. Atributo 10, nível 5 (+10): ≈ 7,5. Medir se a pressão ficou dura demais para atributos médios e proficiências altas.
 - Conferir se, com Vantagem/Desvantagem, a margem de pleno no d20 selecionado muda demais a frequência de pleno.
-- Extremo: pendente de definição.
+- Extremo (só atributo 10, 20 natural; atributos bônus reduzem a margem): fora do primeiro playtest. Testar depois, junto com itens, habilidades e magias que concedam atributo bônus.
 - Vantagens/Desvantagens cumulativas, naturais selecionados, empates e ambos com 20.
 - Forçar após conhecer resultado, antes da consequência, preservando desvantagens; medir gasto da reserva e PE quando vazia.
 - Morte: sem bônus, Vantagem, Desvantagem ou rerrolagem; DT crescente na cena.
