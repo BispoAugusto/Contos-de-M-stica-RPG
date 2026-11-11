@@ -19,7 +19,7 @@ Reflexo é a abordagem, não um bônus somado ao dado. O antigo requisito de tre
 
 Ataque total 16, Vigor +4: dado selecionado 12 resulta em empate e não evita; 13 resulta em 17 e evita. Com média/pesada e sem outros modificadores, role 2d20 e selecione o menor.
 
-**Pendente de compatibilidade:** confirmar a incidência do teto sob pressão enquanto o modelo A está em playtest e o tratamento dos naturais 1/20 frente à comparação estrita. Até definição, a comparação estrita é a regra específica desta reação; registrar a arbitragem de pressão da sessão.
+**Pendente de compatibilidade:** confirmar a incidência da regra de pressão (proficiência pela metade, inteira na margem de pleno) enquanto o modelo A está em playtest e o tratamento dos naturais 1/20 frente à comparação estrita. Até definição, a comparação estrita é a regra específica desta reação; registrar a arbitragem de pressão da sessão.
 
 ## Bloquear e resistências
 

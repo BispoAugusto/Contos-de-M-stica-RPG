@@ -46,7 +46,7 @@ Corpo de Borin: teto(7/3) +2 =5; PV 6 +2×5 +3 de Robustez =19. Nilo: teto(6/3) 
 | Acrobacia | Nível 0 | Nível 1, +2 (1 PP) |
 | Total | 7 PP | 7 PP |
 
-Lucidez, Convicção e demais proficiências não compradas: nível 0. Comum fluente gratuito. Testes de atributo sob pressão limitam a proficiência a 2 × atributo; atributos não somam ao dado. Ataques comuns não usam esse teto; direcionados usam Foco. O grau 1 de arma normalmente concede uma manobra aprendida: fica **fora da comparação-base**, por recorte sem habilidades/manobras. Para módulo separado, Borin pode escolher Golpe Devastador e Nilo Golpe de Derrubada, registrando o aprendizado antes de usar; não são benefícios automáticos das propriedades.
+Lucidez, Convicção e demais proficiências não compradas: nível 0. Comum fluente gratuito. Testes de atributo sob pressão usam a proficiência pela metade, inteira se o d20 cair na margem de pleno (regra de 09/11/2026, que substituiu o teto de 2 × atributo); atributos não somam ao dado. Ataques comuns não usam essa regra; direcionados usam Foco. O grau 1 de arma normalmente concede uma manobra aprendida: fica **fora da comparação-base**, por recorte sem habilidades/manobras. Para módulo separado, Borin pode escolher Golpe Devastador e Nilo Golpe de Derrubada, registrando o aprendizado antes de usar; não são benefícios automáticos das propriedades.
 
 ## Equipamentos e ataques
 

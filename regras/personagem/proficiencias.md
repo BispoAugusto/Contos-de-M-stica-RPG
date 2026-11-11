@@ -29,7 +29,7 @@ Exemplo com cinco pontos: Atletismo 1, Esquiva 1, Espadas 1, História 1 + Natur
 |---|---|---|---|---|---|---|
 | Bônus | +0 | +2 | +4 | +6 | +8 | +10 |
 
-Gerais, resistências, conhecimentos, profissionais e famílias de armas usam essa escala. Sob pressão, o **bônus usado no teste** fica limitado a 2 × atributo; o nível aprendido não diminui. Atributo não soma à rolagem. A base das armas naturais das Feras usa o nível de Golpes Desarmados, não seu bônus numérico nem o bônus limitado.
+Gerais, resistências, conhecimentos, profissionais e famílias de armas usam essa escala. Sob pressão, o **bônus usado no teste** vale metade (igual ao nível), salvo se o d20 cair na margem de pleno, quando vale inteiro; o nível aprendido não diminui. Atributo não soma à rolagem. A base das armas naturais das Feras usa o nível de Golpes Desarmados, não seu bônus numérico nem o bônus reduzido pela pressão.
 
 Idiomas têm escala própria: Amador +0; Fluente +2 quando precisar testar. Armaduras são acesso e escudos são proficiência de uso, sem bônus automático +2 a +10. O efeito de usar escudo sem proficiência permanece pendente.
 

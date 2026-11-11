@@ -7,7 +7,7 @@
 
 **Lista aprovada para playtest — atualizada em 2026-10-19.** São **27 perícias nomeadas**: três resistências, dezesseis gerais e oito conhecimentos, além das profissionais personalizadas.
 
-Atributos são sugestões e podem mudar conforme a abordagem. Não somam ao teste: **1d20 + proficiência + modificadores**, com teto de **2 × atributo** para a proficiência sob pressão. Ver [testes](../fundamentos/testes.md) e [compra de níveis](proficiencias.md).
+Atributos são sugestões e podem mudar conforme a abordagem. Não somam ao teste: **1d20 + proficiência + modificadores**, com a proficiência pela **metade** sob pressão, inteira se o d20 cair na margem de pleno do atributo. Ver [testes](../fundamentos/testes.md) e [compra de níveis](proficiencias.md).
 
 ## Resistências — destacadas na ficha
 

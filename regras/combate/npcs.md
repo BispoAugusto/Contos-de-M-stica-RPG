@@ -26,7 +26,7 @@
 
 Os três números substituem a lista de atributos na referência de graus do NPC. Identificar qual Parte corresponde à abordagem de cada teste de atributo. **Não somá-los automaticamente à rolagem.** Perícias só aparecem se treinadas; omitir uma perícia não cria proficiência gratuita.
 
-**Pendente de detalhamento:** escala/faixa desses três números e aplicação operacional aos limiares de pleno/extremo e ao teto de proficiência sob pressão. Não impor uma fórmula nova por inferência. Até isso ser definido, cada ficha de playtest deve registrar a referência de graus e qualquer arbitragem usada. Esses números não foram definidos como reservas gastáveis de Alma; não derivar PV, Defesa ou recursos pelas fórmulas dos jogadores automaticamente.
+**Pendente de detalhamento:** escala/faixa desses três números e aplicação operacional da margem de pleno e da proficiência pela metade sob pressão (regra de 09/11/2026). Não impor uma fórmula nova por inferência. Até isso ser definido, cada ficha de playtest deve registrar a referência de graus e qualquer arbitragem usada. Esses números não foram definidos como reservas gastáveis de Alma; não derivar PV, Defesa ou recursos pelas fórmulas dos jogadores automaticamente.
 
 ## Ataques próprios e economia de ações
 

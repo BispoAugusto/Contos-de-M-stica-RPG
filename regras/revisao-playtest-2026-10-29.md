@@ -29,7 +29,7 @@ Esta é uma consolidação em suplemento: os capítulos anteriores recebem aviso
 | 25 | Muito difícil |
 | 30 | Excepcional |
 
-Sem risco relevante, dispensar teste. DT representa dificuldade básica; circunstâncias podem modificar o teste, sem cobrar o mesmo obstáculo duas vezes. Pressão não aumenta automaticamente a DT: mantém o teto de proficiência. Falta de requisito indispensável não é resolvida com DT alta. Testes opostos e DTs específicas, como Analisar, não são substituídos por esta tabela.
+Sem risco relevante, dispensar teste. DT representa dificuldade básica; circunstâncias podem modificar o teste, sem cobrar o mesmo obstáculo duas vezes. Pressão não aumenta automaticamente a DT: reduz a proficiência à metade, salvo na margem de pleno (regra de 09/11/2026). Falta de requisito indispensável não é resolvida com DT alta. Testes opostos e DTs específicas, como Analisar, não são substituídos por esta tabela.
 
 ## 2. Defesas, armaduras, escudos e carga
 
