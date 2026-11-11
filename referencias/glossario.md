@@ -7,9 +7,9 @@
 - **Proficiência:** nível aprendido; em escala comum, níveis 1–5 dão +2 a +10, nível 0 dá +0.
 - **Pressão:** perigo imediato, urgência real ou interferência ativa; o bônus de proficiência vale metade, salvo se o d20 cair na margem de pleno, quando vale inteiro.
 - **Padrão:** sucesso na DT, ainda sujeito a consequências narrativas.
-- **Pleno:** d20 selecionado em 21 − atributo ou mais (atributo 1: só o 20), com total que alcança a DT; sucesso sem penalidades narrativas, respeitando custos explícitos. Sob pressão, devolve a proficiência inteira.
-- **Margem de pleno:** faixa de naturais do d20 definida pelo atributo, como a margem de um crítico: atributo 1 = 20; 2 = 19–20; 3 = 18–20; atributo 0 não tem margem.
-- **Extremo:** como o pleno, mas só com atributo 10 (o máximo): d20 selecionado em 20 natural, margem reduzida em 1 por atributo bônus de itens, habilidades ou magias. Traz benefício adicional contextual; não será usado no primeiro playtest.
+- **Pleno:** d20 selecionado em 20 − atributo ou mais (atributo 0: só o 20; atributo 10, o máximo: 10–20), com total que alcança a DT; sucesso sem penalidades narrativas, respeitando custos explícitos. Sob pressão, devolve a proficiência inteira.
+- **Margem de pleno:** faixa de naturais do d20 definida pelo atributo, como a margem de um crítico: atributo 0 = 20; 1 = 19–20; 2 = 18–20; atributo 10 = 10–20, o máximo (atributos bônus não ampliam a margem de pleno).
+- **Extremo:** como o pleno, mas só com atributo 10 (o máximo): d20 selecionado em 20 natural, margem reduzida em 1 por atributo bônus de itens, habilidades ou magias (atributo 11 = 19–20, 12 = 18–20). Traz benefício adicional contextual; não será usado no primeiro playtest.
 - **Golpe Pesado/Brutal:** resultados de ataque em Defesa +5/+10; +1/+2 dano, sem somar os dois. Não usam pleno/extremo.
 - **Golpe Devastador:** manobra aprendida com Pesada; não é sinônimo de pleno.
 - **Alma:** reservas de Corpo, Mente e Espírito, média arredondada dos atributos + bônus de espécie.

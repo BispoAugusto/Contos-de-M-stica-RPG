@@ -1,12 +1,16 @@
 # Histórico
 
+## 2026-11-11 — Margem de pleno 20 − atributo e margem de extremo
+
+**Confirmado pelo criador para playtest.** Corrige as margens: pleno em 20 − atributo (atributo 0 = 20 natural; atributo 10 = 10–20, o máximo); atributos bônus não ampliam o pleno. A margem de extremo (só atributo 10) começa no 20 natural e desce 1 por atributo bônus (11 = 19–20). Benefício do extremo ficará para o futuro. Atualizados testes, guias, glossário, plano de playtests e registros.
+
 ## 2026-11-10 — Extremo por margem do d20 em atributo 10
 
 **Confirmado pelo criador para playtest.** O extremo passa a existir só com atributo 10, na margem do 20 natural, reduzida por atributos bônus de itens, habilidades ou magias. Funciona como o pleno com benefício contextual e fica fora do primeiro playtest. Atualizados [testes](regras/fundamentos/testes.md), guia rápido, glossário e plano de playtests.
 
 ## 2026-11-09 — Pressão com proficiência pela metade e pleno por margem do d20
 
-**Confirmado pelo criador para playtest.** Sob pressão, a proficiência vale metade; o pleno passa a ocorrer quando o d20 selecionado cai em 21 − atributo ou mais, e devolve a proficiência inteira. Substitui o teto de 2 × atributo e o pleno por DT + 10 − atributo. Reescrito [testes](regras/fundamentos/testes.md) e harmonizados guias, glossário, perícias, proficiências, idiomas, iniciativa, defesas, NPCs e plano de playtests. Extremo marcado como pendente. Nenhum playtest executado.
+**Confirmado pelo criador para playtest.** Sob pressão, a proficiência vale metade; o pleno passa a ocorrer quando o d20 selecionado cai em 20 − atributo ou mais (corrigido em 11/11), e devolve a proficiência inteira. Substitui o teto de 2 × atributo e o pleno por DT + 10 − atributo. Reescrito [testes](regras/fundamentos/testes.md) e harmonizados guias, glossário, perícias, proficiências, idiomas, iniciativa, defesas, NPCs e plano de playtests. Extremo marcado como pendente. Nenhum playtest executado.
 
 ## 2026-11-04 — Armadura, Defesa, Esquivar e tipos físicos
 

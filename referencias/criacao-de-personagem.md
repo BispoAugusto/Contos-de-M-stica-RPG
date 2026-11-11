@@ -160,9 +160,9 @@ Fluxo usa Sintonia como sugestão e mede controle espiritual/mana; sua aplicaç�
 
 ### Bônus sob pressão
 
-Registre o bônus normal da proficiência. Quando houver teste sob pressão, use **metade** do bônus; se o d20 cair na **margem de pleno** do atributo escolhido (21 − atributo ou mais), use o bônus inteiro.
+Registre o bônus normal da proficiência. Quando houver teste sob pressão, use **metade** do bônus; se o d20 cair na **margem de pleno** do atributo escolhido (20 − atributo ou mais), use o bônus inteiro.
 
-Exemplo: proficiência 2 dá +4, mas sob pressão usa +2. Com atributo 1, só um 20 natural devolve o +4; com atributo 3, 18, 19 ou 20. Fora de pressão, usa +4. O nível aprendido permanece 2.
+Exemplo: proficiência 2 dá +4, mas sob pressão usa +2. Com atributo 1, 19 ou 20 natural devolvem o +4; com atributo 3, 17 a 20. Fora de pressão, usa +4. O nível aprendido permanece 2.
 
 **Anote na ficha:** níveis, bônus normais, pontos gastos e acessos de equipamento. Comprar proficiência **não concede o equipamento**. [Compra e exceções](../regras/personagem/proficiencias.md).
 

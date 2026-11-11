@@ -1,6 +1,6 @@
 # Testes, pressão e graus de sucesso
 
-> **Atualização de 09/11/2026:** sob pressão a proficiência vale metade e o **pleno** passa a ser definido por uma margem no d20, ligada ao atributo. Isso substitui o teto de 2 × atributo e o pleno por "DT + 10 − atributo". O **extremo** (10/11/2026) passa a existir só com atributo 10, na margem do 20 natural. O registro está em [decisões](../../design/decisoes.md).
+> **Atualização de 09/11/2026:** sob pressão a proficiência vale metade e o **pleno** passa a ser definido por uma margem no d20, ligada ao atributo. Isso substitui o teto de 2 × atributo e o pleno por "DT + 10 − atributo". A margem de pleno é 20 − atributo (atributo 0 = 20; atributo 10 = 10–20, o máximo). O **extremo** (10/11/2026) existe só com atributo 10, no 20 natural, e atributos bônus o reduzem. O registro está em [decisões](../../design/decisoes.md).
 
 > **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
 
@@ -28,20 +28,20 @@ A metade afeta **somente o bônus de proficiência na rolagem**, não modificado
 
 ## Margem de pleno
 
-A margem funciona como a de um crítico: com **atributo 1**, o pleno ocorre no **20 natural**, e cada ponto de atributo aumenta a margem em 1 número abaixo. Ou seja, o pleno ocorre quando o d20 selecionado é **21 − atributo ou mais**.
+**Confirmado pelo criador (11/11/2026).** A margem funciona como a de um crítico: com **atributo 0**, o pleno ocorre no **20 natural**, e cada ponto de atributo desce a margem em 1. Ou seja, o pleno ocorre quando o d20 selecionado é **20 − atributo ou mais**. O atributo vai até **10**, e a margem de pleno para nele: **10 é a menor margem de pleno possível**, e atributos bônus acima de 10 não a ampliam.
 
-| Atributo | 0 | 1 | 2 | 3 | 4 | 5 | 10 |
+| Atributo | 0 | 1 | 2 | 3 | 4 | 5 | 10 (máximo) |
 |---|---|---|---|---|---|---|---|
-| Margem de pleno | nenhuma | 20 | 19–20 | 18–20 | 17–20 | 16–20 | 11–20 |
-| Chance no d20 | 0% | 5% | 10% | 15% | 20% | 25% | 50% |
+| Margem de pleno | 20 | 19–20 | 18–20 | 17–20 | 16–20 | 15–20 | 10–20 |
+| Chance no d20 | 5% | 10% | 15% | 20% | 25% | 30% | 55% |
 
-Atributo 0 não tem margem de pleno e não impõe Desvantagem sozinho. Com Vantagem ou Desvantagem, a margem vale para o d20 selecionado, como os demais naturais.
+Atributo 0 não impõe Desvantagem sozinho. Com Vantagem ou Desvantagem, a margem vale para o d20 selecionado, como os demais naturais.
 
 Exemplos, todos sob pressão:
 
-- Atributo 1, proficiência nível 2 (+4): usa **1d20 +2**. Só com 20 natural soma +4.
-- Atributo 3, proficiência nível 3 (+6): usa **1d20 +3**. Com 18, 19 ou 20 natural, soma +6. Um 12 natural dá 15 no total; um 18 dá 24.
-- Atributo 10, proficiência nível 5 (+10): usa **1d20 +5**. Com 11 ou mais, soma +10.
+- Atributo 1, proficiência nível 2 (+4): usa **1d20 +2**. Com 19 ou 20 natural, soma +4.
+- Atributo 3, proficiência nível 3 (+6): usa **1d20 +3**. Com 17, 18, 19 ou 20 natural, soma +6. Um 12 natural dá 15 no total; um 17 dá 23.
+- Atributo 10, proficiência nível 5 (+10): usa **1d20 +5**. Com 10 ou mais, soma +10.
 
 ## Graus de sucesso
 
@@ -49,7 +49,7 @@ Exemplos, todos sob pressão:
 |---|---|
 | Padrão | Alcançar a DT: realiza a ação; consequências narrativas situacionais ainda podem ocorrer |
 | Pleno | d20 selecionado na margem de pleno **e** total alcançando a DT: sucesso sem penalidades narrativas |
-| Extremo | Só com **atributo 10**: d20 selecionado na margem de extremo (**20 natural**, reduzida por atributos bônus) e total alcançando a DT. Tem tudo do pleno e um benefício adicional contextual |
+| Extremo | Só com **atributo 10**: d20 selecionado na margem de extremo (**20 natural**, reduzida em 1 por atributo bônus) e total alcançando a DT. Tem tudo do pleno e um benefício adicional contextual (a definir) |
 
 Pleno não elimina custos explícitos, riscos preexistentes ou efeitos definidos por uma habilidade. Pleno não transforma falha em sucesso: se o total, já com a proficiência inteira, não alcança a DT, o teste falha.
 
@@ -57,15 +57,21 @@ Pleno não elimina custos explícitos, riscos preexistentes ou efeitos definidos
 
 ## Extremo
 
-**Confirmado pelo criador para playtest (10/11/2026).** O extremo funciona como o pleno, mas só existe para quem chegou a **atributo 10**, o máximo. Quem tem menos de 10 no atributo usado não alcança extremo.
+**Confirmado pelo criador para playtest (10 e 11/11/2026).** O extremo funciona como o pleno, mas só existe para quem chegou a **atributo 10**, o máximo. Quem tem menos de 10 no atributo usado não alcança extremo.
 
-- Com atributo 10, a margem de extremo é o **20 natural**.
-- O jogador pode **diminuir essa margem** ganhando **atributos bônus** por itens, habilidades ou magias. Cada ponto de bônus reduz a margem em 1: com +1 o extremo ocorre em 19–20, com +2 em 18–20.
+- Com atributo 10, a margem de extremo é o **20 natural**, enquanto a de pleno é 10–20.
+- O jogador pode **diminuir a margem de extremo** ganhando **atributos bônus** por itens, habilidades ou magias. Cada ponto de bônus acima de 10 reduz a margem de extremo em 1; a margem de pleno **continua em 10**.
+
+| Atributo (com bônus) | 10 | 11 | 12 | 13 |
+|---|---|---|---|---|
+| Margem de pleno | 10–20 | 10–20 | 10–20 | 10–20 |
+| Margem de extremo | 20 | 19–20 | 18–20 | 17–20 |
+
 - O extremo inclui tudo do pleno (sob pressão, a proficiência inteira) e acrescenta um benefício adicional contextual. Por enquanto ele **não se diferencia muito do pleno** e **não será usado no primeiro playtest**.
 
 A regra antiga "atributo 10 ou mais torna todo sucesso pleno" foi retirada, porque o pleno deixou de ser medido acima da DT.
 
-**Interpretações provisórias do assistente, a confirmar:** cada ponto de bônus reduz a margem em exatamente 1; o extremo também exige alcançar a DT. **Pendentes:** se o atributo bônus também amplia a margem de pleno, a reserva de Alma ou o limite do atributo; até onde a margem de extremo pode descer (ela não deve passar da margem de pleno, 11–20); o benefício contextual do extremo.
+**Interpretação provisória do assistente, a confirmar:** o extremo também exige alcançar a DT. **Pendentes:** o benefício contextual do extremo (o criador definirá futuramente); efeito do atributo bônus na reserva de Alma; piso da margem de extremo (quanto ela pode descer).
 
 ## Naturais e testes opostos
 

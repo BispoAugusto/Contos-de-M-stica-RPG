@@ -2,9 +2,11 @@
 
 ## Pressão e pleno — 09/11/2026
 
-- [x] Proficiência pela metade sob pressão; pleno por margem do d20 (21 − atributo) devolve a proficiência inteira.
+- [x] Proficiência pela metade sob pressão; pleno por margem do d20 (20 − atributo; teto no atributo 10 = 10–20) devolve a proficiência inteira.
 - [x] **Extremo (10/11):** só atributo 10, margem 20 natural, reduzida por atributos bônus; fora do primeiro playtest.
-- [ ] Extremo: confirmar 1 ponto de bônus = 1 de margem; efeito do atributo bônus na margem de pleno, na Alma e no limite do atributo; piso da margem (não passar da de pleno); benefício contextual do extremo.
+- [x] Extremo (11/11): 1 ponto de bônus = 1 de margem de extremo (11 = 19–20); o bônus não amplia a margem de pleno, que para em 10–20.
+- [ ] Extremo: efeito do atributo bônus na reserva de Alma; piso da margem de extremo; **benefício contextual do extremo** (o criador definirá futuramente).
+- [ ] Confirmar se o extremo também exige alcançar a DT (interpretação do assistente).
 - [ ] Confirmar com o criador: o grau pleno vale fora de pressão? Pleno exige alcançar a DT? (Interpretações do assistente.)
 - [ ] Compatibilidade de Esquivar com a nova regra de pressão (já listada acima como pendente).
 - [ ] NPCs: usar Corpo/Mente/Espírito como atributo da margem de pleno é hipótese local de playtest.

@@ -1,18 +1,24 @@
 # Decisões registradas
 
+## 2026-11-11 — Margem de pleno 20 − atributo (teto em 10) e margem de extremo
+
+**Confirmado pelo criador para playtest.** Corrige a margem das decisões de 09 e 10/11. Margem de pleno: **atributo 0 = 20 natural, 1 = 19–20, 2 = 18–20, e assim por diante até o atributo 10 = 10–20**, que é o máximo (o pleno ocorre com d20 ≥ 20 − atributo). Atributos bônus acima de 10 **não ampliam** a margem de pleno. A margem de extremo, que só existe com atributo 10, começa no **20 natural** e **desce 1 por atributo bônus**: atributo 11 = 19–20, 12 = 18–20. O benefício do extremo será definido futuramente; segue fora do primeiro playtest.
+
+Resolve as pendências de 10/11: 1 ponto de bônus = 1 de margem de extremo, e o bônus não amplia o pleno. **Continuam pendentes:** efeito do atributo bônus na Alma, piso da margem de extremo e o benefício do extremo. Regra em [testes](../regras/fundamentos/testes.md#margem-de-pleno).
+
 ## 2026-11-10 — Extremo por margem do d20 em atributo 10
 
 **Confirmado pelo criador para playtest.** O extremo funciona como o pleno, mas só existe com **atributo 10**, o máximo. A margem de extremo é o **20 natural**; o jogador pode diminuí-la ganhando **atributos bônus** por itens, habilidades ou magias. O sucesso extremo por ora não se diferencia muito do pleno e **não será usado no primeiro playtest**. Resolve o extremo deixado pendente em 09/11 e retira "atributo 10 torna todo sucesso pleno".
 
-**Interpretações provisórias do assistente, a confirmar:** cada ponto de bônus reduz a margem em 1; o extremo também exige alcançar a DT. **Pendentes:** efeito do atributo bônus na margem de pleno, na Alma e no limite do atributo; piso da margem de extremo (não passar da de pleno); benefício contextual do extremo. Regra em [testes](../regras/fundamentos/testes.md#extremo).
+**Interpretação provisória do assistente, a confirmar:** o extremo também exige alcançar a DT. **Pendentes:** efeito do atributo bônus na Alma; piso da margem de extremo; benefício contextual do extremo. (A margem por bônus e o efeito sobre o pleno foram definidos em 11/11.) Regra em [testes](../regras/fundamentos/testes.md#extremo).
 
 ## 2026-11-09 — Pressão com proficiência pela metade e pleno por margem do d20
 
-**Confirmado pelo criador para playtest.** Sob pressão, o bônus de proficiência vale **metade** (nível 2 dá +2 em vez de +4; o bônus sob pressão é igual ao nível). Se o d20 selecionado cair na **margem de pleno**, soma o bônus **inteiro**. A margem funciona como a de um crítico: atributo 1 = 20 natural, e cada ponto de atributo acrescenta um número abaixo (2 = 19–20, 3 = 18–20, 10 = 11–20). Isso substitui o teto de 2 × atributo e o pleno por "DT + 10 − atributo". Atributo 0 não tem margem de pleno.
+**Confirmado pelo criador para playtest.** Sob pressão, o bônus de proficiência vale **metade** (nível 2 dá +2 em vez de +4; o bônus sob pressão é igual ao nível). Se o d20 selecionado cair na **margem de pleno**, soma o bônus **inteiro**. A margem funciona como a de um crítico (valores corrigidos em 11/11: atributo 0 = 20 natural, 1 = 19–20, 10 = 10–20). Isso substitui o teto de 2 × atributo e o pleno por "DT + 10 − atributo".
 
 **Interpretações provisórias do assistente, a confirmar:** o grau pleno (sucesso sem penalidades narrativas) também passa a depender da margem fora de pressão; pleno exige que o total alcance a DT; o extremo, que dependia do pleno medido acima da DT, fica **pendente de revisão**; a regra "atributo 10 torna todo sucesso pleno" foi retirada.
 
-Efeitos observados para o playtest: atributos baixos com proficiência alta ganham (atributo 1, +6: de +2 para ≈ +3,15 esperado) e atributos médios com proficiência alta perdem (atributo 3, +6: de +6 para ≈ +3,45). Ataques comuns não são afetados. Mesa-web e fichas de NPCs ainda mostram o antigo teto e precisam de conversão. Nenhum playtest foi executado.
+Efeitos observados para o playtest: atributos baixos com proficiência alta ganham (atributo 1, +6: de +2 para ≈ +3,3 esperado) e atributos médios com proficiência alta perdem (atributo 3, +6: de +6 para ≈ +3,6; atributo 10, +10: de +10 para ≈ +7,75). Valores recalculados em 11/11 com a margem corrigida. Ataques comuns não são afetados. Mesa-web e fichas de NPCs ainda mostram o antigo teto e precisam de conversão. Nenhum playtest foi executado.
 
 ## 2026-11-04 — Armadura, Defesa, Esquivar e tipos físicos
 
