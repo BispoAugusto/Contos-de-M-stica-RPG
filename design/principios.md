@@ -1,5 +1,9 @@
 # Princípios
 
+## Direção vigente — 2026-11-16
+
+Atributos representam abordagens e fornecem dados; proficiências representam treino e somam bônus. Ambos devem fazer diferença perceptível sem cálculos intermediários de pressão. Sandbox com dificuldades do mundo, preparação, informações, retirada e consequências persistentes. Evolução amplia opções e competência, preservando mortalidade; recursos e proteções não dispensam escolhas. Testar ajuda, repetição e descansos em cenas reais antes de ampliar poderes.
+
 - Decisões com consequências e agência narrativa.
 - Combate tático sem grid obrigatório; faixas de distância.
 - Quatro PA unificam ações e reações.
@@ -11,7 +15,7 @@
 
 ## Integração de 2026-10-19
 
-Atributos não somam ao teste: graduam o uso da proficiência sob pressão e a qualidade do sucesso. Alma permite insistir mantendo o risco das desvantagens. Origens são categorias de espécies; porte é separado dos traços. Preservar decisões provisórias e lacunas, sem inventar progressão, fabricação ou recursos de magia.
+**Histórico, substituído em 16/11:** atributos graduavam o uso da proficiência sob pressão e a qualidade do sucesso. Alma permite insistir mantendo o risco das desvantagens. Origens são categorias de espécies; porte é separado dos traços. Preservar decisões provisórias e lacunas, sem inventar progressão, fabricação ou recursos de magia.
 
 ## Direção aprovada — 2026-10-25
 

@@ -1,38 +1,45 @@
 # Preparar Ação, Ajudar e Atrapalhar
 
-> **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
+[Índice de regras](../README.md) · [Categoria](README.md)
 
-
-[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
-
-**Atualização de 2026-10-25.** Ações universais permitem improvisações justificáveis pela narrativa, sem uma ação genérica “Improvisar”. O mestre escolhe atributo e proficiência pela abordagem. Preparação, treino, conhecimento, equipamentos e posicionamento devem importar; recompensas podem ser dano, controle ou vantagem.
+**Ajudar atualizado por decisão do criador em 16/11/2026; demais intervenções preservam seu alcance.** Ações criativas exigem contribuição possível na ficção, não uma ação genérica chamada Improvisar.
 
 ## Preparar Ação
 
-**Aprovado para playtest.** No próprio turno, declarar uma condição específica e uma ação de custo **1 PA**. Reservar **1 PA**, mantendo-o disponível: não pagar antecipadamente nem cobrar um PA extra pela preparação.
+No próprio turno, declare condição e ação de 1 PA, reservando 1 PA do saldo disponível. Não se paga antecipadamente nem se cobra PA extra pela preparação. Quando o gatilho ocorrer e o personagem puder agir, executar consome o PA reservado.
 
-A preparação vale até o início do próximo turno do personagem, quando termina antes de usar o novo orçamento. A mudança de rodada, por si só, não a encerra. Quando a condição ocorrer, se puder agir, o personagem pode executar a ação e gastar o PA reservado. Se o gatilho não ocorrer ou a ação se tornar impossível, o PA não é gasto. Usar esse PA para outra finalidade cancela a preparação correspondente. A renovação normal ocorre no início do próprio turno, sem acumular sobras.
-
-**Decisão de 2026-10-26:** preservada a preparação entre turnos do personagem. A proposta de expirar ao fim da rodada não foi adotada; a renovação de PA voltou ao início do próprio turno.
-
-Preparar não elimina reações defensivas: **Esquivar e Bloquear não precisam ser preparados**. Outras exceções seguem regras/habilidades específicas; não retirar reações aprendidas já existentes por inferência.
-
-Exemplo: com 1 PA restante, preparar Ajudar quando um aliado tentar um teste. Se a ajuda for possível e o gatilho ocorrer, gastar esse PA e conceder +1d4. Se antes precisar gastar o mesmo PA ao Esquivar, a ajuda preparada é cancelada.
+A reserva vale até o início do próximo turno próprio, antes da renovação. Fim de rodada não a encerra. Usar o PA em outra finalidade cancela a preparação correspondente; uma mesma unidade de PA não sustenta duas reservas. Se não executar, não gasta. Esquivar e Bloquear continuam reações específicas sem preparação.
 
 ## Ajudar
 
-**Aprovado para playtest.** Ação independente, **1 PA**, concede **+1d4 ao teste de outro personagem**. Múltiplas ajudas acumulam seus dados. Cada contribuição deve ser possível e narrativamente justificável. Durante combate, ajudar fora do próprio turno exige Preparar Ação.
+No próprio turno, **fique adjacente ao aliado**, declare como vai ajudá-lo e **reserve 1 PA para cada dado de ajuda**. Cada contribuição deve ser possível e requer pelo menos nível 1 numa perícia relevante. A proximidade não pressupõe grid: é estar ao lado, em alcance de contato. A futura característica de Bardo poderá permitir ajuda à distância; não é permissão universal atual.
 
-Uma ajuda pode ser negada por Atrapalhar. Duas ajudas válidas não negadas concedem +2d4; não há um limite numérico de ajudas aprovado neste pacote. Isso não autoriza contribuição impossível ou duplicação sem justificativa.
+| Ordem das ajudas oferecidas pelo mesmo personagem no turno | Dado reservado |
+|---|---|
+| Primeira | d8 |
+| Segunda | d6 |
+| Terceira e seguintes | d4 |
 
-Substitui os modelos de primeira ajuda 1d6/segunda 1d4 e de teste com +1 por dez pontos. Ajuda aprimorada de Bardo precisa de revisão; não aplicar automaticamente a sequência 1d8/1d6/1d4.
+Trocar o aliado não reinicia a sequência. Esta redução substitui a desvantagem geral de repetição para Ajudar. Anote ajudante, aliado, dado e PA reservado. A reserva segue a duração e o cancelamento de Preparar Ação, sem custo adicional.
+
+Quando o aliado for realizar uma ação com teste compatível, **antes de rolar**, o ajudante pode oferecer um dos dados reservados. Nesse momento gasta o respectivo PA; o dado é rolado junto ao teste e somado ao resultado. Não se acrescenta a dano, cura ou ação sem teste por inferência. Não exige rolagem separada do ajudante.
+
+- **Um dado do mesmo ajudante por teste do aliado.** Se reservou três dados para esse aliado, pode beneficiar até três testes distintos; não soma seus três dados numa única rolagem.
+- **Ajudantes diferentes podem contribuir no mesmo teste:** somam-se seus dados, um por ajudante, cada qual com seu PA e contribuição válida. Não há limite universal de um dado total.
+- Um dado consumido não volta a ficar disponível após o teste. Forçar mantém o valor desse dado, sem reutilizá-lo em outro teste.
+- Reservar ajuda não concede PA nem pode usar PA já gasto ou comprometido com outra reserva.
+- Exemplo: Lia reserva d8 e d6 para Rui; Bia reserva d8 para Rui. No primeiro teste de Rui, Lia pode contribuir d8 e Bia d8 (total de ajuda 2d8). O d6 de Lia fica para outro teste compatível, dentro da validade da reserva.
+
+**Pendências operacionais:** a decisão exige adjacência ao declarar; não definiu se deve persistir até o consumo. Exigir que a contribuição continue possível, sem criar uma regra geral de alcance posterior. Também falta definir reordenação dos dados, transferência de alvo e se cancelar uma reserva devolve sua posição na sequência; não tratar cancelamento como recarga automática de d8. Registrar a arbitragem até decisão específica.
+
+Fora de combate, ajuda exige participação e tempo; num trabalho isolado sem sequência tática, usar d8 por ajudante e teste. Em cena cronometrada com ajudas sucessivas, estabelecer previamente a janela da sequência. Não usar múltiplas descrições da mesma contribuição para duplicar dados.
 
 ## Atrapalhar
 
-**Parcialmente definido.** Ação independente de Ajudar. Pode negar uma Ajuda concedida a outro personagem, com intervenção possível e narrativamente justificável. Intervenções fora do turno em combate exigem Preparar Ação.
+Conforme a revisão de 29/10, normalmente custa **1 PA** e aplica **−1d4**; contribuições justificadas podem acumular. Uma Ajuda pode negar um Atrapalhar e vice-versa. Fora do turno, respeitar Preparar Ação.
 
-**Pendências:** prejudicar testes sem Ajuda, disputa entre múltiplos ajudantes/atrapalhadores, teste adicional e custo próprio não explicitado no pacote. Preparar cobre ações de 1 PA; registrar essa lacuna antes de simular Atrapalhar, sem transformar por analogia o custo de Ajudar em regra aprovada. Não usar a antiga fórmula de −1 por dez pontos.
+**Pendente de integração com 16/11:** como a negação de um dado d8/d6/d4 afeta seu consumo, PA reservado e contribuições simultâneas. Não converter automaticamente Atrapalhar para a sequência nova de ajuda nem permitir que uma única intervenção apague todas as ajudas de aliados diferentes. Simular os casos sem disputa até fechar o procedimento.
 
 ## Outras ações universais
 
-[Analisar](aberturas.md#analisar) encontra informações táticas, com 1 PA provisório e resolução pendente. Essas ações não são manobras aprendidas e não herdam automaticamente o limite de uma manobra por rodada. Ataques preparados continuam sujeitos às regras existentes para ataques fora do turno.
+[Analisar](aberturas.md#analisar) custa 1 PA, usa Defesa do alvo como DT de referência e entrega informação útil. Repetir ainda exige nova pista ou mudança real, além da [penalidade de repetição](../fundamentos/testes.md#repetição-de-ações) quando aplicável. Manobras e reações preservam seus requisitos.

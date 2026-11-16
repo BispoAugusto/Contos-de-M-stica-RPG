@@ -1,5 +1,7 @@
 # Ideias futuras — não aprovadas como regras
 
+**Atualização 16/11:** a sequência d8/d6/d4 de ajuda foi aprovada com PA reservado, um dado por ajudante por teste e soma entre aliados. Os módulos sandbox agora constam de [exploração](../regras/exploracao/README.md) como provisórios. Os parágrafos datados anteriores não revogam essas decisões; apoio à distância por Bardo ainda depende de habilidade.
+
 ## Revisão de status — 2026-10-29
 
 Consultar a [revisão aprovada](../regras/revisao-playtest-2026-10-29.md) antes das propostas antigas. Equipamento inicial sem PEq, penalidades de armadura e diversos procedimentos foram aprovados posteriormente. Não tratar esses itens como ainda inteiramente propostos.
@@ -40,7 +42,7 @@ Não reutilizar a soma de atributos, as sequências numéricas de repetição, o
 
 ## Posturas e Aberturas — 2026-10-25
 
-Posturas serão estados ou estilos de combate, especialmente por habilidades. Mudar Postura para eliminar certas Aberturas permanece ideia futura. A orientação de descrever proteções e meios narrativos de proteger/modificar Aberturas de NPCs já foi aprovada; seus custos e procedimentos específicos devem constar na ficha. Revisar apoio especial/Bardo sem reaproveitar automaticamente 1d8/1d6/1d4. Ajudar comum agora é +1d4 acumulável.
+Posturas serão estados ou estilos de combate, especialmente por habilidades. Mudar Postura para eliminar certas Aberturas permanece ideia futura. A orientação de descrever proteções e meios narrativos de proteger/modificar Aberturas de NPCs já foi aprovada; seus custos e procedimentos específicos devem constar na ficha. Revisar apoio especial/Bardo sem reaproveitar automaticamente 1d8/1d6/1d4. Na versão histórica de outubro, Ajudar comum era +1d4 acumulável; substituído em 16/11.
 
 Fórmula de carga 8 +3 × Potência, conversão para quilogramas e penalidades de −2, Desvantagem ou requisitos físicos para armaduras não foram aprovadas. Peso em espaços e armaduras de 2/4/6 espaços foram aprovados posteriormente em 2026-10-25; preservar a capacidade atual. Os catálogos por materiais anteriormente sugeridos não são modelos adicionais deste playtest.
 

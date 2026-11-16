@@ -1,77 +1,69 @@
-# Guia rápido de mesa — 2026-10-25
+# Guia rápido de mesa — 2026-11-16
 
-> **Atualização 04/11/2026:** leve RD física 1, média 3, pesada 5. Médias/pesadas dão Desvantagem com Reflexo. Defesa 8 + bônus de Vigor. Esquivar custa 1 PA, rola Vigor com Reflexo e exige superar o ataque; sem proteção tem Vantagem. [Defesas](../regras/combate/defesas.md) e [tipos físicos](../regras/combate/tipos-de-dano.md) prevalecem nos exemplos ainda em conversão.
-
-## Atualização — 01/11/2026
-
-- Rodada simultânea na ficção; passar a iniciativa escolhe foco, podendo escolher aliado ou inimigo ainda sem agir.
-- Último participante pode escolher a si mesmo e dobrar PA do turno. Não são dois turnos completos nem gatilho automático de próximo turno; detalhes de contabilidade entre rodadas continuam pendentes.
-- Analisar (1 PA) observa sinais da ação/preparação do alvo sem passar-lhe iniciativa e inclui uma pergunta com teste apropriado. DT = Defesa base, salvo proteção do NPC; informações evidentes não exigem teste.
-- Consultar [iniciativa](../regras/combate/turnos-e-iniciativa.md) e [Analisar](../regras/combate/aberturas.md) para a regra vigente.
-
-
-> **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../regras/revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
-
+**Núcleo aprovado para playtest em 16/11/2026; sandbox provisório.** [Regras completas](../regras/README.md) · [Criação](criacao-de-personagem.md) · [Pendências](../design/pendencias.md).
 
 ## Testes
 
-**1d20 + proficiência + modificadores; nunca somar atributo.** Sob pressão: bônus de proficiência **pela metade** (igual ao nível); se o d20 cair na **margem de pleno**, soma o bônus inteiro. Dificuldade sozinha não é pressão. Atributo depende da abordagem.
+Declare intenção, abordagem, atributo e perícia. **Resultado = d20 escolhido + bônus integral de proficiência + modificadores + ajudas válidas.** Atributo não soma: fornece a quantidade básica de dados. Ataques usam base 1.
 
-| Grau | Exigência |
+**Q = base + vantagens − desvantagens.** Q ≥ 1: role Q d20 e escolha o maior. Q ≤ 0: role 2 − Q d20 e escolha o menor. Atributo 0 sem modificadores usa o menor de 2d20. Só o dado escolhido produz naturais: **1 falha, 20 sucede numa ação possível**.
+
+DTs: 5 muito fácil; 10 fácil; 15 moderada; 20 difícil; 25 muito difícil; 30 excepcional. A tarefa não fica mais difícil só porque a ficha melhorou. Sem risco/incerteza relevante, dispense rolagem; pressão não corta bônus.
+
+| Grau fora de ataques | Exigência |
 |---|---|
-| Padrão | DT |
-| Pleno | d20 selecionado em 20 − atributo ou mais (atributo 0: só 20; 1: 19–20; 2: 18–20; máximo 10: 10–20) e total alcançando a DT |
-| Extremo | Só atributo 10: 20 natural (cada atributo bônus reduz a margem em 1) e total alcançando a DT. Não usado no primeiro playtest |
+| Padrão | Alcançar a DT, ou 20 natural numa ação possível |
+| Pleno | Sucesso com total ≥ DT +5 |
+| Extremo | Inativo; nova regra pendente |
 
-Natural 1 falha; natural 20 sucede. Em opostos, use total adversário como DT; empate favorece iniciador. Sem iniciador, compare máximos das Partes de Alma correspondentes; igual novamente, rerrole empatados. Dois naturais 20 comparam totais.
+Em opostos, empate favorece iniciador. Sem iniciador, maior máximo da Parte de Alma usada, depois nova rolagem dos empatados. Conflitos entre naturais e totais ainda exigem arbitragem anunciada; consultar [testes](../regras/fundamentos/testes.md#naturais-e-testes-opostos).
 
-Vantagens/Desvantagens cancelam uma a uma; role 1 + saldo de d20, maior/menor. Forçar: 1 Alma correspondente (ou +1 PE com reserva vazia), uma vez, antes das consequências, rerrole tudo preservando condições e aceite o novo resultado. Nunca em ataques ou testes contra a morte; exceção para ataques dependerá de habilidade futura expressa.
+**Forçar:** só após falhar e antes das consequências; 1 Alma correspondente, ou 1 PE se a reserva estiver vazia. Uma vez por teste; rerrole todos os d20, mantenha modificadores e os valores de ajuda já rolados, aceite o novo resultado. Não vale para ataques nem Resistir à morte. Até o Limite dos Homens Altos preserva seu +2 ao Forçar por PE.
 
 ## Combate
 
-Jogadores: 4 PA iniciais; renovam no início do próprio turno, sem acumular. O fim da rodada não renova PA. Reações anteriores ao primeiro turno usam a reserva inicial sem reduzir a renovação desse turno; depois, é preciso poupar PA entre os próprios turnos. NE 4 reduz a renovação para 3. Atordoado desconta 2 após renovar no próximo turno, mínimo 0. Ataque/movimento Médio/interação simples: 1 PA. NPCs podem ter PA e custos próprios, registrados na ficha. Defesa 8 + bônus de Vigor; escudo +1. Ataques comuns usam proficiência da arma sem atributo nem teto; direcionados usam Foco sob pressão.
+4 PA iniciais; renovam no início do próprio turno, sem acumular. Reações anteriores ao primeiro turno usam a reserva inicial. Depois, poupe PA para reagir até seu próximo turno. NE 4 reduz a renovação para 3; Atordoado desconta até 2 após renovar. Ataque, movimento Médio e interação simples custam normalmente 1 PA. NPCs podem ter custos próprios.
 
-| Ataque do próprio turno | Comum | Com duas Leves |
-|---|---|---|
-| 1º | Normal | Normal |
-| 2º | 1 Desvantagem | Normal |
-| 3º | 2 Desvantagens | 1 Desvantagem |
-| Seguintes | +1 Desvantagem por ataque | +1 Desvantagem por ataque |
+Rodada representa simultaneidade; ao concluir, escolha aliado ou inimigo ainda sem agir. Último participante pode escolher a si mesmo e dobrar os PA do mesmo turno: não são dois turnos nem reinício de contadores. Contabilidade entre rodadas ainda tem pendências.
 
-Contagem compartilhada; a coluna especial só vale ao atacar com ambas. Fora do turno não conta/não penaliza.
+Repetir a mesma ação com teste no próprio turno: segunda execução sofre 1 desvantagem, terceira 2 etc. Cada ação tem contador; todos os ataques compartilham Agredir. Fora do turno não conta nem penaliza. Leve ignora a primeira penalidade de repetição, com uma ou duas armas; combinações mistas têm detalhes pendentes. Ajudar usa sua redução própria de dado.
 
-Dano = base +1 em pesado (Defesa +5) **ou** +2 em brutal (Defesa +10), +2 por 20 natural e demais efeitos. Impacto +1 em pesado/brutal. Duas Leves: menor proficiência, uma rolagem/1 PA, base principal + metade secundária para cima, uma instância.
-
-Golpe Devastador aprendido com Pesada: até 3 PA adicionais, +2 dano cada. Armas naturais das Feras: nível de Golpes Desarmados, mínimo 1, sem Leve.
+Dano = base +1 em pesado (Defesa +5) **ou** +2 em brutal (Defesa +10), +2 por 20 natural e efeitos aplicáveis. Pesado/brutal não se somam. Impacto +1 em pesado/brutal. Duas Leves: menor proficiência, uma rolagem/1 PA, base principal + metade secundária para cima, uma instância. Devastador aprendido com Pesada: até 3 PA adicionais, +2 dano cada. Ver [ataques](../regras/combate/ataques-e-dano.md).
 
 ## Defesa e dano
 
-Esquivar custa 1 PA, usa Vigor com Reflexo e deve superar o ataque. Sem proteção tem Vantagem; média/pesada dá Desvantagem. Bloquear segue o escudo; escolher uma reação por ocorrência.
+Defesa passiva = **8 + bônus de Vigor**, +1 com escudo treinado. Esquivar: declarar antes do resultado, 1 PA, **dados de Reflexo + Vigor**, total estritamente maior que ataque. Sem proteção: 1 vantagem; média/pesada: 1 desvantagem. Se falhar, ataque conserva seu grau contra Defesa passiva. Interação de naturais com comparação estrita permanece pendente.
 
-Armadura: RD física passiva 1/3/5, pesos 2/4/6. Médias/pesadas impõem Desvantagem com Reflexo. Sem proteção, Vantagem apenas em Esquivar.
+Bloquear: declarar antes do resultado, 1 PA; escudo básico dá RD física 2 treinado, 1 sem treino. Uma reação defensiva por ocorrência. Armadura passiva acompanha: leve/média/pesada RD física 1/3/5 e peso 2/4/6. Penalidades sem treino e sobrecarga estão em [equipamentos](../regras/equipamentos/armaduras-e-escudos.md).
 
-Tipos físicos: Contundente/Perfurante/Cortante. Outros: Fogo/Frio/Eletricidade/Ácido/Veneno/Profano/Radiante. RD específica por componente; geral uma vez sobre restante. Proteção incompatível não reduz dano, mesmo pagando custo.
+Tipos físicos: Contundente/Perfurante/Cortante. RD por tipo compatível; específica por componente, geral uma vez sobre o restante. Propriedades de Pesado/Brutal em [tipos de dano](../regras/combate/tipos-de-dano.md).
 
 ## Descanso e risco
 
-Curto 1h: **duas atividades diferentes**. Recuperar uma Parte = metade do máximo para cima; tratamento próprio =2 + Resiliência, outro =2 + bônus Medicina, remove Ferido. Armadura passiva não exige reposição de cargas. Um tratamento por paciente; custa atividade de quem trata. Curto adequado reduz 2 PE (1 com NE 1).
+Curto adequado, 1h: **recupera automaticamente metade do máximo de cada reserva de Alma, para cima**, a cada descanso válido. Não há limite de uma recuperação entre longos. Pausa contínua não vira várias recuperações por divisão do relógio. Mantém duas atividades diferentes para outras finalidades. Reduz 2 PE (1 com NE 1).
 
-Longo 8h adequado: toda vida/Alma e remove Ferido, provisoriamente; reduz todos PE e 1 NE. Falta de comida/água/sono impede reduzir PE e gera 1 por faltante. Namarés precisam beber e molhar-se, ou contam como com sede.
+Tratar feridas ocupa uma atividade de quem trata: em si, 2 + Resiliência PV; em outro, 2 + bônus de Medicina PV. Remove Ferido; um tratamento por paciente por curto. Exceções raciais em [descansos](../regras/recuperacao/descansos.md).
 
-5 PE →1 NE; 5 NE →colapso definitivo. Ferido na metade dos PV por dano bloqueia cura normal; exceções expressas permanecem. Cura efetiva de caído retorna exatamente 1 PV e remove Ferido.
+Longo adequado, 8h: todos PV/Alma, remove Ferido e PE, reduz 1 NE, não remove Sequelas. No sandbox, benefícios uma vez por 24h. Falta de comida/água/sono impede reduzir PE e gera 1 PE por requisito faltante. 5 PE viram 1 NE; 5 NE causam colapso definitivo.
 
-A 0 PV: Lutar Contra a Morte, Aceitar a Queda ou Último Ato. Lutar é **1d20 puro**, DT 10 +5 por nova tentativa na cena, sem qualquer modificador/rerrolagem; sucesso 1 PV, falha morte. 20 sempre sucede. Corpo de Gnomo entre dois morre a 0 sem escolhas; elas valem apenas no único corpo.
-
-Este resumo não fecha lacunas. Consultar [regras completas](../README.md) e [pendências](../design/pendencias.md).
+A 0 PV ou menos: **Resistir**, aceitar a queda ou última ação. Resistir usa dados do atributo apropriado (Resiliência sugerida) + Vigor; DT 10, +5 por nova tentativa, reinicia no descanso longo. Sucesso retorna a 1 PV; falha mata; 1 falha e 20 sucede, sem Forçar. Atingir o negativo do PV máximo mata antes dessa escolha. Queda mantém PV e gera Sequela; detalhes médicos/última ação continuam pendentes. Gnomos têm exceção para dois corpos. [Regra completa](../regras/recuperacao/morte-e-recuperacao.md).
 
 ## Preparação, apoio e Aberturas
 
-Preparar Ação: declarar gatilho no turno e reservar 1 PA para ação de 1 PA até o início do próximo turno do personagem, mesmo atravessando a rodada; gastar só se executar. Usar o PA em outra finalidade cancela a preparação. Ajudar: 1 PA, +1d4 ao teste de outro; dados de ajudas justificadas acumulam. Atrapalhar pode negar uma Ajuda, mas custo próprio/disputas/testes adicionais estão pendentes. Fora do turno em combate, ambas exigem Preparar Ação. [Procedimento](../regras/combate/acoes-taticas.md).
+Preparar reserva 1 PA no próprio turno para ação de 1 PA sob gatilho, até o início do próximo turno; gastar só ao executar. Usar esse PA de outro modo cancela a reserva.
 
-Analisar custa 1 PA, descreve a preparação aparente e permite uma pergunta com teste, sem passar a iniciativa. Veja [Analisar](../regras/combate/aberturas.md#analisar). Aberturas acessíveis são exploradas em Pesado/Brutal conforme a ficha, ignorando a RD da fonte indicada. Exposto ignora toda RD contra ataques.
+**Ajudar:** no próprio turno, adjacente ao aliado e com treino relevante, reserve 1 PA por dado. Sequência pessoal d8 → d6 → d4 → d4… Antes de um teste compatível do aliado, consuma a reserva e some o dado. **Um dado por ajudante por teste**; ajudantes diferentes podem somar. Dois dados do mesmo ajudante servem a testes distintos. Não cobra nova preparação nem outro PA ao executar. Alcance após declaração e cancelamentos têm detalhes pendentes.
 
-Equilíbrio é o novo nome da antiga Postura; funcionamento preservado. Posturas são futuros estilos/estados de combate.
+Atrapalhar preserva 1 PA/−1d4 e negação de uma Ajuda; interação exata com novos dados/reservas está pendente. [Ações táticas](../regras/combate/acoes-taticas.md).
+
+Analisar (1 PA) revela sinais da preparação e inclui pergunta com teste contra Defesa base, salvo ficha. Evidências claras não exigem teste; não passa iniciativa. Aberturas acessíveis permitem ignorar a RD da fonte indicada em Pesado/Brutal. Exposto ignora toda RD contra ataques. Equilíbrio é a antiga Postura; Posturas serão estilos futuros.
 
 ## NPCs de consulta rápida
 
-[Ficha simplificada](../regras/combate/npcs.md): Corpo/Mente/Espírito para referência de graus, só perícias treinadas, PV, Defesa base/com Esquiva, RD completa/parcial, PA, passivas, ações, reações e Equilíbrio quando pertinente. Ataques podem ser próprios, sem inventário. Descrever proteção, acesso às Aberturas, como protegê-las e situações que podem aplicar Exposto; números de ameaça e conversão exata dos graus ainda em desenvolvimento.
+[Ficha simplificada](../regras/combate/npcs.md): Corpo/Mente/Espírito, perícias treinadas, PV, Defesa, RD por fonte, PA, ações, reações, proteções e Aberturas. A conversão dos três atributos de NPC para quantidade de dados está pendente; fichas antigas não são adversários calibrados para o núcleo atual.
+
+## Sandbox provisório
+
+Exploração local: turnos de 10 min. Viagem: vigílias de 8h, três ao dia. Em perigo, evento d6 por vigília ou a cada seis turnos locais, sem cobrar duas vezes o mesmo intervalo. Consumo diário: uma ração e uma porção de água por pessoa, com necessidades específicas de espécies preservadas.
+
+Disposição incerta de NPCs: reação 2d6, sem bônus de perícia. Moral: 2d6 acima do valor provoca retirada/rendição/negociação; até duas checagens por grupo em combate. Facções: revisar semanalmente, começando com três. Projetos: três a seis etapas concretas. Atividades usam tempo, requisitos e custos anunciados; não concedem níveis automaticamente. [Exploração](../regras/exploracao/README.md) · [Moral e retirada](../regras/combate/moral-e-retirada.md).

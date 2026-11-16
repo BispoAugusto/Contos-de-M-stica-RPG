@@ -1,5 +1,7 @@
 # Contos de Mística — CdM RPG
 
+**Versão de 16/11/2026:** atributos fornecem d20, proficiência soma integralmente; Alma no curto é automática. [Decisões aprovadas](design/decisoes.md#2026-11-16--núcleo-de-dados-ajuda-e-sandbox). Procedimentos sandbox estão marcados como provisórios para playtest.
+
 Regras e guias do sistema autoral: nove atributos, três reservas de Alma, quatro PA e seis origens.
 
 ## Comece aqui
@@ -20,7 +22,7 @@ Regras e guias do sistema autoral: nove atributos, três reservas de Alma, quatr
 | [Origens e espécies](regras/origens/README.md) | Humanos, Féericos, Bestiais, Dracônicos, Verdantes e Rúnicos |
 | [Combate](regras/combate/README.md) | Turnos, ataques, defesas, dano, manobras, condições e Equilíbrio |
 | [Equipamentos](regras/equipamentos/README.md) | Armas, proteções, porte e inventário |
-| [Exploração](regras/exploracao/README.md) | Movimento e quedas |
+| [Exploração](regras/exploracao/README.md) | Viagens, suprimentos, encontros, atividades, facções, projetos, movimento e quedas |
 | [Descanso e sobrevivência](regras/recuperacao/README.md) | Descansos, tratamento, exaustão e morte |
 
 ## Acompanhe o desenvolvimento

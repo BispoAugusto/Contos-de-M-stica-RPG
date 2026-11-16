@@ -1,1 +1,14 @@
-{"name":"cdm-rpg-portal","private":true,"type":"module","scripts":{"build":"node site/build.mjs","preview":"node site/serve.mjs"},"dependencies":{"marked":"15.0.12","sanitize-html":"2.17.0"}}
+{
+  "name": "cdm-rpg-portal",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node site/build.mjs && node site/check.mjs",
+    "preview": "node site/serve.mjs",
+    "check": "node site/check.mjs"
+  },
+  "dependencies": {
+    "marked": "15.0.12",
+    "sanitize-html": "2.17.0"
+  }
+}

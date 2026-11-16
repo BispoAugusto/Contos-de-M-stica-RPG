@@ -1,5 +1,7 @@
 # Mesa web — modelo de card
 
+> **Protótipo histórico, não uma ficha vigente — 16/11/2026.** Estatísticas/defesas antigas estão preservadas para referência visual e dependem de conversão. O portal de regras não publica estes HTML: só indexa este README. Não inferir dados ou Alma dos NPCs a partir desses cartões.
+
 Primeiro componente do futuro site, solicitado em 2026-10-25. HTML/CSS sem framework, dependências, fontes remotas externas; JavaScript local apenas para abas. Não altera o portal de documentação existente em `site/` nem sua configuração de hospedagem.
 
 Abra `index.html` (Lobo) ou `legionario.html` (Legionário) diretamente no navegador. As ações usam `details`/`summary`, com expansão nativa por clique, Enter e Espaço. O layout responde à largura disponível.
@@ -9,7 +11,7 @@ Abra `index.html` (Lobo) ou `legionario.html` (Legionário) diretamente no naveg
 - Carregar `card.css` e `card.js`, copiar o `article.npc-card` e a pasta `assets/`. As regras do componente são prefixadas por `.npc-card`; `.card-demo`, `.demo-stage`, `.demo-label` e `.demo-hint` pertencem apenas à página demonstrativa.
 - Substituir textos e valores do HTML. Em múltiplos cards, usar IDs exclusivos nos títulos, seções e barra de vida, atualizando seus `aria-labelledby` e `for`.
 - Ícones originais fornecidos pelo criador, preservados em PNG transparente: Corpo vermelho, Mente azul, Espírito verde. Filtros CSS ajustam a luminosidade para fundo escuro sem editar os arquivos.
-- Números de pressão = dobro do atributo; representam o **teto da proficiência sob pressão**, não um bônus extra ao ataque. Exemplo: Corpo 2 → +4. São campos estáticos neste modelo; uma futura integração deverá calculá-los a partir dos dados.
+- O teto antigo de pressão foi retirado dos cartões. “Dados: a calibrar” sinaliza a conversão pendente dos atributos simplificados de NPC; não é um bônus.
 - Para vida, atualizar texto visível e os atributos `value`/`max` de `progress`. A barra é informativa, não um controle para alterar PV.
 - A seção de proteções mostra RD completa e restante em Abertura parcial. Não trocar por quantidade ignorada.
 

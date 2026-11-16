@@ -18,7 +18,7 @@
 ### Elfos
 
 - **Comunicação Vegetal:** comunicação rudimentar com plantas, limitada ao que elas podem perceber; não é conhecimento ilimitado.
-- **Transe Natural:** em descanso curto na natureza, escolher uma atividade de recuperar Alma concede +2 pontos adicionais, distribuídos entre reservas sem ultrapassar máximos. Uma vez por descanso, mesmo escolhendo duas atividades de Alma; não é benefício automático sem atividade.
+- **Transe Natural:** em descanso curto na natureza, dedicar uma atividade ao transe concede +2 pontos adicionais, distribuídos entre reservas sem ultrapassar máximos, uma vez por descanso. A recuperação básica de metade de cada reserva é automática e independente; o transe preserva a atividade exigida pelo benefício racial, sem duplicar a recuperação básica.
 
 ### Fadas
 

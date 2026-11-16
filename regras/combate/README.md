@@ -1,5 +1,7 @@
 # Combate — índice
 
+**Atualização de 16/11:** [ajuda reservada](acoes-taticas.md#ajudar), [repetição de ações](../fundamentos/testes.md#repetição-de-ações), [moral e retirada](moral-e-retirada.md). Moral e retirada são provisórios para playtest.
+
 [Todas as categorias](../README.md) · [Guia rápido de mesa](../../referencias/guia-rapido.md)
 
 ## Ordem de consulta
@@ -28,7 +30,7 @@ As regras foram separadas para consulta; valores provisórios e pendências cont
 ## Novas ações e vulnerabilidades — 2026-10-25
 
 - [Preparar Ação, Ajudar e Atrapalhar](acoes-taticas.md)
-- [Abertura, Analisar e ataque direcionado](aberturas.md)
+- [Abertura, Analisar e exploração de vulnerabilidades](aberturas.md)
 
 Equilíbrio substitui o nome Postura, mantendo o funcionamento. Posturas serão desenvolvidas futuramente.
 

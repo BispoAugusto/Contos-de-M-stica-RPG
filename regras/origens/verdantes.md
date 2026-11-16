@@ -4,7 +4,7 @@
 
 Nome adotado para a antiga proposta “Plantas”. Gnomos deixam os Féericos; Dríades integram Féericos.
 
-**Origem — Enraizamento:** em solo adequado, úmido/orgânico, uma atividade de descanso curto combina tratamento próprio (**remove Ferido, cura 2 + Resiliência**) e recuperação de **metade do máximo de Corpo, para cima**. Conta como ambas as atividades realizadas; não pode repeti-las. Ainda pode escolher uma segunda atividade diferente. Não é recuperação automática sem se enraizar.
+**Origem — Enraizamento:** em solo adequado, úmido/orgânico, uma atividade de descanso curto realiza tratamento próprio (**remove Ferido, cura 2 + Resiliência**). A recuperação de metade de Corpo, Mente e Espírito agora é automática para todos e não se repete pelo Enraizamento. Pode escolher outra atividade diferente. Não torna tratamento automático sem se enraizar. **Pendente:** rever o benefício diferencial da característica após a mudança de 16/11; nenhum benefício adicional foi presumido.
 
 
 ## Espécies, Alma e porte
@@ -28,7 +28,7 @@ Nome adotado para a antiga proposta “Plantas”. Gnomos deixam os Féericos; D
 - Dividir custa **1 PA**. Reunir custa **1 PA de uma das partes**.
 - Antes de dividir, o jogador anota a ficha integral.
 - Cada corpo recebe metade dos **PV atuais e máximos** e de cada **reserva atual e máxima de Alma**, arredondada para cima. Não recalcular PV pela fórmula de Corpo depois disso. Atributos/proficiências são os mesmos.
-- Cada corpo tem seus próprios **4 PA**, ações e reações; mesma posição de iniciativa, com ações intercaláveis e contagem própria de ataques repetidos.
+- Cada corpo tem seus próprios **4 PA**, ações e reações; mesma posição de iniciativa, com ações intercaláveis e contagem própria de ações repetidas.
 - As partes não podem ficar além de distância **Média** uma da outra.
 - Cada uma perde uma categoria de porte, mínimo Minúsculo: Pequeno vira dois Minúsculos; Médio, dois Pequenos; Grande, dois Médios.
 - Pode dispersar-se para passar em aberturas e ocupar espaços de criaturas, conforme o corpo e o equipamento comportem; isso não concede vantagem ofensiva/defensiva automática nem bloqueio de movimento gratuito.

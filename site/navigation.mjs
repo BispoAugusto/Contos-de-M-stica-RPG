@@ -2,9 +2,9 @@ const categories = [
   ['fundamentos', 'Fundamentos', ['README.md', 'visao-geral.md', 'atributos.md', 'testes.md', 'alma.md']],
   ['personagem', 'Personagem', ['README.md', 'proficiencias.md', 'pericias.md', 'idiomas.md', 'valores-da-ficha.md']],
   ['origens', 'Origens e espécies', ['README.md', 'humanos.md', 'feericos.md', 'bestiais.md', 'draconicos.md', 'verdantes.md', 'runicos.md']],
-  ['combate', 'Combate', ['README.md', 'turnos-e-iniciativa.md', 'ataques-e-dano.md', 'defesas.md', 'tipos-de-dano.md', 'manobras.md', 'condicoes.md', 'postura.md']],
+  ['combate', 'Combate', ['README.md', 'turnos-e-iniciativa.md', 'ataques-e-dano.md', 'defesas.md', 'tipos-de-dano.md', 'manobras.md', 'condicoes.md', 'acoes-taticas.md', 'aberturas.md', 'npcs.md', 'moral-e-retirada.md', 'postura.md']],
   ['equipamentos', 'Equipamentos', ['README.md', 'armas.md', 'armaduras-e-escudos.md', 'porte-e-inventario.md']],
-  ['exploracao', 'Exploração', ['README.md', 'movimento.md', 'quedas.md']],
+  ['exploracao', 'Exploração', ['README.md', 'tempo-e-viagens.md', 'suprimentos-e-acampamento.md', 'encontros-e-reacoes.md', 'atividades.md', 'faccoes-e-projetos.md', 'movimento.md', 'quedas.md']],
   ['recuperacao', 'Descanso e sobrevivência', ['README.md', 'descansos.md', 'exaustao.md', 'morte-e-recuperacao.md']],
 ];
 const starting = ['README.md', 'referencias/criacao-de-personagem.md', 'regras/README.md', 'referencias/guia-rapido.md', 'referencias/glossario.md', 'ESTADO-DO-PROJETO.md'];

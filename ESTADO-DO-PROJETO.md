@@ -1,4 +1,18 @@
-# Estado do projeto — 2026-11-11
+# Estado do projeto — 2026-11-16
+
+## Vigente — 2026-11-16
+
+**Núcleo aprovado, números em playtest.** Nove atributos 0–5 fornecem dados; proficiências somam integralmente; ataques mantêm base 1d20. Pleno em DT +5; extremo inativo. Criação: 12 pontos de atributo/6 PP antes da origem, limites iniciais 3/2. [Criação atual](referencias/criacao-de-personagem.md).
+
+Três reservas de Alma preservadas; Forçar só após falha, uma vez, por 1 Alma ou 1 PE se vazia, sem ataques/morte. Todo curto válido recupera automaticamente metade de cada máximo de Alma, para cima, e mantém atividades para outros usos. Esquivar usa Reflexo/Vigor; Resistir usa atributo/Vigor.
+
+Ajuda reserva PA no próprio turno adjacente ao alvo: d8/d6/d4, um dado por ajudante por teste, aliados diferentes somam. Repetição se estende às demais ações com teste, sem penalizar ajuda duas vezes.
+
+**Sandbox provisório para playtest:** [viagens, eventos, suprimentos, atividades e facções](regras/exploracao/README.md), [moral e retirada](regras/combate/moral-e-retirada.md). Revisar depois de jogar.
+
+**Pendentes:** detalhes de ajuda/Atrapalhar, naturais em opostos/Esquiva, conversão dos NPCs, diferencial de Enraizamento, progressão, extremo e demais lacunas preservadas. [Decisões](design/decisoes.md#2026-11-16--núcleo-de-dados-ajuda-e-sandbox) · [Plano de teste atual](planejamento/playtests.md).
+
+As entradas datadas abaixo são histórico. Regras de pressão pela metade, teto e margem natural não descrevem o núcleo atual. Fichas de outubro e mesa-web estão identificadas como material histórico a converter; não houve sessão de playtest nesta integração.
 
 ## 2026-11-11 — Margem de pleno 20 − atributo e margem de extremo
 

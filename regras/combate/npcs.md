@@ -1,5 +1,7 @@
 # NPCs — fichas simplificadas e combate PVE
 
+> **16/11/2026:** acrescentar Moral e objetivos da criatura quando aplicáveis, conforme [moral e retirada](moral-e-retirada.md). Os NPCs não recebem automaticamente as três reservas gastáveis de Alma dos jogadores. Fichas antigas continuam identificadas como hipóteses até conversão explícita.
+
 [Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
 
 **Direção e estrutura aprovadas — 2026-10-25.** O CdM terá foco em jogadores contra NPCs (PVE). Fichas de inimigos devem ser rápidas de consultar e sustentar combate tático e narrativo. Não precisam reproduzir a criação completa de personagens jogadores. Valores de ameaça, PA, vida e ataques ainda precisam de calibração por playtest.
@@ -9,24 +11,24 @@
 | Campo | Registro |
 |---|---|
 | Identidade e papel | Nome, descrição, função na cena e comportamento relevante |
-| Corpo, Mente e Espírito | Apenas os três números como referência para os graus dos testes; sem listar nove atributos |
+| Corpo, Mente e Espírito | Três referências simplificadas; conversão para dados ainda pendente, sem nove atributos |
 | Perícias importantes | Listar apenas as que possuem nível; anotar nível e bônus para consulta |
 | Vida | PV atuais/máximos, definidos para o NPC |
 | Defesa base | Valor pronto para uso |
 | Teste de Esquivar | Vigor, referência de Reflexo e modificadores por proteção; 1 PA, superar o ataque |
-| Reduções de dano | Perfil completo e parcial por tipo; indicar origem e condições das proteções |
+| Reduções de dano | RD por tipo e fonte; indicar limiar de abertura e condições das proteções |
 | Equilíbrio | Valor atual/máximo e efeitos, somente se fizer sentido para esse NPC |
 | PA | Orçamento renovado no início do próprio turno e configuração do encontro |
 | Passivas | Efeito, condições e limites de cada uma |
-| Ações e ataques únicos | PA, alcance/alvo, bônus do teste, Parte usada para graus, dano/tipo e efeitos |
+| Ações e ataques únicos | PA, alcance/alvo, bônus do teste, referência de dados quando aplicável, dano/tipo e efeitos |
 | Reações | Gatilho, PA/custo, efeito e frequência, quando houver |
 | Proteção e exposição | Descrição narrativa, Aberturas, como acessá-las/protegê-las e meios de aplicar Exposto |
 
 ## Corpo, Mente, Espírito e graus
 
-Os três números substituem a lista de atributos na referência de graus do NPC. Identificar qual Parte corresponde à abordagem de cada teste de atributo. **Não somá-los automaticamente à rolagem.** Perícias só aparecem se treinadas; omitir uma perícia não cria proficiência gratuita.
+Os três números são referências simplificadas de capacidade do NPC; sua conversão para o novo núcleo ainda precisa ser definida. Identificar qual Parte corresponde à abordagem de cada teste de atributo. **Não somá-los automaticamente à rolagem.** Perícias só aparecem se treinadas; omitir uma perícia não cria proficiência gratuita.
 
-**Pendente de detalhamento:** escala/faixa desses três números e aplicação operacional da margem de pleno e da proficiência pela metade sob pressão (regra de 09/11/2026). Não impor uma fórmula nova por inferência. Até isso ser definido, cada ficha de playtest deve registrar a referência de graus e qualquer arbitragem usada. Esses números não foram definidos como reservas gastáveis de Alma; não derivar PV, Defesa ou recursos pelas fórmulas dos jogadores automaticamente.
+**Pendente de detalhamento após 16/11:** escala/faixa desses três números e sua conversão em quantidade de dados no novo núcleo. Não aplicar a antiga margem de pleno ou metade da proficiência. Não impor uma fórmula nova por inferência. Até isso ser definido, cada ficha de playtest deve registrar a quantidade/seleção de dados e qualquer arbitragem usada. Esses números não foram definidos como reservas gastáveis de Alma; não derivar PV, Defesa ou recursos pelas fórmulas dos jogadores automaticamente.
 
 ## Ataques próprios e economia de ações
 
@@ -38,20 +40,7 @@ Não presumir que um ataque de custo maior concede vários acertos ou ignora rep
 
 ## RDs completas e parciais
 
-**Atualização 04/11/2026:** registrar RD por fonte e limiar Pesado/Brutal da abertura acessível. O limiar ignora a fonte inteira. A antiga coluna parcial pela metade abaixo é histórica, substituída por [Aberturas](aberturas.md).
-
-
-Anotar a RD efetiva completa e a restante quando um ataque explora Abertura parcial: 0→0, 1→0, 2→1, 3→2, 4→2; valores maiores usam metade para cima. **RD parcial é o valor que ainda protege**, não a quantidade ignorada. Enquanto Exposto, toda RD contra ataques é ignorada, sem direcionamento.
-
-Exemplo de anotação, não estatística de um inimigo aprovado:
-
-| Tipo | Completa | Parcial |
-|---|---|---|
-| Cortante | 4 | 2 |
-| Perfurante | 3 | 2 |
-| Contundente | 2 | 1 |
-
-Se uma reação ou situação mudar a RD efetiva, usar a coluna correspondente à nova combinação; não reutilizar um valor parcial desatualizado. Indicar RD geral/elemental e incompatibilidades separadamente. Para mistura de tipos com RD geral, consultar as pendências de [Aberturas](aberturas.md#composição-e-casos-pendentes).
+**Consolidado de 04/11:** anotar RD por fonte e o limiar Pesado/Brutal da abertura acessível. Atingir esse limiar ignora a fonte indicada inteira; abaixo dele a RD permanece. A antiga tabela de metade da RD não é uma alternativa vigente. Exposto ignora toda RD contra ataques, incluindo Bloquear, conforme sua fonte e duração. [Aberturas](aberturas.md).
 
 ## Proteções narrativas e possibilidades táticas
 
@@ -72,11 +61,11 @@ Não exigir novo Analisar só porque mudou a posição: conhecimento e acesso s�
 ## Modelo de preenchimento
 
 - **Nome / papel / configuração do encontro:** a definir.
-- **Corpo / Mente / Espírito:** a definir; referência de graus: a definir.
+- **Corpo / Mente / Espírito:** a definir; conversão para dados: a definir.
 - **Perícias treinadas:** nome, nível, bônus.
-- **PV / Defesa base / Defesa com Esquiva e custo:** a definir.
+- **PV / Defesa base / Teste de Esquivar e custo:** a definir.
 - **PA disponíveis / custos particulares:** a definir.
-- **RD completa e parcial por tipo / fontes condicionais:** a definir.
+- **RD por tipo / fontes / limiar de abertura:** a definir.
 - **Equilíbrio:** ausente ou valor e procedimento pertinente.
 - **Passivas:** efeito e limites.
 - **Ações:** custo, alvo/alcance, teste/grau, dano/tipo e efeitos.
@@ -88,7 +77,7 @@ Não usar campos “a definir” como zero ou como regra pronta. Fichas de jogad
 
 ## Protótipos para avaliação
 
-[Lobo, cavaleiro e salamandra](../../planejamento/inimigos-playtest.md) apresentam três ameaças relativas e hipóteses locais para permitir testes. Valores, custos e janelas de exposição são propostas, não regras universais. Nenhum recebeu ND definitivo; o [ND das áreas](../../design/pendencias.md#nd-de-áreas-de-exploração) será balanceado depois.
+[Lobo, cavaleiro e salamandra](../../planejamento/inimigos-playtest.md) preservam três protótipos históricos que precisam de conversão antes de novos testes. Valores, custos e janelas de exposição são propostas, não regras universais. Nenhum recebeu ND definitivo; o [ND das áreas](../../design/pendencias.md#nd-de-áreas-de-exploração) será balanceado depois.
 
 Ataques de NPCs usam os resultados de combate: pesado em Defesa +5 e brutal em Defesa +10, sem pleno/extremo. Corpo/Mente/Espírito não são somados ao ataque.
 

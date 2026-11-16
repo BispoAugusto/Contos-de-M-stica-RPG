@@ -1,88 +1,84 @@
 # Testes, pressão e graus de sucesso
 
-> **Atualização de 09/11/2026:** sob pressão a proficiência vale metade e o **pleno** passa a ser definido por uma margem no d20, ligada ao atributo. Isso substitui o teto de 2 × atributo e o pleno por "DT + 10 − atributo". A margem de pleno é 20 − atributo (atributo 0 = 20; atributo 10 = 10–20, o máximo). O **extremo** (10/11/2026) existe só com atributo 10, no 20 natural, e atributos bônus o reduzem. O registro está em [decisões](../../design/decisoes.md).
-
-> **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
-
-
 [Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
 
-**Confirmado.** Defina abordagem, atributo e proficiência antes da rolagem. O atributo nunca é somado ao dado.
-
-Ataques têm regra própria: **1d20 + proficiência do grupo de arma**, com pesado em Defesa +5 e brutal em Defesa +10. Não usam a pressão nem os graus abaixo; aberturas usam o grau Pesado/Brutal da proteção, sem Foco separado. Ver [ataques](../combate/ataques-e-dano.md). Testes de análise, resistência e outras ações continuam seguindo suas regras específicas.
+**Direção confirmada; aplicação provisória para playtest — 16/11/2026.** Esta versão substitui o teto de pressão, a proficiência pela metade e o pleno pela margem natural. [Registro e alcance](../../design/decisoes.md#2026-11-16--núcleo-de-dados-ajuda-e-sandbox).
 
 ## Rolagem e pressão
 
-**Teste = 1d20 + bônus de proficiência aplicável + modificadores.**
+Declare intenção, abordagem, atributo e proficiência antes de rolar. O método precisa ser possível na situação; mudar apenas o nome da abordagem não altera a ação. O mestre anuncia a DT e os riscos perceptíveis.
 
-O atributo sugerido na perícia pode mudar conforme a abordagem, definida antes da rolagem. O atributo efetivamente usado determina a **margem de pleno** e a reserva de Alma correspondente.
+**Resultado = d20 escolhido + bônus integral de proficiência + modificadores + dados de ajuda válidos.** O atributo fornece dados, nunca um bônus somado ao resultado. Some cada bônus uma vez.
 
-**Confirmado pelo criador para playtest (09/11/2026).** Perigo imediato, urgência real ou interferência ativa caracterizam pressão; dificuldade por si só não. O mestre informa a pressão antes da rolagem. Sob pressão:
-
-1. O **bônus de proficiência vale metade**. Nível 1 dá +1, nível 2 dá +2, nível 3 dá +3, e assim por diante: o bônus sob pressão é igual ao nível. O nível aprendido não diminui.
-2. Se o d20 selecionado cair na sua **margem de pleno**, você soma o **bônus de proficiência inteiro**.
-
-Fora de pressão, use o bônus integral, como sempre.
-
-A metade afeta **somente o bônus de proficiência na rolagem**, não modificadores de outras fontes, nível adquirido, dano base ou bônus de dano. Idioma Fluente (+2) vale +1 sob pressão. Ataques comuns não são afetados.
-
-## Margem de pleno
-
-**Confirmado pelo criador (11/11/2026).** A margem funciona como a de um crítico: com **atributo 0**, o pleno ocorre no **20 natural**, e cada ponto de atributo desce a margem em 1. Ou seja, o pleno ocorre quando o d20 selecionado é **20 − atributo ou mais**. O atributo vai até **10**, e a margem de pleno para nele: **10 é a menor margem de pleno possível**, e atributos bônus acima de 10 não a ampliam.
-
-| Atributo | 0 | 1 | 2 | 3 | 4 | 5 | 10 (máximo) |
-|---|---|---|---|---|---|---|---|
-| Margem de pleno | 20 | 19–20 | 18–20 | 17–20 | 16–20 | 15–20 | 10–20 |
-| Chance no d20 | 5% | 10% | 15% | 20% | 25% | 30% | 55% |
-
-Atributo 0 não impõe Desvantagem sozinho. Com Vantagem ou Desvantagem, a margem vale para o d20 selecionado, como os demais naturais.
-
-Exemplos, todos sob pressão:
-
-- Atributo 1, proficiência nível 2 (+4): usa **1d20 +2**. Com 19 ou 20 natural, soma +4.
-- Atributo 3, proficiência nível 3 (+6): usa **1d20 +3**. Com 17, 18, 19 ou 20 natural, soma +6. Um 12 natural dá 15 no total; um 17 dá 23.
-- Atributo 10, proficiência nível 5 (+10): usa **1d20 +5**. Com 10 ou mais, soma +10.
-
-## Graus de sucesso
-
-| Grau | Condição e efeito |
-|---|---|
-| Padrão | Alcançar a DT: realiza a ação; consequências narrativas situacionais ainda podem ocorrer |
-| Pleno | d20 selecionado na margem de pleno **e** total alcançando a DT: sucesso sem penalidades narrativas |
-| Extremo | Só com **atributo 10**: d20 selecionado na margem de extremo (**20 natural**, reduzida em 1 por atributo bônus) e total alcançando a DT. Tem tudo do pleno e um benefício adicional contextual (a definir) |
-
-Pleno não elimina custos explícitos, riscos preexistentes ou efeitos definidos por uma habilidade. Pleno não transforma falha em sucesso: se o total, já com a proficiência inteira, não alcança a DT, o teste falha.
-
-**Interpretação provisória, a confirmar:** o grau pleno vale com ou sem pressão, pois a margem só define o grau fora dela. A exigência de alcançar a DT para haver pleno também é interpretação do assistente.
-
-## Extremo
-
-**Confirmado pelo criador para playtest (10 e 11/11/2026).** O extremo funciona como o pleno, mas só existe para quem chegou a **atributo 10**, o máximo. Quem tem menos de 10 no atributo usado não alcança extremo.
-
-- Com atributo 10, a margem de extremo é o **20 natural**, enquanto a de pleno é 10–20.
-- O jogador pode **diminuir a margem de extremo** ganhando **atributos bônus** por itens, habilidades ou magias. Cada ponto de bônus acima de 10 reduz a margem de extremo em 1; a margem de pleno **continua em 10**.
-
-| Atributo (com bônus) | 10 | 11 | 12 | 13 |
-|---|---|---|---|---|
-| Margem de pleno | 10–20 | 10–20 | 10–20 | 10–20 |
-| Margem de extremo | 20 | 19–20 | 18–20 | 17–20 |
-
-- O extremo inclui tudo do pleno (sob pressão, a proficiência inteira) e acrescenta um benefício adicional contextual. Por enquanto ele **não se diferencia muito do pleno** e **não será usado no primeiro playtest**.
-
-A regra antiga "atributo 10 ou mais torna todo sucesso pleno" foi retirada, porque o pleno deixou de ser medido acima da DT.
-
-**Interpretação provisória do assistente, a confirmar:** o extremo também exige alcançar a DT. **Pendentes:** o benefício contextual do extremo (o criador definirá futuramente); efeito do atributo bônus na reserva de Alma; piso da margem de extremo (quanto ela pode descer).
-
-## Naturais e testes opostos
-
-O d20 selecionado determina naturais: **1 falha; 20 sucede**. Dados descartados não produzem crítico. Em ataques, 20 também dá +2 de dano; pesado/brutal dependem do total contra Defesa +5/+10.
-
-Em teste oposto, use o total do adversário como DT. O pleno segue a margem do d20 do próprio teste. Empate favorece o atacante/iniciador, salvo regra específica; quem tenta escapar de um agarrão inicia essa tentativa. Sem atacante definido, desempate pelo **maior máximo da Parte da Alma do teste de cada participante**; persistindo, os empatados rolam novamente. Se ambos tirarem 20, compare totais e aplique os mesmos desempates.
+Pressão significa urgência, perigo ou interferência real. Não reduz a proficiência, não aumenta a DT automaticamente e não exige uma etapa de cálculo própria. Condições concretas podem conceder desvantagens ou outros modificadores previstos. Não cobrar o mesmo impedimento duas vezes.
 
 ## Vantagens e desvantagens
 
-Cancelam-se uma a uma. Role **1 + saldo** de d20 e selecione o maior com Vantagem ou o menor com Desvantagem. Saldo zero: 1d20. Some proficiência e modificadores uma vez, nunca os dados entre si. Não há limite de acúmulo aprovado.
+Calcule **Q = base + vantagens − desvantagens**, cancelando vantagens e desvantagens uma a uma. Em testes de atributo, a base é seu valor; em ataques, a base é 1. Não há teto universal de acúmulo nesta versão; uma mesma fonte não conta várias vezes por ser descrita de modos diferentes.
 
-Exemplo: três Vantagens e uma Desvantagem deixam duas Vantagens: 3d20, maior. Forçar não é Vantagem: refaz a mesma configuração de dados nos testes permitidos. Não permite rerrolar ataques nem testes contra a morte; ver [Alma](alma.md).
+| Q | Dados | Seleção |
+|---:|---|---|
+| −2 | 4d20 | Menor |
+| −1 | 3d20 | Menor |
+| 0 | 2d20 | Menor |
+| 1 | 1d20 | Único |
+| 2 | 2d20 | Maior |
+| 3 | 3d20 | Maior |
+| 4 | 4d20 | Maior |
+| 5 | 5d20 | Maior |
+| 6 ou mais | Q d20 | Maior |
 
-As [proficiências](../personagem/proficiencias.md) têm escalas próprias. Repetição de [ataques](../combate/README.md) usa Desvantagens, não penalidades numéricas.
+Para Q ≤ 0, role **2 − Q** dados e escolha o menor. Atributo 0 sem modificadores usa o menor de 2d20; com uma vantagem usa 1d20. Atributo 3 com duas desvantagens usa 1d20. Os dados descartados não produzem naturais nem efeitos.
+
+## Dificuldades de referência
+
+| DT | Referência |
+|---:|---|
+| 5 | Muito fácil, raramente precisa de teste |
+| 10 | Fácil |
+| 15 | Moderada; referência central de aventura |
+| 20 | Difícil |
+| 25 | Muito difícil |
+| 30 | Excepcional |
+
+A DT pertence à tarefa e ao mundo; não escala automaticamente com a ficha. Falta de requisito indispensável não é resolvida por um 20. DTs próprias, como Analisar contra Defesa, permanecem específicas.
+
+Sem risco ou incerteza relevante, resolva pela descrição e cobre o tempo ou recurso necessário. Treino, ferramenta e tempo podem permitir resolução automática. Quando há teste, o natural 1 ainda falha mesmo com bônus suficiente: não declarar garantia matemática ignorando essa regra.
+
+Fora de combate, nova tentativa nas mesmas condições exige mudança relevante ou novo custo; não repetir rolagens até conseguir. Em combate, a repetição segue o procedimento abaixo, sem dispensar requisitos como nova pista para Analisar.
+
+## Margem de pleno
+
+**Pleno = resultado final ≥ DT +5**, em testes que não sejam ataques. A margem pessoal 20 − atributo foi substituída. Proficiência integral já é usada em toda rolagem; pleno não devolve bônus cortado.
+
+## Graus de sucesso
+
+| Resultado | Efeito |
+|---|---|
+| Falha | Não alcança a DT, ou natural 1; consequência coerente com a situação |
+| Sucesso padrão | Alcança a DT, ou natural 20 numa ação possível |
+| Pleno | Sucesso cujo total alcança DT +5; evita custos condicionais anunciados da abordagem ou traz benefício pertinente |
+
+Pleno não elimina PA, materiais obrigatórios ou riscos explicitamente mantidos pela fonte. Não inventar uma punição depois do teste apenas porque o sucesso não foi pleno. Natural 20 abaixo de DT +5 não é pleno automático.
+
+## Extremo
+
+**Pendente.** A antiga regra vinculada a atributo 10 e às margens naturais não se aplica ao núcleo 0–5. Atributos acima de 5 continuam concedendo dados; extremo não está ativo neste playtest. Não criar benefícios por cada cinco pontos além do pleno.
+
+## Naturais e testes opostos
+
+O d20 escolhido determina os naturais: **1 falha; 20 sucede**, desde que a tentativa seja possível. Não aplicar o desastre do rascunho que permitia sucesso com 1. Em ataques, preservar também o crítico específico de +2 dano; pesado/brutal dependem do total contra Defesa +5/+10.
+
+Em oposição, compare os totais; dois naturais 20 também comparam totais. **Pendente:** a prioridade dos naturais diferentes contra os totais adversários. A aprovação de 16/11 confirmou 1/20 gerais, mas não detalhou esse conflito; anunciar e registrar a arbitragem antes do teste. Priorizar 20 sobre rolagem comum é uma possibilidade para avaliar, não uma regra aprovada.
+
+Igualdade de totais favorece o atacante/iniciador. Sem iniciador definido, preservar o desempate existente: maior máximo da Parte da Alma utilizada e, persistindo, nova rolagem entre empatados. A proposta de empate inconclusivo da v0.1 não foi escolhida expressamente. Esquivar preserva sua comparação estrita como regra específica; ver [defesas](../combate/defesas.md).
+
+Em oposição elegível para Forçar, resolver a possibilidade de uma rerrolagem por participante antes das consequências. Se a primeira rerrolagem mudar o vencedor, o novo perdedor ainda pode Forçar caso não tenha usado sua vez. A rolagem do adversário fica mantida. Ataques e testes contra a morte não são elegíveis.
+
+## Repetição de ações
+
+**Aprovado para playtest — 16/11/2026.** A segunda execução da mesma ação mecânica no próprio turno sofre 1 desvantagem; a terceira, 2; e assim por diante. Cada ação tem sua contagem, mas todos os ataques compartilham a tag Agredir. Trocar o alvo ou renomear a mesma ação não reinicia a contagem. Reinicia no próximo turno próprio.
+
+Aplicar a penalidade aos testes da ação repetida; uma ação sem teste não ganha custo extra ou rolagem só por ser repetida. Fora do próprio turno, não recebe nem avança esse contador. Continuação do mesmo turno com PA dobrados não reinicia contagens.
+
+Leve preserva a exceção do primeiro ataque repetido; consultar [ataques](../combate/ataques-e-dano.md). Ajudar usa somente a redução d8 → d6 → d4, sem outra penalidade de repetição. Efeitos específicos continuam definindo frequência e requisitos. Ações com várias etapas não são contadas uma vez por dado: contar a execução da ação.

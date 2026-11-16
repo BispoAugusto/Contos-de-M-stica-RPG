@@ -1,5 +1,7 @@
 # Inimigos de playtest — lobo, cavaleiro e salamandra
 
+> **Histórico — não usar como ficha vigente (16/11/2026).** Este material conserva números, defesas, pressão e graus antigos. A conversão dos três atributos de NPC para dados e a recalibração dos encontros estão pendentes. Consulte [testes atuais](../regras/fundamentos/testes.md), [defesas](../regras/combate/defesas.md) e [plano atual de playtests](playtests.md).
+
 **Protótipos propostos em 2026-10-25; números e procedimentos particulares ainda não aprovados nem balanceados por testes.** Conceitos solicitados: lobo perigoso, mas inferior aos outros; cavaleiro fortemente protegido com Aberturas óbvias; salamandra com escamas poderosas e pescoço vulnerável ao preparar e soltar a baforada.
 
 As três faixas de ameaça são **relativas entre estas fichas**, não ND 1/2/3. O [ND de áreas](../design/pendencias.md#nd-de-áreas-de-exploração) ainda não tem escala calibrada. Não inferir número seguro de inimigos por jogador.

@@ -1,5 +1,9 @@
 # Regras — índice por assunto
 
+## 2026-11-16 — Núcleo e sandbox
+
+Os capítulos de fundamentos, criação, defesas, ajuda, recuperação e guias incorporam as respostas do criador. Atributos 0–5 fornecem dados; pleno usa DT +5; curto recupera Alma automaticamente; criação usa 12 pontos de atributo e 6 PP antes da origem. [Alcance e status](../design/decisoes.md#2026-11-16--núcleo-de-dados-ajuda-e-sandbox). O sandbox está disponível nos capítulos de exploração e moral, **provisório para playtest**. Registros anteriores abaixo só prevalecem onde não foram substituídos.
+
 ## 2026-10-29 — Consolidação das decisões de playtest
 
 **Aprovado pelo criador na conversa de 27–29/10:** [revisão completa](revisao-playtest-2026-10-29.md). Ela prevalece sobre os trechos anteriores conflitantes. Inclui Vigor no lugar de Esquiva, reações antes do resultado, Leve e catálogo de armas, armaduras/proficiência/sobrecarga, equipamento inicial, Resistir/Cair/Sequelas, movimento/ambiente, DTs, Medo PVE e Analisar/Aberturas.
@@ -20,7 +24,7 @@ Escolha uma categoria ou procure a situação na tabela abaixo. Cada capítulo c
 | [Origens e espécies](origens/README.md) | As seis origens, 14 espécies, portes, características e misturas |
 | [Combate](combate/README.md) | Turnos, iniciativa, ataques, dano, defesas, manobras e condições |
 | [Equipamentos](equipamentos/README.md) | Armas, armaduras, escudos, porte e inventário |
-| [Exploração](exploracao/README.md) | Deslocamento, faixas narrativas e quedas |
+| [Exploração](exploracao/README.md) | Viagens, suprimentos, encontros, atividades, facções, projetos, movimento e quedas |
 | [Descanso e sobrevivência](recuperacao/README.md) | Descansos, tratamento, exaustão, Ferido e morte |
 
 ## Onde encontro?

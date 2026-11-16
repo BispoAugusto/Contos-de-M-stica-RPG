@@ -1,6 +1,5 @@
 # Idiomas
 
-> **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
 
 
 [Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
@@ -18,6 +17,6 @@ Opções: Comum, Bestial, Miridiano, Arak, Faarongiano, Primordial, Abissal, Dra
 
 Um ponto compra dois níveis em idiomas, juntos ou distribuídos. Não pode misturar essa compra com conhecimentos.
 
-Quando houver teste, use **1d20 + bônus de idioma + modificadores**, normalmente com **Raciocínio** como atributo de referência; ele não soma à rolagem. Sob pressão, o bônus de idioma vale metade (Fluente +1), salvo se o d20 cair na margem de pleno. Fluente tem +2, não +4. Vantagens, margens e Alma seguem [testes](../fundamentos/testes.md).
+Quando houver teste, use os dados do atributo escolhido, normalmente Raciocínio, e some o bônus de idioma integral e os modificadores. Fluente concede +2, não +4; pressão não o reduz. [Testes](../fundamentos/testes.md) definem seleção, naturais, pleno e Alma.
 
 Não somar automaticamente História, Arcanismo ou outra perícia. Testes sem nível no idioma, DT de complexidade e interação detalhada com conhecimentos continuam pendentes.

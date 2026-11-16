@@ -1,5 +1,15 @@
 # Histórico
 
+## 2026-11-16 — Núcleo de dados, ajuda reservada e sandbox
+
+- Atributos 0–5 fornecem d20; bônus de proficiência integral; pleno DT +5; naturais do dado selecionado; criação 12 pontos/6 PP.
+- Forçar somente falhas, por Alma ou 1 PE com reserva vazia; curto recupera automaticamente metade de todas as reservas.
+- Esquivar com dados de Reflexo/Vigor; Resistir com atributo/Vigor; repetição das demais ações com teste.
+- Ajuda d8/d6/d4 reservada por PA, um dado por ajudante/teste; aliados diferentes somam.
+- Seis capítulos sandbox provisórios: viagens, suprimentos/acampamento, encontros/reações, moral/retirada, atividades e facções/projetos.
+- Guias, exemplo de criação, índices, espécies afetadas e navegação harmonizados. Histórico preservado com avisos; NPCs e exceções não decididas continuam pendentes.
+- Build do portal passa a executar a verificação de cobertura, downloads, links e âncoras. Nenhuma sessão ou validação de equilíbrio alegada.
+
 ## 2026-11-11 — Margem de pleno 20 − atributo e margem de extremo
 
 **Confirmado pelo criador para playtest.** Corrige as margens: pleno em 20 − atributo (atributo 0 = 20 natural; atributo 10 = 10–20, o máximo); atributos bônus não ampliam o pleno. A margem de extremo (só atributo 10) começa no 20 natural e desce 1 por atributo bônus (11 = 19–20). Benefício do extremo ficará para o futuro. Atualizados testes, guias, glossário, plano de playtests e registros.

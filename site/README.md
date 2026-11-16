@@ -1,5 +1,11 @@
 # Portal de documentação
 
+## Verificação de conteúdo — 16/11/2026
+
+`npm run build` gera o portal e executa a verificação de cobertura, texto dos downloads, links, âncoras, categorias e separação de histórico. `npm run check` repete a verificação sobre um build existente. Os novos capítulos de exploração e moral entram na navegação atual, com status provisório visível.
+
+`mesa-web/` continua um protótipo estático separado; seus HTML não fazem parte do portal de regras. A atualização da produção depende de merge na branch configurada e deploy concluído. Uma branch/PR permite revisar o conteúdo antes desse passo.
+
 O portal reúne automaticamente todos os arquivos `.md` do repositório, incluindo subpastas, sem alterar as regras. A busca consulta títulos, caminhos e conteúdo, sem distinguir acentos. O leitor oferece sumário, links entre capítulos, download do Markdown e impressão/PDF pelo navegador. Estado do projeto, histórico e decisões têm atalhos na página inicial.
 
 ## Aparência
