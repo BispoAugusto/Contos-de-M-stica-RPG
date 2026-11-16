@@ -2,15 +2,15 @@
 
 [Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
 
-**Núcleo atualizado em 2026-10-19.** RPG d20 de fantasia com combate tático narrativo de 4 PA e distâncias por faixas. A evolução modular, habilidades e miniclasses serão desenvolvidas depois desta integração.
+**Núcleo atualizado para playtest em 2026-11-16.** RPG d20 de fantasia com combate tático narrativo de 4 PA e distâncias por faixas. A evolução modular, habilidades e miniclasses serão desenvolvidas depois desta integração.
 
-Nove atributos descrevem capacidades; não somam aos testes. Proficiências fornecem bônus, que valem metade sob pressão; os atributos determinam a margem de pleno, que devolve o bônus inteiro. Corpo, Mente e Espírito são [reservas de Alma](alma.md), calculadas a partir dos atributos e da espécie.
+Nove atributos entre 0 e 5 descrevem abordagens e fornecem dados; não somam aos testes. Proficiências fornecem bônus integrais, inclusive sob pressão. Pleno ocorre em DT +5 em testes que não sejam ataques. Corpo, Mente e Espírito são [reservas de Alma](alma.md), calculadas a partir dos atributos e da espécie.
 
 PV representam perigo imediato; condições, limitações temporárias; Exaustão, desgaste persistente; Sequelas, o preço de sobreviver à morte. Origens são categorias de espécies, não formação cultural.
 
 ## Arredondamento
 
-Por padrão, arredondar para cima, salvo exceção explícita. Aplica-se às médias de Alma, metades de recuperação e metade da arma secundária. Ataques usam pesado em Defesa +5 (+1 dano) e brutal em Defesa +10 (+2 em vez de +1), sem progressão além de brutal. Pleno/extremo ficam para [testes que não sejam ataques](testes.md).
+Por padrão, arredondar para cima, salvo exceção explícita. Aplica-se às médias de Alma, metades de recuperação e metade da arma secundária. Ataques usam pesado em Defesa +5 (+1 dano) e brutal em Defesa +10 (+2 em vez de +1), sem progressão além de brutal. Pleno fica para [testes que não sejam ataques](testes.md).
 
 ## Status das regras
 

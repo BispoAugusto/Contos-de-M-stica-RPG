@@ -1,5 +1,36 @@
 # Decisões registradas
 
+## 2026-11-16 — Núcleo de dados, ajuda e sandbox
+
+**Confirmado pelo criador nas respostas às 12 perguntas; parâmetros aplicados para playtest.** Substitui as margens de atributo 10 e pressão das decisões de 09–11/11, e os pontos conflitantes de ajuda, descanso e criação. Demais regras preservam seu alcance. Nenhum equilíbrio ou resultado de sessão é alegado.
+
+| Pergunta | Escolha | Regra incorporada |
+|---|---|---|
+| 1 | A | Preservar Corpo/Mente/Espírito e cálculo atual de Alma |
+| 2 | A | Forçar só após falha; rerrolar todos os d20 uma vez, manter modificadores e valores de ajuda, novo resultado obrigatório; sem ataques/morte |
+| 3 | A | Reserva correspondente vazia permite Forçar por 1 PE; Até o Limite mantém +2 |
+| 4 | Resposta livre | Cada curto válido recupera metade do máximo de todas as reservas, para cima; automático; atividades servem a outras coisas; sem limite de uma recuperação entre longos |
+| 5 | A | Esquivar usa dados de Reflexo + Vigor, 1 PA, decisão anterior ao resultado e comparação estrita |
+| 6 | B | Resistir usa dados do atributo + Vigor; DT 10 +5 por nova tentativa, reinicia no longo; sem Forçar |
+| 7 | A | Natural selecionado 1 falha; 20 sucede numa ação possível; ataques mantêm +2 dano |
+| 8 | A | Pleno fora de ataques em DT +5; extremo pendente |
+| 9 | Resposta livre | Ajudar no próprio turno, adjacente, reservando PA; sequência d8/d6/d4; um dado do mesmo ajudante por teste, dados de aliados diferentes somam |
+| 10 | B | Testar 12 pontos de atributo e 6 PP antes da origem; limites iniciais 3/2; categorias preservam custos |
+| 11 | B | Repetição também nas outras ações com teste; contadores por ação, todos ataques em Agredir; ajuda usa sua redução específica |
+| 12 | A com revisão futura | Incorporar procedimentos sandbox como provisórios para playtest |
+
+Direção já escolhida: nove atributos de 0 a 5, aumentos excepcionais além de 5, fornecendo a base de d20; proficiência soma seu bônus integral. Base de ataques é 1. Q = base + vantagens − desvantagens: Q ≥ 1 usa maior de Q d20; Q ≤ 0 usa menor de 2 − Q d20. Testes sem risco relevante são dispensados; pressão não reduz bônus.
+
+Ajuda exige contribuição possível e treino relevante, usa 1 PA por dado sem cobrança dupla e segue a duração de Preparar Ação (até próximo turno próprio). O consumo é declarado antes do teste. Ajudas sucessivas do mesmo personagem no mesmo alvo servem a testes distintos. Alcance depois de declarar, reordenação, transferência/cancelamento e Atrapalhar precisam de refinamento; não criar recarga gratuita de d8.
+
+Criação preserva bônus raciais: Humanos ficam com 8 PP; Homens Altos, 14 pontos de atributo. Sem compra de proficiência de armadura por PP. Recuperação automática exige adequar Enraizamento dos Verdantes, cujo diferencial fica pendente; Transe é atividade adicional específica dos Elfos.
+
+Sandbox: turnos locais de 10 min, vigílias de 8h, suprimentos, eventos d6, reação/moral 2d6, retirada, atividades, revisão semanal de facções e projetos em etapas. Valores importados da base v0.1 são experimentais. Descanso longo adequado continua restaurando tudo e, no sandbox, concede benefício uma vez por 24h; a restrição curta da v0.1 foi rejeitada pela resposta 4.
+
+**Pendentes específicos:** prioridade de naturais contra totais em opostos/Esquiva; conversão dos atributos simplificados de NPCs; detalhes de ajuda acima; diferencial de Enraizamento; progressão, extremo, habilidades e magia. Não resolver essas lacunas silenciosamente nem converter fichas antigas em inimigos calibrados.
+
+Fontes operacionais: [testes](../regras/fundamentos/testes.md), [Alma](../regras/fundamentos/alma.md), [ajuda](../regras/combate/acoes-taticas.md), [descansos](../regras/recuperacao/descansos.md), [criação](../referencias/criacao-de-personagem.md), [exploração](../regras/exploracao/README.md).
+
 ## 2026-11-11 — Margem de pleno 20 − atributo (teto em 10) e margem de extremo
 
 **Confirmado pelo criador para playtest.** Corrige a margem das decisões de 09 e 10/11. Margem de pleno: **atributo 0 = 20 natural, 1 = 19–20, 2 = 18–20, e assim por diante até o atributo 10 = 10–20**, que é o máximo (o pleno ocorre com d20 ≥ 20 − atributo). Atributos bônus acima de 10 **não ampliam** a margem de pleno. A margem de extremo, que só existe com atributo 10, começa no **20 natural** e **desce 1 por atributo bônus**: atributo 11 = 19–20, 12 = 18–20. O benefício do extremo será definido futuramente; segue fora do primeiro playtest.

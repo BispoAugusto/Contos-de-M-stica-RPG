@@ -2,31 +2,31 @@
 
 [Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
 
-**Confirmado — 2026-10-19.** Corpo, Mente e Espírito são reservas de rerrolagem, com valores atuais e máximos separados.
+**Três reservas e fórmula preservadas; Forçar e recuperação atualizados em 16/11/2026 para playtest.** Corpo, Mente e Espírito têm valores atuais e máximos separados. A reserva única de 2 pontos do rascunho não foi adotada.
 
 ## Máximos
 
-**Máximo = média dos três atributos da Parte, arredondada para cima, + bônus de Alma da espécie.**
+**Máximo = média dos três atributos-base da Parte, arredondada para cima, + bônus de Alma da espécie.** Bônus temporários não aumentam automaticamente a reserva. Corpo: Potência, Reflexo, Resiliência. Mente: Raciocínio, Foco, Percepção. Espírito: Vontade, Influência, Sintonia.
 
-Corpo: Potência, Reflexo, Resiliência. Mente: Raciocínio, Foco, Percepção. Espírito: Vontade, Influência, Sintonia. As distribuições por espécie e as escolhas bestiais estão em [origens](../origens/README.md).
-
-Exemplo: Corpo com atributos 3, 2 e 1 tem média 2. Bônus de espécie +2 Corpo resulta em máximo 4. Gastar pontos atuais não reduz esse máximo nem a vida ou os usos máximos derivados dele.
+Exemplo: Corpo com 3, 2 e 1 tem média 2; espécie com +2 Corpo resulta em máximo 4. Gastar pontos atuais não diminui o máximo nem PV/usos derivados. [Espécies](../origens/README.md).
 
 ## Forçar um teste
 
-Após conhecer o resultado/grau e **antes das consequências**, gaste **1 ponto da Parte ligada ao atributo efetivamente usado** para rerrolar o próprio teste.
+**Somente depois de falhar**, antes de aplicar consequências, gaste **1 ponto da Parte correspondente ao atributo efetivamente utilizado** e rerrole todos os d20 do próprio teste.
 
-- Rerrole todos os dados, com as mesmas Vantagens/Desvantagens, bônus e modificadores.
-- O novo resultado é obrigatório, mesmo pior.
-- Apenas uma rerrolagem por teste.
-- Se a reserva correspondente estiver vazia, pode forçar recebendo **1 PE**.
-- Não é Vantagem nem uma nova ação; não paga novamente PA ou usos do teste permitido.
-- Vale para testes próprios permitidos, inclusive resistências. **Ataques e testes contra a morte não podem ser forçados.** A proibição abrange ataques comuns, direcionados, preparados e ataques modificados por manobras ou características existentes. Somente habilidades futuras com autorização expressa poderão permitir Forçar ataques; esta revisão não concede nenhuma.
-- Uma manobra independente que não seja ataque continua seguindo a regra geral de testes; gastar PA ou usar Defesa como DT não a transforma em ataque.
-- Não permite forçar a rolagem de outra pessoa.
+- Mantenha Q, seleção do maior/menor, bônus e modificadores. O novo resultado é obrigatório, mesmo pior.
+- Uma rerrolagem por teste e por personagem. Não permite buscar pleno depois de um sucesso.
+- Os valores já rolados de ajuda permanecem; não se rolam novos dados de ajuda nem se gastam novas reservas de apoio.
+- Se a Parte estiver vazia, pode Forçar recebendo **1 PE**, preservando o limite de uma vez.
+- Não é vantagem nem nova ação: não cobra PA/usos novamente nem avança repetição.
+- **Ataques e testes contra a morte não podem ser Forçados**, inclusive por PE. Somente habilidade futura expressa pode permitir exceção para ataques.
+- Resistências e manobras independentes que não sejam ataques seguem a elegibilidade normal. Usar Defesa como DT não transforma uma ação em ataque.
+- Não permite rerrolar teste de outra pessoa.
 
-Benefícios expressos, como Até o Limite dos Homens Altos, modificam o novo resultado conforme seu texto.
+Até o Limite dos Homens Altos preserva +2 na nova rolagem ao Forçar por PE; o requisito de falha também se aplica a essa característica. [Naturais e oposição](testes.md#naturais-e-testes-opostos).
 
 ## Recuperação
 
-No [descanso curto](../recuperacao/descansos.md), cada atividade dedicada recupera **metade do máximo da reserva escolhida, arredondada para cima**, sem ultrapassá-lo. Corpo envolve repouso físico; Mente, estudo ou reflexão; Espírito, meditação. O descanso longo adequado recupera todas as reservas, provisoriamente para playtest.
+**Todo descanso curto válido recupera automaticamente metade do máximo de cada uma das três reservas, arredondando para cima**, sem exceder máximos. Não consome atividade, não é necessário escolher uma Parte, e não há limite de um descanso curto com recuperação entre longos. Pausas artificiais dentro de um mesmo repouso contínuo não são descansos sucessivos.
+
+O descanso longo adequado recupera todas as reservas. Tratamento, PE/NE e atividades seguem [descansos](../recuperacao/descansos.md). Benefícios específicos não duplicam a recuperação básica de uma mesma reserva.

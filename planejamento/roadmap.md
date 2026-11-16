@@ -1,5 +1,15 @@
 # Roadmap — 2026-10-19
 
+## Prioridades atuais — 2026-11-16
+
+1. Revisar integração do núcleo aprovado, guias e portal na branch, antes do merge.
+2. Jogar cenas curtas de atributo 0/1/3/5, proficiência baixa/alta, repetição e ajuda reservada; medir tempo de resolução e impacto percebido.
+3. Fechar naturais em opostos/Esquiva, detalhes de ajuda/Atrapalhar, conversão dos NPCs e Enraizamento.
+4. Conduzir uma expedição com curtos, suprimentos, eventos, negociação/moral e retorno; revisar números provisórios.
+5. Só então consolidar progressão, fichas de inimigos e habilidades/magia.
+
+As listas antigas abaixo são histórico de planejamento, subordinado às [decisões de 16/11](../design/decisoes.md#2026-11-16--núcleo-de-dados-ajuda-e-sandbox).
+
 ## Prioridade aprovada — 2026-10-25
 
 - [x] Consolidar RD passiva, Equilíbrio, ações de preparação/apoio, Abertura e requisitos defensivos.

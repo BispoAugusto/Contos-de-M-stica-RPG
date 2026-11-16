@@ -1,49 +1,41 @@
 # Descansos e tratamento
 
-[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
+[Índice de regras](../README.md) · [Categoria](README.md)
 
-**Procedimentos aprovados em 2026-10-19; recuperação completa no descanso longo é provisória para playtest.**
+**Recuperação curta atualizada pelo criador em 16/11/2026.** A recuperação integral longa permanece provisória para playtest. Atividades não são necessárias para recuperar a Alma básica.
 
 ## Descanso curto
 
-Dura **1 hora**, em condições adequadas e sem perigo imediato. Cada personagem escolhe **duas atividades diferentes**, sem repetir uma delas.
+Dura **1 hora**, em condições adequadas e sem perigo imediato. Recupera automaticamente **metade do máximo de Corpo, de Mente e de Espírito, arredondando cada metade para cima**, sem exceder máximos, em **cada descanso curto válido**. Não há limite de uma recuperação curta entre longos.
 
-| Atividade | Recuperação |
-|---|---|
-| Recuperar Corpo | Repouso físico: metade do máximo de Corpo, para cima |
-| Recuperar Mente | Estudo/reflexão: metade do máximo de Mente, para cima |
-| Recuperar Espírito | Meditação: metade do máximo de Espírito, para cima |
-| Tratar feridas | Remove Ferido e cura conforme procedimento abaixo |
+Exemplo: máximos 4/3/2 recuperam até 2/2/1 pontos atuais. Não é metade dos pontos gastos. Uma pausa contínua prolongada não gera descansos curtos sucessivos: é preciso retomar jornada ou atividade relevante.
 
-Não ultrapassar máximos. Uma pausa contínua prolongada não gera descansos curtos sucessivos: é preciso retomar a jornada ou atividade relevante.
+Cada personagem mantém **duas atividades diferentes** durante o descanso. Não se escolhe Recuperar Corpo/Mente/Espírito como atividade básica. Tratar feridas e atividades específicas de características continuam disponíveis; pesquisa, preparo e outros trabalhos devem caber na hora e respeitar seus próprios requisitos, sem conceder benefícios numéricos ou uma atividade de vigília inteira gratuitamente. [Atividades](../exploracao/atividades.md).
 
-Recuperação de PE é automática, sem ocupar atividade: **2 PE**, reduzidos a **1 PE com NE 1**. É necessário um descanso adequado; ver [exaustão](exaustao.md).
+PE também se recuperam automaticamente: **2 PE**, ou **1 PE com NE 1**, sem ocupar atividade. Descanso precisa ser adequado. [Exaustão](exaustao.md).
 
 ## Tratar feridas
 
-Automático, sem exigir teste ou consumível por padrão. Tratar a si mesmo cura **2 + Resiliência PV** e remove Ferido. Tratar outra pessoa cura **2 + bônus de Medicina PV**, removendo Ferido.
+Uma atividade, automática, sem teste ou consumível por padrão. Tratar a si mesmo cura **2 + Resiliência PV** e remove Ferido. Tratar outro cura **2 + bônus de Medicina PV** e remove Ferido.
 
-A atividade é de quem trata; o paciente ainda pode escolher suas próprias atividades. Cada pessoa recebe **um tratamento por descanso curto**, incluindo o próprio. Habilidades e consumíveis podem melhorar a cura conforme seus textos.
-
-O bônus de Medicina aqui não é bônus de uma rolagem sob pressão: o teto de testes não reduz esta cura. Benefícios raciais automáticos podem acumular quando seu texto permitir.
+A atividade é de quem trata; o paciente ainda tem suas próprias atividades. Cada pessoa recebe um tratamento por descanso curto, incluindo o próprio. Não ultrapassar PV máximos. Cura de Medicina não é bônus de rolagem e não é reduzida por pressão. Habilidades e consumíveis podem modificar conforme seus textos.
 
 ## Descanso longo
 
-Dura **8 horas**, com sono ou equivalente e condições adequadas. Por enquanto, recupera **todos os PV, toda a Alma e remove Ferido**. Remove todos os PE e 1 NE pela regra normal de exaustão; não remove Sequelas.
+Dura **8 horas**, com sono ou equivalente, alimento, água e abrigo adequado. Acampamento preparado pode ser adequado; cidade não é requisito universal. Para o módulo sandbox, concede benefícios **uma vez por 24 horas**. Guardas leves compartilhadas podem coexistir com sono suficiente; perigo relevante pode interromper a conclusão, mas uma interrupção trivial não apaga automaticamente a noite.
 
-Para reduzir PE, precisa estar alimentado, hidratado e ter dormido adequadamente. Se houver falta, não reduz PE e recebe **1 PE por requisito faltante**; fome, sede e falta de sono são cumulativas. Essa decisão trata da exaustão: não presume outros números de recuperação parcial de PV/Alma para repouso inadequado.
+Recupera **todos os PV, todas as reservas de Alma e remove Ferido**, provisoriamente para playtest. Remove todos os PE e 1 NE; não remove Sequelas. Restaura usos que expressamente dependem do descanso longo.
 
-Descanso longo também restaura usos que o indiquem, como Escamas, Sopro, Pó de Fada e Manifestação Rúnica. Armaduras convencionais têm RD passiva e não possuem cargas para recuperar.
+Sem alimento, hidratação ou sono adequado, não remove PE e recebe **1 PE por requisito faltante**, sem duplicar a mesma privação. O repouso inadequado não cumpre os requisitos do descanso longo recuperador; não presumir percentuais parciais de PV/Alma. Detalhes de recuperação parcial permanecem pendentes.
 
 ## Exceções de espécies
 
-- Elfos: em natureza, escolher atividade de recuperar Alma concede +2 Alma distribuídos entre reservas, uma vez por descanso curto.
-- Verdantes: Enraizamento combina tratamento próprio e recuperação de Corpo em uma atividade; ambas contam como realizadas. A segunda atividade deve ser outra.
-- Namarés com Regeneração: +2 PV automático no curto, mesmo sem tratamento e mesmo Ferido, mas não remove Ferido.
-- Namarés precisam beber e molhar o corpo para se hidratar; sem banho/imersão/chuva suficiente, contam como com sede, **sem penalidade adicional duplicada**.
+- **Elfos:** Transe Natural preserva uma atividade específica na natureza para receber +2 Alma distribuídos entre reservas, uma vez por descanso. É benefício adicional opcional; a recuperação básica já ocorre sem atividade.
+- **Verdantes:** Enraizar-se continua sendo uma atividade de tratamento próprio em solo adequado. Recuperar Corpo já é automático para todos e não se aplica outra vez. A característica não ocupa uma segunda atividade de recuperação de Alma. O benefício diferencial de Enraizamento precisa de revisão; nenhum bônus compensatório novo foi criado.
+- **Namarés com Regeneração:** +2 PV automático no curto, inclusive Ferido, sem remover a condição. Para hidratação precisam beber e molhar o corpo; faltar umidade conta como sede, sem custo duplicado.
 
-Detalhes em [origens](../origens/README.md). Estabilização fora de descanso tem procedimento próprio em [morte e recuperação](morte-e-recuperacao.md).
+[Espécies](../origens/README.md) mantêm custos, requisitos e usos fora dessas adequações. A mudança do descanso não concede recuperação extra por dividir/reunir corpos de Gnomo.
 
 ## Atualização de armaduras — 2026-10-25
 
-A atividade de restaurar cargas foi retirada porque a RD passou a ser passiva. Mantidas duas atividades diferentes no descanso curto e as demais recuperações. Reparos/manutenção futura continuam sem procedimento definido; não exigir atividade para conservar a RD passiva.
+Armaduras convencionais têm RD passiva e não exigem atividade para restaurar cargas. Fabricação e manutenção específicas continuam em desenvolvimento.

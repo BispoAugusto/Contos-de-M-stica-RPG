@@ -1,5 +1,24 @@
 # Plano de playtests — versão de 2026-10-25
 
+## Protocolo atual — 2026-11-16
+
+**Nenhuma sessão executada nesta integração.** Os cenários anteriores abaixo usam versões históricas e não validam o núcleo novo.
+
+| Cenário | Variações | Registrar |
+|---|---|---|
+| Testes comuns | Atributo 0/1/3/5, treino 0/2/5, DT 10/15/20/25 | Sucesso, pleno, naturais e tempo até resultado |
+| Modificadores | Q cruzando 1 → 0 → −1; cancelamento de fontes | Clareza ao escolher maior/menor e força percebida |
+| Ajuda | Um aliado com d8/d6 em testes distintos; dois aliados no mesmo teste; reserva sem gatilho | PA comprometido/consumido, duração e efeito no resultado |
+| Forçar | Falha com Alma; reserva vazia por PE; ajuda previamente rolada | Novo resultado obrigatório, frequência e custo entre curtos |
+| Repetição | Três ataques, uma Leve, duas ações iguais não ofensivas | Contadores próprios, exceções e tempo de consulta |
+| Defesas/morte | Reflexo/Vigor contra ataque; Resistir DT 10 e depois 15 | Evitar empate, anunciar arbitragem dos naturais, não permitir Forçar em Resistir |
+| Expedição | Duas vigílias e acampamento, curtos válidos, água/comida | Consumo, recuperação, escolhas de rota e custo do tempo |
+| Encontros | Reação incerta; primeira baixa/metade simultâneas | Evitar combate automático, não duplicar checagem de moral |
+
+Antes da sessão, registrar arbitragens das lacunas específicas; não generalizá-las como decisões aprovadas. Converter NPCs antes de medir ameaça. Revisar especialmente ajudas de vários aliados e recuperação recorrente de Alma, que podem ampliar bastante a confiabilidade.
+
+Validar também tempo/calendário: um mesmo intervalo não recebe evento de viagem e de exploração local duplicado; dividir pausa contínua não gera curtos extras; a semana move facções plausivelmente sem punir cada descanso.
+
 **Cenários planejados, ainda não executados.** Aprovação das regras não comprova equilíbrio. Registrar arbitragem de lacunas sem promovê-la a regra.
 
 ## Registro de sessão

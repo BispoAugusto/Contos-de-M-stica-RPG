@@ -2,7 +2,7 @@
 
 [Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
 
-**Origem — Versatilidade:** +2 pontos de proficiência para qualquer categoria, inclusive conhecimentos, idiomas, armas, armaduras e escudos. Respeitar dois níveis por ponto em conhecimentos/idiomas e limite inicial 2. Com a reserva provisória 5, totaliza 7 pontos.
+**Origem — Versatilidade:** +2 pontos de proficiência para qualquer categoria, inclusive conhecimentos, idiomas, armas, armaduras e escudos. Respeitar dois níveis por ponto em conhecimentos/idiomas e limite inicial 2. Com a reserva provisória 6, totaliza 8 pontos.
 
 
 ## Espécies, Alma e porte
@@ -17,7 +17,7 @@
 
 ### Homens Altos
 
-- **Até o Limite:** ao forçar por 1 PE porque a reserva correspondente está vazia, recebe +2 na nova rolagem. Não autoriza Forçar ataques nem testes contra a morte.
+- **Até o Limite:** ao forçar um teste que falhou por 1 PE porque a reserva correspondente está vazia, recebe +2 na nova rolagem. Não autoriza Forçar ataques nem testes contra a morte.
 - **Potencial Humano:** +2 pontos de atributos na criação, respeitando máximo inicial 3.
 
 ### Anões

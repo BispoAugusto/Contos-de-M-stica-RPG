@@ -1,5 +1,7 @@
 # Fichas de combate — 2026-10-25
 
+> **Histórico — não usar como ficha vigente (16/11/2026).** Este material conserva números, defesas, pressão e graus antigos. A conversão dos três atributos de NPC para dados e a recalibração dos encontros estão pendentes. Consulte [testes atuais](../regras/fundamentos/testes.md), [defesas](../regras/combate/defesas.md) e [plano atual de playtests](playtests.md).
+
 **Preparação para simulações posteriores, não resultado de playtest.** Mesmo orçamento: 13 pontos de atributos, 7 pontos de proficiência por origem Humanos, máximo inicial 3 nos atributos e nível 2 nas proficiências. Igualdade de orçamento não comprova igualdade de desempenho.
 
 Sem habilidades especiais adquiridas, magia ou manobras na comparação-base. Mantidos benefícios estruturais de espécie (Alma/PV/PP); características raciais estão registradas abaixo, sem uso ativo no duelo de ataques básicos. Equipamento é concessão específica deste teste, pois aquisição inicial ainda está pendente.

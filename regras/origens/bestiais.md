@@ -28,7 +28,7 @@ Todas as quatro espécies podem escolher Pequeno, Médio ou Grande.
 
 ### Feras
 
-- **Armas Naturais:** garras/presas usam a proficiência de Golpes Desarmados, sem atributo nem teto nos ataques comuns. Dano base igual ao **nível** da proficiência, mínimo 1 (níveis 0/1/2/3/4/5 dão 1/1/2/3/4/5). **Sem Leve**, sem benefício de duas armas por ter duas garras. Apenas o ataque direcionado aplica Foco sob pressão; isso não muda a base. Aplicam pesado/brutal/crítico normalmente. Ataques não podem ser forçados.
+- **Armas Naturais:** garras/presas usam a proficiência de Golpes Desarmados, sem atributo nem teto nos ataques comuns. Dano base igual ao **nível** da proficiência, mínimo 1 (níveis 0/1/2/3/4/5 dão 1/1/2/3/4/5). **Sem Leve**, sem benefício de duas armas por ter duas garras. Aberturas são exploradas pelo limiar Pesado/Brutal indicado na proteção, sem um ataque separado com Foco; isso não muda a base. Aplicam pesado/brutal/crítico normalmente. Ataques não podem ser forçados.
 - **Sentidos de Caça:** Vantagem em rastreamento pelos sentidos apropriados.
 
 ### Namarés

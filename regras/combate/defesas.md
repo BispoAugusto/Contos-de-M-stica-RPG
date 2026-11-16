@@ -1,6 +1,6 @@
 # Defesas, reações e efeitos de área
 
-**Confirmado pelo criador — 2026-11-04.**
+**Modelo de 04/11; quantidade de dados aprovada para playtest em 16/11/2026.**
 
 ## Defesa passiva
 
@@ -8,18 +8,18 @@
 
 ## Esquivar
 
-Declare a reação antes de conhecer o resultado do ataque, preservando a janela de decisão aprovada em 29/10. Ao receber um ataque, pode gastar **1 PA** para rolar **Vigor com Reflexo**. O total deve ser **estritamente maior que o total do ataque** para evitar o golpe. Empate não evita. Se falhar, resolva o ataque contra a Defesa passiva, preservando grau e RD aplicável.
+Declare a reação antes de conhecer o resultado do ataque, preservando a janela de decisão aprovada em 29/10. Ao receber um ataque, pode gastar **1 PA** para rolar **os dados de Reflexo + bônus integral de Vigor**. O total deve ser **estritamente maior que o total do ataque** para evitar o golpe. Empate não evita. Se falhar, resolva o ataque contra a Defesa passiva, preservando grau e RD aplicável.
 
 - Nenhum tipo de proteção: 1 Vantagem.
 - Armadura leve: normal.
 - Armadura média ou pesada: 1 Desvantagem.
 - Outros modificadores cancelam/acumulam conforme as regras gerais.
 
-Reflexo é a abordagem, não um bônus somado ao dado. O antigo requisito de treino em Esquiva e a reação sem rolagem foram substituídos. Pode usar Vigor 0 (+0). Não exige Preparar Ação.
+Reflexo fornece a quantidade básica de dados. Calcule Q com a vantagem/desvantagem da proteção e demais fontes; Reflexo não é somado ao resultado. O antigo requisito de treino em Esquiva e a reação sem rolagem foram substituídos. Pode usar Vigor 0 (+0). Não exige Preparar Ação.
 
-Ataque total 16, Vigor +4: dado selecionado 12 resulta em empate e não evita; 13 resulta em 17 e evita. Com média/pesada e sem outros modificadores, role 2d20 e selecione o menor.
+Ataque total 16, Reflexo 3 e Vigor +4: sem modificador de proteção, role 3d20 e escolha o maior; 12 empata e não evita, 13 resulta em 17 e evita. Com média/pesada, Q = 2: maior de 2d20. Sem proteção, Q = 4. São 1 PA por reação, sem mudar a Defesa passiva ou o grau do ataque se falhar.
 
-**Pendente de compatibilidade:** confirmar a incidência da regra de pressão (proficiência pela metade, inteira na margem de pleno) enquanto o modelo A está em playtest e o tratamento dos naturais 1/20 frente à comparação estrita. Até definição, a comparação estrita é a regra específica desta reação; registrar a arbitragem de pressão da sessão.
+**Comparação estrita preservada:** empate não evita. A prioridade dos naturais 1/20 diante dessa comparação específica permanece uma pendência explícita; registrar a arbitragem no teste, sem declarar que um 20 total inferior evita automaticamente. Pressão não reduz Vigor. Como reação própria que não é ataque nem teste contra a morte, uma Esquiva falha pode ser Forçada uma vez pelas regras de Alma. O teste oposto do atacante não é rerrolado.
 
 ## Bloquear e resistências
 

@@ -1,5 +1,20 @@
 # Pendências — estado de 2026-10-25
 
+## Vigente — 2026-11-16
+
+Resolvidos neste pacote: núcleo de dados/proficiência integral, pleno DT +5, Alma/Forçar, recuperação curta automática, criação 12/6, Esquivar com dados de Reflexo, Resistir com atributo/Vigor e sem Forçar, ajuda reservada, repetição de ações e inclusão provisória do sandbox. [Registro das respostas](decisoes.md#2026-11-16--núcleo-de-dados-ajuda-e-sandbox).
+
+- [ ] Ajuda: adjacência após declarar; reordenação/transferência dos dados; efeito de cancelamento sobre sequência; interação de Atrapalhar com consumo/PA. Não permitir recarga automática de d8.
+- [ ] Naturais em opostos e prioridade frente à comparação estrita de Esquivar. Regra geral 1/20 aprovada; conflito específico não detalhado.
+- [ ] NPCs: converter Corpo/Mente/Espírito para quantidade de dados; recalibrar protótipos antigos, sem conceder Alma por inferência.
+- [ ] Verdantes: redefinir diferencial de Enraizamento após a recuperação automática universal.
+- [ ] Progressão de atributos/proficiências/Alma, benefícios acima de 5 e extremo; não restaurar o teto histórico 10.
+- [ ] Medir duração das rolagens, frequência de 20, força de ajudas somadas e disponibilidade de Alma entre curtos.
+- [ ] Revisar frequência dos eventos, coleta/consumo, moral, atividades, facções/projetos após playtest.
+- [ ] Demais lacunas não substituídas: iniciativa entre rodadas, controle, propriedades de dano, retorno de caído com PV negativos, Sequelas, habilidades/magia e fabricação.
+
+**Histórico abaixo:** listas antigas não reabrem decisões resolvidas acima nem autorizam regras substituídas. Mesa-web já perdeu o teto numérico de pressão, mas as estatísticas históricas ainda não são fichas vigentes.
+
 ## Pressão e pleno — 09/11/2026
 
 - [x] Proficiência pela metade sob pressão; pleno por margem do d20 (20 − atributo; teto no atributo 10 = 10–20) devolve a proficiência inteira.

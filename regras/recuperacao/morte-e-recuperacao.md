@@ -1,34 +1,34 @@
 # Morte, Ferido, Medicina e cura
 
-> **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
+[Índice de regras](../README.md) · [Categoria](README.md)
 
-
-[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
-
-**Escolhas confirmadas; atualização de 2026-10-19.** Procedimentos médicos fora do descanso e Sequelas ainda têm pendências.
+**Resistir/Cair consolidados da revisão de 29/10; dados de atributo aprovados em 16/11/2026.**
 
 ## A 0 PV ou menos
 
-1. **Lutar Contra a Morte:** puro **1d20**, DT 10; +5 por nova tentativa na mesma cena (10, 15, 20...). Sucesso retorna com 1 PV; falha morre. Sem qualquer bônus, penalidade, Vantagem, Desvantagem ou rerrolagem, inclusive Alma/PE. 20 natural sempre sucede. Não usa graus pleno/extremo.
-2. **Aceitar a Queda:** evita o teste, fica inconsciente; PV podem ser negativos conforme excedente. Se novos danos ultrapassarem o negativo dos PV máximos, morre. Ao sobreviver, recebe Sequela persistente.
-3. **Último Ato:** recebe um último turno; ação decisiva tem sucesso crítico garantido, limitada às capacidades reais; morre ao fim da rodada. Continua pendente se o crítico beneficia uma ação ou todo o turno.
+Se PV ≤ −PV máximos, o personagem morre; Resistir não contorna esse limite. Caso contrário, escolher:
 
-Um Gnomo dividido em dois cujo corpo chega a 0 PV perde esse corpo: ele morre, sem essas escolhas. Elas só se aplicam quando for o único corpo; ver [Gnomos](../origens/verdantes.md#gnomos).
+1. **Resistir:** teste normal de atributo + Vigor, usando a quantidade de dados do atributo e o bônus integral da perícia. Resiliência é a sugestão de Vigor para sustentação física; outra abordagem exige justificativa e definição antes do teste. DT inicial **10**, aumentando **5 por nova tentativa**, reiniciando após descanso longo. Sucesso fica consciente com **1 PV**; falha morre.
+2. **Aceitar a queda:** fica inconsciente, recebe Sequela e mantém os PV; não realiza Resistir nem morre apenas por escolher cair.
+
+Em Resistir, **1 natural falha e 20 natural sucede**; não existe cura extra por pleno. **Não pode Forçar, nem com Alma nem com PE.** A antiga proibição de todos os bônus foi substituída: atributo e Vigor agora participam, assim como modificadores aplicáveis ao teste, sem presumir ajuda possível numa reação corporal involuntária.
+
+Um caído sobrevivente recupera consciência ao término da cena sem restaurar PV automaticamente, ou antes por cura/tratamento apropriado. Última Ação permanece reservada ao mestre; tempo, orçamento e crítico ainda são pendentes, sem regra universal de turno extra ou morte no fim da rodada.
+
+Gnomo dividido em dois perde o corpo que chegar a 0 PV, sem essas escolhas; elas valem para o único corpo. [Gnomos](../origens/verdantes.md#gnomos).
 
 ## Ferido
 
-Ao chegar à metade dos PV máximos ou menos por dano, fica Ferido e não recebe cura normal até tratamento. Tratamento remove Ferido. Permanecer abaixo da metade não reaplica a condição sem novo dano.
-
-[Tratamento no descanso curto](descansos.md) é automático: cura própria 2 + Resiliência; cura de outro 2 + bônus de Medicina, com remoção de Ferido. Regeneração dos Namarés é uma exceção expressa: sua cura automática ocorre mesmo Ferido, mas não remove a condição.
+Ao chegar à metade dos PV máximos ou menos por dano, fica Ferido e não recebe cura normal até tratamento. Tratamento remove Ferido. Permanecer abaixo da metade não reaplica sem novo dano. Regeneração de Namarés é exceção expressa.
 
 ## Medicina fora do descanso
 
-Conhecimento com Raciocínio sugerido, ajustável à abordagem; atributo não soma. Um atendimento bem-sucedido estabiliza inconsciente e remove Ferido no mesmo procedimento, sem restaurar PV por essa estabilização. Não exigir dois atendimentos para isso. Custos e DT permanecem pendentes: **2 PA/DT 10 são apenas propostas**.
+Tratar custa **1 PA**. Teste para estabilizar só é necessário se houver risco real, como sangramento ou outro perigo. Usar Medicina com atributo adequado; DT e detalhes de reanimação permanecem pendentes. Não adotar a antiga proposta universal 2 PA/DT 10. [Tratamento no descanso](descansos.md#tratar-feridas).
 
 ## Cura em PV negativos
 
-Cura efetiva de um caído elimina os PV negativos, coloca-o com **exatamente 1 PV** e remove Ferido. O excedente dessa aplicação não é aproveitado; outra cura pode recuperar PV normalmente. Essa exceção não transforma estabilização em cura nem remove Sequela.
+Aceitar a queda mantém os PV. Recuperar consciência não restaura PV automaticamente. O tratamento/cura pode antecipar o despertar; a conversão exata de cura com PV negativos permanece pendente de harmonização. A antiga regra de apagar todo negativo e fixar 1 PV não deve ser aplicada como se resolvesse essa pendência. Resistir bem-sucedido tem sua regra expressa de 1 PV.
 
 ## Sequelas e pendências
 
-Sequelas persistem além de descanso e cura e podem exigir especialistas, magia rara ou aventuras. Não existe penalidade numérica universal de Sequela aprovada. Regras detalhadas de estabilidade, ações após reanimação, efeitos/tratamentos de Sequelas e crítico do Último Ato permanecem em [pendências](../../design/pendencias.md).
+Sequela surge ao aceitar a queda. Neste playtest não é curável, mas pode ser contornada por meios apropriados. Tabela, frequência em quedas repetidas e tratamento futuro permanecem pendentes. Descansos não a removem. [Pendências](../../design/pendencias.md).

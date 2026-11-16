@@ -18,4 +18,4 @@
 | Espírito | Influência | Comunicação e expressão social |
 | Espírito | Sintonia | Conexão e controle espiritual/sobrenatural |
 
-Cada atributo começa em **1**; distribuir **4 pontos adicionais**. Pode reduzir até **0** e redistribuir os pontos liberados. Máximo inicial **3**: soma inicial 13 antes de benefícios expressos de espécie. O limite normal é **10**; apenas efeitos de itens ou magias podem ultrapassá-lo. Como ganhar atributos durante a campanha fica para a progressão futura.
+**Provisório para playtest — 16/11/2026:** distribuir **12 pontos** entre os nove atributos, mínimo **0** e máximo inicial **3**, antes de benefícios expressos de espécie. O limite normal é **5**; efeitos extraordinários podem ultrapassá-lo quando expressamente permitido. Atributos determinam a base de dados dos [testes](testes.md): valor 1–5 fornece essa quantidade de d20, escolhendo o maior; valor 0 usa o menor de 2d20. Acima de 5 continua acrescentando dados. A progressão ao longo da campanha permanece pendente.

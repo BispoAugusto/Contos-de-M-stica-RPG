@@ -1,13 +1,12 @@
 # Perícias
 
-> **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
 
 
 [Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
 
 **Lista aprovada para playtest — atualizada em 2026-10-19.** São **27 perícias nomeadas**: três resistências, dezesseis gerais e oito conhecimentos, além das profissionais personalizadas.
 
-Atributos são sugestões e podem mudar conforme a abordagem. Não somam ao teste: **1d20 + proficiência + modificadores**, com a proficiência pela **metade** sob pressão, inteira se o d20 cair na margem de pleno do atributo. Ver [testes](../fundamentos/testes.md) e [compra de níveis](proficiencias.md).
+Atributos sugeridos podem mudar conforme a abordagem. Eles fornecem dados: **d20 escolhido + proficiência integral + modificadores**, mesmo sob pressão. Ver [testes](../fundamentos/testes.md) e [compra de níveis](proficiencias.md).
 
 ## Resistências — destacadas na ficha
 
@@ -16,9 +15,8 @@ Atributos são sugestões e podem mudar conforme a abordagem. Não somam ao test
 | Vigor | Resiliência | Veneno, doença, fadiga, ambiente, dor física e resistências antes chamadas Esquiva; com Reflexo, reação Esquivar |
 | Lucidez | Raciocínio | Ilusões, confusão e distorções da percepção/compreensão |
 | Convicção | Vontade | Medo, coerção, compulsão e firmeza interior |
-| Esquiva | Reflexo | Evitar golpes e áreas; reação defensiva e testes exigidos por efeitos |
 
-A reação Esquivar deve ser declarada antes de conhecer o resultado do teste de ataque. Exige treinamento em Esquiva (nível 1 ou mais), sem equipamento nem Preparar Ação. Pela fórmula anterior preservada provisoriamente até revisão, custa 1 PA, soma o bônus limitado à Defesa contra um ataque e **não rola dados**. Um efeito pode exigir um **teste de Esquiva** separado, com consequências descritas nele. A perícia não determina a Defesa passiva. Ver [combate](../combate/README.md).
+A reação Esquivar custa 1 PA, usa os dados de Reflexo com Vigor e deve ser declarada antes do resultado do ataque. Não exige treino mínimo nem Preparar Ação. Superar estritamente o ataque evita o golpe; a perícia Esquiva foi removida. Efeitos antes resolvidos por Esquiva usam Vigor com o atributo adequado. Ver [defesas](../combate/defesas.md).
 
 ## Gerais
 

@@ -2,14 +2,13 @@
 
 > **Atualização 04/11/2026:** leve RD física 1, média 3, pesada 5. Médias/pesadas dão Desvantagem com Reflexo. Defesa 8 + bônus de Vigor. Esquivar custa 1 PA, rola Vigor com Reflexo e exige superar o ataque; sem proteção tem Vantagem. [Defesas](../regras/combate/defesas.md) e [tipos físicos](../regras/combate/tipos-de-dano.md) prevalecem nos exemplos ainda em conversão.
 
-> **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../regras/revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
 
 
 [Índice de regras](../regras/README.md) · [Guia rápido de mesa](guia-rapido.md) · [Glossário](glossario.md)
 
 Este guia acompanha o preenchimento da ficha com as decisões disponíveis. Ao terminar, você terá origem, espécie, atributos, Alma, proficiências e valores básicos calculados.
 
-**Versão de playtest:** equipamentos iniciais, habilidades, progressão e fabricação ainda serão desenvolvidos. Os pontos de criação e benefícios provisórios conservam esse status.
+**Versão de playtest — 16/11/2026:** criação 12 pontos de atributos e 6 PP. Habilidades, progressão e fabricação ainda serão desenvolvidas; equipamento inicial segue a seleção aprovada em 29/10. Os pontos de criação e benefícios provisórios conservam esse status.
 
 ## Roteiro de criação
 
@@ -66,7 +65,7 @@ Escolha uma característica de cada espécie participante, uma característica d
 
 ## 2. Atributos
 
-Escreva **1 em cada atributo** e distribua **4 pontos adicionais**. Pode reduzir valores até **0** para redistribuir os pontos liberados. Nenhum atributo pode começar acima de **3**.
+Distribua **12 pontos** entre os nove atributos, mínimo **0** e máximo inicial **3**, antes dos benefícios expressos da espécie.
 
 | Parte | Atributo | Representa |
 |---|---|---|
@@ -80,9 +79,9 @@ Escreva **1 em cada atributo** e distribua **4 pontos adicionais**. Pode reduzir
 | Espírito | Influência | Comunicação e expressão social |
 | Espírito | Sintonia | Conexão e controle espiritual |
 
-A soma inicial é **13**, antes de benefícios específicos. Homens Altos recebem **mais 2 pontos**, totalizando 15, mas mantêm o máximo inicial 3.
+A soma inicial é **12**, antes de benefícios específicos. Homens Altos recebem **mais 2 pontos**, totalizando 14, mas mantêm o máximo inicial 3.
 
-Atributos **não somam à rolagem**: determinam a margem de pleno e a reserva de Alma correspondente. O limite normal futuro é 10; a progressão ainda não foi definida.
+Atributos **não somam à rolagem**: determinam a quantidade de dados e a reserva de Alma correspondente. O limite normal é 5; a progressão ainda não foi definida.
 
 **Anote na ficha:** os nove valores e confira a soma. [Regra completa de atributos](../regras/fundamentos/atributos.md).
 
@@ -114,7 +113,7 @@ Na divisão, cada parte perde uma categoria, mínimo Minúsculo. Não recalcule 
 
 ## 4. Proficiências
 
-Você recebe **5 pontos de proficiência**, provisoriamente para playtest. A origem Humanos concede mais 2: **7 pontos**. O nível inicial máximo é **2**.
+Você recebe **6 pontos de proficiência**, provisoriamente para playtest. A origem Humanos concede mais 2: **8 pontos**. O nível inicial máximo é **2**.
 
 ### Quanto custa?
 
@@ -123,7 +122,7 @@ Você recebe **5 pontos de proficiência**, provisoriamente para playtest. A ori
 | Um nível de perícia geral ou resistência | 1 ponto |
 | Um nível de profissão personalizada | 1 ponto |
 | Um nível de família de armas | 1 ponto |
-| Um nível de acesso a armaduras | 1 ponto |
+| Treinamento em armaduras | Apenas por habilidades; não comprar com PP |
 | Proficiência em escudos | 1 ponto |
 | Dois níveis de conhecimentos | 1 ponto |
 | Dois níveis de idiomas | 1 ponto |
@@ -142,7 +141,7 @@ Na criação, normalmente só entram os níveis 0, 1 e 2. Idiomas, armaduras e e
 
 | Categoria | Opções |
 |---|---|
-| **Resistências — destacar na ficha** | Vigor, Lucidez, Convicção, Esquiva |
+| **Resistências — destacar na ficha** | Vigor, Lucidez, Convicção |
 | Gerais de ação | Atletismo, Acrobacia, Condução, Furtividade, Ladinagem |
 | Gerais de observação | Vigilância, Investigação, Sobrevivência, Intuição |
 | Gerais sociais | Persuasão, Enganação, Intimidação, Performance, Trato com Animais |
@@ -151,7 +150,7 @@ Na criação, normalmente só entram os níveis 0, 1 e 2. Idiomas, armaduras e e
 | Conhecimentos | História, Rumores, Natureza, Medicina, Arcanismo, Religião, Ocultismo, Espiritualismo |
 | Profissionais | Lista aberta de especializações aprendidas pelo personagem |
 | Armas | Espadas, Machados, Martelos, Adagas, Armas de Haste, Arcos, Bestas, Armas de Fogo, Correntes e Chicotes, Golpes Desarmados |
-| Armaduras | Acesso 0: leves; 1: médias; 2: pesadas |
+| Armaduras | Uso livre; treino por habilidades remove penalidades expressas |
 | Escudos | Proficiência de uso |
 
 Os agrupamentos “de ação”, “de observação” e “sociais” servem apenas para consulta; todas são perícias gerais com o mesmo custo. Consulte [perícias](../regras/personagem/pericias.md) para atributos sugeridos e aplicações.
@@ -160,11 +159,9 @@ Fluxo usa Sintonia como sugestão e mede controle espiritual/mana; sua aplicaç�
 
 ### Bônus sob pressão
 
-Registre o bônus normal da proficiência. Quando houver teste sob pressão, use **metade** do bônus; se o d20 cair na **margem de pleno** do atributo escolhido (20 − atributo ou mais), use o bônus inteiro.
+Registre o bônus integral: pressão não o reduz. Atributos fornecem a base de dados; atributo 3 rola 3d20 e escolhe o maior, atributo 0 o menor de 2d20, antes das vantagens/desvantagens. Pleno exige DT +5. Ataques partem de 1d20.
 
-Exemplo: proficiência 2 dá +4, mas sob pressão usa +2. Com atributo 1, 19 ou 20 natural devolvem o +4; com atributo 3, 17 a 20. Fora de pressão, usa +4. O nível aprendido permanece 2.
-
-**Anote na ficha:** níveis, bônus normais, pontos gastos e acessos de equipamento. Comprar proficiência **não concede o equipamento**. [Compra e exceções](../regras/personagem/proficiencias.md).
+**Anote na ficha:** níveis, bônus, pontos gastos e treinamento. Comprar proficiência não concede equipamento. [Compra e exceções](../regras/personagem/proficiencias.md).
 
 ## 5. Idiomas
 
@@ -177,7 +174,7 @@ Todos começam **fluentes em Comum**, sem gastar pontos. A origem Rúnicos tamb�
 
 Idiomas disponíveis: Comum, Bestial, Miridiano, Arak, Faarongiano, Primordial, Abissal, Dracônico e Umbral.
 
-Conte as compras desta etapa **dentro da mesma reserva** da etapa 4. Não receba outros cinco pontos para idiomas.
+Conte as compras desta etapa **dentro da mesma reserva** da etapa 4. Não receba outros seis pontos para idiomas.
 
 **Anote na ficha:** idioma e domínio; marque quais foram gratuitos. [Regra de idiomas](../regras/personagem/idiomas.md).
 
@@ -189,7 +186,7 @@ Use os valores já calculados:
 |---|---|
 | PV máximos | **6 + 2 × máximo de Corpo + bônus explícitos** |
 | Defesa passiva | **8 + bônus de Vigor** |
-| Defesa com escudo empunhado | Defesa passiva +1 |
+| Defesa com escudo empunhado e proficiência | Defesa passiva +1 |
 | Capacidade de inventário | **Base do porte + 2 × Potência** |
 
 | Porte | Base de inventário |
@@ -222,7 +219,7 @@ Transcreva as características da sua origem e espécie com **custo, alcance, us
 
 Para Gnomos, prepare espaço para **anotar a ficha integral antes da divisão** e acompanhar as duas partes. A recomposição de recursos após gastos/dano e a perda definitiva de uma parte continuam pendentes; não presuma recarga ao reunir.
 
-Equipamentos iniciais ainda não foram definidos. Se a mesa escolher equipamento para uma sessão de teste, identifique essa escolha como preparação daquele playtest, não como concessão universal.
+Equipamento inicial: kit de sobrevivência, uma opção de armamento, armadura opcional e dois itens gerais, conforme a [seleção aprovada](../regras/revisao-playtest-2026-10-29.md#4-equipamento-inicial). Escolhas sem catálogo/preço ainda definido devem ser identificadas como arbitragem de playtest.
 
 **Anote na ficha:** apenas recursos e efeitos efetivamente escolhidos/concedidos. [Descansos](../regras/recuperacao/descansos.md) · [Defesas](../regras/combate/defesas.md).
 
@@ -233,13 +230,13 @@ Equipamentos iniciais ainda não foram definidos. Se a mesa escolher equipamento
 - [ ] Conferi porte e bônus de Alma.
 - [ ] Distribuí os atributos, respeitando soma, mínimo 0 e máximo inicial 3.
 - [ ] Calculei cada reserva pela média para cima **antes** de somar o bônus.
-- [ ] Gastei os cinco PP, ou sete da origem Humanos, sem passar do nível inicial 2.
+- [ ] Gastei os seis PP, ou oito da origem Humanos, sem passar do nível inicial 2.
 - [ ] Incluí compras de idiomas na mesma reserva e registrei Comum fluente gratuito.
 - [ ] Calculei PV, Defesa e carga sem confundir atributo, bônus de proficiência e máximo de Corpo.
 - [ ] Registrei custos, usos e recuperação das características.
 - [ ] Identifiquei campos provisórios e escolhas ainda dependentes de desenvolvimento.
 
-**Ainda não completar automaticamente:** equipamentos iniciais, habilidades/conjuração, progressão e fabricação. Consulte [pendências](../design/pendencias.md) para casos específicos.
+**Ainda não completar automaticamente:** itens sem definição, habilidades/conjuração, progressão e fabricação. Consulte [pendências](../design/pendencias.md) para casos específicos.
 
 ## Exemplo completo: Homem Alto
 
@@ -253,10 +250,10 @@ Origem Humanos, espécie Homens Altos, porte Médio. Versatilidade concede +2 PP
 |---|---|---|---|---|---|
 | Potência | 3 | Raciocínio | 2 | Vontade | 2 |
 | Reflexo | 2 | Foco | 1 | Influência | 1 |
-| Resiliência | 2 | Percepção | 1 | Sintonia | 1 |
-| **Soma** | **7** | **Soma** | **4** | **Soma** | **4** |
+| Resiliência | 1 | Percepção | 1 | Sintonia | 1 |
+| **Soma** | **6** | **Soma** | **4** | **Soma** | **4** |
 
-Total **15**: nove pontos iniciais + quatro livres + dois de Potencial Humano. Todos os atributos estão entre 0 e 3.
+Total **14**: doze pontos básicos + dois de Potencial Humano. Todos os atributos estão entre 0 e 3.
 
 ### Alma e derivados
 
@@ -264,28 +261,30 @@ Homens Altos recebem +1 em cada Parte.
 
 | Campo | Cálculo | Resultado |
 |---|---|---|
-| Corpo máximo | Arredondar 7 ÷ 3 para cima, depois +1 | **4** |
+| Corpo máximo | Arredondar 6 ÷ 3 para cima, depois +1 | **3** |
 | Mente máxima | Arredondar 4 ÷ 3 para cima, depois +1 | **3** |
 | Espírito máximo | Arredondar 4 ÷ 3 para cima, depois +1 | **3** |
-| PV máximos | 6 +2 ×4 | **14** |
+| PV máximos | 6 +2 ×3 | **12** |
 | Defesa passiva | 8 +2 de Vigor | **10** |
 | Capacidade | Médio 10 +2 ×3 | **16 espaços** |
 
 ### Sete pontos de proficiência
 
+O título registra a versão anterior. Na criação de 16/11, use **oito pontos**, distribuídos abaixo.
+
 | Compra | Pontos gastos | Resultado |
 |---|---|---|
 | Espadas 2 | 2 | +4 |
-| Esquiva 1 | 1 | +2 |
+| Vigilância 2 | 2 | +4 |
 | Atletismo 1 | 1 | +2 |
 | Vigor 1 | 1 | +2 |
 | Medicina 1 + História 1 | 1 | +2 em cada |
 | Dracônico 2 | 1 | Fluente; +2 quando precisar testar |
-| **Total** | **7** | Comum fluente é gratuito e fica fora da compra |
+| **Total** | **8** | Comum fluente é gratuito e fica fora da compra |
 
-Espadas usa +4 no ataque comum. Vigor 1 dá +2 e Defesa 10. Esquivar usa Vigor com Reflexo por 1 PA e exige superar o ataque. O ponto anteriormente registrado em Esquiva neste exemplo precisa de realocação, pois essa perícia foi removida em 29/10.
+Espadas usa +4 no ataque comum. Vigor 1 dá +2 e Defesa 10. Esquivar usa Vigor com Reflexo por 1 PA e exige superar o ataque. Reflexo 2 fornece a base de 2d20 para Esquivar, antes da proteção e dos demais modificadores. No curto, cada reserva máxima 3 recupera automaticamente até 2 pontos.
 
-A ficha tem atributos, reservas e proficiências definidos. Espadas 2 não significa que recebeu uma espada: o equipamento inicial continua pendente.
+A ficha tem atributos, reservas e proficiências definidos. Espadas 2 não significa que recebeu uma espada: escolha o equipamento pela seleção inicial, sem inferir concessão pela compra de proficiência.
 
 ## Atualização de combate — 2026-10-25
 

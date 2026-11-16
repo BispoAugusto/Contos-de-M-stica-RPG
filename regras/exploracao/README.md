@@ -1,5 +1,16 @@
 # Exploração — índice
 
+## Sandbox — provisório para playtest
+
+- [Tempo, viagens e exploração](tempo-e-viagens.md)
+- [Suprimentos e acampamento](suprimentos-e-acampamento.md)
+- [Eventos, encontros e reações](encontros-e-reacoes.md)
+- [Atividades entre aventuras](atividades.md)
+- [Facções e projetos](faccoes-e-projetos.md)
+- [Moral e retirada](../combate/moral-e-retirada.md)
+
+Aprovados para experimentar em 16/11/2026, com revisão posterior de valores e frequência.
+
 [Todas as categorias](../README.md) · [Guia rápido de mesa](../../referencias/guia-rapido.md)
 
 | Capítulo | Conteúdo |

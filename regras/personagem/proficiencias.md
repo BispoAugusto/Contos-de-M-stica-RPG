@@ -1,11 +1,10 @@
 # Proficiências e pontos iniciais
 
-> **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
 
 
 [Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
 
-**Provisório para playtest — atualizado em 2026-10-19.** A reserva inicial passa a **5 pontos de proficiência**, com máximo inicial **nível 2**.
+**Provisório para playtest — atualizado em 2026-11-16.** A reserva inicial passa a **6 pontos de proficiência**, com máximo inicial **nível 2**.
 
 ## Compra
 
@@ -14,14 +13,14 @@
 | Perícia geral ou resistência | 1 nível |
 | Perícia profissional personalizada | 1 nível |
 | Família de armas | 1 nível |
-| Armaduras | 1 nível de acesso: 0 leves, 1 médias, 2 pesadas |
+| Armaduras | Não se compram com PP; treinamento vem de habilidades |
 | Escudos | Proficiência em escudos |
 | Conhecimentos | 2 níveis na categoria, juntos ou distribuídos |
 | Idiomas | 2 níveis na categoria, juntos ou distribuídos |
 
 Não misturar conhecimentos e idiomas na mesma compra. História 2 ou História 1 + Natureza 1 custam um ponto; Dracônico 2 também. História 1 + Dracônico 1 não é compra válida de um ponto.
 
-Exemplo com cinco pontos: Atletismo 1, Esquiva 1, Espadas 1, História 1 + Natureza 1 e Dracônico 2.
+Exemplo com seis pontos: Atletismo 1, Vigor 1, Espadas 2, História 1 + Natureza 1 e Dracônico 2. Custos: 1 +1 +2 +1 +1 = 6. Conhecimentos e idiomas preservam seus preços próprios.
 
 ## Níveis e bônus
 
@@ -29,19 +28,19 @@ Exemplo com cinco pontos: Atletismo 1, Esquiva 1, Espadas 1, História 1 + Natur
 |---|---|---|---|---|---|---|
 | Bônus | +0 | +2 | +4 | +6 | +8 | +10 |
 
-Gerais, resistências, conhecimentos, profissionais e famílias de armas usam essa escala. Sob pressão, o **bônus usado no teste** vale metade (igual ao nível), salvo se o d20 cair na margem de pleno, quando vale inteiro; o nível aprendido não diminui. Atributo não soma à rolagem. A base das armas naturais das Feras usa o nível de Golpes Desarmados, não seu bônus numérico nem o bônus reduzido pela pressão.
+Gerais, resistências, conhecimentos, profissionais e famílias de armas usam essa escala. O bônus é integral mesmo sob pressão. O atributo fornece a base de dados e não soma à rolagem. A base das armas naturais das Feras usa o nível de Golpes Desarmados, não seu bônus numérico.
 
-Idiomas têm escala própria: Amador +0; Fluente +2 quando precisar testar. Armaduras são acesso e escudos são proficiência de uso, sem bônus automático +2 a +10. O efeito de usar escudo sem proficiência permanece pendente.
+Idiomas têm escala própria: Amador +0; Fluente +2 quando precisar testar. Armaduras são acesso e escudos são proficiência de uso, sem bônus automático +2 a +10. Sem treino em escudo, não recebe +1 de Defesa e a RD de Bloquear cai à metade para cima, mínimo 1; ver [defesas](../combate/defesas.md).
 
 ## Concessões iniciais
 
 - Todos começam **fluentes em Comum**, gratuitamente no playtest.
-- A origem Humanos concede **+2 pontos** para qualquer categoria, respeitando custos e limite inicial: total 7 antes de outras concessões.
+- A origem Humanos concede **+2 pontos** para qualquer categoria, respeitando custos e limite inicial: total 8 antes de outras concessões.
 - Rúnicos recebem Primordial fluente.
 - Profissões adquiridas por história/habilidades precisam ter especialidade e nível definidos; não presumir concessão gratuita.
 
-A regra de uma manobra aprendida ao alcançar grau 1 de proficiência de arma permanece no primeiro playtest; graus seguintes não concedem automaticamente outras. Golpe Devastador e Ataque de Oportunidade precisam ser aprendidos.
+Manobras são adquiridas por habilidades conforme a revisão de 29/10; um nível de arma não concede automaticamente uma manobra. Golpe Devastador e Ataque de Oportunidade precisam ser aprendidos.
 
 Famílias atuais: Espadas, Machados, Martelos, Adagas, Armas de Haste, Arcos, Bestas, Armas de Fogo, Correntes e Chicotes e **Golpes Desarmados** (nome usado nesta integração para a antiga família Desarmado). Nome definitivo de Correntes e Chicotes continua pendente; Luta/Pontaria não substituem as famílias.
 
-Progressão posterior e equipamentos iniciais serão desenvolvidos depois. Comprar proficiência não concede equipamento. Ver [perícias](pericias.md), [idiomas](idiomas.md) e [armas](../equipamentos/armas.md).
+Progressão posterior permanece em desenvolvimento. O equipamento inicial segue a [seleção aprovada](../revisao-playtest-2026-10-29.md#4-equipamento-inicial). Comprar proficiência não concede equipamento. Ver [perícias](pericias.md), [idiomas](idiomas.md) e [armas](../equipamentos/armas.md).
