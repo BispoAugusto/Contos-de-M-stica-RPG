@@ -1,5 +1,17 @@
 # Histórico
 
+## 2026-11-17 — Equipamentos e seleção inicial
+
+- Consolidado catálogo de armas do esboço: Ágil/Ocultável, Lenta experimental, mãos explícitas, dano corpo a corpo 1–4 e custos separados de Golpe Devastador.
+- Escudo sem proficiência: +1 Defesa empunhado e Bloquear 1 PA/RD física 2; armaduras mantêm RD 1/3/5, pesos e pendências explícitas.
+- Adicionados itens gerais, efeitos das ferramentas, espaços, munições e kits de Forja, Culinária e Fabricação.
+- Kit básico mais três escolhas substitui concessões antigas; exemplos de carga incluem mochila e munição.
+- Espaço mínimo 0,5, mochila +5 de capacidade e lotes; água para um dia ocupa 1 espaço.
+- Tocha dura um período; lanterna dois por carga. Não exige contagem de turnos para luz.
+- Atualizados criação, proficiências, defesas, guias, inventário e suprimentos; preservadas âncoras e avisos históricos.
+- Receitas, fabricação e maestrias adiadas. Sem nova sessão de playtest ou alegação de equilíbrio.
+
+
 ## 2026-11-16 — Núcleo de dados, ajuda reservada e sandbox
 
 - Atributos 0–5 fornecem d20; bônus de proficiência integral; pleno DT +5; naturais do dado selecionado; criação 12 pontos/6 PP.

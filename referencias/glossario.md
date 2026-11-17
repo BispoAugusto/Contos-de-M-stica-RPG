@@ -33,9 +33,14 @@
 - **Preparar Ação:** manter 1 PA reservado para ação de 1 PA sob gatilho, até o início do próximo turno do personagem; mudança de rodada não encerra a preparação.
 - **Ajudar:** reservar 1 PA por dado no próprio turno, adjacente ao aliado e com treino relevante. Sequência d8/d6/d4 (mínimo d4); um dado de cada ajudante por teste; aliados diferentes somam. Reserva vale até próximo turno próprio.
 - **Atrapalhar:** 1 PA para −1d4 ou negar uma Ajuda, conforme revisão de 29/10; integração com consumo dos novos dados/reservas pendente.
-- **Bloquear:** reação com escudo ou meio especial; nome atual de Defender.
+- **Bloquear:** reação de 1 PA, antes do resultado, sem teste; escudo básico concede RD física 2 contra aquele ataque, sem exigir proficiência. Nome atual de Defender.
 - **Posturas:** termo reservado a futuros estados/estilos de combate; a antiga resistência de inimigos chama-se Equilíbrio.
 
 - **Descanso curto:** 1h adequada; recupera automaticamente metade do máximo de cada reserva de Alma para cima e conserva duas atividades diferentes para outras finalidades.
 - **Vigília:** unidade de viagem de aproximadamente 8h; três ao dia.
 - **Moral:** disposição de NPCs para continuar; checagem 2d6 contra valor do grupo, separada dos testes dos personagens.
+
+- **Ágil:** nome atual de Leve nas armas; ignora a primeira penalidade de repetição.
+- **Ocultável:** nome atual de Furtiva nas armas; 1 Vantagem para ocultá-las, sem bônus ofensivo automático.
+- **Lenta:** após qualquer ataque no próprio turno, atacar com esta arma custa +1 PA; não concede dano nem substitui Desvantagem de repetição.
+- **Período de luz:** equivale à vigília de aproximadamente 8h; tocha dura um, lanterna dois por carga. Não exige contagem de turnos locais.

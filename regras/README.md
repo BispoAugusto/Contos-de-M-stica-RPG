@@ -1,5 +1,9 @@
 # Regras — índice por assunto
 
+## 2026-11-17 — Equipamentos e seleção inicial
+
+[Catálogo atualizado](equipamentos/README.md): armas e propriedades, escudo sem proficiência, ferramentas com efeitos e espaços, três kits, luz por períodos e kit básico mais três escolhas. Parâmetros seguem para playtest; receitas/fabricação permanecem adiadas. Armaduras preservam RD 1/3/5 e penalidades vigentes; revisão de penalidades e limiar universal de abertura continuam pendentes.
+
 ## 2026-11-16 — Núcleo e sandbox
 
 Os capítulos de fundamentos, criação, defesas, ajuda, recuperação e guias incorporam as respostas do criador. Atributos 0–5 fornecem dados; pleno usa DT +5; curto recupera Alma automaticamente; criação usa 12 pontos de atributo e 6 PP antes da origem. [Alcance e status](../design/decisoes.md#2026-11-16--núcleo-de-dados-ajuda-e-sandbox). O sandbox está disponível nos capítulos de exploração e moral, **provisório para playtest**. Registros anteriores abaixo só prevalecem onde não foram substituídos.
@@ -23,7 +27,7 @@ Escolha uma categoria ou procure a situação na tabela abaixo. Cada capítulo c
 | [Personagem](personagem/README.md) | Proficiências, perícias, idiomas e valores da ficha |
 | [Origens e espécies](origens/README.md) | As seis origens, 14 espécies, portes, características e misturas |
 | [Combate](combate/README.md) | Turnos, iniciativa, ataques, dano, defesas, manobras e condições |
-| [Equipamentos](equipamentos/README.md) | Armas, armaduras, escudos, porte e inventário |
+| [Equipamentos](equipamentos/README.md) | Armas, armaduras, escudos, itens gerais, kits, equipamento inicial e inventário |
 | [Exploração](exploracao/README.md) | Viagens, suprimentos, encontros, atividades, facções, projetos, movimento e quedas |
 | [Descanso e sobrevivência](recuperacao/README.md) | Descansos, tratamento, exaustão, Ferido e morte |
 
@@ -41,7 +45,7 @@ Escolha uma categoria ou procure a situação na tabela abaixo. Cada capítulo c
 | Como calcular PV, Defesa e carga | [Valores da ficha](personagem/valores-da-ficha.md) |
 | Quem começa e quantas ações tenho | [Turnos e iniciativa](combate/turnos-e-iniciativa.md) |
 | Como funciona o segundo ou terceiro ataque | [Repetição](combate/ataques-e-dano.md#repetição-no-próprio-turno) |
-| Como uso duas armas | [Duas Leves](equipamentos/armas.md#duas-armas-leves) |
+| Como uso duas armas | [Duas Ágeis](equipamentos/armas.md#duas-armas-leves) |
 | Se posso Esquivar e Bloquear | [Defesas](combate/defesas.md) |
 | Como reduzir dano de vários tipos | [Tipos de dano e RD](combate/tipos-de-dano.md) |
 | O que posso recuperar em um descanso | [Descansos](recuperacao/descansos.md) |

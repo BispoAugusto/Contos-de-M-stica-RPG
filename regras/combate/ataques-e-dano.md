@@ -1,6 +1,8 @@
 # Ataques, repetição e dano
 
-> **16/11/2026:** ataques partem de Q = 1; outras ações também têm [repetição no próprio turno](../fundamentos/testes.md#repetição-de-ações). Ataques mantêm sua contagem compartilhada e exceções de Leve. Natural 1 falha; natural 20 acerta uma tentativa possível e acrescenta o crítico de +2 dano.
+> **Equipamentos — 17/11/2026:** Ágil é o nome atual de Leve. Lenta acrescenta 1 PA a ataques com a arma após qualquer ataque anterior no próprio turno; não substitui repetição nem concede dano. [Catálogo](../equipamentos/armas.md).
+
+> **16/11/2026:** ataques partem de Q = 1; outras ações também têm [repetição no próprio turno](../fundamentos/testes.md#repetição-de-ações). Ataques mantêm sua contagem compartilhada e exceções de Ágil. Natural 1 falha; natural 20 acerta uma tentativa possível e acrescenta o crítico de +2 dano.
 
 
 
@@ -20,7 +22,7 @@ Todo ataque tem a tag **Agredir**, nome sistêmico desta ação. Um NPC pode ter
 
 ## Repetição no próprio turno
 
-| Posição do ataque | Ataque comum | Ataque com Leve, inclusive uma arma |
+| Posição do ataque | Ataque comum | Ataque com Ágil, inclusive uma arma |
 |---|---|---|
 | 1º | Normal | Normal |
 | 2º | 1 Desvantagem | Normal |
@@ -28,9 +30,9 @@ Todo ataque tem a tag **Agredir**, nome sistêmico desta ação. Um NPC pode ter
 | 4º | 3 Desvantagens | 2 Desvantagens |
 | Seguintes | Mais 1 por novo ataque | Mais 1 por novo ataque |
 
-A contagem é compartilhada entre todos os ataques do turno. Trocar arma, mover ou recarregar não reinicia. A coluna depende **do ataque realizado**, não apenas de segurar uma arma Leve. Combinação de Leve + não Leve mantém sua pendência específica de benefício de repetição. Ataques gratuitos contam salvo texto específico. **Fora do próprio turno, ataques não recebem nem avançam essa contagem.**
+A contagem é compartilhada entre todos os ataques do turno. Trocar arma, mover ou recarregar não reinicia. A coluna depende **do ataque realizado**, não apenas de segurar uma arma Ágil. Combinação de Ágil + não Ágil mantém sua pendência específica de benefício de repetição. Ataques gratuitos contam salvo texto específico. **Fora do próprio turno, ataques não recebem nem avançam essa contagem.**
 
-Exemplo: primeiro ataque com uma arma é normal; segundo com Leve é normal; terceiro com Leve tem 1 Desvantagem, ou 2 com arma sem esse benefício. Vantagens cancelam Desvantagens normalmente. **Ataques não podem ser forçados**, comuns ou direcionados, inclusive fora do turno e com modificadores de ataque. Apenas habilidades futuras que autorizem expressamente poderão criar exceção; nenhuma é concedida nesta revisão.
+Exemplo: primeiro ataque com uma arma é normal; segundo com Ágil é normal; terceiro com Ágil tem 1 Desvantagem, ou 2 com arma sem esse benefício. Vantagens cancelam Desvantagens normalmente. **Ataques não podem ser forçados**, comuns ou direcionados, inclusive fora do turno e com modificadores de ataque. Apenas habilidades futuras que autorizem expressamente poderão criar exceção; nenhuma é concedida nesta revisão.
 
 ## Dano e graus
 
@@ -50,9 +52,9 @@ A proficiência não altera o dano base. Golpes Desarmados comuns mantêm base 0
 
 ## Duas armas e manobras
 
-Duas Leves em mãos distintas: 1 PA, uma rolagem, base principal + metade da base secundária arredondada para cima. Usar a **menor proficiência**, mesmo 0, sem teto de atributo no ataque comum. Aberturas usam o ataque comum. Bônus e RD uma vez, uma instância, um ataque. Pode atacar só com uma arma usando sua própria proficiência; se for Leve, mantém o benefício de repetição.
+Duas Ágeis em mãos distintas: 1 PA, uma rolagem, base principal + metade da base secundária arredondada para cima. Usar a **menor proficiência**, mesmo 0, sem teto de atributo no ataque comum. Aberturas usam o ataque comum. Bônus e RD uma vez, uma instância, um ataque. Pode atacar só com uma arma usando sua própria proficiência; se for Ágil, mantém o benefício de repetição.
 
-Golpe Devastador é uma **manobra aprendida**, exige Pesada e não é característica automática da propriedade. Modifica um ataque: 1 PA do ataque + até 3 PA adicionais, +2 dano por adicional (máximo +6). A aplicação em arremesso de arma corpo a corpo Pesada continua pendente de texto específico, sem importar o antigo direcionamento por Foco. Ver [manobras](manobras.md).
+Golpe Devastador é uma **manobra aprendida**, exige Pesada e não é característica automática da propriedade. Modifica um ataque: 1 PA do ataque + até 3 PA investidos, +2 dano por PA investido (máximo +6). Pagar também o custo de Lenta quando aplicável, sem obter dano por esse custo. A aplicação em arremesso de arma corpo a corpo Pesada continua pendente de texto específico, sem importar o antigo direcionamento por Foco. Ver [manobras](manobras.md).
 
 ## Ataque direcionado — experimental
 

@@ -1,4 +1,15 @@
-# Estado do projeto — 2026-11-16
+# Estado do projeto — 2026-11-17
+
+## Equipamentos vigentes — 2026-11-17
+
+[Equipamentos](regras/equipamentos/README.md) reúne armas, armaduras, escudo, itens gerais, três kits e seleção inicial. Kit básico + três escolhas; escudo sem proficiência; luz por períodos; mínimo individual 0,5 espaço. Valores e Lenta seguem **provisórios para playtest**.
+
+Aberturas universais de armaduras de personagens, penalidades finais de armadura, catalisadores e preços permanecem pendentes. RD 1/3/5 e penalidades vigentes não foram substituídas por sugestões numéricas.
+
+**Próxima etapa de design:** completar o sistema antes de definir receitas. Forja/Culinária são profissões; Fabricação usa perícias. Propriedades de materiais serão requisitos de receitas, sem efeito próprio. Coleta, fabricação e maestrias não foram implementadas neste pacote.
+
+[Repasse desta atualização](planejamento/repasse-equipamentos-2026-11-17.md) · [Pendências](design/pendencias.md#equipamentos--2026-11-17). O núcleo abaixo permanece vigente onde não alterado.
+
 
 ## Vigente — 2026-11-16
 

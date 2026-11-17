@@ -1,70 +1,71 @@
 # Armas — catálogo de playtest
 
-[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
+[Índice de regras](../README.md) · [Categoria](README.md) · [Equipamento inicial](equipamento-inicial.md)
 
-**Catálogo consolidado em 04/11/2026 a pedido do criador.** Valores para playtest, sujeitos a avaliação em mesa. Esta página reúne a lista e as decisões de armas da conversa, anteriormente registradas no suplemento de 29/10. Nos assuntos de armas, esta redação substitui o antigo capítulo modular. Complementos ainda propostos estão marcados abaixo.
+**Atualizado em 17/11/2026. Catálogo e valores provisórios para playtest.** Consolida o esboço discutido; substitui a lista de 04/11 nos pontos alterados. Maestrias ficam para o desenvolvimento de habilidades. Não há resultado de sessão que comprove equilíbrio.
 
 ## Base, família e atributo
 
-O jogador escolhe uma arma pronta. O modelo modular serve de guia de criação para o mestre, que pode discutir alternativas com o jogador. Os valores do catálogo são finais: não somar novamente bônus de Pesada nem reduzir novamente o dano por Leve.
+O jogador escolhe uma arma pronta. O modelo modular antigo serve apenas de referência de design para discutir alternativas com o mestre. O dano indicado já inclui as características do modelo: não somar novamente um bônus de Pesada nem subtrair por Ágil.
 
-Famílias de proficiência: Espadas, Machados, Martelos, Adagas, Armas de Haste, Picaretas, Arcos, Bestas, Armas de Fogo, Correntes e Chicotes e Golpes Desarmados. Picaretas foi indicada como família no novo catálogo.
+Ataques comuns usam **1d20 + bônus de proficiência da família + modificadores**, antes de vantagens e desvantagens. Atributos não entram normalmente no ataque. Famílias: Espadas, Machados, Martelos, Adagas, Armas de Haste, Picaretas, Arcos, Bestas, Armas de Fogo, Correntes e Chicotes e Golpes Desarmados.
 
-Ataques comuns usam **1d20 + proficiência da família + bônus aplicáveis**, sem somar atributo e sem teto por atributo. Aberturas usam o limiar de Pesado/Brutal da proteção, sem teste separado de Foco. Ataques não podem ser forçados sem autorização expressa de habilidade.
-
-Tipo de dano e propriedades constam na arma. Desde 04/11/2026, Pesado/Brutal ativa Sangramento (Cortante), penetração igual à metade da base para cima (Perfurante) ou empurrão/retirada de 1 Equilíbrio (Contundente). Ver [tipos de dano](../combate/tipos-de-dano.md).
+Ataques não podem ser Forçados sem autorização expressa de habilidade. Aberturas usam o mesmo ataque e o limiar da proteção, sem teste separado de Foco. Ver [ataques](../combate/ataques-e-dano.md) e [aberturas](../combate/aberturas.md).
 
 ## Corpo a corpo
 
-Peso é medido em espaços de inventário. Armas comuns de uma mão atacam em Toque; Alcance permite atacar até Curto.
+O dano de armas fabricadas deste catálogo vai de **1 a 4**. Peso é medido em espaços; alcance comum é Toque.
 
-| Arma | Família | Dano base | Propriedades | Peso |
-|---|---|---|---|---|
-| Adaga | Adagas | 1 perfurante | Leve, Furtiva | 1 |
-| Faca de arremesso | Adagas | 1 perfurante | Leve, Arremessável | 1 |
-| Espada longa | Espadas | 2/3 cortante | Versátil | 2 |
-| Montante | Espadas | 4 cortante | Pesada | 3 |
-| Machadinha | Machados | 2 cortante | Arremessável | 1 |
-| Machado de batalha | Machados | 4 cortante* | Pesada | 3 |
-| Lança | Armas de Haste | 2 perfurante | Arremessável, Alcance | 2 |
-| Alabarda | Armas de Haste | 4 cortante | Alcance, Pesada | 4 |
-| Picareta | Picaretas | 2/3 perfurante | Versátil | 2 |
-| Picareta de batalha | Picaretas* | 4 perfurante | Pesada | 3 |
-| Maça | Martelos | 2 contundente | — | 2 |
-| Martelo de guerra | Martelos* | 4 contundente | Pesada | 3 |
-| Estrela da manhã | Martelos* | 2 perfurante | — | 2 |
-| Corrente/chicote | Correntes e Chicotes | 2 cortante | Alcance | 2 |
+| Arma | Família | Dano base | Mãos | Propriedades | Espaços |
+|---|---|---|---|---|---|
+| Adaga | Adagas | 1 perfurante | 1 | Ágil, Ocultável | 1 |
+| Faca de arremesso | Adagas | 1 perfurante | 1 | Ágil, Arremessável | 1 |
+| Machadinha | Machados | 1 cortante | 1 | Ágil, Arremessável | 1 |
+| Espada longa | Espadas | 2/3 cortante | 1 ou 2 | Versátil | 2 |
+| Maça | Martelos | 2/3 contundente | 1 ou 2 | Versátil | 2 |
+| Picareta | Picaretas | 2/3 perfurante | 1 ou 2 | Versátil | 2 |
+| Estrela da manhã | Martelos | 2/3 perfurante | 1 ou 2 | Versátil | 2 |
+| Montante | Espadas | 4 cortante | 2 | Pesada, Lenta | 3 |
+| Machado de batalha | Machados | 4 cortante | 2 | Pesada, Lenta | 3 |
+| Martelo de guerra | Martelos | 4 contundente | 2 | Pesada, Lenta | 3 |
+| Picareta de batalha | Picaretas | 4 perfurante | 2 | Pesada, Lenta | 3 |
+| Lança | Armas de Haste | 2 perfurante | 1 ou 2 | Arremessável; Alcance somente com duas mãos | 2 |
+| Alabarda | Armas de Haste | 3 cortante | 2 | Pesada, Lenta, Alcance | 4 |
+| Chicote | Correntes e Chicotes | 1 cortante | 1 | Ágil, Alcance | 2 |
 
-* Complementos propostos pelo assistente para os campos omitidos na lista original: Cortante no machado de batalha; Picaretas na picareta de batalha; Martelos no martelo de guerra e na estrela da manhã. Permanecem para conferência, conforme registro de 29/10.
-
-A espada curta foi retirada pelo criador. A alabarda mantém seus números para playtest, incluindo a vantagem de alcance em relação ao montante e o peso maior.
+Estrela da manhã usa o perfil de maça perfurante para playtest; sua família permanece provisória. Uma corrente como arma separada ainda não tem perfil. A espada curta permanece fora do catálogo. Picaretas e Martelos nas variantes pesadas conservam o enquadramento provisório da lista anterior.
 
 ## Distância
 
-| Arma | Família | Dano base | Alcance | Propriedades | Mãos | Peso |
+| Arma | Família | Dano base | Alcance | Mãos | Propriedades | Espaços |
 |---|---|---|---|---|---|---|
-| Arco curto | Arcos | 2 perfurante | Longo | Leve | 2 | 1 |
-| Arco longo | Arcos | 3 perfurante | Muito Longo | Pesada | 2 | 2 |
-| Besta de mão | Bestas | 3 perfurante | Longo | Leve, Recarregar | 1 | 1 |
-| Pistola | Armas de Fogo | 3 perfurante | Longo | Leve, Recarregar | 1 | 1 |
-| Besta pesada | Bestas | 5 perfurante | Muito Longo | Pesada, Recarregar | 2 | 3 |
-| Canhão de mão | Armas de Fogo | 5 perfurante | Muito Longo | Pesada, Recarregar | 2 | 3 |
+| Arco curto | Arcos | 2 perfurante | Longo | 2 | Ágil | 1 |
+| Arco longo | Arcos | 3 perfurante | Muito Longo | 2 | — | 2 |
+| Besta de mão | Bestas | 3 perfurante | Longo | 1 | Ágil, Recarregar | 1 |
+| Pistola | Armas de Fogo | 3 perfurante | Longo | 1 | Ágil, Recarregar | 1 |
+| Besta pesada | Bestas | 5 perfurante | Muito Longo | 2 | Recarregar | 3 |
+| Canhão de mão | Armas de Fogo | 5 perfurante | Muito Longo | 2 | Recarregar | 3 |
 
-A família usada é a da arma escolhida, mesmo quando duas armas compartilham os mesmos números.
+A palavra “pesada” no nome de uma besta não concede a propriedade Pesada. Armas de distância não recebem Lenta nem acesso a Golpe Devastador por esta lista. Cada disparo consome uma munição; atacar com duas armas consome duas. [Munições e espaços](itens-gerais.md#munição).
 
 ## Propriedades
 
 | Propriedade | Regra |
 |---|---|
-| Leve | Ignora a penalidade do primeiro ataque repetido no próprio turno, usando uma ou duas Leves. A quantidade de mãos consta na arma. |
-| Versátil | Primeiro dano com uma mão; segundo dano com duas. Espada longa: 2/3. |
-| Pesada | Exige duas mãos; dano já incluído no catálogo. Ataque básico continua custando 1 PA. |
-| Alcance | Ataque corpo a corpo até Curto. |
-| Arremessável | Permite arremessar a arma. A referência anterior é até Médio; sua confirmação para o catálogo revisado permanece pendente. |
-| Furtiva | 1 Vantagem para ocultar a arma. Uma arma escondida pode permitir surpreender um alvo. Dano adicional de ataque furtivo dependerá de habilidade; Desprevenido ainda será detalhado. |
-| Recarregar | Depois do disparo, custa 1 PA por arma para recarregar antes de disparar novamente. |
+| Ágil | Ignora a penalidade do primeiro ataque repetido no próprio turno. Vale com uma arma ou duas Ágeis. Substitui o nome Leve, sem implicar uma mão. |
+| Ocultável | Concede 1 Vantagem em teste para ocultar a arma. Não concede automaticamente vantagem no ataque nem dano furtivo. Substitui Furtiva. |
+| Versátil | Primeiro dano com uma mão; segundo com duas. |
+| Pesada | Exige duas mãos e permite usar Golpe Devastador se a habilidade tiver sido aprendida. O primeiro ataque comum continua custando 1 PA. |
+| Lenta | **Experimental:** no próprio turno, atacar com esta arma custa +1 PA se já realizou qualquer ataque nesse turno. Não aumenta o custo fora do próprio turno. |
+| Alcance | Permite ataque corpo a corpo até Curto, incluindo Toque; não concede Ataque de Oportunidade. |
+| Arremessável | Permite arremessar a arma até Médio, referência provisória para este catálogo. Usa a mesma família. |
+| Recarregar | Após cada disparo, gastar 1 PA por arma antes de dispará-la novamente. |
 
-Impacto permanece uma propriedade existente para armas específicas autorizadas: +1 dano em acerto pesado ou brutal. Não é acrescentada automaticamente às armas deste catálogo.
+A contagem de Lenta é a mesma dos ataques: trocar arma não a reinicia. O custo adicional **não substitui a Desvantagem por repetição** e não gera o bônus de dano de Golpe Devastador. O primeiro ataque do turno com montante custa 1 PA; um segundo custa 2 PA e recebe 1 Desvantagem. Se o primeiro ataque foi com adaga, atacar em seguida com montante também custa 2 PA.
+
+Interações de Lenta com ataques expressamente gratuitos ou custos especiais ficam pendentes de descrição das habilidades. Custos de mudar a empunhadura, sacar e recuperar armas arremessadas precisam de detalhamento; a propriedade não os torna gratuitos.
+
+**Impacto** permanece disponível apenas quando uma arma específica ou habilidade o conceder: +1 dano em Pesado ou Brutal. Não se aplica automaticamente às armas da tabela.
 
 ## Dano por sucesso
 
@@ -72,63 +73,62 @@ Impacto permanece uma propriedade existente para armas específicas autorizadas:
 |---|---|
 | Acerto comum | Base da arma |
 | Pesado — Defesa +5 | Base +1 |
-| Brutal — Defesa +10 | Base +2, substituindo o +1 de pesado |
+| Brutal — Defesa +10 | Base +2, substitui o +1 |
 | 20 natural | +2 adicionais |
 
-Esquivar agora é um teste de Vigor com Reflexo para evitar o ataque; não aumenta a Defesa nem os limiares de Pesado/Brutal. Aplicar RD depois de calcular o dano. Atributos e bônus de proficiência não somam diretamente ao dano; efeitos expressos podem alterar a base.
+Aplicar RD após os modificadores de dano. Esquivar não aumenta a Defesa nem o limiar de Pesado/Brutal. Proficiência e atributos não somam diretamente ao dano. Os efeitos de Cortante, Perfurante e Contundente estão em [tipos de dano](../combate/tipos-de-dano.md).
 
 ## Duas armas
 
-Cada arma precisa poder ser usada com uma mão. Versáteis usam seu dano de uma mão. Pesadas e arcos exigem duas mãos e não participam.
+Cada arma precisa poder ser usada com uma mão. Versáteis usam seu dano de uma mão. Armas exclusivamente de duas mãos não participam.
 
 | Combinação | Penalidade da combinação |
 |---|---|
-| Duas Leves de uma mão | Nenhuma |
-| Uma Leve e uma não Leve, ou duas não Leves | 1 Desvantagem |
+| Duas Ágeis de uma mão | Nenhuma |
+| Uma Ágil e uma não Ágil, ou duas não Ágeis | 1 Desvantagem |
 
-Ataque combinado custa **1 PA**, usa **uma rolagem**, a **menor proficiência** das duas armas e causa **uma instância de dano**.
+Ataque combinado: **1 PA, uma rolagem, menor proficiência das duas armas e uma instância de dano**.
 
 **Base combinada = base da principal + metade da base da secundária, arredondada para cima.**
 
-Acrescentar grau/crítico uma vez e aplicar RD à instância resultante. Duas adagas têm base 2; duas pistolas têm base 5. Divisão entre alvos e composição de tipos de dano diferentes ainda precisam de detalhamento.
+Somar grau e crítico uma vez; aplicar RD uma vez. Duas adagas têm base 2; duas pistolas têm base 5. Divisão entre alvos e combinação de tipos de dano diferentes permanecem pendentes.
 
 ### Duas armas Leves
 
-Este subtítulo preserva os links existentes.
+Subtítulo preservado para links antigos; o nome atual é **Ágeis**.
 
-A sequência ao atacar com uma Leve ou com duas Leves é normal, normal, 1 Desvantagem, 2 Desvantagens, até o limite de 3 aplicado à rolagem. A contagem de ataques no turno é compartilhada entre modos de ataque; trocar de arma não reinicia a contagem.
+Com uma Ágil ou duas Ágeis, a sequência é normal, normal, 1 Desvantagem, 2 Desvantagens, mais 1 por ataque seguinte. **Não há teto geral de três Desvantagens** no núcleo de 16/11. A contagem é compartilhada entre armas.
 
-O benefício de repetição numa combinação mista (uma Leve e uma não Leve) permanece pendente. A penalidade da combinação é separada da repetição e segue cancelamentos/limite geral.
+O benefício de repetição em uma combinação mista permanece pendente. A penalidade da combinação é separada da repetição; cancelar vantagens e desvantagens normalmente.
 
 ### Recarga de duas armas
 
-Cada arma custa 1 PA para recarregar, total 2 PA pelas duas. A sequência aprovada com duas pistolas ou bestas de mão já carregadas é:
+Cada arma custa 1 PA para recarregar. Com duas pistolas ou bestas de mão carregadas:
 
-1. Atacar com ambas — 1 PA.
-2. Recarregar ambas — 2 PA.
-3. Atacar com ambas — 1 PA.
+1. Atacar com ambas: 1 PA e duas munições.
+2. Recarregar ambas: 2 PA.
+3. Atacar com ambas: 1 PA e duas munições.
 
-O segundo ataque não sofre penalidade de repetição por serem Leves. Não se exige guardar uma delas entre as recargas dessa sequência. Munição e controle de estoque serão detalhados no catálogo de itens.
+O segundo ataque não sofre repetição por serem Ágeis. Não se exige guardar uma arma entre as recargas desta sequência.
 
 ## Golpes Desarmados e armas naturais
 
-Golpes Desarmados comuns mantêm **base 0**, sem propriedades automáticas, para playtest. Podem causar 0 num acerto padrão sem bônus; pesado soma 1, brutal 2, natural 20 soma 2. Habilidades de pugilista e sua relação com espaços/propriedades continuam pendentes.
+Golpes Desarmados comuns mantêm **base 0** para playtest, sem propriedades automáticas. Pesado acrescenta 1; Brutal 2; 20 natural acrescenta 2. Habilidades de pugilista ficam para desenvolvimento posterior.
 
-**Feras:** garras/presas têm base igual ao **nível de Golpes Desarmados**, mínimo 1:
+**Feras:** garras/presas têm base igual ao nível de Golpes Desarmados, mínimo 1.
 
 | Nível | 0 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|---|
 | Base natural | 1 | 1 | 2 | 3 | 4 | 5 |
 
-Ataques usam a proficiência de Golpes Desarmados e **não têm Leve**. Não qualificam para o ataque combinado de duas Leves. Bônus de pesado/brutal/crítico se aplicam. Ataques comuns não usam teto de atributo; RD pode reduzir dano recebido a 0.
+Usam a proficiência de Golpes Desarmados, **sem Ágil**, e não qualificam para o ataque combinado de duas Ágeis. Aplicam graus/crítico e RD normalmente, inclusive dano reduzido a 0. Esta exceção de armas naturais não muda a faixa 1–4 das armas fabricadas acima.
 
-Os antigos traços compráveis Arma Natural/Avançada não são opções atuais de criação; estão no [catálogo histórico](../../design/catalogo-origens-historico.md).
-
+Os antigos traços compráveis Arma Natural/Avançada estão no [catálogo histórico](../../design/catalogo-origens-historico.md).
 
 ## Manobras e limites
 
-**Golpe Devastador** é adquirido por habilidade e exclusivo de armas **corpo a corpo Pesadas**. Arcos, bestas e armas de fogo não se qualificam apenas por terem Pesada.
+Golpe Devastador exige habilidade e arma **corpo a corpo Pesada**. Custa 1 PA do ataque + até 3 PA investidos, concedendo +2 dano por PA investido, máximo +6. Qualquer custo de Lenta é adicional e não concede dano.
 
-Sua referência de playtest é 1 PA do ataque + até 3 PA adicionais, +2 dano por adicional, máximo +6, uma rolagem e um ataque para repetição. Frequência e exceções seguem [manobras](../combate/manobras.md). O caso de arremessar uma arma corpo a corpo Pesada ainda precisa ser explicitado na futura habilidade.
+Exemplo com 4 PA: primeiro ataque de montante por 1 PA; segundo, com Lenta e 1 PA investido em Devastador, custa 3 PA e causa base 4 +2 se acertar, antes de grau/crítico/RD. Investir mais exigiria PA disponíveis.
 
-[Pendências](../../design/pendencias.md) · [Registro de decisões](../../design/decisoes.md).
+Frequência segue [manobras](../combate/manobras.md); arremesso de uma arma corpo a corpo Pesada continua pendente. Maestrias não são concedidas por este catálogo.

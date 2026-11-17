@@ -8,11 +8,11 @@
 
 ## Defesa
 
-**Defesa passiva = 8 + bônus de Vigor.** Nível 2 (+4) dá Defesa 12. Escudo com proficiência acrescenta +1. Esquivar custa 1 PA e testa Vigor com Reflexo, exigindo superar o ataque.
+**Defesa passiva = 8 + bônus de Vigor.** Nível 2 (+4) dá Defesa 12. Escudo empunhado acrescenta +1, sem exigir proficiência. Esquivar custa 1 PA e testa Vigor com Reflexo, exigindo superar o ataque.
 
 ## Carga e porte
 
-**Capacidade = base do porte + 2 × Potência.** Bases: Minúsculo 3, Pequeno 5, Médio 10, Grande 20. Equipamentos usados contam. Ver [porte e inventário](../equipamentos/porte-e-inventario.md).
+**Capacidade = base do porte + 2 × Potência + benefícios expressos.** Mochila vestida concede +5, sem acumular com outra; seu próprio espaço conta na carga. Bases: Minúsculo 3, Pequeno 5, Médio 10, Grande 20. Equipamentos usados contam. Ver [porte e inventário](../equipamentos/porte-e-inventario.md).
 
 ## Recursos a acompanhar
 

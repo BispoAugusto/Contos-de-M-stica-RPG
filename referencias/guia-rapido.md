@@ -1,4 +1,4 @@
-# Guia rápido de mesa — 2026-11-16
+# Guia rápido de mesa — 2026-11-17
 
 **Núcleo aprovado para playtest em 16/11/2026; sandbox provisório.** [Regras completas](../regras/README.md) · [Criação](criacao-de-personagem.md) · [Pendências](../design/pendencias.md).
 
@@ -26,15 +26,15 @@ Em opostos, empate favorece iniciador. Sem iniciador, maior máximo da Parte de 
 
 Rodada representa simultaneidade; ao concluir, escolha aliado ou inimigo ainda sem agir. Último participante pode escolher a si mesmo e dobrar os PA do mesmo turno: não são dois turnos nem reinício de contadores. Contabilidade entre rodadas ainda tem pendências.
 
-Repetir a mesma ação com teste no próprio turno: segunda execução sofre 1 desvantagem, terceira 2 etc. Cada ação tem contador; todos os ataques compartilham Agredir. Fora do turno não conta nem penaliza. Leve ignora a primeira penalidade de repetição, com uma ou duas armas; combinações mistas têm detalhes pendentes. Ajudar usa sua redução própria de dado.
+Repetir a mesma ação com teste no próprio turno: segunda execução sofre 1 desvantagem, terceira 2 etc. Cada ação tem contador; todos os ataques compartilham Agredir. Fora do turno não conta nem penaliza. Ágil ignora a primeira penalidade de repetição, com uma ou duas armas; combinações mistas têm detalhes pendentes. Ajudar usa sua redução própria de dado.
 
-Dano = base +1 em pesado (Defesa +5) **ou** +2 em brutal (Defesa +10), +2 por 20 natural e efeitos aplicáveis. Pesado/brutal não se somam. Impacto +1 em pesado/brutal. Duas Leves: menor proficiência, uma rolagem/1 PA, base principal + metade secundária para cima, uma instância. Devastador aprendido com Pesada: até 3 PA adicionais, +2 dano cada. Ver [ataques](../regras/combate/ataques-e-dano.md).
+Dano = base +1 em pesado (Defesa +5) **ou** +2 em brutal (Defesa +10), +2 por 20 natural e efeitos aplicáveis. Pesado/brutal não se somam. Impacto +1 em pesado/brutal. Duas Ágeis: menor proficiência, uma rolagem/1 PA, base principal + metade secundária para cima, uma instância. Devastador aprendido com Pesada corpo a corpo: até 3 PA investidos, +2 dano cada. Lenta cobra +1 PA ao atacar com a arma depois de qualquer ataque anterior no próprio turno; esse custo não concede dano. Ver [ataques](../regras/combate/ataques-e-dano.md).
 
 ## Defesa e dano
 
-Defesa passiva = **8 + bônus de Vigor**, +1 com escudo treinado. Esquivar: declarar antes do resultado, 1 PA, **dados de Reflexo + Vigor**, total estritamente maior que ataque. Sem proteção: 1 vantagem; média/pesada: 1 desvantagem. Se falhar, ataque conserva seu grau contra Defesa passiva. Interação de naturais com comparação estrita permanece pendente.
+Defesa passiva = **8 + bônus de Vigor**, +1 com escudo empunhado, sem proficiência. Esquivar: declarar antes do resultado, 1 PA, **dados de Reflexo + Vigor**, total estritamente maior que ataque. Sem proteção: 1 vantagem; média/pesada: 1 desvantagem. Se falhar, ataque conserva seu grau contra Defesa passiva. Interação de naturais com comparação estrita permanece pendente.
 
-Bloquear: declarar antes do resultado, 1 PA; escudo básico dá RD física 2 treinado, 1 sem treino. Uma reação defensiva por ocorrência. Armadura passiva acompanha: leve/média/pesada RD física 1/3/5 e peso 2/4/6. Penalidades sem treino e sobrecarga estão em [equipamentos](../regras/equipamentos/armaduras-e-escudos.md).
+Bloquear: declarar antes do resultado, 1 PA; escudo básico dá RD física 2 sem exigir treino nem rolagem, contra aquele ataque; o PA é gasto mesmo se ele errar. Uma reação defensiva por ocorrência. Armadura passiva acompanha: leve/média/pesada RD física 1/3/5 e peso 2/4/6. Penalidades sem treino e sobrecarga estão em [equipamentos](../regras/equipamentos/armaduras-e-escudos.md).
 
 Tipos físicos: Contundente/Perfurante/Cortante. RD por tipo compatível; específica por componente, geral uma vez sobre o restante. Propriedades de Pesado/Brutal em [tipos de dano](../regras/combate/tipos-de-dano.md).
 
@@ -57,6 +57,14 @@ Preparar reserva 1 PA no próprio turno para ação de 1 PA sob gatilho, até o 
 Atrapalhar preserva 1 PA/−1d4 e negação de uma Ajuda; interação exata com novos dados/reservas está pendente. [Ações táticas](../regras/combate/acoes-taticas.md).
 
 Analisar (1 PA) revela sinais da preparação e inclui pergunta com teste contra Defesa base, salvo ficha. Evidências claras não exigem teste; não passa iniciativa. Aberturas acessíveis permitem ignorar a RD da fonte indicada em Pesado/Brutal. Exposto ignora toda RD contra ataques. Equilíbrio é a antiga Postura; Posturas serão estilos futuros.
+
+## Equipamento e luz
+
+Kit básico (4 espaços) e **três escolhas**: arma de duas mãos; duas de uma mão; arma de uma mão e escudo; armadura; catalisador; ou item/conjunto geral listado. Armas de distância incluem munição. [Seleção e exemplos](../regras/equipamentos/equipamento-inicial.md).
+
+Mochila vestida +5 de capacidade, sem acumular; ocupa 0,5. Armadura, escudo e itens usados contam integralmente. Mínimo por item 0,5; lotes têm espaços próprios. Até cinco rações: 1 espaço; água para um dia com recipiente: 1. Sobrecarga: 1 Desvantagem em Corpo e ataques corpo a corpo, uma vez por teste, sem redução adicional de movimento.
+
+Tocha: **1 período**; lanterna: **2 períodos por carga**. Período de luz equivale à vigília de aproximadamente 8h. Não contar turnos só para consumir luz; condições podem apagá-la antes. [Catálogo](../regras/equipamentos/itens-gerais.md). Fabricação e receitas ficam adiadas.
 
 ## NPCs de consulta rápida
 

@@ -14,7 +14,7 @@
 | Perícia profissional personalizada | 1 nível |
 | Família de armas | 1 nível |
 | Armaduras | Não se compram com PP; treinamento vem de habilidades |
-| Escudos | Proficiência em escudos |
+| Escudos | Uso livre; não comprar proficiência |
 | Conhecimentos | 2 níveis na categoria, juntos ou distribuídos |
 | Idiomas | 2 níveis na categoria, juntos ou distribuídos |
 
@@ -30,7 +30,9 @@ Exemplo com seis pontos: Atletismo 1, Vigor 1, Espadas 2, História 1 + Natureza
 
 Gerais, resistências, conhecimentos, profissionais e famílias de armas usam essa escala. O bônus é integral mesmo sob pressão. O atributo fornece a base de dados e não soma à rolagem. A base das armas naturais das Feras usa o nível de Golpes Desarmados, não seu bônus numérico.
 
-Idiomas têm escala própria: Amador +0; Fluente +2 quando precisar testar. Armaduras são acesso e escudos são proficiência de uso, sem bônus automático +2 a +10. Sem treino em escudo, não recebe +1 de Defesa e a RD de Bloquear cai à metade para cima, mínimo 1; ver [defesas](../combate/defesas.md).
+Idiomas têm escala própria: Amador +0; Fluente +2 quando precisar testar. Armaduras concedem RD pelo uso, sem compra de acesso. Escudo empunhado concede +1 Defesa e permite Bloquear por 1 PA/RD física 2, **sem proficiência**, conforme atualização de 17/11. Maestrias futuras não são requisito para esses benefícios. Ver [defesas](../combate/defesas.md).
+
+**Forja e Culinária** são profissões e seguem os custos e bônus profissionais. O **kit de fabricação** usa perícias apropriadas às tarefas, sem proficiência própria. Possuir um kit ou comprar treino não concede receitas; sua definição está adiada.
 
 ## Concessões iniciais
 
@@ -41,6 +43,6 @@ Idiomas têm escala própria: Amador +0; Fluente +2 quando precisar testar. Arma
 
 Manobras são adquiridas por habilidades conforme a revisão de 29/10; um nível de arma não concede automaticamente uma manobra. Golpe Devastador e Ataque de Oportunidade precisam ser aprendidos.
 
-Famílias atuais: Espadas, Machados, Martelos, Adagas, Armas de Haste, Arcos, Bestas, Armas de Fogo, Correntes e Chicotes e **Golpes Desarmados** (nome usado nesta integração para a antiga família Desarmado). Nome definitivo de Correntes e Chicotes continua pendente; Luta/Pontaria não substituem as famílias.
+Famílias atuais: Espadas, Machados, Martelos, Adagas, Armas de Haste, Picaretas, Arcos, Bestas, Armas de Fogo, Correntes e Chicotes e **Golpes Desarmados** (nome usado nesta integração para a antiga família Desarmado). Nome definitivo de Correntes e Chicotes continua pendente; Luta/Pontaria não substituem as famílias.
 
-Progressão posterior permanece em desenvolvimento. O equipamento inicial segue a [seleção aprovada](../revisao-playtest-2026-10-29.md#4-equipamento-inicial). Comprar proficiência não concede equipamento. Ver [perícias](pericias.md), [idiomas](idiomas.md) e [armas](../equipamentos/armas.md).
+Progressão posterior permanece em desenvolvimento. O equipamento inicial segue a [seleção atual](../equipamentos/equipamento-inicial.md). Comprar proficiência não concede equipamento. Ver [perícias](pericias.md), [idiomas](idiomas.md) e [armas](../equipamentos/armas.md).

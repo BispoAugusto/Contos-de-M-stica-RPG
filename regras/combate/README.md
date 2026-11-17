@@ -18,7 +18,7 @@
 
 ## Referências relacionadas
 
-- [Armas e duas Leves](../equipamentos/armas.md)
+- [Armas e duas Ágeis](../equipamentos/armas.md)
 - [Armaduras e escudos](../equipamentos/armaduras-e-escudos.md)
 - [Movimento](../exploracao/movimento.md)
 - [Testes e graus de sucesso](../fundamentos/testes.md)

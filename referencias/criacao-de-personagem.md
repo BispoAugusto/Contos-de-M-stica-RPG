@@ -8,7 +8,7 @@
 
 Este guia acompanha o preenchimento da ficha com as decisões disponíveis. Ao terminar, você terá origem, espécie, atributos, Alma, proficiências e valores básicos calculados.
 
-**Versão de playtest — 16/11/2026:** criação 12 pontos de atributos e 6 PP. Habilidades, progressão e fabricação ainda serão desenvolvidas; equipamento inicial segue a seleção aprovada em 29/10. Os pontos de criação e benefícios provisórios conservam esse status.
+**Versão de playtest — 16/11/2026:** criação 12 pontos de atributos e 6 PP. Habilidades, progressão e fabricação ainda serão desenvolvidas; equipamento inicial atualizado em 17/11 usa kit básico e três escolhas. Os pontos de criação e benefícios provisórios conservam esse status.
 
 ## Roteiro de criação
 
@@ -123,7 +123,7 @@ Você recebe **6 pontos de proficiência**, provisoriamente para playtest. A ori
 | Um nível de profissão personalizada | 1 ponto |
 | Um nível de família de armas | 1 ponto |
 | Treinamento em armaduras | Apenas por habilidades; não comprar com PP |
-| Proficiência em escudos | 1 ponto |
+| Escudos | Uso livre; não comprar proficiência |
 | Dois níveis de conhecimentos | 1 ponto |
 | Dois níveis de idiomas | 1 ponto |
 
@@ -135,7 +135,7 @@ Nos conhecimentos, pode comprar História 2 ou História 1 + Natureza 1 por um p
 |---|---|---|---|---|---|---|
 | Bônus | +0 | +2 | +4 | +6 | +8 | +10 |
 
-Na criação, normalmente só entram os níveis 0, 1 e 2. Idiomas, armaduras e escudos têm escalas próprias; não use +4 para um idioma Fluente nem some nível de armadura à Defesa.
+Na criação, normalmente só entram os níveis 0, 1 e 2. Idiomas têm escala própria; não use +4 para um idioma Fluente. Armaduras e escudos não acrescentam níveis à Defesa: aplicar apenas o benefício expresso do equipamento.
 
 ### Quais opções existem?
 
@@ -148,10 +148,10 @@ Na criação, normalmente só entram os níveis 0, 1 e 2. Idiomas, armaduras e e
 | Controle espiritual | Fluxo |
 | Outras gerais (básicas) | Linguagens |
 | Conhecimentos | História, Rumores, Natureza, Medicina, Arcanismo, Religião, Ocultismo, Espiritualismo |
-| Profissionais | Lista aberta de especializações aprendidas pelo personagem |
-| Armas | Espadas, Machados, Martelos, Adagas, Armas de Haste, Arcos, Bestas, Armas de Fogo, Correntes e Chicotes, Golpes Desarmados |
+| Profissionais | Lista aberta, incluindo Forja e Culinária; kit de fabricação usa perícias apropriadas |
+| Armas | Espadas, Machados, Martelos, Adagas, Armas de Haste, Picaretas, Arcos, Bestas, Armas de Fogo, Correntes e Chicotes, Golpes Desarmados |
 | Armaduras | Uso livre; treino por habilidades remove penalidades expressas |
-| Escudos | Proficiência de uso |
+| Escudos | Benefícios básicos sem proficiência; maestrias futuras |
 
 Os agrupamentos “de ação”, “de observação” e “sociais” servem apenas para consulta; todas são perícias gerais com o mesmo custo. Consulte [perícias](../regras/personagem/pericias.md) para atributos sugeridos e aplicações.
 
@@ -186,8 +186,8 @@ Use os valores já calculados:
 |---|---|
 | PV máximos | **6 + 2 × máximo de Corpo + bônus explícitos** |
 | Defesa passiva | **8 + bônus de Vigor** |
-| Defesa com escudo empunhado e proficiência | Defesa passiva +1 |
-| Capacidade de inventário | **Base do porte + 2 × Potência** |
+| Defesa com escudo empunhado | Defesa passiva +1 |
+| Capacidade de inventário | **Base do porte + 2 × Potência + benefícios expressos**; mochila vestida +5 |
 
 | Porte | Base de inventário |
 |---|---|
@@ -219,7 +219,7 @@ Transcreva as características da sua origem e espécie com **custo, alcance, us
 
 Para Gnomos, prepare espaço para **anotar a ficha integral antes da divisão** e acompanhar as duas partes. A recomposição de recursos após gastos/dano e a perda definitiva de uma parte continuam pendentes; não presuma recarga ao reunir.
 
-Equipamento inicial: kit de sobrevivência, uma opção de armamento, armadura opcional e dois itens gerais, conforme a [seleção aprovada](../regras/revisao-playtest-2026-10-29.md#4-equipamento-inicial). Escolhas sem catálogo/preço ainda definido devem ser identificadas como arbitragem de playtest.
+Equipamento inicial: **kit básico e três escolhas**, conforme [seleção atual](../regras/equipamentos/equipamento-inicial.md). Cada escolha concede uma arma de duas mãos, duas de uma mão, uma de uma mão e escudo, uma armadura, um catalisador ou um item/conjunto geral listado. Kits são itens; não concedem receitas. Armadura consome uma escolha. Conferir carga, munição e as pendências de catalisadores.
 
 **Anote na ficha:** apenas recursos e efeitos efetivamente escolhidos/concedidos. [Descansos](../regras/recuperacao/descansos.md) · [Defesas](../regras/combate/defesas.md).
 
@@ -234,6 +234,7 @@ Equipamento inicial: kit de sobrevivência, uma opção de armamento, armadura o
 - [ ] Incluí compras de idiomas na mesma reserva e registrei Comum fluente gratuito.
 - [ ] Calculei PV, Defesa e carga sem confundir atributo, bônus de proficiência e máximo de Corpo.
 - [ ] Registrei custos, usos e recuperação das características.
+- [ ] Escolhi kit básico e três opções de equipamento, contando todos os espaços e a capacidade da mochila.
 - [ ] Identifiquei campos provisórios e escolhas ainda dependentes de desenvolvimento.
 
 **Ainda não completar automaticamente:** itens sem definição, habilidades/conjuração, progressão e fabricação. Consulte [pendências](../design/pendencias.md) para casos específicos.

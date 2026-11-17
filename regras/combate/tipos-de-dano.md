@@ -18,7 +18,7 @@ Perfurante arredonda a metade para cima, conforme regra geral: base 1→1, 2→1
 
 Dano mínimo permanece 0. Duas adagas base combinada 2 em Pesado causam 3 antes da RD; penetração 1 contra RD física 5 deixa RD 4, portanto dano 0, se nenhuma abertura for explorada.
 
-**Interpretação operacional provisória:** para duas Leves ambas perfurantes, usar a base combinada da única instância. Dano misto e armas de tipos diferentes precisam de definição antes de repartir base ou aplicar várias propriedades.
+**Interpretação operacional provisória:** para duas Ágeis ambas perfurantes, usar a base combinada da única instância. Dano misto e armas de tipos diferentes precisam de definição antes de repartir base ou aplicar várias propriedades.
 
 Sangramento precisa de dano, duração, frequência, acúmulo, remoção e aplicabilidade por criatura. Confirmar se exige dano após RD. O efeito de 1 de dano por um turno sugerido pelo assistente não foi aprovado.
 

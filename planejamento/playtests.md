@@ -1,5 +1,22 @@
 # Plano de playtests — versão de 2026-10-25
 
+## Equipamentos — cenários de 17/11/2026
+
+**Planejados, não executados.** Usar o [catálogo atual](../regras/equipamentos/README.md); referências a Leve nas versões anteriores significam Ágil.
+
+| Cenário | Verificar |
+|---|---|
+| Ágil, Versátil e Pesada/Lenta | Decisão entre ataques sucessivos, defesa e dano; Lenta depende de qualquer ataque anterior e não substitui Desvantagem |
+| Lenta com Devastador | Primeiro ataque permite 1+3 PA; depois, cobrar custo de Lenta separadamente sem gerar dano |
+| Escudo sem treino | +1 Defesa; declarar Bloquear antes do resultado; gastar 1 PA mesmo no erro; não combinar duas reações |
+| Dano baixo contra RD 1/3/5 | Valor de vantagens, ajuda, tipos de dano e aberturas realmente descritas; registrar os casos de dano 0 |
+| Combate entre personagens | Anunciar arbitragem de abertura/penalidade de armadura ainda pendente, sem tratá-la como regra aprovada |
+| Três escolhas e carga | Kits básico/gerais, armas de uma mão não Ágeis, Versáteis, lotes e munição; comparar portes |
+| Luz e viagem | Tocha um período, lanterna dois; não consumir carga inteira só por cruzar fronteira de período |
+| Ferramentas | +2 apenas no uso pertinente, sem somar bônus equivalentes; kit não aumenta cura automática nem concede receita |
+
+
+
 ## Protocolo atual — 2026-11-16
 
 **Nenhuma sessão executada nesta integração.** Os cenários anteriores abaixo usam versões históricas e não validam o núcleo novo.
