@@ -1,17 +1,17 @@
 # Porte e inventário
 
-> **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
+> **Atualizado em 17/11/2026.** Capacidade e diferenças de porte preservadas; catálogo, mochila, espaço mínimo e lotes atualizados para playtest. Este capítulo consolida a sobrecarga de 29/10, sem restaurar o antigo limite de Desvantagens.
 
 
 [Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
 
-**Regras parciais de playtest — 2026-10-13, sujeitas a revisão.** O detalhamento foi adiado pelo criador; preserve estas decisões sem fechar automaticamente catálogo, passagens ou fabricação.
+**Parâmetros provisórios para playtest.** Passagens, adaptações de equipamento por porte e fabricação ainda não estão completos.
 
 ## Porte e capacidade
 
 **Atualização de 2026-10-19:** porte é um campo separado, escolhido entre as opções da espécie; não se compra por pontos nem ocupa um dos dois traços. Mistos usam uma opção de qualquer espécie participante; Gnomos e Fadas não podem ser mistos. Ver [origens](../origens/README.md).
 
-**Capacidade = base do porte + 2 × Potência.** Bases aprovadas para playtest. Equipamentos usados contam.
+**Capacidade = base do porte + 2 × Potência + benefícios expressos.** A mochila de viagem vestida concede +5, sem acumular com outra mochila; seus 0,5 espaço e o conteúdo contam na carga. Bases aprovadas para playtest. Equipamentos usados contam.
 
 | Porte | Multiplicador sobre base 10 | Base arredondada | Capacidade com Potência 3 |
 |---|---|---|---|
@@ -28,14 +28,14 @@ A capacidade reduzida dos menores é intencional e pode ser uma dificuldade a su
 
 | Espaços | Referência inicial |
 |---|---|
-| 0 | Item muito pequeno ou leve, como acessório ou documento. |
+| 0,5 | Mínimo para item individual, como pederneira ou mochila; componentes pequenos podem integrar um kit. |
 | 1 | Item pequeno e leve que cabe em uma mão: adaga, varinha, livro. |
 | 2 | Item maior que pode ser segurado/utilizado com uma ou duas mãos. |
 | 3 | Item grande que exige duas mãos. |
 | 4 | Item quase do tamanho do corpo. |
 | 5 ou mais | Itens maiores ou especialmente pesados; armaduras podem ultrapassar 4. |
 
-Itens normalmente carregados variam entre 0 e 4, mas esse intervalo não é um limite. No playtest, [armaduras](armaduras-e-escudos.md) leves/médias/pesadas pesam 2/4/6 espaços, inclusive vestidas. Não confundir espaços de inventário com os dois espaços de **propriedades** de uma arma. Equipamentos adaptados a outros portes podem variar de espaço; mestre e jogador combinam isso na criação, sem tabela universal por enquanto.
+Itens normalmente carregados variam entre 0,5 e 4, mas esse intervalo não é um limite. No playtest, [armaduras](armaduras-e-escudos.md) leves/médias/pesadas pesam 2/4/6 espaços, inclusive vestidas. O antigo limite modular de propriedades não define os espaços das armas do catálogo. Equipamentos adaptados a outros portes podem variar de espaço; mestre e jogador combinam isso na criação, sem tabela universal por enquanto.
 
 ## Força e acesso
 
@@ -55,6 +55,12 @@ Pequenos têm facilidade para esconder-se e acessar espaços pequenos; Minúscul
 
 As limitações de porte não concedem pontos de compra. Gnomos usam porte pelo máximo integral de Corpo (0–1 Pequeno, 2–3 Médio, 4+ Grande) e diminuem uma categoria por parte ao dividir, mínimo Minúsculo. Ver [Gnomos](../origens/verdantes.md#gnomos).
 
+## Lotes e sobrecarga
+
+[Itens gerais](itens-gerais.md) especifica quais itens podem ser agrupados: até cinco dias de rações ocupam 1 espaço; água para um dia, com recipiente, ocupa 1; até 20 munições do mesmo tipo ocupam 1. Não tratar água como cinco dias por espaço. Lotes parciais mantêm o espaço até serem consumidos ou reunidos com outro lote compatível.
+
+**Sobrecarga:** exceder a capacidade impõe 1 Desvantagem a testes de Corpo e ataques corpo a corpo. Aplicar uma vez por teste, mesmo se um ataque excepcional também usar Corpo. Pode acumular com outras fontes, usando cancelamento normal e sem teto geral de três. Não reduz o movimento adicionalmente nesta versão.
+
 ## Desenvolvimento adiado
 
-Criar depois regras completas de ocupação/passagens, sobrecarga, catálogo, adaptação de equipamento e fabricação. A escala de peso em espaços acima foi atualizada em 2026-10-25; não há nova fórmula de capacidade nem regra automática de compensação de itens minúsculos.
+Desenvolver ocupação/passagens, adaptação de equipamento por porte e fabricação. A escala de espaços não concede compensação automática de itens minúsculos. Catálogo e seleção inicial estão em [equipamentos](README.md).

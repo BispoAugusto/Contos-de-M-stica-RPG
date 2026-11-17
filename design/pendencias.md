@@ -1,5 +1,20 @@
 # Pendências — estado de 2026-10-25
 
+## Equipamentos — 2026-11-17
+
+Incorporados: [catálogo](../regras/equipamentos/README.md), escudo sem proficiência, kit básico + três escolhas, ferramentas com efeitos/espaços, três kits e luz por períodos. As listas históricas abaixo não reabrem esses pontos.
+
+- [ ] Armaduras: decidir penalidades finais, acumulação das penalidades antigas com Reflexo e efeitos de futuros treinamentos/maestrias. Por enquanto, conservar os valores vigentes; −2/−4 dados são sugestões.
+- [ ] Aberturas de armaduras de personagens: definir limiar universal, acesso e aplicação em PvP. Sem regra nova, apenas a proteção descrita define quando a abertura ignora RD.
+- [ ] Medir Lenta, Ágil, Alcance, dano 1–4 e armas de distância; resolver Lenta com ataques gratuitos/custos especiais e repetição de combinação mista.
+- [ ] Completar famílias ainda provisórias, tipos de dano mistos em duas armas, mudança de empunhadura, sacar/recuperar arremessos e Devastador em arremesso.
+- [ ] Definir catalisadores antes de conceder efeitos mágicos; preços, riqueza inicial e recuperação de munição.
+- [ ] Testar carga de personagens pequenos, mochila +5 por 0,5 espaço, lotes e bônus situacionais +2 de ferramentas; não alegar equilíbrio comprovado.
+- [ ] Revisar escala geral de intervalos/períodos e atividades em etapa própria. A duração da luz não altera automaticamente descanso ou frequência de encontros.
+- [ ] Desenvolver habilidades, maestrias e fabricação depois: receitas aprendidas, propriedades como requisitos; sem receitas genéricas ou efeitos automáticos dos materiais.
+
+
+
 ## Vigente — 2026-11-16
 
 Resolvidos neste pacote: núcleo de dados/proficiência integral, pleno DT +5, Alma/Forçar, recuperação curta automática, criação 12/6, Esquivar com dados de Reflexo, Resistir com atributo/Vigor e sem Forçar, ajuda reservada, repetição de ações e inclusão provisória do sandbox. [Registro das respostas](decisoes.md#2026-11-16--núcleo-de-dados-ajuda-e-sandbox).

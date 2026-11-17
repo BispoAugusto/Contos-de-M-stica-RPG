@@ -1,5 +1,7 @@
 # Revisão de playtest — decisões de 27 a 29/10/2026
 
+> **Substituições de 17/11/2026:** [equipamentos](equipamentos/README.md) atualiza catálogo e nomes de propriedades, retira proficiência de escudos, adota espaço mínimo 0,5, mochila e lotes e substitui a seleção inicial por kit básico + três escolhas. Trechos conflitantes abaixo são históricos. Penalidades de armadura não expressamente substituídas mantêm o alcance indicado no capítulo atual; receitas e fabricação continuam adiadas.
+
 > **Substituições de 16/11/2026:** [testes](fundamentos/testes.md) substitui pressão, pleno, dados, naturais, opostos e repetição gerais; [ajuda](combate/acoes-taticas.md#ajudar) substitui os dados +1d4 e a reserva de apoio; [descansos](recuperacao/descansos.md) torna Alma automática; [Resistir](recuperacao/morte-e-recuperacao.md#a-0-pv-ou-menos) usa dados do atributo e Vigor, mantendo proibição de Forçar. Criação passa a 12 pontos de atributo e 6 PP. Os trechos antigos abaixo documentam a versão de 29/10, sem revogar essas mudanças. Atrapalhar e os demais pontos não substituídos preservam seu alcance.
 
 > **Atualização de 04/11/2026:** [armaduras](equipamentos/armaduras-e-escudos.md), [defesas](combate/defesas.md), [tipos físicos](combate/tipos-de-dano.md) e [aberturas](combate/aberturas.md) têm redação posterior. RD 1/3/5, Desvantagem com Reflexo em médias/pesadas, Defesa 8 + bônus de Vigor e Esquivar com rolagem substituem os trechos correspondentes deste registro. O catálogo de armas consolidado também prevalece sobre a lista anterior.

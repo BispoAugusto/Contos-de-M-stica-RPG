@@ -13,6 +13,8 @@
 | Viagem | Vigília de aproximadamente 8 horas; três por dia | Viajar, explorar uma área, obter suprimentos, acampar |
 | Atividade prolongada | Dia ou semana, anunciado pela atividade | Treinar, produzir, pesquisar, construir, organizar |
 
+**Iluminação — 17/11/2026:** um período de luz equivale à vigília de aproximadamente 8 horas. Tocha dura 1 período, lanterna 2 por carga. Não é obrigatório acompanhar turnos locais ou intervalos apenas para controlar essas luzes; ver [itens](../equipamentos/itens-gerais.md#luz-e-acampamento). A revisão geral de intervalos, atividades e fabricação fica para a etapa seguinte; não alterar automaticamente frequências de encontros ao mudar a unidade de luz.
+
 As escalas não exigem cronometrar cada conversa. Use unidades quando tempo e risco mudarem decisões. A duração de combate continua sendo a já definida pelo sistema.
 
 ### Procedimento de uma expedição

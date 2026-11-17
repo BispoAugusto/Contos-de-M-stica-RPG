@@ -17,6 +17,8 @@ Inspiração: [Cairn 2e — Procedures](https://cairnrpg.com/second-edition/play
 
 ## Carga, abrigo e guardas
 
-Comida e água ocupam **1 espaço por lote de até cinco dias**, separadamente. O kit inicial mantém três dias de ração e um dia de água; não ganhar cinco dias só por ocupar um espaço. Recipientes e peso próprio da mochila preservam suas pendências.
+**Atualização de 17/11:** rações ocupam 1 espaço por lote de até cinco dias; água para **um dia**, incluindo recipiente, ocupa 1 espaço. O kit inicial tem três dias de ração e um de água. Mochila pesa 0,5 e concede +5 de capacidade quando vestida, sem acumular. Conferir [itens gerais](../equipamentos/itens-gerais.md) e [equipamento inicial](../equipamentos/equipamento-inicial.md).
+
+Tochas duram **1 período** cada; lanternas **2 períodos por carga**. Para iluminação, período equivale à vigília de aproximadamente 8 horas. Não contar turnos de exploração só para consumir luz. Condições concretas podem apagá-la antes; apagar/reacender não renova combustível. O catálogo detalha os lotes.
 
 Montar acampamento integra a vigília de descanso. Escolher abrigo, água, ocultação e guardas; teste apenas se houver dificuldade real. Sono suficiente pode coexistir com guardas compartilhadas. Um evento não cancela descanso automaticamente: resolver sua consequência concreta. Ver [descansos](../recuperacao/descansos.md) e [inventário](../equipamentos/porte-e-inventario.md).

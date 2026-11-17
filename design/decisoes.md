@@ -1,5 +1,30 @@
 # Decisões registradas
 
+## 2026-11-17 — Equipamentos, escudos e três escolhas iniciais
+
+**Escopo autorizado:** o criador pediu levar ao repositório itens, armas, armaduras, escudo e equipamento inicial discutidos. Fabricação e receitas foram expressamente adiadas. Esta consolidação não concede maestrias ou novas habilidades, nem reabre o núcleo de dados.
+
+| Status | Decisão e alcance |
+|---|---|
+| Confirmado | Kit básico mais três escolhas; cada escolha é arma de duas mãos, duas armas de uma mão, arma de uma mão e escudo, armadura, catalisador ou item/conjunto geral listado. Armadura deixa de ser concessão extra. |
+| Confirmado | Escudos concedem os benefícios básicos sem proficiência. Maestrias ficam para habilidades. |
+| Confirmado | Tochas duram um período, lanternas dois por carga; condições concretas podem apagar antes, sem exigir contagem de intervalos só para luz. |
+| Confirmado | Espaço mínimo individual 0,5 e lotes explícitos; abandonar porções de 0,2 para este inventário. |
+| Confirmado | Três kits: Forja e Culinária usam profissões; Fabricação usa perícias apropriadas, sem proficiência própria. |
+| Confirmado | Retirar gancho, espelho, sinalização, recipientes para amostras e conjunto de transporte da seleção separada; ferramentas específicas de artesanato ficam nos três kits. |
+| Provisório para playtest | Catálogo de armas do esboço, renomes Ágil/Ocultável, Lenta, dano 1–4 corpo a corpo, propriedades e enquadramentos de família indicados. |
+| Provisório para playtest | Escudo uma mão/2 espaços/+1 Defesa; Bloquear 1 PA/RD física 2 antes do resultado. RD de armaduras 1/3/5 e pesos 2/4/6 preservados. |
+| Provisório para playtest | Efeitos +2 condicionais das ferramentas, espaços, conteúdo do kit básico, lotes de munição e mochila +5; peso 0,5 ajustado ao mínimo mais recente. |
+| Pendente | Penalidades finais das armaduras e limiar universal de abertura por categoria, especialmente em jogador contra jogador. Não implantar −2/−4 dados ou limiares não aprovados. |
+| Pendente | Maestrias, catalisadores, preços, fabricação, receitas, reparos e melhorias. |
+
+**Direção de fabricação preservada, sem implementação:** futuras habilidades concederão receitas; propriedades de materiais servirão como requisitos, sem efeito automático. Comprar proficiência ou kit não concede todas as receitas básicas. Não publicar receitas genéricas, tabelas de recursos ou tempos nesta mudança.
+
+[Equipamentos](../regras/equipamentos/README.md) e capítulos ligados passam a ser a consulta operacional. O suplemento de 29/10 mantém registro histórico com aviso de substituição. A escala completa de intervalos/atividades e descansos não foi refeita; período de luz usa a vigília existente de aproximadamente 8h.
+
+**Validação de equilíbrio:** ainda não realizada em mesa. Aprovação para incorporar ao repositório não equivale a resultado de playtest nem a aprovação de merge automático.
+
+
 ## 2026-11-16 — Núcleo de dados, ajuda e sandbox
 
 **Confirmado pelo criador nas respostas às 12 perguntas; parâmetros aplicados para playtest.** Substitui as margens de atributo 10 e pressão das decisões de 09–11/11, e os pontos conflitantes de ajuda, descanso e criação. Demais regras preservam seu alcance. Nenhum equilíbrio ou resultado de sessão é alegado.

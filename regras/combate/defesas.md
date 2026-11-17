@@ -4,7 +4,7 @@
 
 ## Defesa passiva
 
-**Defesa = 8 + bônus de proficiência em Vigor.** Vigor nível 2 concede +4 e Defesa 12. Sem treino, Defesa 8. Escudo empunhado com proficiência acrescenta +1. Atributo, pressão e armadura não limitam o bônus usado nessa fórmula passiva.
+**Defesa = 8 + bônus de proficiência em Vigor.** Vigor nível 2 concede +4 e Defesa 12. Sem treino, Defesa 8. Escudo empunhado acrescenta +1, sem exigir proficiência (atualização de 17/11). Atributo, pressão e armadura não limitam o bônus usado nessa fórmula passiva.
 
 ## Esquivar
 
@@ -23,11 +23,11 @@ Ataque total 16, Reflexo 3 e Vigor +4: sem modificador de proteção, role 3d20 
 
 ## Bloquear e resistências
 
-Bloquear exige escudo ou meio especial autorizado. Referência provisória preservada: 1 PA, RD física 2 no escudo básico com proficiência, ou 1 sem proficiência. Declarar antes do resultado do ataque. Pode reagir a outras ocorrências com PA e capacidade de agir.
+Bloquear exige escudo ou meio especial autorizado. Escudo básico: **1 PA, RD física 2 contra aquele ataque, sem teste nem requisito de proficiência**. Declarar antes de conhecer o resultado; o PA é gasto mesmo se o ataque errar. Exige perceber o ataque e conseguir interpor o escudo. Não exige Preparar Ação; pode repetir contra ataques diferentes enquanto tiver PA. Escudo ocupa uma mão e 2 espaços; dois não acumulam seus benefícios. Ver [procedimento completo](../equipamentos/armaduras-e-escudos.md#bloquear).
 
 Só uma reação defensiva por ocorrência: Esquivar ou Bloquear, mesmo se Esquivar falhar. Armadura passiva acompanha a reação. O +1 de Defesa do escudo não entra no teste de Vigor.
 
-Testes obrigatórios de poderes são separados da reação. Efeitos automáticos não passam a consultar Defesa. Áreas seguem os testes e consequências de sua fonte; Vigor substitui Esquiva nas resistências, conforme revisão de 29/10; use o atributo indicado pelo efeito.
+Testes obrigatórios de poderes são separados da reação. Efeitos automáticos não passam a consultar Defesa. Bloquear não se aplica automaticamente a áreas, quedas, efeitos mentais ou dano não físico; exige autorização expressa e compatível. Áreas seguem os testes e consequências de sua fonte; Vigor substitui Esquiva nas resistências, conforme revisão de 29/10; use o atributo indicado pelo efeito.
 
 ## Exposto e aberturas
 
