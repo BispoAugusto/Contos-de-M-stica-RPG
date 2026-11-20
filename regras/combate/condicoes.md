@@ -28,11 +28,11 @@ A condição **Caído** significa estar no chão; não significa, por si só, es
 
 ### Agarrado e Imobilizado
 
-Agarrado controla posição; Imobilizado também prejudica ataques e facilita acertos contra o alvo, mas não aplica a condição Exposto automaticamente. Agarrar não aplica automaticamente Imobilizado.
+Ao começar seu turno, quem agarra decide se continua segurando o alvo. Se continuar, gasta **1 PA**, sem teste. Se soltar, encerra Agarrado. Enquanto o mantém agarrado, pode arrastá-lo consigo ao gastar movimento, desde que o caminho comporte ambos.
 
-Para **imobilização feita por agarrão**, a recuperação é em etapas: gastar 1 PA remove Imobilizado, mas mantém Agarrado; escapar completamente exige outra ação de 1 PA e teste. Essa saída não é universal para correntes, teias, raízes ou outros efeitos.
+Para escapar, gaste **1 PA** e faça um teste oposto contra o agarrador. Quem tenta se soltar vence em empate. A diferença de porte pode conceder vantagem ou desvantagem. **Provisório para playtest:** quando o porte importar, o menor recebe uma Desvantagem por categoria de diferença nesse teste, em lugar do ônus da tabela geral de porte. A aplicação inicial do agarrão ainda precisa de custo e teste definidos.
 
-O teste exato de fuga, a manobra para imobilizar, os custos de aplicação e manutenção e o procedimento para arrastar ainda precisam ser definidos. Não deduzir esses números do custo de saída.
+**Imobilizar não é manobra básica.** Agarrar por si só não aplica Imobilizado. A fonte que concede Imobilizado define como sair. Para imobilização especificamente produzida por agarrão, gastar 1 PA remove Imobilizado e mantém Agarrado. Escapar por completo exige a tentativa de fuga separada.
 
 ### Atordoado
 

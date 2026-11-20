@@ -1,27 +1,15 @@
 # Repasse — reservas, exaustão e Morrendo — 2026-11-18
 
-## Objetivo e referência
+## 2026-11-20 — Sobrevivência e combate para o playtest
 
-Registrar as mudanças do chat central em reservas, exaustão e morte e anotar o desenvolvimento de traumas como pendência, sem prioridade imediata.
+O criador aprovou a atualização e o merge do PR #6. [Reservas](../regras/fundamentos/alma.md) somam os três atributos-base da Parte e bônus de espécie. [Exaustão](../regras/recuperacao/exaustao.md) aplica −1 por nível e causa colapso no sexto. Curto recupera 1 ponto uma vez por período e longo recupera 3 pontos.
 
-- Base consultada: `main`, commit `e010d51f4f70d295dec6443e5e802c4e11721143`.
-- Branch de trabalho: `regras/reservas-exaustao-morrendo-2026-11-18`.
-- Estado: alteração preparada em branch para revisão; não integrada à main. O SHA do trabalho é o commit que inclui este repasse; a referência exata e o PR são apresentados na entrega para não criar um SHA autorreferente impossível.
+[Morrendo e socorro](../regras/recuperacao/morte-e-recuperacao.md) usam limiar −PV máximos, Vigor base 10 mais dano excedente acumulado e Medicina inicial DT 10, com +5 após cada sucesso. O atendimento devolve 1 PV e trata Ferido. Mazelas adicionais tratáveis que derrubariam o alvo acrescentam 1 PA cada. A cena reinicia os acréscimos de DT.
 
-## Conteúdo e alcance
+O último participante pode abrir a rodada seguinte em um novo turno com PA renovados. Pesados/Brutais ignoram RD de armadura convencional e preservam Bloquear. Ajuda em Toque e Atrapalhar usam resultados rolados na mesma conta. Manter agarrão custa 1 PA, arrastar usa movimento, fuga é oposta com desempate a favor de quem escapa e Imobilizar depende de fonte específica.
 
-[Decisões](../design/decisoes.md#2026-11-18--reservas-exaustão-e-morrendo) distinguem os pontos confirmados das propostas. Capítulos normativos de [reservas](../regras/fundamentos/alma.md), [exaustão](../regras/recuperacao/exaustao.md) e [Morrendo](../regras/recuperacao/morte-e-recuperacao.md) substituem Forçar universal, PE/NE e morte antiga. Guias, índices, descansos, condições, referências de espécies e cenários foram harmonizados; cura/Sangramento incorpora as decisões pertinentes anteriores do mesmo chat.
+A próxima etapa é desenvolver habilidades. Inimigos vêm depois das habilidades. Região e material de mesa ficam para uma etapa posterior. Traumas continuam adiados.
 
-O procedimento especial por excesso usa 1d20, DT inicial 5 e aumento 5. Isso não é Vigor, nem o +5 antigo de Resistir. Vigor após dano abaixo do limiar começa em 10; sucesso mantém negativos e gera 1 exaustão, falha mata. Não há morte automática ao atingir exatamente o máximo de exaustão.
+[PR #6](https://github.com/BispoAugusto/Contos-de-M-stica-RPG/pull/6) reúne o conteúdo desta atualização. Consulte as [pendências atuais](../design/pendencias.md#reservas-exaustão-morrendo-e-traumas--2026-11-18) e o [plano de playtest](playtests.md). O próximo chat começa pelas habilidades e seus custos nas reservas, incluindo a conversão em exaustão. As fichas de inimigos dependem desses valores.
 
-## Pendências e próximo passo
-
-**Traumas: desenvolver depois.** Não há nova tabela, teste ou penalidade de trauma implementados. Confirmar gatilhos, gravidade, frequência, recuperação e consequências narrativas quando esse assunto voltar.
-
-Antes de usar a nova economia numa sessão, fechar máximo/penalidades/recuperação de exaustão, conversão das reservas, limiar negativo, aumento de DT por dano e regras dos naturais/reset de excesso. Soma dos atributos, conversão 2:1, máximo 6 e −1 por ponto continuam propostas. Não inventar custos de magia ou restaurar PE/NE como preenchimento de lacuna.
-
-Até o Limite dos Homens Altos precisa de reformulação. Fórmula antiga das reservas e derivados permanece referência até revisão conjunta. Nenhuma regra de equipamento, nova habilidade, maestria, receita ou software foi implementada.
-
-## Verificação
-
-Conferir diff, links/âncoras, cobertura dos Markdown e geração do portal com os scripts existentes. Resultado da execução consta na entrega do PR. Não houve sessão de playtest nem simulação de balanceamento.
+Leituras operacionais adotadas: conte dano excedente cumulativamente por cena. O colapso registra 0 PV quando o personagem estava acima de 0. Use a DT acumulada de Vigor se já houve Morrendo na cena. A rolagem especial de excesso fica isenta do ônus de exaustão. O dano comum e os efeitos individuais seguem seus capítulos.

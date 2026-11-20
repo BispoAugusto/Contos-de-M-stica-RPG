@@ -38,7 +38,7 @@ Use o ataque comum e a proficiência da arma. Ao atingir o grau indicado para a 
 
 Preserve o bônus de dano do grau, crítico e efeitos específicos expressos. Tipos físicos não concedem efeitos automáticos desde 18/11. Um acerto abaixo do limiar enfrenta a RD normalmente. Este procedimento substitui direcionamento com Foco sob pressão e redução pela metade. Não exige teste separado de Foco.
 
-Natural 20 garante acerto pelas regras gerais; explorar a abertura exige alcançar o limiar no total. Não presumir que toda RD tem abertura. Cada ficha descreve condições de acesso e limiar. A categoria leve/média/pesada não define automaticamente esse limiar para personagens.
+Natural 20 garante acerto pelas regras gerais; explorar a abertura exige alcançar o limiar no total. Não presumir que toda RD tem abertura. Cada ficha descreve condições de acesso e limiar. Armaduras convencionais perdem sua RD contra Pesado e Brutal por regra geral. Aplicar os limiares descritos aqui às proteções especiais, inclusive de NPCs.
 
 ## Fontes diferentes
 
@@ -50,7 +50,7 @@ Exposto mantém seu alcance: ataques ignoram toda RD, inclusive Bloquear. Não r
 
 ## Composição e casos pendentes
 
-Definir aberturas de equipamentos dos jogadores, perfis de NPCs e composição com múltiplos tipos/fontes. Ver [tipos de dano](tipos-de-dano.md).
+Definir novos perfis de NPCs e composição com múltiplos tipos/fontes. Ver [tipos de dano](tipos-de-dano.md).
 
 ## Abertura
 

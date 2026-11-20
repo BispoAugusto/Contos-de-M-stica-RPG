@@ -79,6 +79,6 @@ Igualdade de totais favorece o atacante/iniciador. Sem iniciador definido, prese
 
 **Aprovado para playtest — 16/11/2026.** A segunda execução da mesma ação mecânica no próprio turno sofre 1 desvantagem; a terceira, 2; e assim por diante. Cada ação tem sua contagem, mas todos os ataques compartilham a tag Agredir. Trocar o alvo ou renomear a mesma ação não reinicia a contagem. Reinicia no próximo turno próprio.
 
-Aplicar a penalidade aos testes da ação repetida; uma ação sem teste não ganha custo extra ou rolagem só por ser repetida. Fora do próprio turno, não recebe nem avança esse contador. Continuação do mesmo turno com PA dobrados não reinicia contagens.
+Aplicar a penalidade aos testes da ação repetida; uma ação sem teste não ganha custo extra ou rolagem só por ser repetida. Fora do próprio turno, não recebe nem avança esse contador. O novo turno na rodada seguinte reinicia as contagens mesmo quando o personagem passa a iniciativa para si mesmo.
 
 Leve preserva a exceção do primeiro ataque repetido; consultar [ataques](../combate/ataques-e-dano.md). Ajudar usa somente a redução d8 → d6 → d4, sem outra penalidade de repetição. Efeitos específicos continuam definindo frequência e requisitos. Ações com várias etapas não são contadas uma vez por dado: contar a execução da ação.

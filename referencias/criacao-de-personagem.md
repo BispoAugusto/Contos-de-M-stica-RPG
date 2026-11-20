@@ -1,6 +1,6 @@
 # Criar um personagem
 
-> **Reservas e sobrevivência — 18/11/2026:** Corpo/Mente/Espírito agora pagam habilidades e suportam desgaste. Máximos e custos serão recalibrados; os cálculos de média e derivados abaixo permanecem referência de ficha. A rerrolagem universal foi retirada. [Regras](../regras/fundamentos/alma.md) · [Parâmetros pendentes](../design/pendencias.md#reservas-exaustão-morrendo-e-traumas--2026-11-18).
+> **20/11/2026:** reservas somam atributos e bônus de espécie. [Valores da ficha](../regras/personagem/valores-da-ficha.md) · [Exaustão](../regras/recuperacao/exaustao.md).
 
 > **Atualização 04/11/2026:** leve RD física 1, média 3, pesada 5. Médias/pesadas dão Desvantagem com Reflexo. Defesa 8 + bônus de Vigor. Esquivar custa 1 PA, rola Vigor com Reflexo e exige superar o ataque; sem proteção tem Vantagem. [Defesas](../regras/combate/defesas.md) e [tipos físicos](../regras/combate/tipos-de-dano.md) prevalecem nos exemplos ainda em conversão.
 
@@ -89,15 +89,15 @@ Atributos **não somam à rolagem**: determinam a quantidade de dados e a reserv
 
 ## 3. Reservas de Alma
 
-Para cada Parte, some seus três atributos, divida por três, **arredonde para cima** e só então adicione o bônus de espécie.
+Para cada Parte, some seus três atributos-base e adicione o bônus de espécie.
 
 | Reserva | Cálculo do máximo |
 |---|---|
-| Corpo | Arredondar para cima [(Potência + Reflexo + Resiliência) ÷ 3] + bônus de Corpo |
-| Mente | Arredondar para cima [(Raciocínio + Foco + Percepção) ÷ 3] + bônus de Mente |
-| Espírito | Arredondar para cima [(Vontade + Influência + Sintonia) ÷ 3] + bônus de Espírito |
+| Corpo | Potência + Reflexo + Resiliência + bônus de Corpo |
+| Mente | Raciocínio + Foco + Percepção + bônus de Mente |
+| Espírito | Vontade + Influência + Sintonia + bônus de Espírito |
 
-**Exemplo:** Potência 2, Reflexo 1 e Resiliência 2 somam 5. A média 5 ÷ 3 arredonda para 2. Com bônus de espécie +2 Corpo, o máximo é **4 Corpo**.
+**Exemplo:** Potência 2, Reflexo 1 e Resiliência 2 somam 5. Com bônus de espécie +2 Corpo, o máximo é **7 Corpo**.
 
 Registre **atual e máximo separadamente**. Em uma ficha sem desgaste, registre as reservas cheias. Gastar pontos atuais não reduz o máximo nem a vida derivada dele.
 
@@ -212,7 +212,7 @@ Transcreva as características da sua origem e espécie com **custo, alcance, us
 |---|---|
 | Ações | 4 PA iniciais; renovação no início do próprio turno, sem acumular sobras |
 | Vida e Alma | Valor atual e máximo de cada reserva |
-| Exaustão | Trilha atual/máxima e próxima DT de excesso (inicial 5); máximo/penalidades a definir |
+| Exaustão | Trilha atual/máxima e próxima DT de excesso (inicial 5); máximo 6 |
 | Proteções disponíveis | Tipo de RD passiva e conjunto de valores; usos/custo apenas para proteções especiais que os exijam |
 | Características de espécie | Efeito, PA/Alma gastos, usos e tipo de descanso que recupera |
 | Condições | Ferido e demais condições presentes |
@@ -231,7 +231,7 @@ Equipamento inicial: **kit básico e três escolhas**, conforme [seleção atual
 - [ ] Se misto, respeitei as escolhas e a proibição de Gnomos/Fadas.
 - [ ] Conferi porte e bônus de Alma.
 - [ ] Distribuí os atributos, respeitando soma, mínimo 0 e máximo inicial 3.
-- [ ] Calculei cada reserva pela média para cima **antes** de somar o bônus.
+- [ ] Somei os três atributos-base e o bônus de espécie de cada reserva.
 - [ ] Gastei os seis PP, ou oito da origem Humanos, sem passar do nível inicial 2.
 - [ ] Incluí compras de idiomas na mesma reserva e registrei Comum fluente gratuito.
 - [ ] Calculei PV, Defesa e carga sem confundir atributo, bônus de proficiência e máximo de Corpo.
@@ -264,10 +264,10 @@ Homens Altos recebem +1 em cada Parte.
 
 | Campo | Cálculo | Resultado |
 |---|---|---|
-| Corpo máximo | Arredondar 6 ÷ 3 para cima, depois +1 | **3** |
-| Mente máxima | Arredondar 4 ÷ 3 para cima, depois +1 | **3** |
-| Espírito máximo | Arredondar 4 ÷ 3 para cima, depois +1 | **3** |
-| PV máximos | 6 +2 ×3 | **12** |
+| Corpo máximo | 6 + 1 | **7** |
+| Mente máxima | 4 + 1 | **5** |
+| Espírito máximo | 4 + 1 | **5** |
+| PV máximos | 6 + 2 × 7 | **20** |
 | Defesa passiva | 8 +2 de Vigor | **10** |
 | Capacidade | Médio 10 +2 ×3 | **16 espaços** |
 
@@ -285,7 +285,7 @@ O título registra a versão anterior. Na criação de 16/11, use **oito pontos*
 | Dracônico 2 | 1 | Fluente; +2 quando precisar testar |
 | **Total** | **8** | Comum fluente é gratuito e fica fora da compra |
 
-Espadas usa +4 no ataque comum. Vigor 1 dá +2 e Defesa 10. Esquivar usa Vigor com Reflexo por 1 PA e exige superar o ataque. Reflexo 2 fornece a base de 2d20 para Esquivar, antes da proteção e dos demais modificadores. No curto, cada reserva máxima 3 recupera automaticamente até 2 pontos.
+Espadas usa +4 no ataque comum. Vigor 1 dá +2 e Defesa 10. Esquivar usa Vigor com Reflexo por 1 PA e exige superar o ataque. Reflexo 2 fornece a base de 2d20 para Esquivar, antes da proteção e dos demais modificadores. No curto, recupera automaticamente até 4 de Corpo, 3 de Mente e 3 de Espírito.
 
 A ficha tem atributos, reservas e proficiências definidos. Espadas 2 não significa que recebeu uma espada: escolha o equipamento pela seleção inicial, sem inferir concessão pela compra de proficiência.
 

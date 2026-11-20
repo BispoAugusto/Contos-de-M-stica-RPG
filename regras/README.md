@@ -1,5 +1,7 @@
 # Regras — índice por assunto
 
+> **20/11/2026:** a revisão de [exaustão](recuperacao/exaustao.md), [Morrendo](recuperacao/morte-e-recuperacao.md), [iniciativa](combate/turnos-e-iniciativa.md), [apoio](combate/acoes-taticas.md) e [armaduras](equipamentos/armaduras-e-escudos.md) prevalece nos pontos substituídos. Desenvolver habilidades antes dos inimigos e da região.
+
 ## 2026-11-18 — Reservas, exaustão e Morrendo
 
 [Reservas](fundamentos/alma.md) pagam habilidades e suportam desgaste; Forçar não é mais uma rerrolagem universal. [Exaustão](recuperacao/exaustao.md) substitui PE/NE; excesso usa 1d20 com DT 5/+5. [Morrendo](recuperacao/morte-e-recuperacao.md) mantém PV negativos e cobra 1 exaustão por sucesso em Vigor. **Traumas ficam para desenvolvimento posterior.** Limites, custos, penalidades e demais lacunas estão em [pendências](../design/pendencias.md#reservas-exaustão-morrendo-e-traumas--2026-11-18); não importar valores históricos para preenchê-las.

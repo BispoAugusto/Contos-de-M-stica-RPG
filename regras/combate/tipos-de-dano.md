@@ -13,7 +13,7 @@ Sangramento depende de uma fonte que o aplique. Duração e tratamento seguem [c
 ## Ordem e dano misto
 
 1. Resolva acerto, reação e grau.
-2. Verifique se explorou abertura acessível; ignore a RD da fonte indicada.
+2. Pesado ou Brutal ignora a RD de armaduras convencionais. Verifique também se explorou abertura acessível de proteção especial. Preserve a RD de Bloquear, salvo efeito expresso como Exposto.
 3. Aplique modificadores de proteção expressamente concedidos por fontes específicas.
 4. Aplique a RD restante, mínimo 0, e resolva efeitos cabíveis; o tipo de dano não concede efeitos adicionais por si só.
 

@@ -1,21 +1,17 @@
 # Plano de playtests — versão de 2026-10-25
 
-## Reservas, exaustão e Morrendo — 2026-11-18
+## Reservas, exaustão e Morrendo
 
-**Cenários preparados, não executados.** Concluir os parâmetros de [pendências](../design/pendencias.md#reservas-exaustão-morrendo-e-traumas--2026-11-18) antes de uma sessão que dependa dessas regras. Números hipotéticos de simulação devem ficar identificados; não usar PE/NE ou Forçar antigos para preencher lacunas.
+Cenários planejados para a revisão de 20/11.
 
 | Cenário | Verificar |
 |---|---|
-| Custo cabe, zera ou excede a reserva | Exatamente 0 não gera exaustão automática; converter apenas a falta quando a taxa estiver definida |
-| Esforço voluntário abaixo/no/acima do máximo | Bloquear o que alcançaria o máximo; exceção narrativa informada antes da decisão |
-| Atingir o máximo e receber mais pontos | Não rolar só por atingir; cada ponto excedente usa 1d20 e avança DT 5/10/15… |
-| PV 0, no limiar e abaixo do limiar | Morrendo não age; cada dano abaixo do limiar exige Vigor; sucesso não cura |
-| Vigor bem-sucedido com exaustão máxima | Receber 1 exaustão e resolver também o teste de excesso; não gastar Corpo |
-| Golpe grande versus vários pequenos | Calibrar aumento da DT por dano sem transformar Morrendo em absorção indefinida |
-| Recuperar 1 ponto e voltar ao máximo | Definir reinício da sequência antes de testar; não presumir retorno gratuito à DT 5 |
-| Traumas | Desenvolvimento adiado: não validar tabela ou agravamento que ainda são propostas |
-
-Os cenários antigos de Forçar, cura para 1 PV e PE/NE abaixo são históricos e não se aplicam à revisão de 18/11.
+| Reservas, descanso e esforço | Soma + espécie, recuperação de reservas e de exaustão, limite de um curto por período para exaustão. |
+| Exaustão 6 e excesso | Colapso, Vigor e teste especial separados. Sequência 5, 10, 15 na cena e reinício depois. |
+| Morrendo e dano abaixo do limiar | Golpe que cruza −PV máximos e golpes seguintes. DT usa só o dano excedente acumulado. |
+| Socorro com Sangramento | Custo 2 PA, DT 10, sucesso deixa 1 PV e próximo socorro tem DT 15. Falha mantém DT. |
+| Último da rodada | Dois turnos completos, com gatilhos e contagens próprios. |
+| Defesa e apoio | Pesado/Brutal preserva escudo. Ajuda e Atrapalhar rolam juntos. |
 
 ## Equipamentos — cenários de 17/11/2026
 

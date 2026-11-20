@@ -16,16 +16,14 @@
 
 ### Parâmetros para concluir o procedimento
 
-- [ ] Máximos de Corpo/Mente/Espírito: avaliar soma dos atributos em vez da média; revisar conjuntamente PV, porte dos Gnomos e usos derivados. A média + espécie continua apenas referência preservada até fechar a mudança.
-- [ ] Custos de conjurações e outras habilidades; conversão de falta de reserva em exaustão. A hipótese 2:1 não está aprovada. Definir também ordem da habilidade e dos testes em uma cena excepcional de sacrifício.
-- [ ] Máximo e penalidades da trilha; −1 por ponto e máximo 6 são propostas, não regra confirmada. Decidir incidência das penalidades em Resistir e no teste especial de excesso.
-- [ ] Recuperação de exaustão e reservas em descansos; quando reinicia a DT de excesso. Recuperar um ponto não implica automaticamente voltar à DT 5.
-- [ ] Naturais 1/20, DT acima de 20 e modificadores expressos no teste especial de 1d20; não aplicar quantidade de dados dos atributos ou Vigor.
-- [ ] Fixar limiar negativo e fórmula de aumento da DT de Vigor por dano; base 10 confirmada. Comparar golpe grande e sucessivos pequenos para evitar absorção indefinida de dano. O antigo +5 por tentativa não foi transferido.
-- [ ] Saída de Morrendo, cura com PV negativos e estabilização, incluindo interação com Ferido. Não reintroduzir despertar automático ao fim da cena nem cura para 1 PV ao resistir.
-- [ ] Converter custos antigos de PE, incluindo privação e Fúria 1/2/3…; definir quando desgastam reservas ou exaustão diretamente. Não duplicar sede/umidade dos Namarés.
-- [ ] Reformular **Até o Limite** dos Homens Altos, que dependia da rerrolagem universal retirada; não transferir seu +2 para morte/excesso.
-- [ ] Sangramento: dano, momento, acúmulo e fontes ainda precisam de definição. Duração até cura/tratamento/morte, Medicina DT 15 e primeira cura consumida por Ferido já estão registrados.
+- [x] Soma de atributos por Parte, com bônus de espécie. Exaustão 6, −1 por ponto, colapso e recuperação de 1 no curto uma vez por período e 3 no longo.
+- [x] Limiar de Morrendo em −PV máximos, Vigor base 10 com +1 por ponto de dano excedente, socorro de Medicina DT 10 e reinício de DTs ao fim da cena.
+- [x] Novo turno na rodada seguinte, RD de armadura padrão em Pesado/Brutal, dados de ajuda/atrapalhar somados com seus sinais e manutenção, fuga e arrasto de agarrão.
+- [ ] Testar o efeito da soma das reservas sobre PV, porte de Gnomos e usos de traços que usam Corpo máximo. As fórmulas derivadas continuam sendo as vigentes até ajuste.
+- [ ] Fechar conversão de falta de reserva em exaustão, custos de conjurações/habilidades, Fúria, privação e reformular Até o Limite.
+- [ ] Fechar naturais e DT acima de 20 no teste especial de excesso. Cura de outras fontes com PV negativos segue aberta.
+- [ ] Definir custo/teste inicial de Agarrar, testar a desvantagem por categoria de porte na fuga e fechar detalhes de consumo de ajuda e naturais em opostos/Esquiva. Completar dano, momento e acúmulo de Sangramento se entrar no cenário.
+- [ ] Desenvolver habilidades primeiro. Depois, converter inimigos e preparar a região e os cenários de exploração.
 
 **Substituídos:** PE/NE e sua recuperação, Forçar como rerrolagem universal, morte automática no negativo máximo, Resistir para voltar a 1 PV e Sequela obrigatória ao aceitar cair. As listas antigas abaixo permanecem históricas nesses pontos; não reabrem regras retiradas.
 

@@ -1,6 +1,6 @@
 # Vida, Defesa e valores da ficha
 
-> **18/11/2026:** máximos de reservas e seu vínculo com PV ainda serão recalibrados; as fórmulas abaixo são a referência anterior preservada. Não substituir média por soma sem revisar os derivados. Limite/penalidades de exaustão e limiar de PV negativos estão em [pendências](../../design/pendencias.md#reservas-exaustão-morrendo-e-traumas--2026-11-18).
+> **20/11/2026:** reservas usam a soma dos atributos-base e o bônus de espécie. A fórmula vigente de PV usa esse novo máximo de Corpo. Os derivados precisam ser observados no playtest.
 
 [Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
 

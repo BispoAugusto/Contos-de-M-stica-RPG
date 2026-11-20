@@ -1,5 +1,7 @@
 # Revisão de playtest — decisões de 27 a 29/10/2026
 
+> **20/11/2026:** a revisão de [exaustão](recuperacao/exaustao.md), [Morrendo](recuperacao/morte-e-recuperacao.md), [iniciativa](combate/turnos-e-iniciativa.md), [apoio](combate/acoes-taticas.md) e [armaduras](equipamentos/armaduras-e-escudos.md) prevalece nos pontos substituídos. Desenvolver habilidades antes dos inimigos e da região.
+
 > **Substituições de 18/11/2026:** [reservas](fundamentos/alma.md), [exaustão](recuperacao/exaustao.md) e [Morrendo](recuperacao/morte-e-recuperacao.md) substituem os trechos conflitantes sobre Forçar, PE/NE, morte, cura e Sequelas. A seção 5 abaixo é histórica nesses pontos: não escolher Resistir para retornar a 1 PV, não morrer automaticamente no negativo dos PV máximos e não receber Sequela automaticamente ao cair. Traumas ficam em desenvolvimento posterior.
 
 > **Substituições de 17/11/2026:** [equipamentos](equipamentos/README.md) atualiza catálogo e nomes de propriedades, retira proficiência de escudos, adota espaço mínimo 0,5, mochila e lotes e substitui a seleção inicial por kit básico + três escolhas. Trechos conflitantes abaixo são históricos. Penalidades de armadura não expressamente substituídas mantêm o alcance indicado no capítulo atual; receitas e fabricação continuam adiadas.

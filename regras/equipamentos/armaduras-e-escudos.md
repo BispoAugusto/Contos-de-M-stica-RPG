@@ -38,7 +38,7 @@ A RD da armadura pode acompanhar Bloquear. Bloqueio básico não se aplica autom
 
 Uma abertura acessível permite ignorar a RD da proteção indicada em Pesado ou Brutal, conforme sua descrição. Um 20 natural não concede automaticamente esse grau. Abertura de armadura não ignora por si a RD do escudo; **Exposto** ignora toda RD contra ataques, inclusive Bloquear.
 
-**Direção mantida:** acertos altos e exploração de aberturas devem permitir enfrentar proteções. **Pendente:** limiar universal por categoria de armadura de personagem e aplicação em jogador contra jogador. Até essa decisão, não presumir que todo Pesado ignora qualquer armadura: usar apenas aberturas descritas, sem inventar um limiar universal. Ver [Aberturas](../combate/aberturas.md).
+**Golpes Pesados e Brutais ignoram a RD de armaduras convencionais**, inclusive entre personagens. Preserve a RD do escudo em Bloquear. Proteções especiais de NPCs seguem a própria descrição e as [Aberturas](../combate/aberturas.md).
 
 Tipos físicos não concedem penetração, Sangramento ou controle automaticamente desde 18/11. Ver [tipos de dano](../combate/tipos-de-dano.md).
 
@@ -49,7 +49,7 @@ Escamas dos Draconatos preservam RD geral 1, usos iguais ao máximo de Corpo e r
 - Golpe cortante padrão de dano 4 contra média RD 3 causa **1**.
 - O mesmo golpe com Bloquear RD 2 causa **0**, ao custo de 1 PA.
 - O tipo Perfurante não altera a RD por si só. Uma redução ou penetração adicional precisa de fonte específica.
-- Se uma abertura descrita permitir ignorar aquela armadura e o limiar for atingido, sua RD não se aplica. Bloquear ainda pode reduzir dano físico; Exposto também o ignora.
+- Um Pesado de dano físico 5 contra armadura média ignora a RD 3. Se o alvo Bloquear com o escudo básico, recebe 3 de dano após RD 2. Exposto ignora também a RD de Bloquear.
 
 ## Escolha defensiva e resistência
 

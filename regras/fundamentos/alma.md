@@ -18,11 +18,9 @@
 
 ## Máximos
 
-**Pendente de revisão:** recalibrar máximos, custos e recuperação como conjunto. Usar a soma dos três atributos em lugar da média foi discutido, mas não recebeu uma fórmula final nesta etapa. Não aplicar essa mudança silenciosamente aos PV, porte dos Gnomos ou usos de características derivados do máximo de Corpo.
+Cada reserva máxima é a **soma dos três atributos-base da Parte + bônus de espécie**. Corpo soma Potência, Reflexo e Resiliência. Mente soma Raciocínio, Foco e Percepção. Espírito soma Vontade, Influência e Sintonia. Bônus temporários de atributo não aumentam a reserva automaticamente.
 
-**Referência de ficha preservada até essa revisão:** máximo = média dos três atributos-base da Parte, arredondada para cima, + bônus de Alma da espécie. Bônus temporários não aumentam automaticamente a reserva. Corpo: Potência, Reflexo, Resiliência. Mente: Raciocínio, Foco, Percepção. Espírito: Vontade, Influência, Sintonia.
-
-Exemplo da referência preservada: Corpo com 3, 2 e 1 tem média 2; espécie com +2 Corpo resulta em máximo 4. Gastar pontos atuais não diminui o máximo nem PV/usos derivados. [Espécies](../origens/README.md).
+Exemplo: Corpo com atributos 3, 2 e 1 e bônus de espécie +2 tem máximo 8. Gastar a reserva atual não reduz o máximo.
 
 ## Reserva esgotada e esforço voluntário
 

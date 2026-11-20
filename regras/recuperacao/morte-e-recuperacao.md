@@ -2,19 +2,19 @@
 
 [Índice de regras](../README.md) · [Categoria](README.md)
 
-**Morrendo e relação com exaustão confirmados em 18/11/2026; parâmetros ainda indicados como pendentes não são regras prontas de playtest.** Substitui a escolha entre Resistir para ficar a 1 PV e Aceitar a Queda com Sequela, bem como a morte automática ao atingir o negativo dos PV máximos.
+**Limiar, DT e socorro atualizados em 20/11/2026.**
 
 ## A 0 PV ou menos
 
 O personagem entra em **Morrendo**, fica fora de combate e **não age**. Continua registrando PV negativos; dano não é absorvido pela reserva de Corpo. A condição não se confunde com Caído, a condição de estar no chão.
 
-Ao sofrer dano que deixe seus PV **abaixo do limiar negativo**, precisa fazer o teste de Vigor para evitar a morte. Cada novo dano que o mantenha abaixo desse limiar provoca outro teste; sucesso anterior não concede imunidade ao dano seguinte. Chegar exatamente ao limiar não é ultrapassá-lo.
+O limiar negativo é **−PV máximos**. Cada ponto de dano que leve ou mantenha o personagem abaixo desse limiar soma **+1 à DT de Vigor**, cumulativo até o fim da cena. O dano que apenas alcança o limiar não aumenta a DT nem dispara o teste. Cada ocorrência de dano que acrescente pontos abaixo do limiar exige um teste após atualizar a DT.
 
-**Pendente:** fixar o valor do limiar. A magnitude dos PV máximos foi a referência discutida, mas a nova regra não autoriza restaurar a morte automática da versão anterior. Uma sessão que experimentar um valor deve registrá-lo como hipótese.
+Exemplo: com 12 PV máximos, o limiar é −12. Um golpe que leve de −12 a −17 acrescenta 5 à base 10 e exige Vigor **DT 15**. Se o golpe levasse de −10 a −15, apenas 3 pontos ultrapassariam o limiar e a DT seria **13** sem aumentos anteriores.
 
 ### Resistir à morte
 
-É um teste de **Vigor**, usando dados do atributo apropriado e bônus da perícia conforme o núcleo. Resiliência é a sugestão para sustentação física. A DT começa em **10**.
+É um teste de **Vigor**, usando dados do atributo apropriado e bônus da perícia conforme o núcleo. Resiliência é a sugestão para sustentação física. A DT começa em **10**, com os aumentos por dano excedente descritos acima. Aplique normalmente a penalidade de exaustão.
 
 - **Sucesso:** permanece vivo, ainda Morrendo, conserva os PV negativos e recebe **1 ponto de exaustão**. Não recupera PV, consciência ou turno e não perde 1 Corpo adicionalmente.
 - **Falha:** morre diretamente.
@@ -22,7 +22,7 @@ Ao sofrer dano que deixe seus PV **abaixo do limiar negativo**, precisa fazer o 
 - Mantêm-se os naturais do teste comum: 1 natural falha, 20 natural sucede quando o teste é possível. Um sucesso natural não elimina o custo de exaustão.
 - Habilidades específicas podem conceder bônus para evitar a morte. Não existe rerrolagem universal por Alma/PE.
 
-**Pendente de equilíbrio:** como dano adicional aumenta a DT para evitar que alguém Morrendo absorva golpes indefinidamente. Base 10 está definida; aumento por quantidade de dano, profundidade dos PV negativos ou outra fórmula ainda não. O antigo +5 por tentativa não foi transferido para este teste: +5 é a regra expressa do teste por excesso de exaustão. Também falta fechar incidência de penalidades de exaustão em Vigor e eventual reinício de modificadores da DT.
+Ao atingir o sexto nível de exaustão fora de Morrendo, o personagem também entra na condição e testa Vigor. Use DT 10 se for sua primeira entrada em Morrendo na cena. O ponto de exaustão ganho por sobreviver pode exigir em seguida o teste especial de excesso.
 
 **Exceção de espécie preservada até revisão:** Gnomo dividido em dois perde o corpo que chegar a 0 PV. O único corpo usa o procedimento de Morrendo. A revisão das reservas não cria cura ou recursos pela divisão/reunião. [Gnomos](../origens/verdantes.md#gnomos).
 
@@ -34,13 +34,15 @@ Tratamento específico segue seus próprios efeitos; [tratar feridas no descanso
 
 ## Medicina fora do descanso
 
-Tratar custa **1 PA**, preservando o custo anterior. Usar Medicina com atributo adequado. Para tratar Sangramento, a **DT é 15**, mesmo se o alvo estiver Ferido; isso não remove Ferido nem recupera PV automaticamente. Não existe teste periódico genérico para o próprio sangramento terminar. Seu dano, momento de aplicação e acúmulo ainda precisam de definição.
+Para recuperar um personagem Morrendo, gaste **1 PA** e teste **Medicina DT 10**. Some **1 PA por mazela adicional** tratável por Medicina que voltaria a derrubá-lo, como Sangramento. Um único teste resolve o atendimento, incluindo essas mazelas. Exemplo: recuperar alguém Morrendo e tratar seu Sangramento custa **2 PA**.
 
-Estabilização e reanimação têm detalhes pendentes, inclusive quando o alvo permanece com PV não positivos. Não adotar uma cura automática para 1 PV, um despertar automático no fim da cena ou um novo turno de Última Ação. A versão nova afirma que o personagem Morrendo não age; qualquer exceção precisa de desenvolvimento próprio.
+**Sucesso:** o paciente sai de Morrendo, fica com **1 PV**, perde **Ferido** e as mazelas tratadas pelo atendimento. A próxima tentativa de socorro nesse paciente usa DT **5 maior**. **Falha:** não recupera o paciente e a DT do próximo socorro permanece igual. Cada paciente tem sua própria DT, que volta a **10** ao fim da cena.
+
+Para tratar **apenas Sangramento**, use a ação de 1 PA e **Medicina DT 15**, inclusive em alvo Ferido. Esse tratamento isolado não devolve PV, não remove Ferido e não retira Morrendo. Dano, aplicação e acúmulo de Sangramento ficam pendentes.
 
 ## Cura em PV negativos
 
-PV negativos permanecem registrados. Resistir não apaga esse saldo. A conversão da cura com PV negativos e o momento exato de sair de Morrendo ainda precisam ser harmonizados, inclusive com a cura consumida para remover Ferido. Não presumir que tratar Sangramento ou remover Ferido acorda o personagem.
+Resistir preserva os PV negativos. O socorro de Medicina acima substitui os PV atuais por 1. A conversão de outras fontes de cura sobre PV negativos permanece pendente, incluindo a interação com uma cura usada para retirar Ferido.
 
 ## Sequelas e pendências
 

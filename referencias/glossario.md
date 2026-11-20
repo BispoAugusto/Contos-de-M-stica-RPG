@@ -12,9 +12,9 @@
 - **Extremo:** inativo neste playtest; benefício e condição no novo núcleo pendentes. A antiga margem de atributo 10 não se aplica.
 - **Golpe Pesado/Brutal:** resultados de ataque em Defesa +5/+10; +1/+2 dano, sem somar os dois. Não usam pleno/extremo.
 - **Golpe Devastador:** manobra aprendida com Pesada; não é sinônimo de pleno.
-- **Alma / Partes:** reservas de Corpo, Mente e Espírito usadas para habilidades e desgaste. Máximos e custos serão recalibrados; média arredondada + espécie permanece referência de ficha, não uma fórmula nova aprovada para conjuração.
+- **Alma / Partes:** reservas de Corpo, Mente e Espírito. Máximo = soma dos três atributos-base da Parte + bônus de espécie.
 - **Forçar habilidade:** pagar por exaustão o custo que a reserva não cobre; esforço comum precisa terminar abaixo do máximo. Conversão pendente; a antiga rerrolagem universal foi retirada.
-- **Exaustão:** trilha única de desgaste; limite, penalidades e recuperação pendentes. Substitui a antiga conversão PE/NE.
+- **Exaustão:** seis níveis, −1 em testes por nível, salvo exceção. No sexto, o personagem colapsa e entra em Morrendo.
 - **Excesso de exaustão:** receber mais pontos estando no máximo exige 1d20, DT inicial 5 e +5 por teste seguinte; falha causa perda do personagem.
 - **Morrendo:** estado a 0 PV ou menos; não age, mantém PV negativos e testa Vigor quando dano ultrapassa o limiar negativo. Sucesso gera 1 exaustão; falha mata.
 - **RD:** redução de dano compatível com tipos; física, específica ou geral.

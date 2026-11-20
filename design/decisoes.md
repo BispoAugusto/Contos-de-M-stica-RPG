@@ -1,5 +1,15 @@
 # Decisões registradas
 
+## 2026-11-20 — Sobrevivência e combate para o playtest
+
+O criador aprovou a atualização e o merge do PR #6. [Reservas](../regras/fundamentos/alma.md) somam os três atributos-base da Parte e bônus de espécie. [Exaustão](../regras/recuperacao/exaustao.md) aplica −1 por nível e causa colapso no sexto. Curto recupera 1 ponto uma vez por período e longo recupera 3 pontos.
+
+[Morrendo e socorro](../regras/recuperacao/morte-e-recuperacao.md) usam limiar −PV máximos, Vigor base 10 mais dano excedente acumulado e Medicina inicial DT 10, com +5 após cada sucesso. O atendimento devolve 1 PV e trata Ferido. Mazelas adicionais tratáveis que derrubariam o alvo acrescentam 1 PA cada. A cena reinicia os acréscimos de DT.
+
+O último participante pode abrir a rodada seguinte em um novo turno com PA renovados. Pesados/Brutais ignoram RD de armadura convencional e preservam Bloquear. Ajuda em Toque e Atrapalhar usam resultados rolados na mesma conta. Manter agarrão custa 1 PA, arrastar usa movimento, fuga é oposta com desempate a favor de quem escapa e Imobilizar depende de fonte específica.
+
+A próxima etapa é desenvolver habilidades. Inimigos vêm depois das habilidades. Região e material de mesa ficam para uma etapa posterior. Traumas continuam adiados.
+
 ## 2026-11-18 — Reservas, exaustão e Morrendo
 
 **Fonte:** decisões do criador no chat central, nas mensagens que começam “ok então resumindo se eu bem entendi” e “continuando o que eu acho que entendi”, seguidas do pedido “adicione as mudanças no repositório e anote em pendencias desenvolver os traumas”. Não há link de conversa disponível neste repasse. A solicitação autoriza registrar as mudanças; não fecha números que o próprio diálogo manteve em aberto.

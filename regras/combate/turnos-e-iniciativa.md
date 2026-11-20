@@ -1,6 +1,6 @@
 # Turnos, PA e iniciativa
 
-> **16/11/2026:** [repetição](../fundamentos/testes.md#repetição-de-ações) agora também se aplica aos testes de outras ações repetidas no próprio turno. A continuação com PA dobrados não reinicia contagens nem a sequência dos dados de ajuda.
+> **16/11/2026:** [repetição](../fundamentos/testes.md#repetição-de-ações) agora também se aplica aos testes de outras ações repetidas no próprio turno. Ao passar para si mesmo, começa um novo turno com novas contagens.
 
 > **Atualização de 01/11/2026:** as seções de iniciativa abaixo incorporam as novas decisões e prevalecem sobre a revisão de 29/10 nos pontos alterados.
 
@@ -14,7 +14,7 @@
 
 ## Pontos de Ação
 
-**Revisão aprovada para playtest em 2026-10-26:** personagens jogadores começam o combate com 4 PA, ressalvadas restrições expressas. No **início do próprio turno**, renovam os PA para o valor vigente, normalmente 4, sem acumular sobras. **O fim da rodada não renova PA.** A redução antiga de PA por NE 4 foi retirada com a revisão de exaustão de 18/11; novas penalidades estão pendentes.
+**Revisão aprovada para playtest em 2026-10-26:** personagens jogadores começam o combate com 4 PA, ressalvadas restrições expressas. No **início do próprio turno**, renovam os PA para o valor vigente, normalmente 4, sem acumular sobras. **O fim da rodada não renova PA.** A redução antiga de PA por NE 4 foi retirada com a revisão de exaustão de 18/11; exaustão agora aplica ônus ao total dos testes.
 
 Ações no turno e reações após ele usam o mesmo saldo até o início do próximo turno do personagem. Para reagir nesse intervalo, é preciso poupar PA. Preparar Ação reserva PA desse saldo e vale até o início do próximo turno; passar de uma rodada para outra não renova recursos nem encerra a preparação.
 
@@ -24,7 +24,7 @@ Depois disso, gastar 3 PA no turno deixa 1 para reagir até o próximo turno, me
 
 No início do próximo turno de um personagem Atordoado, renovar o orçamento normal e aplicar o desconto de até 2 PA, mínimo 0. A proibição de reagir termina nesse início. Com orçamento 4, age com 2. Não aplicar o antigo exemplo de NE 4, substituído em 18/11. Não há uma segunda renovação após o desconto.
 
-A rodada compreende a participação dos combatentes. A renovação normal não concede turnos extras. A escolha especial do último participante, descrita abaixo, permite continuar com PA dobrados no turno; não reinicia automaticamente a repetição de ataques.
+A rodada compreende a participação dos combatentes. A renovação normal não concede turnos extras. A escolha especial do último participante abre seu turno na rodada seguinte.
 
 | Ação básica | Custo |
 |---|---|
@@ -49,13 +49,7 @@ Quem passa a iniciativa pode escolher outro participante que ainda não agiu, in
 
 ### Último participante escolhendo a si mesmo
 
-O último a agir na rodada pode escolher a si mesmo para continuar agindo. Jogadores e inimigos podem fazer isso. Nesse caso, **dobra a quantidade de PA do turno**: orçamento normal 4 passa a 8; NPC usa seu próprio orçamento como referência. Isso não concede dois turnos completos independentes nem autoriza duplicar todos os gatilhos de turno.
-
-Uma ação que só pode terminar ou ser conjurada no **próximo turno** não fica pronta apenas por essa continuação com mais PA. Por isso, passar a outra pessoa pode ser preferível quando há uma preparação que precisa desse intervalo. Ações poderosas de NPCs podem exigir preparação e dar oportunidade de resposta aos jogadores.
-
-Um feitiço estendido poderá aproveitar mais PA ou concentração de ações se sua futura habilidade permitir; esta regra não cria custo, dano, duração nem escalonamento universal de magia.
-
-**Pontos operacionais ainda a fechar:** marcação do turno na rodada seguinte ao escolher a si mesmo; possibilidade/limite de repetir essa escolha em transições sucessivas; momento da declaração e contabilização de PA já gastos; interação da duplicação com Atordoado, manutenção e limites por rodada. Registrar essas lacunas sem converter o texto em renovação adicional automática ou em uma segunda ativação de efeitos de início/fim de turno.
+Ao **encerrar seu turno** como último participante a agir na rodada, um jogador ou NPC pode passar a iniciativa para si mesmo e agir primeiro **na rodada seguinte**. O primeiro turno termina normalmente. O segundo tem renovação normal de PA, contagens de repetição próprias e os gatilhos usuais de fim e início de turno. Marque-o como participação do personagem na rodada nova.
 
 ## Preparação e apoio
 

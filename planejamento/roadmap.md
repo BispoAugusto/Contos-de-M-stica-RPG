@@ -1,5 +1,7 @@
 # Roadmap — 2026-10-19
 
+> **20/11/2026:** a revisão de [exaustão](../regras/recuperacao/exaustao.md), [Morrendo](../regras/recuperacao/morte-e-recuperacao.md), [iniciativa](../regras/combate/turnos-e-iniciativa.md), [apoio](../regras/combate/acoes-taticas.md) e [armaduras](../regras/equipamentos/armaduras-e-escudos.md) prevalece nos pontos substituídos. Desenvolver habilidades antes dos inimigos e da região.
+
 ## Reservas e sobrevivência — 2026-11-18
 
 - [x] Registrar reservas como recursos de habilidades/desgaste, retirar rerrolagem universal e substituir morte/PE/NE.

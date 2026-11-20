@@ -2,7 +2,7 @@
 
 [Índice de regras](../README.md) · [Categoria](README.md) · [Reservas](../fundamentos/alma.md)
 
-**Estrutura confirmada em 18/11/2026; limite, penalidades e recuperação ainda pendentes.** Exaustão é uma única trilha de desgaste. A conversão antiga de 5 PE em 1 NE e sua tabela cumulativa foram substituídas. Não aplicar automaticamente perda de movimento, redução de PA ou morte no quinto nível.
+**Trilha, penalidades e recuperação confirmadas em 20/11/2026.** Exaustão é uma única trilha de desgaste. A conversão antiga de 5 PE em 1 NE e sua tabela cumulativa foram substituídas. Não aplicar automaticamente perda de movimento, redução de PA ou morte no quinto nível.
 
 ## Fontes de exaustão
 
@@ -14,29 +14,26 @@ As causas físicas, mentais ou espirituais orientam a narrativa e possíveis tra
 
 ## Limite e esforço voluntário
 
-**Confirmado:** alcançar exatamente o máximo não mata e ainda não provoca o teste de excesso. O teste acontece ao receber mais exaustão **já estando no máximo**. Esta versão não estabelece colapso/incapacidade automática só por alcançar esse valor; os efeitos da trilha ainda precisam ser fechados.
+A trilha tem **seis níveis**, com um nível por ponto. Ao atingir **6**, o personagem sofre um colapso, como uma falência física ou outra consequência coerente com a fonte. Entra em Morrendo e faz imediatamente o teste de Vigor para evitar a morte. A DT é **10 se for sua primeira entrada em Morrendo na cena**. Nas seguintes, use 10 mais o dano excedente já acumulado na cena. Se já estiver Morrendo, o colapso não cria uma segunda entrada na condição. Use 0 PV se o colapso derrubar alguém com PV positivos e preserve PV negativos já anotados.
 
-Esforço voluntário comum só pode terminar abaixo do máximo. Perdas involuntárias podem alcançar ou ultrapassar o limite. Cenas especiais de sacrifício seguem a exceção descrita em [reservas](../fundamentos/alma.md#reserva-esgotada-e-esforço-voluntário).
+Esforço voluntário comum só pode terminar abaixo de 6. Perdas involuntárias podem levar ao colapso ou exceder o limite. Cenas especiais de sacrifício seguem a exceção em [reservas](../fundamentos/alma.md#reserva-esgotada-e-esforço-voluntário).
 
 ## Teste por excesso de exaustão
 
-Ao receber um ponto adicional estando no máximo, role **apenas 1d20**, contra **DT inicial 5**. Não é um teste de Vigor nem de atributo: não recebe os dados dos atributos nem o bônus comum de proficiência.
+Para cada ponto recebido quando já estiver no nível 6, role **1d20**, com **DT inicial 5**, sem dados de atributo, bônus comum de proficiência ou a penalidade da trilha. Bônus de habilidade expressamente aplicáveis são permitidos.
 
-- **Sucesso:** mantém o personagem; a exaustão continua no máximo. A próxima tentativa tem DT 5 maior.
-- **Falha:** perda do personagem. A forma dessa perda deve respeitar a causa e a cena; não há tabela de desfechos implementada nesta etapa.
-- A sequência é **5, 10, 15, 20, 25…**, aumentando por novo teste, não por cena nem por ponto que ainda cabia na trilha.
-- Cada ponto excedente provoca sua verificação; não ignorar pontos excedentes de uma única fonte. Interromper a sequência se ocorrer perda do personagem.
-- Habilidades específicas poderão conceder bônus neste teste. Não aplicar benefícios comuns por analogia, nem permitir a antiga rerrolagem universal.
-
-**Pendentes:** quando reinicia a sequência de DTs; tratamento de 1/20 naturais e de DTs acima de 20; efeitos excepcionais que alterem o dado; relação entre as penalidades da trilha e esta rolagem especial. Não presumir que recuperar apenas 1 ponto reinicia a DT em 5.
+- **Sucesso:** permanece no nível 6 e mantém o estado em que estava. O sucesso não causa penalidade adicional.
+- **Falha:** perde o personagem. O desfecho decorre da causa do excesso.
+- A DT aumenta em **5** a cada novo teste na mesma cena. Ao terminar a cena, volta a **5**. Se receber vários pontos excedentes de uma vez, resolva um de cada vez, interrompendo se perder o personagem.
+- Ainda falta definir se os naturais 1/20 têm efeitos especiais nesta rolagem e como tratar DTs acima de 20.
 
 ## Penalidades e recuperação
 
-**Pendente de decisão:** máximo da trilha, penalidades em cada ponto, recuperação em descansos e possibilidade de personagens ampliarem o limite. A proposta de −1 nos testes por ponto e o exemplo de máximo 6 continuam hipóteses, não números confirmados.
+Cada ponto de exaustão aplica **−1 a todos os testes do personagem**, salvo exceção expressa no próprio teste. A penalidade também vale para Vigor contra a morte.
 
-O curto não remove automaticamente os antigos 2 PE e o longo não aplica “todos os PE + 1 NE” à nova escala. A recuperação de PV e das reservas preservada em [descansos](descansos.md) não implica recuperação integral de exaustão.
+Um descanso curto adequado remove **1 ponto**, **uma vez por período**. Um descanso longo adequado remove **3 pontos**. A recuperação de exaustão é separada da recuperação das reservas. [Descansos](descansos.md).
 
-Privação impede considerar adequado um descanso que exija alimento, hidratação e sono. Namarés precisam beber e molhar o corpo; falta de umidade integra sede, sem cobrança duplicada. Quanto cada privação retira das reservas ou acrescenta de exaustão está pendente de conversão.
+Privação impede considerar adequado um descanso que exija alimento, hidratação e sono. Namarés precisam beber e molhar o corpo. A falta de umidade integra sede. Quanto cada privação retira das reservas ou acrescenta de exaustão está pendente de conversão.
 
 ## Traumas
 
