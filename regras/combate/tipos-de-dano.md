@@ -1,39 +1,25 @@
 # Tipos de dano e aplicação de RD
 
-**Atualizado pelo criador — 2026-11-04.** Físicos: Cortante, Perfurante e Contundente. Demais: Fogo, Frio, Eletricidade, Ácido, Veneno, Profano e Radiante.
+**Tipos preservados; efeitos automáticos retirados em 18/11/2026.** Físicos: Cortante, Perfurante e Contundente. Demais: Fogo, Frio, Eletricidade, Ácido, Veneno, Profano e Radiante.
 
 RD física cobre os três físicos; RD específica cobre o tipo descrito; RD geral cobre os dez. Armaduras convencionais têm RD física uniforme 1/3/5. RD de Veneno não concede imunidade à condição Envenenado.
 
 ## Propriedades dos tipos físicos
 
-O gatilho é acertar ao menos um golpe **Pesado** (Defesa +5), incluindo **Brutal** (Defesa +10). Acerto padrão não ativa estas propriedades.
+**Revisão confirmada em 18/11/2026:** Cortante, Perfurante e Contundente não concedem efeitos automáticos por tipo. Sangramento, penetração e controle poderão aparecer em habilidades, melhorias, manobras e maestrias específicas. As propriedades próprias das armas continuam seguindo seus textos.
 
-| Tipo | Efeito |
-|---|---|
-| Cortante | Aplica Sangramento; teste de Vigor contra o total do ataque para evitar, conforme proposta anterior do criador |
-| Perfurante | Ignora RD aplicável a perfurante igual à metade do dano base da arma |
-| Contundente | Empurra o alvo ou retira 1 ponto de Equilíbrio |
-
-Perfurante arredonda a metade para cima, conforme regra geral: base 1→1, 2→1, 3→2, 4→2. Bônus de Pesado, Brutal, crítico ou outros adicionais não aumentam a base. Reduzir RD até 0; excesso não vira dano adicional. RD física também protege de perfurante e pode ser reduzida.
-
-Dano mínimo permanece 0. Duas adagas base combinada 2 em Pesado causam 3 antes da RD; penetração 1 contra RD física 5 deixa RD 4, portanto dano 0, se nenhuma abertura for explorada.
-
-**Interpretação operacional provisória:** para duas Ágeis ambas perfurantes, usar a base combinada da única instância. Dano misto e armas de tipos diferentes precisam de definição antes de repartir base ou aplicar várias propriedades.
-
-Sangramento precisa de dano, duração, frequência, acúmulo, remoção e aplicabilidade por criatura. Confirmar se exige dano após RD. O efeito de 1 de dano por um turno sugerido pelo assistente não foi aprovado.
-
-Contundente aplica um dos efeitos. Retirar Equilíbrio reduz em 1, mínimo 0. **Pendentes:** quem escolhe, distância/restrições do empurrão, resistência eventual e interação com proteção contra controle. Não conceder Equilíbrio a quem não o possui. Impacto permanece propriedade separada da arma.
+Sangramento depende de uma fonte que o aplique. Duração e tratamento seguem [condições](condicoes.md#sangramento--2026-11-04) e [morte e recuperação](../recuperacao/morte-e-recuperacao.md#medicina-fora-do-descanso); dano, frequência e acúmulo ainda precisam ser definidos. O tipo Veneno não concede teste genérico para cancelar um efeito: usar a fonte e meios plausíveis de tratamento.
 
 ## Ordem e dano misto
 
 1. Resolva acerto, reação e grau.
-2. Verifique se explorou abertura acessível; ignore a RD da fonte indicada.
-3. Em Pesado/Brutal perfurante, desconte penetração uma vez da RD compatível restante.
-4. Aplique a RD restante, mínimo 0, e resolva propriedades cabíveis.
+2. Pesado ou Brutal ignora a RD de armaduras convencionais. Verifique também se explorou abertura acessível de proteção especial. Preserve a RD de Bloquear, salvo efeito expresso como Exposto.
+3. Aplique modificadores de proteção expressamente concedidos por fontes específicas.
+4. Aplique a RD restante, mínimo 0, e resolva efeitos cabíveis; o tipo de dano não concede efeitos adicionais por si só.
 
 Armadura convencional e Escamas são alternativas por ocorrência. A escolhida pode combinar com resistência elemental e Bloquear compatível. Escamas preservam RD geral 1 e usos; resistência elemental dracônica preserva RD 2 no elemento escolhido.
 
-Dano misto não cria outra instância. RD específica reduz só seu componente; RD geral incide uma vez no restante. Agrupamento de vários componentes físicos sob RD física uniforme e ordem com penetração permanecem pendentes; não descontar automaticamente o valor da armadura repetidamente sem definir o procedimento.
+Dano misto não cria outra instância. RD específica reduz só seu componente; RD geral incide uma vez no restante. Agrupamento de vários componentes físicos sob RD física uniforme e ordem com efeitos específicos de penetração permanecem pendentes; não descontar automaticamente o valor da armadura repetidamente sem definir o procedimento.
 
 ## Exposto
 

@@ -1,5 +1,27 @@
 # Estado do projeto — 2026-11-17
 
+## 2026-11-20 — Sobrevivência e combate para o playtest
+
+O criador aprovou a atualização e o merge do PR #6. [Reservas](regras/fundamentos/alma.md) somam os três atributos-base da Parte e bônus de espécie. [Exaustão](regras/recuperacao/exaustao.md) aplica −1 por nível e causa colapso no sexto. Curto recupera 1 ponto uma vez por período e longo recupera 3 pontos.
+
+[Morrendo e socorro](regras/recuperacao/morte-e-recuperacao.md) usam limiar −PV máximos, Vigor base 10 mais dano excedente acumulado e Medicina inicial DT 10, com +5 após cada sucesso. O atendimento devolve 1 PV e trata Ferido. Mazelas adicionais tratáveis que derrubariam o alvo acrescentam 1 PA cada. A cena reinicia os acréscimos de DT.
+
+O último participante pode abrir a rodada seguinte em um novo turno com PA renovados. Pesados/Brutais ignoram RD de armadura convencional e preservam Bloquear. Ajuda em Toque e Atrapalhar usam resultados rolados na mesma conta. Manter agarrão custa 1 PA, arrastar usa movimento, fuga é oposta com desempate a favor de quem escapa e Imobilizar depende de fonte específica.
+
+A próxima etapa é desenvolver habilidades. Inimigos vêm depois das habilidades. Região e material de mesa ficam para uma etapa posterior. Traumas continuam adiados.
+
+## Reservas e sobrevivência — 2026-11-18
+
+**Estrutura confirmada; parâmetros incompletos explicitamente pendentes.** Corpo/Mente/Espírito pagam habilidades e suportam desgaste; falta de reserva gera exaustão. Esforço voluntário comum não pode alcançar o máximo, salvo cena especial motivada. Retirada a rerrolagem universal por Alma/PE.
+
+Morrendo começa a 0 PV, sem agir, mantendo negativos. Vigor abaixo do limiar negativo usa DT base 10: sucesso gera 1 exaustão sem curar; falha mata. O limiar e o aumento por dano precisam de calibração. Excesso de exaustão exige 1d20, DT 5 e +5 por novo teste; falha causa perda do personagem. Chegar exatamente ao máximo não mata.
+
+**Desenvolver traumas fica para depois, sem prioridade imediata.** Limite/penalidades/recuperação de exaustão, conversão das reservas, custos de habilidades e retomada de Morrendo também estão em [pendências](design/pendencias.md#reservas-exaustão-morrendo-e-traumas--2026-11-18). Não aplicar a tabela PE/NE antiga. Média + espécie e recuperação das reservas permanecem referência até revisão conjunta de custos/derivados; Até o Limite dos Homens Altos precisa de reformulação.
+
+[Reservas](regras/fundamentos/alma.md) · [Exaustão](regras/recuperacao/exaustao.md) · [Morrendo](regras/recuperacao/morte-e-recuperacao.md) · [Repasse](planejamento/repasse-reservas-exaustao-2026-11-18.md).
+
+As entradas datadas anteriores abaixo são históricas nos pontos substituídos. Esta revisão não afirma prontidão de balanceamento nem sessão realizada.
+
 ## Equipamentos vigentes — 2026-11-17
 
 [Equipamentos](regras/equipamentos/README.md) reúne armas, armaduras, escudo, itens gerais, três kits e seleção inicial. Kit básico + três escolhas; escudo sem proficiência; luz por períodos; mínimo individual 0,5 espaço. Valores e Lenta seguem **provisórios para playtest**.

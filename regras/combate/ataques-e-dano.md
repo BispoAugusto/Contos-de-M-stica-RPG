@@ -17,7 +17,7 @@ Todo ataque tem a tag **Agredir**, nome sistêmico desta ação. Um NPC pode ter
 ## Rolagem de ataque
 
 - **Confirmado em 2026-10-25:** ataque comum = **1d20 + proficiência do grupo de arma**. Não é teste de atributo; não aplica teto por Potência, Reflexo ou Foco nem graus pleno/extremo. Efeitos explícitos de habilidades e repetição continuam aplicáveis.
-- Aberturas usam o mesmo ataque, alcançando o limiar Pesado/Brutal da proteção. O ataque direcionado separado com Foco foi substituído em 04/11.
+- Pesado e Brutal ignoram a RD de armaduras convencionais e preservam a RD de Bloquear. Aberturas de proteções especiais usam o mesmo ataque, alcançando o limiar da proteção. O ataque direcionado separado com Foco foi substituído em 04/11.
 - Manobra ofensiva independente não é ataque. As que exigem/modificam ataque contam pelo ataque.
 
 ## Repetição no próprio turno
@@ -62,4 +62,4 @@ Golpe Devastador é uma **manobra aprendida**, exige Pesada e não é caracterí
 
 ## Propriedades físicas — 2026-11-04
 
-Pesado/Brutal ativa Cortante (Sangramento), Perfurante (ignora RD compatível igual à metade da base para cima) ou Contundente (empurra ou retira 1 Equilíbrio). Ver [tipos de dano](tipos-de-dano.md).
+**Substituído em 18/11/2026:** os tipos físicos não aplicam efeitos automáticos. Sangramento e outras interações exigem fonte específica; melhorias, manobras e maestrias serão desenvolvidas depois. Ver [tipos de dano](tipos-de-dano.md).

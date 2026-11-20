@@ -10,7 +10,7 @@ No primeiro teste, cada personagem consome **1 ração por dia** e precisa de á
 
 Conhecer uma fonte, contratar um guia ou estabelecer um depósito altera a expedição de modo concreto. Suprimentos não são consumidos uma vez por cada rolagem.
 
-Se faltar comida ou água, registre a privação e aplique os efeitos existentes quando disponíveis. Ela impede o descanso longo plenamente recuperador definido aqui. No descanso longo inadequado, cada requisito faltante gera 1 PE e impede recuperar PE, conforme [exaustão](../recuperacao/exaustao.md). Não cobrar a mesma privação outra vez por evento.
+Se faltar comida ou água, registre a privação e aplique os efeitos existentes quando disponíveis. Ela impede o descanso longo plenamente recuperador definido aqui. O custo de privação em reservas/exaustão está pendente de calibração na revisão de 18/11; não converter automaticamente o antigo 1 PE em um ponto da nova trilha. Consultar [exaustão](../recuperacao/exaustao.md). Não cobrar a mesma privação outra vez por evento.
 
 Inspiração: [Cairn 2e — Procedures](https://cairnrpg.com/second-edition/players-guide/procedures/). Valores e integrações acima são adaptações de CdM.
 

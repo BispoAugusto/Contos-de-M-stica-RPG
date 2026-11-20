@@ -1,27 +1,40 @@
 # Exaustão
 
-[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
+[Índice de regras](../README.md) · [Categoria](README.md) · [Reservas](../fundamentos/alma.md)
 
-**Estrutura confirmada; tabela de efeitos aprovada para playtest.**
+**Trilha, penalidades e recuperação confirmadas em 20/11/2026.** Exaustão é uma única trilha de desgaste. A conversão antiga de 5 PE em 1 NE e sua tabela cumulativa foram substituídas. Não aplicar automaticamente perda de movimento, redução de PA ou morte no quinto nível.
 
-5 PE (Pontos de Exaustão) geram 1 NE (Nível de Exaustão), zerando a barra de PE. Efeitos cumulativos. Com 5 NE, morte ou perda definitiva de controle conforme origem.
+## Fontes de exaustão
 
-Descanso curto adequado remove 2 PE, sujeito à penalidade de NE 1, sem consumir atividade. Descanso longo adequado remove todos os PE e 1 NE. Descansos comuns não curam Sequelas.
+- Perdas ou custos que as reservas de Corpo, Mente ou Espírito já não consigam cobrir; a conversão numérica ainda será definida.
+- Sucesso no teste de Vigor para evitar a morte: recebe **1 ponto de exaustão**, sem perder Corpo adicionalmente.
+- Efeitos e circunstâncias que determinem desgaste, como privação de alimento, água ou sono, eventos traumáticos e habilidades. Quantidades e frequência precisam estar descritas; uma falha comum não causa desgaste automaticamente.
 
-**Atualização confirmada de 2026-10-19:** sem alimentação, hidratação ou sono adequado, não reduz PE no descanso longo e recebe **1 PE por requisito faltante**, cumulativamente. Namarés precisam beber e molhar o corpo; sem banho/imersão/chuva suficiente, contam como com sede, sem outra penalidade duplicada de umidade. Ver [descansos](descansos.md).
+As causas físicas, mentais ou espirituais orientam a narrativa e possíveis traumas. Não criam três trilhas de exaustão. Fúria, conjurações e custos antigos em PE precisam de calibração; não transportar 1/2/3 PE como se tivessem o mesmo peso na nova escala.
 
-Com a reserva de Alma correspondente vazia, pode receber **1 PE para forçar um teste que falhou**, uma vez; não pode forçar ataques nem testes contra a morte. Isso já é regra aprovada, não hipótese futura. Ver [Alma](../fundamentos/alma.md).
+## Limite e esforço voluntário
 
-| NE | Efeito cumulativo |
-|---|---|
-| 1 | Recuperação de PE em descanso curto cai pela metade, arredondando para cima (2→1) |
-| 2 | 1 Desvantagem em testes, ataques e manobras, cumulativa com outras fontes conforme [atributos e testes](../fundamentos/testes.md) |
-| 3 | Movimento diminui uma faixa |
-| 4 | Renova para somente 3 PA no início do próprio turno, sem acumular sobras |
-| 5 | Morte ou perda definitiva de controle |
+A trilha tem **seis níveis**, com um nível por ponto. Ao atingir **6**, o personagem sofre um colapso, como uma falência física ou outra consequência coerente com a fonte. Entra em Morrendo e faz imediatamente o teste de Vigor para evitar a morte. A DT é **10 se for sua primeira entrada em Morrendo na cena**. Nas seguintes, use 10 mais o dano excedente já acumulado na cena. Se já estiver Morrendo, o colapso não cria uma segunda entrada na condição. Use 0 PV se o colapso derrubar alguém com PV positivos e preserve PV negativos já anotados.
 
-**Adequação de 16/11/2026:** NE 2 mantém uma Desvantagem, subtraindo 1 de Q pela regra de [testes](../fundamentos/testes.md#vantagens-e-desvantagens). Ela pode reduzir um conjunto que escolhe o maior ou levar à seleção do menor. Os demais efeitos e a progressão de Exaustão permanecem os mesmos.
+Esforço voluntário comum só pode terminar abaixo de 6. Perdas involuntárias podem levar ao colapso ou exceder o limite. Cenas especiais de sacrifício seguem a exceção em [reservas](../fundamentos/alma.md#reserva-esgotada-e-esforço-voluntário).
 
-PE podem vir de efeitos e desgaste explicitamente definidos. Pleno, extremo e crítico não geram PE automaticamente: essa consequência precisaria de regra própria. Forçar sem Alma e requisitos de descanso faltantes já têm custos definidos; outras fontes ainda dependem de desenvolvimento.
+## Teste por excesso de exaustão
 
-**Futuro, não implementado:** Fúria e outras habilidades geram PE; outros benefícios voluntários em troca de PE, além de forçar já aprovado; arcanista paga custo de magia não coberto por Mana em PE; efeitos variam por origem física, mental ou espiritual.
+Para cada ponto recebido quando já estiver no nível 6, role **1d20**, com **DT inicial 5**, sem dados de atributo, bônus comum de proficiência ou a penalidade da trilha. Bônus de habilidade expressamente aplicáveis são permitidos.
+
+- **Sucesso:** permanece no nível 6 e mantém o estado em que estava. O sucesso não causa penalidade adicional.
+- **Falha:** perde o personagem. O desfecho decorre da causa do excesso.
+- A DT aumenta em **5** a cada novo teste na mesma cena. Ao terminar a cena, volta a **5**. Se receber vários pontos excedentes de uma vez, resolva um de cada vez, interrompendo se perder o personagem.
+- Ainda falta definir se os naturais 1/20 têm efeitos especiais nesta rolagem e como tratar DTs acima de 20.
+
+## Penalidades e recuperação
+
+Cada ponto de exaustão aplica **−1 a todos os testes do personagem**, salvo exceção expressa no próprio teste. A penalidade também vale para Vigor contra a morte.
+
+Um descanso curto adequado remove **1 ponto**, **uma vez por período**. Um descanso longo adequado remove **3 pontos**. A recuperação de exaustão é separada da recuperação das reservas. [Descansos](descansos.md).
+
+Privação impede considerar adequado um descanso que exija alimento, hidratação e sono. Namarés precisam beber e molhar o corpo. A falta de umidade integra sede. Quanto cada privação retira das reservas ou acrescenta de exaustão está pendente de conversão.
+
+## Traumas
+
+**Desenvolvimento adiado pelo criador.** Traumas físicos e mentais devem ter consequências narráveis e simples. Não aplicar uma lista improvisada de penalidades, trauma automático por zerar reserva ou uma sequência definitiva de leve/profundo como regra aprovada. Gatilhos já indicados e propostas a revisar estão em [morte e recuperação](morte-e-recuperacao.md#sequelas-e-pendências) e [pendências](../../design/pendencias.md#reservas-exaustão-morrendo-e-traumas--2026-11-18).

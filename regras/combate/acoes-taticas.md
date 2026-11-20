@@ -12,7 +12,7 @@ A reserva vale até o início do próximo turno próprio, antes da renovação. 
 
 ## Ajudar
 
-No próprio turno, **fique adjacente ao aliado**, declare como vai ajudá-lo e **reserve 1 PA para cada dado de ajuda**. Cada contribuição deve ser possível e requer pelo menos nível 1 numa perícia relevante. A proximidade não pressupõe grid: é estar ao lado, em alcance de contato. A futura característica de Bardo poderá permitir ajuda à distância; não é permissão universal atual.
+No próprio turno, **fique a alcance de Toque do aliado**, declare como vai ajudá-lo e **reserve 1 PA para cada dado de ajuda**. Cada contribuição deve ser possível e requer pelo menos nível 1 numa perícia relevante. A proximidade não pressupõe grid: é estar ao lado, em alcance de contato. A futura característica de Bardo poderá permitir ajuda à distância; não é permissão universal atual.
 
 | Ordem das ajudas oferecidas pelo mesmo personagem no turno | Dado reservado |
 |---|---|
@@ -26,19 +26,19 @@ Quando o aliado for realizar uma ação com teste compatível, **antes de rolar*
 
 - **Um dado do mesmo ajudante por teste do aliado.** Se reservou três dados para esse aliado, pode beneficiar até três testes distintos; não soma seus três dados numa única rolagem.
 - **Ajudantes diferentes podem contribuir no mesmo teste:** somam-se seus dados, um por ajudante, cada qual com seu PA e contribuição válida. Não há limite universal de um dado total.
-- Um dado consumido não volta a ficar disponível após o teste. Forçar mantém o valor desse dado, sem reutilizá-lo em outro teste.
+- Um dado consumido não volta a ficar disponível após o teste. A retirada de Forçar como rerrolagem universal não devolve nem reutiliza dados de ajuda.
 - Reservar ajuda não concede PA nem pode usar PA já gasto ou comprometido com outra reserva.
 - Exemplo: Lia reserva d8 e d6 para Rui; Bia reserva d8 para Rui. No primeiro teste de Rui, Lia pode contribuir d8 e Bia d8 (total de ajuda 2d8). O d6 de Lia fica para outro teste compatível, dentro da validade da reserva.
 
-**Pendências operacionais:** a decisão exige adjacência ao declarar; não definiu se deve persistir até o consumo. Exigir que a contribuição continue possível, sem criar uma regra geral de alcance posterior. Também falta definir reordenação dos dados, transferência de alvo e se cancelar uma reserva devolve sua posição na sequência; não tratar cancelamento como recarga automática de d8. Registrar a arbitragem até decisão específica.
+**Pendências operacionais:** a decisão exige Toque ao declarar; não definiu se deve persistir até o consumo. Exigir que a contribuição continue possível, sem criar uma regra geral de alcance posterior. Também falta definir reordenação dos dados, transferência de alvo e se cancelar uma reserva devolve sua posição na sequência; não tratar cancelamento como recarga automática de d8. Registrar a arbitragem até decisão específica.
 
 Fora de combate, ajuda exige participação e tempo; num trabalho isolado sem sequência tática, usar d8 por ajudante e teste. Em cena cronometrada com ajudas sucessivas, estabelecer previamente a janela da sequência. Não usar múltiplas descrições da mesma contribuição para duplicar dados.
 
 ## Atrapalhar
 
-Conforme a revisão de 29/10, normalmente custa **1 PA** e aplica **−1d4**; contribuições justificadas podem acumular. Uma Ajuda pode negar um Atrapalhar e vice-versa. Fora do turno, respeitar Preparar Ação.
+Custa normalmente **1 PA** e aplica **−1d4**, salvo dado diferente concedido por uma fonte específica. Contribuições justificadas podem acumular. Fora do turno, respeite Preparar Ação.
 
-**Pendente de integração com 16/11:** como a negação de um dado d8/d6/d4 afeta seu consumo, PA reservado e contribuições simultâneas. Não converter automaticamente Atrapalhar para a sequência nova de ajuda nem permitir que uma única intervenção apague todas as ajudas de aliados diferentes. Simular os casos sem disputa até fechar o procedimento.
+Quando houver Ajuda e Atrapalhar no mesmo teste, role os dados de ambos. **Some os resultados de Ajuda e subtraia os de Atrapalhar.** Cada intervenção usa seu próprio PA. Por exemplo, com Ajuda d4 tirando 3 e Atrapalhar d8 tirando 6, o total do teste recebe −3.
 
 ## Outras ações universais
 

@@ -18,13 +18,13 @@ DTs: 5 muito fácil; 10 fácil; 15 moderada; 20 difícil; 25 muito difícil; 30 
 
 Em opostos, empate favorece iniciador. Sem iniciador, maior máximo da Parte de Alma usada, depois nova rolagem dos empatados. Conflitos entre naturais e totais ainda exigem arbitragem anunciada; consultar [testes](../regras/fundamentos/testes.md#naturais-e-testes-opostos).
 
-**Forçar:** só após falhar e antes das consequências; 1 Alma correspondente, ou 1 PE se a reserva estiver vazia. Uma vez por teste; rerrole todos os d20, mantenha modificadores e os valores de ajuda já rolados, aceite o novo resultado. Não vale para ataques nem Resistir à morte. Até o Limite dos Homens Altos preserva seu +2 ao Forçar por PE.
+**Reservas — 18/11:** Corpo/Mente/Espírito pagam habilidades e podem sofrer perdas por efeitos. O que faltar gera exaustão; taxa pendente. Esforço voluntário comum deve terminar abaixo do máximo, salvo cena especial com motivo forte e risco conhecido. A rerrolagem universal por Alma/PE foi retirada; Até o Limite exige reformulação. [Reservas](../regras/fundamentos/alma.md).
 
 ## Combate
 
-4 PA iniciais; renovam no início do próprio turno, sem acumular. Reações anteriores ao primeiro turno usam a reserva inicial. Depois, poupe PA para reagir até seu próximo turno. NE 4 reduz a renovação para 3; Atordoado desconta até 2 após renovar. Ataque, movimento Médio e interação simples custam normalmente 1 PA. NPCs podem ter custos próprios.
+4 PA iniciais; renovam no início do próprio turno, sem acumular. Reações anteriores ao primeiro turno usam a reserva inicial. Depois, poupe PA para reagir até seu próximo turno. Atordoado desconta até 2 após renovar. A redução antiga de PA por NE 4 não se aplica à nova trilha. Ataque, movimento Médio e interação simples custam normalmente 1 PA. NPCs podem ter custos próprios.
 
-Rodada representa simultaneidade; ao concluir, escolha aliado ou inimigo ainda sem agir. Último participante pode escolher a si mesmo e dobrar os PA do mesmo turno: não são dois turnos nem reinício de contadores. Contabilidade entre rodadas ainda tem pendências.
+Rodada representa simultaneidade; ao concluir, escolha aliado ou inimigo ainda sem agir. O último participante pode passar para si mesmo e abrir a próxima rodada com PA renovados e contagens próprias.
 
 Repetir a mesma ação com teste no próprio turno: segunda execução sofre 1 desvantagem, terceira 2 etc. Cada ação tem contador; todos os ataques compartilham Agredir. Fora do turno não conta nem penaliza. Ágil ignora a primeira penalidade de repetição, com uma ou duas armas; combinações mistas têm detalhes pendentes. Ajudar usa sua redução própria de dado.
 
@@ -34,27 +34,31 @@ Dano = base +1 em pesado (Defesa +5) **ou** +2 em brutal (Defesa +10), +2 por 20
 
 Defesa passiva = **8 + bônus de Vigor**, +1 com escudo empunhado, sem proficiência. Esquivar: declarar antes do resultado, 1 PA, **dados de Reflexo + Vigor**, total estritamente maior que ataque. Sem proteção: 1 vantagem; média/pesada: 1 desvantagem. Se falhar, ataque conserva seu grau contra Defesa passiva. Interação de naturais com comparação estrita permanece pendente.
 
-Bloquear: declarar antes do resultado, 1 PA; escudo básico dá RD física 2 sem exigir treino nem rolagem, contra aquele ataque; o PA é gasto mesmo se ele errar. Uma reação defensiva por ocorrência. Armadura passiva acompanha: leve/média/pesada RD física 1/3/5 e peso 2/4/6. Penalidades sem treino e sobrecarga estão em [equipamentos](../regras/equipamentos/armaduras-e-escudos.md).
+Bloquear: declarar antes do resultado, 1 PA; escudo básico dá RD física 2 sem exigir treino nem rolagem, contra aquele ataque; o PA é gasto mesmo se ele errar. Uma reação defensiva por ocorrência. Armadura passiva acompanha: leve/média/pesada RD física 1/3/5 e peso 2/4/6. Pesado e Brutal ignoram a RD de armadura padrão e preservam Bloquear. Penalidades sem treino e sobrecarga estão em [equipamentos](../regras/equipamentos/armaduras-e-escudos.md).
 
-Tipos físicos: Contundente/Perfurante/Cortante. RD por tipo compatível; específica por componente, geral uma vez sobre o restante. Propriedades de Pesado/Brutal em [tipos de dano](../regras/combate/tipos-de-dano.md).
+Tipos físicos: Contundente/Perfurante/Cortante. RD por tipo compatível; específica por componente, geral uma vez sobre o restante. Tipos não concedem efeitos automáticos; consultar [tipos de dano](../regras/combate/tipos-de-dano.md).
 
 ## Descanso e risco
 
-Curto adequado, 1h: **recupera automaticamente metade do máximo de cada reserva de Alma, para cima**, a cada descanso válido. Não há limite de uma recuperação entre longos. Pausa contínua não vira várias recuperações por divisão do relógio. Mantém duas atividades diferentes para outras finalidades. Reduz 2 PE (1 com NE 1).
+Curto adequado, 1h: **recupera automaticamente metade do máximo de cada reserva de Alma, para cima**, a cada descanso válido. Não há limite de uma recuperação entre longos. Pausa contínua não vira várias recuperações por divisão do relógio. Mantém duas atividades diferentes para outras finalidades. Recupera 1 exaustão, uma vez por período.
 
 Tratar feridas ocupa uma atividade de quem trata: em si, 2 + Resiliência PV; em outro, 2 + bônus de Medicina PV. Remove Ferido; um tratamento por paciente por curto. Exceções raciais em [descansos](../regras/recuperacao/descansos.md).
 
-Longo adequado, 8h: todos PV/Alma, remove Ferido e PE, reduz 1 NE, não remove Sequelas. No sandbox, benefícios uma vez por 24h. Falta de comida/água/sono impede reduzir PE e gera 1 PE por requisito faltante. 5 PE viram 1 NE; 5 NE causam colapso definitivo.
+Longo adequado, 8h: todos PV/reservas, remove Ferido e recupera 3 exaustões. No sandbox, benefícios uma vez por 24h. Privação impede descanso adequado; custos de desgaste por privação ainda precisam de calibração. Traumas não têm tratamento definido. Não usar a conversão antiga PE/NE.
 
-A 0 PV ou menos: **Resistir**, aceitar a queda ou última ação. Resistir usa dados do atributo apropriado (Resiliência sugerida) + Vigor; DT 10, +5 por nova tentativa, reinicia no descanso longo. Sucesso retorna a 1 PV; falha mata; 1 falha e 20 sucede, sem Forçar. Atingir o negativo do PV máximo mata antes dessa escolha. Queda mantém PV e gera Sequela; detalhes médicos/última ação continuam pendentes. Gnomos têm exceção para dois corpos. [Regra completa](../regras/recuperacao/morte-e-recuperacao.md).
+A 0 PV ou menos, entra em **Morrendo**, não age e mantém PV negativos. Dano abaixo de −PV máximos exige Vigor DT 10 mais o dano excedente acumulado na cena. Sucesso mantém vivo e gera 1 exaustão. Falha mata. Socorro custa 1 PA, mais 1 por mazela tratada que voltaria a derrubar o alvo. Teste Medicina DT 10. Sucesso remove Morrendo e Ferido, trata as mazelas incluídas e deixa 1 PV. A DT de socorro aumenta 5 após cada sucesso e reinicia ao fim da cena. [Morrendo](../regras/recuperacao/morte-e-recuperacao.md).
+
+**Exaustão:** −1 por ponto em todos os testes, salvo exceção. No nível 6, colapsa, entra em Morrendo e testa Vigor. Cada ponto depois do sexto exige 1d20 especial, imune ao ônus da trilha, com DT 5 e +5 por nova rolagem na cena. Falha causa perda do personagem. [Exaustão](../regras/recuperacao/exaustao.md).
+
+**Ferido/Sangramento:** primeira cura normal remove Ferido, sem PV nem fim do Sangramento; outra cura pode restaurar PV e encerrar Sangramento. Medicina DT 15 trata Sangramento diretamente. Não concede despertar automático nem cura de trauma.
 
 ## Preparação, apoio e Aberturas
 
 Preparar reserva 1 PA no próprio turno para ação de 1 PA sob gatilho, até o início do próximo turno; gastar só ao executar. Usar esse PA de outro modo cancela a reserva.
 
-**Ajudar:** no próprio turno, adjacente ao aliado e com treino relevante, reserve 1 PA por dado. Sequência pessoal d8 → d6 → d4 → d4… Antes de um teste compatível do aliado, consuma a reserva e some o dado. **Um dado por ajudante por teste**; ajudantes diferentes podem somar. Dois dados do mesmo ajudante servem a testes distintos. Não cobra nova preparação nem outro PA ao executar. Alcance após declaração e cancelamentos têm detalhes pendentes.
+**Ajudar:** no próprio turno, a alcance de Toque do aliado e com treino relevante, reserve 1 PA por dado. Sequência pessoal d8 → d6 → d4 → d4… Antes de um teste compatível do aliado, consuma a reserva e some o dado. **Um dado por ajudante por teste**; ajudantes diferentes podem somar. Dois dados do mesmo ajudante servem a testes distintos. Não cobra nova preparação nem outro PA ao executar. Alcance após declaração e cancelamentos têm detalhes pendentes.
 
-Atrapalhar preserva 1 PA/−1d4 e negação de uma Ajuda; interação exata com novos dados/reservas está pendente. [Ações táticas](../regras/combate/acoes-taticas.md).
+Atrapalhar custa normalmente 1 PA e subtrai 1d4. Role ambos quando houver Ajuda e Atrapalhar, somando a ajuda e subtraindo o atrapalhamento. [Ações táticas](../regras/combate/acoes-taticas.md).
 
 Analisar (1 PA) revela sinais da preparação e inclui pergunta com teste contra Defesa base, salvo ficha. Evidências claras não exigem teste; não passa iniciativa. Aberturas acessíveis permitem ignorar a RD da fonte indicada em Pesado/Brutal. Exposto ignora toda RD contra ataques. Equilíbrio é a antiga Postura; Posturas serão estilos futuros.
 

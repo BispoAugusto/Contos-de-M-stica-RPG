@@ -12,7 +12,7 @@ Exemplo: máximos 4/3/2 recuperam até 2/2/1 pontos atuais. Não é metade dos p
 
 Cada personagem mantém **duas atividades diferentes** durante o descanso. Não se escolhe Recuperar Corpo/Mente/Espírito como atividade básica. Tratar feridas e atividades específicas de características continuam disponíveis; pesquisa, preparo e outros trabalhos devem caber na hora e respeitar seus próprios requisitos, sem conceder benefícios numéricos ou uma atividade de vigília inteira gratuitamente. [Atividades](../exploracao/atividades.md).
 
-PE também se recuperam automaticamente: **2 PE**, ou **1 PE com NE 1**, sem ocupar atividade. Descanso precisa ser adequado. [Exaustão](exaustao.md).
+Um curto adequado remove **1 ponto de exaustão**, no máximo **uma vez por período**. A recuperação automática das reservas em cada curto válido segue a regra acima. [Exaustão](exaustao.md).
 
 ## Tratar feridas
 
@@ -24,9 +24,9 @@ A atividade é de quem trata; o paciente ainda tem suas próprias atividades. Ca
 
 Dura **8 horas**, com sono ou equivalente, alimento, água e abrigo adequado. Acampamento preparado pode ser adequado; cidade não é requisito universal. Para o módulo sandbox, concede benefícios **uma vez por 24 horas**. Guardas leves compartilhadas podem coexistir com sono suficiente; perigo relevante pode interromper a conclusão, mas uma interrupção trivial não apaga automaticamente a noite.
 
-Recupera **todos os PV, todas as reservas de Alma e remove Ferido**, provisoriamente para playtest. Remove todos os PE e 1 NE; não remove Sequelas. Restaura usos que expressamente dependem do descanso longo.
+Recupera **todos os PV, todas as reservas de Alma e remove Ferido**, provisoriamente para playtest. Também remove **3 pontos de exaustão**. O tratamento de traumas fica para desenvolvimento posterior. Restaura usos que expressamente dependem do descanso longo.
 
-Sem alimento, hidratação ou sono adequado, não remove PE e recebe **1 PE por requisito faltante**, sem duplicar a mesma privação. O repouso inadequado não cumpre os requisitos do descanso longo recuperador; não presumir percentuais parciais de PV/Alma. Detalhes de recuperação parcial permanecem pendentes.
+Sem alimento, hidratação ou sono adequado, não cumpre os requisitos de recuperação. O custo de cada privação em reservas/exaustão precisa de calibração na escala nova, sem duplicar a mesma privação. O repouso inadequado não cumpre os requisitos do descanso longo recuperador; não presumir percentuais parciais de PV/Alma. Detalhes de recuperação parcial permanecem pendentes.
 
 ## Exceções de espécies
 

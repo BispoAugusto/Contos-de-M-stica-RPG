@@ -6,7 +6,7 @@
 
 **Provisório para playtest — aprovado pelo criador em 2026-10-12.** Caído, Agarrado, Imobilizado e Atordoado, seus procedimentos abaixo e a interação com Equilíbrio podem ser revistos após discussão e testes. A aprovação permite usar esta versão; não a torna definitiva.
 
-**Confirmado:** salvo exceções explícitas, como Regeneração dos Namarés, Ferido bloqueia cura ao chegar à metade dos PV; tratamento remove; cura de personagem caído a 0 PV ou menos retorna 1 PV e remove Ferido. Inconsciente é estado possível após Aceitar a Queda. Ver [morte e recuperação](../recuperacao/morte-e-recuperacao.md).
+**Atualização de 18/11/2026:** a 0 PV ou menos, entra em Morrendo, não age e mantém PV negativos. Resistir não restaura 1 PV. A primeira cura normal remove Ferido sem recuperar PV nem encerrar Sangramento; outra cura pode fazê-lo. Procedimento médico e retorno de Morrendo seguem [morte e recuperação](../recuperacao/morte-e-recuperacao.md), com as pendências ali identificadas.
 
 A condição **Caído** significa estar no chão; não significa, por si só, estar inconsciente ou a 0 PV.
 
@@ -28,17 +28,17 @@ A condição **Caído** significa estar no chão; não significa, por si só, es
 
 ### Agarrado e Imobilizado
 
-Agarrado controla posição; Imobilizado também prejudica ataques e facilita acertos contra o alvo, mas não aplica a condição Exposto automaticamente. Agarrar não aplica automaticamente Imobilizado.
+Ao começar seu turno, quem agarra decide se continua segurando o alvo. Se continuar, gasta **1 PA**, sem teste. Se soltar, encerra Agarrado. Enquanto o mantém agarrado, pode arrastá-lo consigo ao gastar movimento, desde que o caminho comporte ambos.
 
-Para **imobilização feita por agarrão**, a recuperação é em etapas: gastar 1 PA remove Imobilizado, mas mantém Agarrado; escapar completamente exige outra ação de 1 PA e teste. Essa saída não é universal para correntes, teias, raízes ou outros efeitos.
+Para escapar, gaste **1 PA** e faça um teste oposto contra o agarrador. Quem tenta se soltar vence em empate. A diferença de porte pode conceder vantagem ou desvantagem. **Provisório para playtest:** quando o porte importar, o menor recebe uma Desvantagem por categoria de diferença nesse teste, em lugar do ônus da tabela geral de porte. A aplicação inicial do agarrão ainda precisa de custo e teste definidos.
 
-O teste exato de fuga, a manobra para imobilizar, os custos de aplicação e manutenção e o procedimento para arrastar ainda precisam ser definidos. Não deduzir esses números do custo de saída.
+**Imobilizar não é manobra básica.** Agarrar por si só não aplica Imobilizado. A fonte que concede Imobilizado define como sair. Para imobilização especificamente produzida por agarrão, gastar 1 PA remove Imobilizado e mantém Agarrado. Escapar por completo exige a tentativa de fuga separada.
 
 ### Atordoado
 
 **Adaptação à renovação por turno — 2026-10-26:** no início do próximo turno, renove os PA para o valor vigente e subtraia 2, mínimo 0. Não há perda imediata ao receber a condição. A proibição de reações termina nesse início; a condição termina após o desconto, sem outra renovação de PA.
 
-Exemplos: orçamento normal 4 resulta em 2 PA para agir; com NE 4, orçamento 3 resulta em 1 PA. Sobras ou gastos anteriores não mudam esses valores, pois a renovação ocorre antes do desconto. Não cria dívida de PA.
+Exemplo: orçamento normal 4 resulta em 2 PA para agir. O exemplo antigo de NE 4 foi retirado com a revisão de exaustão de 18/11. Sobras ou gastos anteriores não mudam esses valores, pois a renovação ocorre antes do desconto. Não cria dívida de PA.
 
 ### Acúmulo e Equilíbrio
 
@@ -75,4 +75,4 @@ Registrar fonte, gatilho, custo/teste quando houver, duração e condição de t
 
 ## Sangramento — 2026-11-04
 
-Cortante em Pesado/Brutal aplica Sangramento; Vigor contra o total do ataque pode evitá-lo conforme proposta do criador. Dano, duração, acúmulo, remoção e necessidade de dano após RD estão pendentes. Ver [tipos de dano](tipos-de-dano.md).
+**Revisão confirmada em 18/11:** Sangramento pode vir de fontes específicas; não é efeito automático do tipo Cortante. Não tem duração fixa nem teste periódico genérico para terminar: persiste até morrer, receber cura que o encerre ou tratamento de Medicina DT 15. Se estiver Ferido, a primeira cura normal remove apenas Ferido; é necessária outra cura ou Medicina para encerrar o Sangramento. Valor do dano, momento de aplicação, acúmulo e requisitos das fontes continuam pendentes. Venenos e efeitos semelhantes também não ganham um teste genérico de cancelamento: uma tentativa exige meio ou justificativa apropriada. Ver [morte e recuperação](../recuperacao/morte-e-recuperacao.md#medicina-fora-do-descanso).

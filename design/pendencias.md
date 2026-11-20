@@ -1,5 +1,32 @@
 # Pendências — estado de 2026-10-25
 
+## Reservas, exaustão, Morrendo e traumas — 2026-11-18
+
+**Confirmado nesta etapa:** partes como recursos de habilidades/desgaste; falta de reserva gera exaustão; esforço voluntário comum não pode atingir o máximo, salvo cena excepcional motivada; Morrendo a 0 PV, sem agir, mantendo negativos; Vigor após dano abaixo de um limiar, DT base 10, sucesso gera 1 exaustão e falha mata; excesso de exaustão usa 1d20, DT 5 e +5 por novo teste, com perda do personagem na falha. [Decisão e alcance](decisoes.md#2026-11-18--reservas-exaustão-e-morrendo).
+
+### Desenvolver traumas depois
+
+**Pedido expresso do criador: adiar; não é prioridade agora.**
+
+- [ ] Definir traumas físicos e mentais narráveis, com alcance claro e pouca consulta; consequências devem permitir adaptações e histórias no sandbox.
+- [ ] Fechar gatilhos e gravidades: crítico/brutal enquanto Morrendo e acidentes graves já foram indicados; trauma por excesso de exaustão e agravamento leve → profundo são propostas a revisar.
+- [ ] Definir frequência, combinação, duração, tratamento e recuperação. Não importar a antiga Sequela automática ao cair, nem “incurável no playtest” como regra universal nova.
+- [ ] Decidir relação com exaustão, reservas e perda do personagem; não tornar zerar reserva um trauma automático.
+- [ ] Tramaturgias/traumas mágicos permanecem futuros, sem lista ou mecânica implementada.
+
+### Parâmetros para concluir o procedimento
+
+- [x] Soma de atributos por Parte, com bônus de espécie. Exaustão 6, −1 por ponto, colapso e recuperação de 1 no curto uma vez por período e 3 no longo.
+- [x] Limiar de Morrendo em −PV máximos, Vigor base 10 com +1 por ponto de dano excedente, socorro de Medicina DT 10 e reinício de DTs ao fim da cena.
+- [x] Novo turno na rodada seguinte, RD de armadura padrão em Pesado/Brutal, dados de ajuda/atrapalhar somados com seus sinais e manutenção, fuga e arrasto de agarrão.
+- [ ] Testar o efeito da soma das reservas sobre PV, porte de Gnomos e usos de traços que usam Corpo máximo. As fórmulas derivadas continuam sendo as vigentes até ajuste.
+- [ ] Fechar conversão de falta de reserva em exaustão, custos de conjurações/habilidades, Fúria, privação e reformular Até o Limite.
+- [ ] Fechar naturais e DT acima de 20 no teste especial de excesso. Cura de outras fontes com PV negativos segue aberta.
+- [ ] Definir custo/teste inicial de Agarrar, testar a desvantagem por categoria de porte na fuga e fechar detalhes de consumo de ajuda e naturais em opostos/Esquiva. Completar dano, momento e acúmulo de Sangramento se entrar no cenário.
+- [ ] Desenvolver habilidades primeiro. Depois, converter inimigos e preparar a região e os cenários de exploração.
+
+**Substituídos:** PE/NE e sua recuperação, Forçar como rerrolagem universal, morte automática no negativo máximo, Resistir para voltar a 1 PV e Sequela obrigatória ao aceitar cair. As listas antigas abaixo permanecem históricas nesses pontos; não reabrem regras retiradas.
+
 ## Equipamentos — 2026-11-17
 
 Incorporados: [catálogo](../regras/equipamentos/README.md), escudo sem proficiência, kit básico + três escolhas, ferramentas com efeitos/espaços, três kits e luz por períodos. As listas históricas abaixo não reabrem esses pontos.

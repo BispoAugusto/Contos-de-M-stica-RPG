@@ -1,5 +1,7 @@
 # Vida, Defesa e valores da ficha
 
+> **20/11/2026:** reservas usam a soma dos atributos-base e o bônus de espécie. A fórmula vigente de PV usa esse novo máximo de Corpo. Os derivados precisam ser observados no playtest.
+
 [Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
 
 ## Vida
@@ -16,4 +18,4 @@
 
 ## Recursos a acompanhar
 
-Registre PA atuais (orçamento normalmente 4, renovado no início do próprio turno, sem acumular sobras), PV atuais/máximos, Corpo/Mente/Espírito atuais/máximos, PE/NE, condições, RD passiva de armadura e usos dos traços/proteções que ainda os exigirem. Registre custo e recuperação junto dos usos. O [guia de criação](../../referencias/criacao-de-personagem.md) orienta o preenchimento.
+Registre PA atuais (orçamento normalmente 4, renovado no início do próprio turno, sem acumular sobras), PV atuais/máximos, Corpo/Mente/Espírito atuais/máximos, exaustão atual/máxima e próxima DT de excesso (inicial 5), condições, RD passiva de armadura e usos dos traços/proteções que ainda os exigirem. Registre custo e recuperação junto dos usos. O [guia de criação](../../referencias/criacao-de-personagem.md) orienta o preenchimento.

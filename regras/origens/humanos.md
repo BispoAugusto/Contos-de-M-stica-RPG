@@ -17,7 +17,7 @@
 
 ### Homens Altos
 
-- **Até o Limite:** ao forçar um teste que falhou por 1 PE porque a reserva correspondente está vazia, recebe +2 na nova rolagem. Não autoriza Forçar ataques nem testes contra a morte.
+- **Até o Limite — pendente de reformulação em 18/11/2026:** dependia da rerrolagem universal por PE, agora retirada. O antigo +2 não se transfere automaticamente para habilidades, Vigor contra a morte ou excesso de exaustão. Preservar o espaço da característica na revisão da espécie, sem inventar substituição.
 - **Potencial Humano:** +2 pontos de atributos na criação, respeitando máximo inicial 3.
 
 ### Anões
