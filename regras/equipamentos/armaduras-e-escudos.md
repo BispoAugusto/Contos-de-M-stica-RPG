@@ -40,7 +40,7 @@ Uma abertura acessível permite ignorar a RD da proteção indicada em Pesado ou
 
 **Direção mantida:** acertos altos e exploração de aberturas devem permitir enfrentar proteções. **Pendente:** limiar universal por categoria de armadura de personagem e aplicação em jogador contra jogador. Até essa decisão, não presumir que todo Pesado ignora qualquer armadura: usar apenas aberturas descritas, sem inventar um limiar universal. Ver [Aberturas](../combate/aberturas.md).
 
-Perfurante em Pesado/Brutal ignora RD compatível igual à metade da base para cima; não garante dano mínimo 1. Ver [tipos de dano](../combate/tipos-de-dano.md).
+Tipos físicos não concedem penetração, Sangramento ou controle automaticamente desde 18/11. Ver [tipos de dano](../combate/tipos-de-dano.md).
 
 Escamas dos Draconatos preservam RD geral 1, usos iguais ao máximo de Corpo e recuperação no longo. Escolher Escamas ou armadura convencional por ocorrência, nunca ambas. Resistência elemental e Bloquear compatível podem acompanhar a escolhida. Quedas preservam sua permissão específica de RD passiva, sem Esquivar/Bloquear.
 
@@ -48,7 +48,7 @@ Escamas dos Draconatos preservam RD geral 1, usos iguais ao máximo de Corpo e r
 
 - Golpe cortante padrão de dano 4 contra média RD 3 causa **1**.
 - O mesmo golpe com Bloquear RD 2 causa **0**, ao custo de 1 PA.
-- Golpe perfurante Pesado de arma base 4 causa 5 antes de RD; ignora 2 dos 3 de RD da média e causa **4**, sem outras proteções.
+- O tipo Perfurante não altera a RD por si só. Uma redução ou penetração adicional precisa de fonte específica.
 - Se uma abertura descrita permitir ignorar aquela armadura e o limiar for atingido, sua RD não se aplica. Bloquear ainda pode reduzir dano físico; Exposto também o ignora.
 
 ## Escolha defensiva e resistência

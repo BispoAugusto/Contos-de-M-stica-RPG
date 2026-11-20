@@ -1,5 +1,7 @@
 # Vida, Defesa e valores da ficha
 
+> **18/11/2026:** máximos de reservas e seu vínculo com PV ainda serão recalibrados; as fórmulas abaixo são a referência anterior preservada. Não substituir média por soma sem revisar os derivados. Limite/penalidades de exaustão e limiar de PV negativos estão em [pendências](../../design/pendencias.md#reservas-exaustão-morrendo-e-traumas--2026-11-18).
+
 [Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
 
 ## Vida
@@ -16,4 +18,4 @@
 
 ## Recursos a acompanhar
 
-Registre PA atuais (orçamento normalmente 4, renovado no início do próprio turno, sem acumular sobras), PV atuais/máximos, Corpo/Mente/Espírito atuais/máximos, PE/NE, condições, RD passiva de armadura e usos dos traços/proteções que ainda os exigirem. Registre custo e recuperação junto dos usos. O [guia de criação](../../referencias/criacao-de-personagem.md) orienta o preenchimento.
+Registre PA atuais (orçamento normalmente 4, renovado no início do próprio turno, sem acumular sobras), PV atuais/máximos, Corpo/Mente/Espírito atuais/máximos, exaustão atual/máxima e próxima DT de excesso (inicial 5), condições, RD passiva de armadura e usos dos traços/proteções que ainda os exigirem. Registre custo e recuperação junto dos usos. O [guia de criação](../../referencias/criacao-de-personagem.md) orienta o preenchimento.

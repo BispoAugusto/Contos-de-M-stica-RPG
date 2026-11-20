@@ -36,13 +36,13 @@ Use o ataque comum e a proficiência da arma. Ao atingir o grau indicado para a 
 | Pesado | Defesa +5 |
 | Brutal | Defesa +10 |
 
-Preserve o bônus de dano do grau, crítico e propriedades do tipo. Um acerto abaixo do limiar enfrenta a RD normalmente. Este procedimento substitui direcionamento com Foco sob pressão e redução pela metade. Não exige teste separado de Foco.
+Preserve o bônus de dano do grau, crítico e efeitos específicos expressos. Tipos físicos não concedem efeitos automáticos desde 18/11. Um acerto abaixo do limiar enfrenta a RD normalmente. Este procedimento substitui direcionamento com Foco sob pressão e redução pela metade. Não exige teste separado de Foco.
 
 Natural 20 garante acerto pelas regras gerais; explorar a abertura exige alcançar o limiar no total. Não presumir que toda RD tem abertura. Cada ficha descreve condições de acesso e limiar. A categoria leve/média/pesada não define automaticamente esse limiar para personagens.
 
 ## Fontes diferentes
 
-Ignorar a armadura não ignora automaticamente RD de reação, magia ou outra fonte independente. Perfurante reduz a RD compatível restante uma vez, até 0. Penetração excedente não vira dano.
+Ignorar a armadura não ignora automaticamente RD de reação, magia ou outra fonte independente. O tipo Perfurante não reduz RD automaticamente; penetração depende de uma fonte expressa.
 
 ## Abertura total e Exposto
 

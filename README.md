@@ -1,5 +1,7 @@
 # Contos de Mística — CdM RPG
 
+**Atualização de 18/11/2026:** reservas como recursos, nova estrutura de exaustão e Morrendo; traumas adiados. [Regras e parâmetros pendentes](design/pendencias.md#reservas-exaustão-morrendo-e-traumas--2026-11-18) · [Repasse](planejamento/repasse-reservas-exaustao-2026-11-18.md). A versão de 16/11 abaixo permanece apenas nos pontos não substituídos.
+
 **Versão de 16/11/2026:** atributos fornecem d20, proficiência soma integralmente; Alma no curto é automática. [Decisões aprovadas](design/decisoes.md#2026-11-16--núcleo-de-dados-ajuda-e-sandbox). Procedimentos sandbox estão marcados como provisórios para playtest.
 
 Regras e guias do sistema autoral: nove atributos, três reservas de Alma, quatro PA e seis origens.

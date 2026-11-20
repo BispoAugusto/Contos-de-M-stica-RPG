@@ -1,5 +1,13 @@
 # Histórico
 
+## 2026-11-18 — Reservas, exaustão e Morrendo
+
+- Registradas partes como recursos de habilidades/desgaste e esforço voluntário limitado; retirada a rerrolagem universal por Alma/PE.
+- Substituídos PE/NE e morte antiga: PV negativos permanecem; Vigor bem-sucedido gera 1 exaustão; excesso usa 1d20 com DT 5/+5.
+- Harmonizados guias, descansos, condições, referências de espécies e cura/Sangramento; números abertos ficam em pendências.
+- Desenvolvimento de traumas físicos/mentais adiado explicitamente; propostas de gatilhos/gravidades não viraram tabela aprovada.
+- Revisão documental; sem sessão ou alegação de equilíbrio. [Decisões](design/decisoes.md#2026-11-18--reservas-exaustão-e-morrendo) · [Repasse](planejamento/repasse-reservas-exaustao-2026-11-18.md).
+
 ## 2026-11-17 — Equipamentos e seleção inicial
 
 - Consolidado catálogo de armas do esboço: Ágil/Ocultável, Lenta experimental, mãos explícitas, dano corpo a corpo 1–4 e custos separados de Golpe Devastador.

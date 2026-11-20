@@ -1,5 +1,25 @@
 # Decisões registradas
 
+## 2026-11-18 — Reservas, exaustão e Morrendo
+
+**Fonte:** decisões do criador no chat central, nas mensagens que começam “ok então resumindo se eu bem entendi” e “continuando o que eu acho que entendi”, seguidas do pedido “adicione as mudanças no repositório e anote em pendencias desenvolver os traumas”. Não há link de conversa disponível neste repasse. A solicitação autoriza registrar as mudanças; não fecha números que o próprio diálogo manteve em aberto.
+
+**Confirmado:** Corpo/Mente/Espírito tornam-se recursos de habilidades e stamina, também perdidos por efeitos ou consequências pertinentes. Reservas insuficientes geram exaustão; esforço voluntário comum deve terminar abaixo do máximo, salvo cenas especiais com motivo forte. O uso dessas reservas por feiticeiros/arcanistas/espiritualistas é direção de desenvolvimento, sem lista ou custos de conjuração definidos.
+
+**Confirmado:** Morrendo começa a 0 PV, sem ações, mantendo PV negativos. Dano que ultrapasse um limiar exige Vigor, DT base 10; sucesso mantém vivo e gera 1 exaustão, falha mata. Novos danos abaixo do limiar exigem novos testes. Não volta a 1 PV, não gasta Corpo nem morre automaticamente ao alcançar o negativo dos PV máximos.
+
+**Confirmado:** atingir exatamente o máximo de exaustão não mata. Cada ponto adicional exige apenas 1d20, DT 5 inicial, aumentando 5 por nova tentativa. Sucesso mantém o personagem; falha causa sua perda. É rolagem de sorte, sem dados de atributo ou bônus comum de Vigor. Habilidades específicas poderão conceder bônus tanto para evitar a morte quanto para esse teste.
+
+**Substituições:** a antiga rerrolagem universal por Alma/PE foi retirada em favor de forçar habilidades; tabela PE/NE e reduções antigas de PA/movimento deixam de vigorar; a opção Aceitar a Queda não gera Sequela automática. Até o Limite dos Homens Altos depende de revisão, sem bônus substituto presumido.
+
+**Harmonização de cura já definida no chat:** primeira cura normal remove Ferido sem restaurar PV nem encerrar Sangramento; outra cura ou Medicina DT 15 encerra Sangramento. Sangramento não tem prazo fixo nem teste periódico genérico de cancelamento. Cortante não o aplica automaticamente; efeitos de tipos físicos serão desenvolvidos em melhorias, manobras e maestrias. Tratamento específico no descanso conserva seus efeitos expressos.
+
+**Pendente, não promovido a regra:** máximos por soma em vez da média; conversão 2:1; máximo 6; penalidade −1 por ponto; recuperação/reset da DT; naturais no teste especial; limiar negativo e fórmula de aumento de Vigor por dano; custo de magia/Fúria; procedimentos médicos restantes. Máximos/recuperação das reservas da versão anterior permanecem referência até recalibrar, sem alegação de equilíbrio para conjuração.
+
+**Traumas adiados por pedido expresso.** Gatilhos narrativos, críticos/brutais enquanto Morrendo e direção física/mental foram anotados; listas, gravidades, tratamento e propostas de trauma/agravamento por excesso serão desenvolvidos depois. Não foi implementada tabela de lesões nem penalidade universal de trauma.
+
+Fontes operacionais: [reservas](../regras/fundamentos/alma.md), [exaustão](../regras/recuperacao/exaustao.md), [Morrendo](../regras/recuperacao/morte-e-recuperacao.md), [pendências](pendencias.md#reservas-exaustão-morrendo-e-traumas--2026-11-18). Nenhuma sessão nem simulação de balanceamento foi executada nesta atualização.
+
 ## 2026-11-17 — Equipamentos, escudos e três escolhas iniciais
 
 **Escopo autorizado:** o criador pediu levar ao repositório itens, armas, armaduras, escudo e equipamento inicial discutidos. Fabricação e receitas foram expressamente adiadas. Esta consolidação não concede maestrias ou novas habilidades, nem reabre o núcleo de dados.

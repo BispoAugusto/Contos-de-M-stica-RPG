@@ -1,5 +1,14 @@
 # Roadmap — 2026-10-19
 
+## Reservas e sobrevivência — 2026-11-18
+
+- [x] Registrar reservas como recursos de habilidades/desgaste, retirar rerrolagem universal e substituir morte/PE/NE.
+- [ ] Calibrar máximos, custos, conversão, penalidades, recuperação e DTs conforme [pendências](../design/pendencias.md#reservas-exaustão-morrendo-e-traumas--2026-11-18).
+- [ ] Desenvolver traumas físicos e mentais posteriormente; não é prioridade imediata.
+- [ ] Reformular Até o Limite e revisar interações de espécies, Fúria e conjuração.
+
+Os marcos históricos abaixo não restabelecem Forçar, PE/NE ou a morte antiga.
+
 ## Prioridades atuais — 2026-11-16
 
 1. Revisar integração do núcleo aprovado, guias e portal na branch, antes do merge.

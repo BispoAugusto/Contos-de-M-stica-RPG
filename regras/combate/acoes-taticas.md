@@ -26,7 +26,7 @@ Quando o aliado for realizar uma ação com teste compatível, **antes de rolar*
 
 - **Um dado do mesmo ajudante por teste do aliado.** Se reservou três dados para esse aliado, pode beneficiar até três testes distintos; não soma seus três dados numa única rolagem.
 - **Ajudantes diferentes podem contribuir no mesmo teste:** somam-se seus dados, um por ajudante, cada qual com seu PA e contribuição válida. Não há limite universal de um dado total.
-- Um dado consumido não volta a ficar disponível após o teste. Forçar mantém o valor desse dado, sem reutilizá-lo em outro teste.
+- Um dado consumido não volta a ficar disponível após o teste. A retirada de Forçar como rerrolagem universal não devolve nem reutiliza dados de ajuda.
 - Reservar ajuda não concede PA nem pode usar PA já gasto ou comprometido com outra reserva.
 - Exemplo: Lia reserva d8 e d6 para Rui; Bia reserva d8 para Rui. No primeiro teste de Rui, Lia pode contribuir d8 e Bia d8 (total de ajuda 2d8). O d6 de Lia fica para outro teste compatível, dentro da validade da reserva.
 

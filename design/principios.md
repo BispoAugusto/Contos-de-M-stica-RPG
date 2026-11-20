@@ -10,7 +10,7 @@ Atributos representam abordagens e fornecem dados; proficiências representam tr
 - Modularidade de Corpo, Mente e Espírito.
 - Poucos PV e dano contido; defesa ativa e recursos limitados.
 - Ações criativas não dependem de aprender uma manobra.
-- Exaustão é desgaste acumulado; Sequelas são marcas de quase morrer.
+- Reservas pagam habilidades e suportam desgaste; exaustão registra o esforço além dos recursos. Morrendo mantém risco imediato de morte; traumas terão consequências físicas/mentais narráveis, com desenvolvimento adiado.
 - Primeiro testar um MVP enxuto; depois ampliar tabelas, poderes e conteúdo.
 
 ## Integração de 2026-10-19

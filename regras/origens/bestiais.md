@@ -33,7 +33,7 @@ Todas as quatro espécies podem escolher Pequeno, Médio ou Grande.
 
 ### Namarés
 
-- **Anfíbio:** respira em água e em terra; natação acompanha seu deslocamento normal. Hidratação exige **beber e molhar o corpo** com banho, imersão ou chuva suficiente. Beber um copo não substitui molhar-se. Sem isso, conta como com sede no descanso, não reduz PE e recebe o PE por sede. **Não existe uma penalidade separada adicional por umidade.**
+- **Anfíbio:** respira em água e em terra; natação acompanha seu deslocamento normal. Hidratação exige **beber e molhar o corpo** com banho, imersão ou chuva suficiente. Beber um copo não substitui molhar-se. Sem isso, conta como com sede no descanso. O valor da privação em reservas/exaustão está pendente de calibração desde 18/11; não aplicar automaticamente o antigo custo em PE. **Não existe uma penalidade separada adicional por umidade.**
 - **Adaptação:** escolher uma opção abaixo.
 
 | Adaptação | Efeito |

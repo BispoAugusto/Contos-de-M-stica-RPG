@@ -62,4 +62,4 @@ Golpe Devastador é uma **manobra aprendida**, exige Pesada e não é caracterí
 
 ## Propriedades físicas — 2026-11-04
 
-Pesado/Brutal ativa Cortante (Sangramento), Perfurante (ignora RD compatível igual à metade da base para cima) ou Contundente (empurra ou retira 1 Equilíbrio). Ver [tipos de dano](tipos-de-dano.md).
+**Substituído em 18/11/2026:** os tipos físicos não aplicam efeitos automáticos. Sangramento e outras interações exigem fonte específica; melhorias, manobras e maestrias serão desenvolvidas depois. Ver [tipos de dano](tipos-de-dano.md).

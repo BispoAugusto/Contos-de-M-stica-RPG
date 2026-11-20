@@ -1,5 +1,22 @@
 # Plano de playtests — versão de 2026-10-25
 
+## Reservas, exaustão e Morrendo — 2026-11-18
+
+**Cenários preparados, não executados.** Concluir os parâmetros de [pendências](../design/pendencias.md#reservas-exaustão-morrendo-e-traumas--2026-11-18) antes de uma sessão que dependa dessas regras. Números hipotéticos de simulação devem ficar identificados; não usar PE/NE ou Forçar antigos para preencher lacunas.
+
+| Cenário | Verificar |
+|---|---|
+| Custo cabe, zera ou excede a reserva | Exatamente 0 não gera exaustão automática; converter apenas a falta quando a taxa estiver definida |
+| Esforço voluntário abaixo/no/acima do máximo | Bloquear o que alcançaria o máximo; exceção narrativa informada antes da decisão |
+| Atingir o máximo e receber mais pontos | Não rolar só por atingir; cada ponto excedente usa 1d20 e avança DT 5/10/15… |
+| PV 0, no limiar e abaixo do limiar | Morrendo não age; cada dano abaixo do limiar exige Vigor; sucesso não cura |
+| Vigor bem-sucedido com exaustão máxima | Receber 1 exaustão e resolver também o teste de excesso; não gastar Corpo |
+| Golpe grande versus vários pequenos | Calibrar aumento da DT por dano sem transformar Morrendo em absorção indefinida |
+| Recuperar 1 ponto e voltar ao máximo | Definir reinício da sequência antes de testar; não presumir retorno gratuito à DT 5 |
+| Traumas | Desenvolvimento adiado: não validar tabela ou agravamento que ainda são propostas |
+
+Os cenários antigos de Forçar, cura para 1 PV e PE/NE abaixo são históricos e não se aplicam à revisão de 18/11.
+
 ## Equipamentos — cenários de 17/11/2026
 
 **Planejados, não executados.** Usar o [catálogo atual](../regras/equipamentos/README.md); referências a Leve nas versões anteriores significam Ágil.
@@ -26,9 +43,9 @@
 | Testes comuns | Atributo 0/1/3/5, treino 0/2/5, DT 10/15/20/25 | Sucesso, pleno, naturais e tempo até resultado |
 | Modificadores | Q cruzando 1 → 0 → −1; cancelamento de fontes | Clareza ao escolher maior/menor e força percebida |
 | Ajuda | Um aliado com d8/d6 em testes distintos; dois aliados no mesmo teste; reserva sem gatilho | PA comprometido/consumido, duração e efeito no resultado |
-| Forçar | Falha com Alma; reserva vazia por PE; ajuda previamente rolada | Novo resultado obrigatório, frequência e custo entre curtos |
+| Reservas | Custos de habilidades e perdas por efeitos | Usar os cenários de 18/11; custos ainda a calibrar |
 | Repetição | Três ataques, uma Leve, duas ações iguais não ofensivas | Contadores próprios, exceções e tempo de consulta |
-| Defesas/morte | Reflexo/Vigor contra ataque; Resistir DT 10 e depois 15 | Evitar empate, anunciar arbitragem dos naturais, não permitir Forçar em Resistir |
+| Defesas/morte | Reflexo/Vigor contra ataque; Morrendo conforme revisão de 18/11 | Não importar DT +5 de excesso para Vigor nem recuperar 1 PV ao resistir |
 | Expedição | Duas vigílias e acampamento, curtos válidos, água/comida | Consumo, recuperação, escolhas de rota e custo do tempo |
 | Encontros | Reação incerta; primeira baixa/metade simultâneas | Evitar combate automático, não duplicar checagem de moral |
 
@@ -40,7 +57,7 @@ Validar também tempo/calendário: um mesmo intervalo não recebe evento de viag
 
 ## Registro de sessão
 
-Data/versão, participantes e fichas; atributos, níveis de proficiência e bônus efetivamente usados; pressão declarada; resultados naturais/totais e graus; PA, PV, Alma, PE/NE, usos de proteção; mortes/Sequelas; escolhas interessantes e ambiguidades. Separar observação de sugestão.
+Data/versão, participantes e fichas; atributos, níveis de proficiência e bônus efetivamente usados; pressão declarada; resultados naturais/totais e graus; PA, PV negativos, reservas, exaustão e próxima DT de excesso, usos de proteção; mortes/traumas quando desenvolvidos; escolhas interessantes e ambiguidades. Separar observação de sugestão.
 
 ## Testes e Alma
 

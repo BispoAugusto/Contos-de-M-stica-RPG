@@ -1,5 +1,7 @@
 # Revisão de playtest — decisões de 27 a 29/10/2026
 
+> **Substituições de 18/11/2026:** [reservas](fundamentos/alma.md), [exaustão](recuperacao/exaustao.md) e [Morrendo](recuperacao/morte-e-recuperacao.md) substituem os trechos conflitantes sobre Forçar, PE/NE, morte, cura e Sequelas. A seção 5 abaixo é histórica nesses pontos: não escolher Resistir para retornar a 1 PV, não morrer automaticamente no negativo dos PV máximos e não receber Sequela automaticamente ao cair. Traumas ficam em desenvolvimento posterior.
+
 > **Substituições de 17/11/2026:** [equipamentos](equipamentos/README.md) atualiza catálogo e nomes de propriedades, retira proficiência de escudos, adota espaço mínimo 0,5, mochila e lotes e substitui a seleção inicial por kit básico + três escolhas. Trechos conflitantes abaixo são históricos. Penalidades de armadura não expressamente substituídas mantêm o alcance indicado no capítulo atual; receitas e fabricação continuam adiadas.
 
 > **Substituições de 16/11/2026:** [testes](fundamentos/testes.md) substitui pressão, pleno, dados, naturais, opostos e repetição gerais; [ajuda](combate/acoes-taticas.md#ajudar) substitui os dados +1d4 e a reserva de apoio; [descansos](recuperacao/descansos.md) torna Alma automática; [Resistir](recuperacao/morte-e-recuperacao.md#a-0-pv-ou-menos) usa dados do atributo e Vigor, mantendo proibição de Forçar. Criação passa a 12 pontos de atributo e 6 PP. Os trechos antigos abaixo documentam a versão de 29/10, sem revogar essas mudanças. Atrapalhar e os demais pontos não substituídos preservam seu alcance.
@@ -125,6 +127,8 @@ Comida e água ocupam 1 espaço por lote de até cinco dias, cada recurso separa
 Peso 0 para mochila e apenas uma conceder capacidade foram propostas, ainda não confirmadas. Lista geral de itens, pesos, duração, consumo e quantidade inicial de munição ainda serão fechados. A proposta antiga de kit +6 PEq não é a seleção adotada.
 
 ## 5. Resistir, cair e Sequelas
+
+**Histórico substituído em 18/11/2026:** consultar [Morrendo](recuperacao/morte-e-recuperacao.md). Não aplicar o procedimento abaixo junto da regra nova.
 
 Ao chegar a 0 PV ou menos, apresentar aos jogadores duas opções:
 - **Resistir:** teste de Vigor, DT inicial 10. Sucesso continua consciente com 1 PV; falha morre. DT aumenta 5 a cada tentativa, reiniciando após descanso longo.

@@ -1,5 +1,34 @@
 # Pendências — estado de 2026-10-25
 
+## Reservas, exaustão, Morrendo e traumas — 2026-11-18
+
+**Confirmado nesta etapa:** partes como recursos de habilidades/desgaste; falta de reserva gera exaustão; esforço voluntário comum não pode atingir o máximo, salvo cena excepcional motivada; Morrendo a 0 PV, sem agir, mantendo negativos; Vigor após dano abaixo de um limiar, DT base 10, sucesso gera 1 exaustão e falha mata; excesso de exaustão usa 1d20, DT 5 e +5 por novo teste, com perda do personagem na falha. [Decisão e alcance](decisoes.md#2026-11-18--reservas-exaustão-e-morrendo).
+
+### Desenvolver traumas depois
+
+**Pedido expresso do criador: adiar; não é prioridade agora.**
+
+- [ ] Definir traumas físicos e mentais narráveis, com alcance claro e pouca consulta; consequências devem permitir adaptações e histórias no sandbox.
+- [ ] Fechar gatilhos e gravidades: crítico/brutal enquanto Morrendo e acidentes graves já foram indicados; trauma por excesso de exaustão e agravamento leve → profundo são propostas a revisar.
+- [ ] Definir frequência, combinação, duração, tratamento e recuperação. Não importar a antiga Sequela automática ao cair, nem “incurável no playtest” como regra universal nova.
+- [ ] Decidir relação com exaustão, reservas e perda do personagem; não tornar zerar reserva um trauma automático.
+- [ ] Tramaturgias/traumas mágicos permanecem futuros, sem lista ou mecânica implementada.
+
+### Parâmetros para concluir o procedimento
+
+- [ ] Máximos de Corpo/Mente/Espírito: avaliar soma dos atributos em vez da média; revisar conjuntamente PV, porte dos Gnomos e usos derivados. A média + espécie continua apenas referência preservada até fechar a mudança.
+- [ ] Custos de conjurações e outras habilidades; conversão de falta de reserva em exaustão. A hipótese 2:1 não está aprovada. Definir também ordem da habilidade e dos testes em uma cena excepcional de sacrifício.
+- [ ] Máximo e penalidades da trilha; −1 por ponto e máximo 6 são propostas, não regra confirmada. Decidir incidência das penalidades em Resistir e no teste especial de excesso.
+- [ ] Recuperação de exaustão e reservas em descansos; quando reinicia a DT de excesso. Recuperar um ponto não implica automaticamente voltar à DT 5.
+- [ ] Naturais 1/20, DT acima de 20 e modificadores expressos no teste especial de 1d20; não aplicar quantidade de dados dos atributos ou Vigor.
+- [ ] Fixar limiar negativo e fórmula de aumento da DT de Vigor por dano; base 10 confirmada. Comparar golpe grande e sucessivos pequenos para evitar absorção indefinida de dano. O antigo +5 por tentativa não foi transferido.
+- [ ] Saída de Morrendo, cura com PV negativos e estabilização, incluindo interação com Ferido. Não reintroduzir despertar automático ao fim da cena nem cura para 1 PV ao resistir.
+- [ ] Converter custos antigos de PE, incluindo privação e Fúria 1/2/3…; definir quando desgastam reservas ou exaustão diretamente. Não duplicar sede/umidade dos Namarés.
+- [ ] Reformular **Até o Limite** dos Homens Altos, que dependia da rerrolagem universal retirada; não transferir seu +2 para morte/excesso.
+- [ ] Sangramento: dano, momento, acúmulo e fontes ainda precisam de definição. Duração até cura/tratamento/morte, Medicina DT 15 e primeira cura consumida por Ferido já estão registrados.
+
+**Substituídos:** PE/NE e sua recuperação, Forçar como rerrolagem universal, morte automática no negativo máximo, Resistir para voltar a 1 PV e Sequela obrigatória ao aceitar cair. As listas antigas abaixo permanecem históricas nesses pontos; não reabrem regras retiradas.
+
 ## Equipamentos — 2026-11-17
 
 Incorporados: [catálogo](../regras/equipamentos/README.md), escudo sem proficiência, kit básico + três escolhas, ferramentas com efeitos/espaços, três kits e luz por períodos. As listas históricas abaixo não reabrem esses pontos.

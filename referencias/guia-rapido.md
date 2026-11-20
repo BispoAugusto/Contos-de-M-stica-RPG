@@ -18,11 +18,11 @@ DTs: 5 muito fácil; 10 fácil; 15 moderada; 20 difícil; 25 muito difícil; 30 
 
 Em opostos, empate favorece iniciador. Sem iniciador, maior máximo da Parte de Alma usada, depois nova rolagem dos empatados. Conflitos entre naturais e totais ainda exigem arbitragem anunciada; consultar [testes](../regras/fundamentos/testes.md#naturais-e-testes-opostos).
 
-**Forçar:** só após falhar e antes das consequências; 1 Alma correspondente, ou 1 PE se a reserva estiver vazia. Uma vez por teste; rerrole todos os d20, mantenha modificadores e os valores de ajuda já rolados, aceite o novo resultado. Não vale para ataques nem Resistir à morte. Até o Limite dos Homens Altos preserva seu +2 ao Forçar por PE.
+**Reservas — 18/11:** Corpo/Mente/Espírito pagam habilidades e podem sofrer perdas por efeitos. O que faltar gera exaustão; taxa pendente. Esforço voluntário comum deve terminar abaixo do máximo, salvo cena especial com motivo forte e risco conhecido. A rerrolagem universal por Alma/PE foi retirada; Até o Limite exige reformulação. [Reservas](../regras/fundamentos/alma.md).
 
 ## Combate
 
-4 PA iniciais; renovam no início do próprio turno, sem acumular. Reações anteriores ao primeiro turno usam a reserva inicial. Depois, poupe PA para reagir até seu próximo turno. NE 4 reduz a renovação para 3; Atordoado desconta até 2 após renovar. Ataque, movimento Médio e interação simples custam normalmente 1 PA. NPCs podem ter custos próprios.
+4 PA iniciais; renovam no início do próprio turno, sem acumular. Reações anteriores ao primeiro turno usam a reserva inicial. Depois, poupe PA para reagir até seu próximo turno. Atordoado desconta até 2 após renovar. A redução antiga de PA por NE 4 não se aplica à nova trilha. Ataque, movimento Médio e interação simples custam normalmente 1 PA. NPCs podem ter custos próprios.
 
 Rodada representa simultaneidade; ao concluir, escolha aliado ou inimigo ainda sem agir. Último participante pode escolher a si mesmo e dobrar os PA do mesmo turno: não são dois turnos nem reinício de contadores. Contabilidade entre rodadas ainda tem pendências.
 
@@ -36,17 +36,21 @@ Defesa passiva = **8 + bônus de Vigor**, +1 com escudo empunhado, sem proficiê
 
 Bloquear: declarar antes do resultado, 1 PA; escudo básico dá RD física 2 sem exigir treino nem rolagem, contra aquele ataque; o PA é gasto mesmo se ele errar. Uma reação defensiva por ocorrência. Armadura passiva acompanha: leve/média/pesada RD física 1/3/5 e peso 2/4/6. Penalidades sem treino e sobrecarga estão em [equipamentos](../regras/equipamentos/armaduras-e-escudos.md).
 
-Tipos físicos: Contundente/Perfurante/Cortante. RD por tipo compatível; específica por componente, geral uma vez sobre o restante. Propriedades de Pesado/Brutal em [tipos de dano](../regras/combate/tipos-de-dano.md).
+Tipos físicos: Contundente/Perfurante/Cortante. RD por tipo compatível; específica por componente, geral uma vez sobre o restante. Tipos não concedem efeitos automáticos; consultar [tipos de dano](../regras/combate/tipos-de-dano.md).
 
 ## Descanso e risco
 
-Curto adequado, 1h: **recupera automaticamente metade do máximo de cada reserva de Alma, para cima**, a cada descanso válido. Não há limite de uma recuperação entre longos. Pausa contínua não vira várias recuperações por divisão do relógio. Mantém duas atividades diferentes para outras finalidades. Reduz 2 PE (1 com NE 1).
+Curto adequado, 1h: **recupera automaticamente metade do máximo de cada reserva de Alma, para cima**, a cada descanso válido. Não há limite de uma recuperação entre longos. Pausa contínua não vira várias recuperações por divisão do relógio. Mantém duas atividades diferentes para outras finalidades. Recuperação de exaustão pendente; não aplicar a remoção antiga de PE.
 
 Tratar feridas ocupa uma atividade de quem trata: em si, 2 + Resiliência PV; em outro, 2 + bônus de Medicina PV. Remove Ferido; um tratamento por paciente por curto. Exceções raciais em [descansos](../regras/recuperacao/descansos.md).
 
-Longo adequado, 8h: todos PV/Alma, remove Ferido e PE, reduz 1 NE, não remove Sequelas. No sandbox, benefícios uma vez por 24h. Falta de comida/água/sono impede reduzir PE e gera 1 PE por requisito faltante. 5 PE viram 1 NE; 5 NE causam colapso definitivo.
+Longo adequado, 8h: todos PV/reservas e remove Ferido, conforme regra preservada. No sandbox, benefícios uma vez por 24h. Privação impede descanso adequado; custos de desgaste e recuperação da nova exaustão ainda precisam de calibração. Traumas não têm tratamento definido. Não usar a conversão antiga PE/NE.
 
-A 0 PV ou menos: **Resistir**, aceitar a queda ou última ação. Resistir usa dados do atributo apropriado (Resiliência sugerida) + Vigor; DT 10, +5 por nova tentativa, reinicia no descanso longo. Sucesso retorna a 1 PV; falha mata; 1 falha e 20 sucede, sem Forçar. Atingir o negativo do PV máximo mata antes dessa escolha. Queda mantém PV e gera Sequela; detalhes médicos/última ação continuam pendentes. Gnomos têm exceção para dois corpos. [Regra completa](../regras/recuperacao/morte-e-recuperacao.md).
+A 0 PV ou menos: entra em **Morrendo**, não age e mantém PV negativos. Dano que o deixe abaixo do limiar negativo exige Vigor, DT base 10; sucesso mantém vivo e gera 1 exaustão, falha mata. Novos danos abaixo do limiar exigem novos testes. Limiar e fórmula de aumento da DT estão pendentes. Não volta a 1 PV ao resistir. [Regra completa](../regras/recuperacao/morte-e-recuperacao.md).
+
+**Excesso de exaustão:** atingir o máximo não mata. Cada ponto recebido já no máximo exige 1d20 especial, DT 5 e +5 por novo teste; sucesso mantém o personagem, falha causa sua perda. Não usa atributo/Vigor; bônus só por habilidade específica. Limite, penalidades, reinício da DT e naturais deste teste especial ainda precisam ser definidos. [Exaustão](../regras/recuperacao/exaustao.md).
+
+**Ferido/Sangramento:** primeira cura normal remove Ferido, sem PV nem fim do Sangramento; outra cura pode restaurar PV e encerrar Sangramento. Medicina DT 15 trata Sangramento diretamente. Não concede despertar automático nem cura de trauma.
 
 ## Preparação, apoio e Aberturas
 

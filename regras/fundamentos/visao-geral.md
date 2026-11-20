@@ -6,7 +6,7 @@
 
 Nove atributos entre 0 e 5 descrevem abordagens e fornecem dados; não somam aos testes. Proficiências fornecem bônus integrais, inclusive sob pressão. Pleno ocorre em DT +5 em testes que não sejam ataques. Corpo, Mente e Espírito são [reservas de Alma](alma.md), calculadas a partir dos atributos e da espécie.
 
-PV representam perigo imediato; condições, limitações temporárias; Exaustão, desgaste persistente; Sequelas, o preço de sobreviver à morte. Origens são categorias de espécies, não formação cultural.
+PV representam perigo imediato; condições, limitações temporárias; Exaustão, desgaste persistente; traumas, consequências físicas ou mentais cujo desenvolvimento foi adiado. A revisão de 18/11 substitui a rerrolagem universal por reservas que pagam habilidades e desgaste; não há três barras separadas de exaustão. Origens são categorias de espécies, não formação cultural.
 
 ## Arredondamento
 

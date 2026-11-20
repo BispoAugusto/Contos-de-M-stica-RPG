@@ -14,7 +14,7 @@
 
 ## Pontos de Ação
 
-**Revisão aprovada para playtest em 2026-10-26:** personagens jogadores começam o combate com 4 PA, ressalvadas restrições expressas. No **início do próprio turno**, renovam os PA para o valor vigente, normalmente 4, sem acumular sobras. **O fim da rodada não renova PA.** Com NE 4, a renovação é para 3 PA.
+**Revisão aprovada para playtest em 2026-10-26:** personagens jogadores começam o combate com 4 PA, ressalvadas restrições expressas. No **início do próprio turno**, renovam os PA para o valor vigente, normalmente 4, sem acumular sobras. **O fim da rodada não renova PA.** A redução antiga de PA por NE 4 foi retirada com a revisão de exaustão de 18/11; novas penalidades estão pendentes.
 
 Ações no turno e reações após ele usam o mesmo saldo até o início do próximo turno do personagem. Para reagir nesse intervalo, é preciso poupar PA. Preparar Ação reserva PA desse saldo e vale até o início do próximo turno; passar de uma rodada para outra não renova recursos nem encerra a preparação.
 
@@ -22,7 +22,7 @@ Ações no turno e reações após ele usam o mesmo saldo até o início do pró
 
 Depois disso, gastar 3 PA no turno deixa 1 para reagir até o próximo turno, mesmo que outra rodada comece antes. A reserva inicial é concedida uma vez na entrada do combate, não a cada rodada.
 
-No início do próximo turno de um personagem Atordoado, renovar o orçamento normal e aplicar o desconto de até 2 PA, mínimo 0. A proibição de reagir termina nesse início. Com orçamento 4, age com 2; com NE 4, renova a 3 e fica com 1. Não há uma segunda renovação após o desconto.
+No início do próximo turno de um personagem Atordoado, renovar o orçamento normal e aplicar o desconto de até 2 PA, mínimo 0. A proibição de reagir termina nesse início. Com orçamento 4, age com 2. Não aplicar o antigo exemplo de NE 4, substituído em 18/11. Não há uma segunda renovação após o desconto.
 
 A rodada compreende a participação dos combatentes. A renovação normal não concede turnos extras. A escolha especial do último participante, descrita abaixo, permite continuar com PA dobrados no turno; não reinicia automaticamente a repetição de ataques.
 

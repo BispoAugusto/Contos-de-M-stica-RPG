@@ -1,5 +1,17 @@
 # Estado do projeto — 2026-11-17
 
+## Reservas e sobrevivência — 2026-11-18
+
+**Estrutura confirmada; parâmetros incompletos explicitamente pendentes.** Corpo/Mente/Espírito pagam habilidades e suportam desgaste; falta de reserva gera exaustão. Esforço voluntário comum não pode alcançar o máximo, salvo cena especial motivada. Retirada a rerrolagem universal por Alma/PE.
+
+Morrendo começa a 0 PV, sem agir, mantendo negativos. Vigor abaixo do limiar negativo usa DT base 10: sucesso gera 1 exaustão sem curar; falha mata. O limiar e o aumento por dano precisam de calibração. Excesso de exaustão exige 1d20, DT 5 e +5 por novo teste; falha causa perda do personagem. Chegar exatamente ao máximo não mata.
+
+**Desenvolver traumas fica para depois, sem prioridade imediata.** Limite/penalidades/recuperação de exaustão, conversão das reservas, custos de habilidades e retomada de Morrendo também estão em [pendências](design/pendencias.md#reservas-exaustão-morrendo-e-traumas--2026-11-18). Não aplicar a tabela PE/NE antiga. Média + espécie e recuperação das reservas permanecem referência até revisão conjunta de custos/derivados; Até o Limite dos Homens Altos precisa de reformulação.
+
+[Reservas](regras/fundamentos/alma.md) · [Exaustão](regras/recuperacao/exaustao.md) · [Morrendo](regras/recuperacao/morte-e-recuperacao.md) · [Repasse](planejamento/repasse-reservas-exaustao-2026-11-18.md).
+
+As entradas datadas anteriores abaixo são históricas nos pontos substituídos. Esta revisão não afirma prontidão de balanceamento nem sessão realizada.
+
 ## Equipamentos vigentes — 2026-11-17
 
 [Equipamentos](regras/equipamentos/README.md) reúne armas, armaduras, escudo, itens gerais, três kits e seleção inicial. Kit básico + três escolhas; escudo sem proficiência; luz por períodos; mínimo individual 0,5 espaço. Valores e Lenta seguem **provisórios para playtest**.

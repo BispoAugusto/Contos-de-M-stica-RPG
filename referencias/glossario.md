@@ -12,12 +12,14 @@
 - **Extremo:** inativo neste playtest; benefício e condição no novo núcleo pendentes. A antiga margem de atributo 10 não se aplica.
 - **Golpe Pesado/Brutal:** resultados de ataque em Defesa +5/+10; +1/+2 dano, sem somar os dois. Não usam pleno/extremo.
 - **Golpe Devastador:** manobra aprendida com Pesada; não é sinônimo de pleno.
-- **Alma:** reservas de Corpo, Mente e Espírito, média arredondada dos atributos + bônus de espécie.
-- **Forçar:** após falha, rerrolar todos os d20 uma vez, preservar modificadores e ajudas já roladas, aceitar novo resultado; custa 1 Alma correspondente ou 1 PE se vazia. Proibido em ataques e testes contra a morte.
-- **PE/NE:** Pontos/Níveis de Exaustão; cinco PE geram um NE; mais PE é mais desgaste.
+- **Alma / Partes:** reservas de Corpo, Mente e Espírito usadas para habilidades e desgaste. Máximos e custos serão recalibrados; média arredondada + espécie permanece referência de ficha, não uma fórmula nova aprovada para conjuração.
+- **Forçar habilidade:** pagar por exaustão o custo que a reserva não cobre; esforço comum precisa terminar abaixo do máximo. Conversão pendente; a antiga rerrolagem universal foi retirada.
+- **Exaustão:** trilha única de desgaste; limite, penalidades e recuperação pendentes. Substitui a antiga conversão PE/NE.
+- **Excesso de exaustão:** receber mais pontos estando no máximo exige 1d20, DT inicial 5 e +5 por teste seguinte; falha causa perda do personagem.
+- **Morrendo:** estado a 0 PV ou menos; não age, mantém PV negativos e testa Vigor quando dano ultrapassa o limiar negativo. Sucesso gera 1 exaustão; falha mata.
 - **RD:** redução de dano compatível com tipos; física, específica ou geral.
 - **Ferido:** bloqueia cura normal até tratamento, salvo exceções expressas.
-- **Sequela:** consequência persistente de Aceitar a Queda.
+- **Trauma:** consequência física ou mental persistente cujo desenvolvimento foi adiado; gatilhos, gravidades, efeitos e tratamento precisam de revisão. Sequela é a terminologia histórica do procedimento de queda substituído.
 - **Equilíbrio:** resistência especial de alguns inimigos a incapacitação.
 - **Origem:** categoria racial; espécie determina características e bônus dentro dela.
 - **Porte:** campo separado de espécie; Minúsculo, Pequeno, Médio ou Grande.

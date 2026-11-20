@@ -1,5 +1,7 @@
 # Criar um personagem
 
+> **Reservas e sobrevivência — 18/11/2026:** Corpo/Mente/Espírito agora pagam habilidades e suportam desgaste. Máximos e custos serão recalibrados; os cálculos de média e derivados abaixo permanecem referência de ficha. A rerrolagem universal foi retirada. [Regras](../regras/fundamentos/alma.md) · [Parâmetros pendentes](../design/pendencias.md#reservas-exaustão-morrendo-e-traumas--2026-11-18).
+
 > **Atualização 04/11/2026:** leve RD física 1, média 3, pesada 5. Médias/pesadas dão Desvantagem com Reflexo. Defesa 8 + bônus de Vigor. Esquivar custa 1 PA, rola Vigor com Reflexo e exige superar o ataque; sem proteção tem Vantagem. [Defesas](../regras/combate/defesas.md) e [tipos físicos](../regras/combate/tipos-de-dano.md) prevalecem nos exemplos ainda em conversão.
 
 
@@ -210,7 +212,7 @@ Transcreva as características da sua origem e espécie com **custo, alcance, us
 |---|---|
 | Ações | 4 PA iniciais; renovação no início do próprio turno, sem acumular sobras |
 | Vida e Alma | Valor atual e máximo de cada reserva |
-| Exaustão | PE e NE separados |
+| Exaustão | Trilha atual/máxima e próxima DT de excesso (inicial 5); máximo/penalidades a definir |
 | Proteções disponíveis | Tipo de RD passiva e conjunto de valores; usos/custo apenas para proteções especiais que os exijam |
 | Características de espécie | Efeito, PA/Alma gastos, usos e tipo de descanso que recupera |
 | Condições | Ferido e demais condições presentes |
@@ -245,7 +247,7 @@ Exemplo de preenchimento com as regras atuais, **sem conceder equipamento ou hab
 
 ### Origem e atributos
 
-Origem Humanos, espécie Homens Altos, porte Médio. Versatilidade concede +2 PP; Potencial Humano concede +2 pontos de atributos; Até o Limite concede seu benefício ao forçar por PE com reserva vazia.
+Origem Humanos, espécie Homens Altos, porte Médio. Versatilidade concede +2 PP; Potencial Humano concede +2 pontos de atributos; Até o Limite aguarda reformulação: o benefício antigo dependia da rerrolagem por PE, retirada em 18/11; não presumir um bônus substituto.
 
 | Corpo | Valor | Mente | Valor | Espírito | Valor |
 |---|---|---|---|---|---|

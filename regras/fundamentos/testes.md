@@ -73,7 +73,7 @@ Em oposição, compare os totais; dois naturais 20 também comparam totais. **Pe
 
 Igualdade de totais favorece o atacante/iniciador. Sem iniciador definido, preservar o desempate existente: maior máximo da Parte da Alma utilizada e, persistindo, nova rolagem entre empatados. A proposta de empate inconclusivo da v0.1 não foi escolhida expressamente. Esquivar preserva sua comparação estrita como regra específica; ver [defesas](../combate/defesas.md).
 
-Em oposição elegível para Forçar, resolver a possibilidade de uma rerrolagem por participante antes das consequências. Se a primeira rerrolagem mudar o vencedor, o novo perdedor ainda pode Forçar caso não tenha usado sua vez. A rolagem do adversário fica mantida. Ataques e testes contra a morte não são elegíveis.
+**18/11/2026:** a rerrolagem universal por Alma/PE foi retirada. Isso inclui testes opostos. [Forçar uma habilidade sem reserva](alma.md#reserva-esgotada-e-esforço-voluntário) não é rerrolar um teste; exceções futuras dependem de habilidade expressa.
 
 ## Repetição de ações
 
