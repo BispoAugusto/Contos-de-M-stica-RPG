@@ -1,6 +1,6 @@
 # Humanos
 
-[Catálogo de playtest](README.md) · [Criação](../../referencias/criacao-de-personagem.md)
+[Origens e espécies](README.md) · [Criação](../../jogador/criacao-de-personagem.md)
 
 Humanos se espalharam pelo mundo. Seus costumes e ensinamentos variam de região para região.
 

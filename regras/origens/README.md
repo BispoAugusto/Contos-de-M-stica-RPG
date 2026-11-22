@@ -1,10 +1,10 @@
 # Origens e espécies
 
-[Índice de regras](../README.md) · [Criação de personagem](../../referencias/criacao-de-personagem.md)
+[Índice de regras](../README.md) · [Criação de personagem](../../jogador/criacao-de-personagem.md)
 
 ## Criação e misturas
 
-**Playtest de 22/11/2026.** Escolha uma das seis origens e uma de suas espécies. Receba um traço da origem, dois da espécie e os três pontos de Alma indicados. O porte é um campo separado. Raças mistas ficam para revisão futura.
+Escolha uma das seis origens e uma de suas espécies. Receba um traço da origem, dois da espécie e os três pontos de Alma indicados. O porte é um campo separado.
 
 ## Visão geral
 
@@ -27,4 +27,4 @@
 
 ## Limites do catálogo
 
-Valores provisórios para playtest. O [catálogo anterior por compra de traços](../../design/catalogo-origens-historico.md) é histórico.
+Valores provisórios para playtest. Raças mistas ficam para revisão futura. O [catálogo anterior por compra de traços](../../design/catalogo-origens-historico.md) é histórico.

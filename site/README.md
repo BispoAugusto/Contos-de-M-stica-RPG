@@ -6,7 +6,7 @@
 
 `mesa-web/` continua um protótipo estático separado; seus HTML não fazem parte do portal de regras. A atualização da produção depende de merge na branch configurada e deploy concluído. Uma branch/PR permite revisar o conteúdo antes desse passo.
 
-O portal reúne automaticamente todos os arquivos `.md` do repositório, incluindo subpastas, sem alterar as regras. A busca consulta títulos, caminhos e conteúdo, sem distinguir acentos. O leitor oferece sumário, links entre capítulos, download do Markdown e impressão/PDF pelo navegador. Estado do projeto, histórico e decisões têm atalhos na página inicial.
+O portal reúne automaticamente todos os arquivos `.md` do repositório, incluindo subpastas, sem alterar as regras. A busca consulta títulos, caminhos e conteúdo, sem distinguir acentos. O leitor oferece sumário, links entre capítulos, download do Markdown e impressão/PDF pelo navegador. A página inicial destaca a criação, o guia de mesa, as origens e o equipamento inicial. A busca lateral permite incluir histórico e decisões.
 
 ## Aparência
 
@@ -44,7 +44,7 @@ Os textos são convertidos com Marked e sanitizados antes da publicação. O por
 
 ## Organização dos capítulos
 
-As regras atuais ficam nas sete subpastas de regras/, cada uma com README de categoria. O índice geral é [regras/README.md](../regras/README.md). A classificação e a ordem do portal ficam em navigation.mjs; a geração inclui essa informação em documents.json.
+Os guias dos jogadores ficam em `jogador/`. Os endereços anteriores em `referencias/` continuam acessíveis. As regras atuais ficam nas sete subpastas de regras/, cada uma com README de categoria. O índice geral é [regras/README.md](../regras/README.md). A classificação e a ordem do portal ficam em navigation.mjs; a geração inclui essa informação em documents.json.
 
 A consulta inicial mostra os capítulos atuais. A opção “Incluir histórico e desenvolvimento” adiciona registros, planejamento e instruções. Páginas marcadas com o comentário de compatibilidade permanecem acessíveis por links anteriores, mas não duplicam os capítulos na busca ou no menu.
 

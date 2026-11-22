@@ -1,8 +1,8 @@
 # Testes, pressão e graus de sucesso
 
-[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
+[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../jogador/criacao-de-personagem.md)
 
-**Direção confirmada; aplicação provisória para playtest — 16/11/2026.** Esta versão substitui o teto de pressão, a proficiência pela metade e o pleno pela margem natural. [Registro e alcance](../../design/decisoes.md#2026-11-16--núcleo-de-dados-ajuda-e-sandbox).
+Esta versão substitui o teto de pressão, a proficiência pela metade e o pleno pela margem natural. [Registro e alcance](../../design/decisoes.md#2026-11-16--núcleo-de-dados-ajuda-e-sandbox).
 
 ## Rolagem e pressão
 
@@ -61,15 +61,11 @@ Fora de combate, nova tentativa nas mesmas condições exige mudança relevante 
 
 Pleno não elimina PA, materiais obrigatórios ou riscos explicitamente mantidos pela fonte. Não inventar uma punição depois do teste apenas porque o sucesso não foi pleno. Natural 20 abaixo de DT +5 não é pleno automático.
 
-## Extremo
-
-**Pendente.** A antiga regra vinculada a atributo 10 e às margens naturais não se aplica ao núcleo 0–5. Atributos acima de 5 continuam concedendo dados; extremo não está ativo neste playtest. Não criar benefícios por cada cinco pontos além do pleno.
-
 ## Naturais e testes opostos
 
 O d20 escolhido determina os naturais: **1 falha; 20 sucede**, desde que a tentativa seja possível. Não aplicar o desastre do rascunho que permitia sucesso com 1. Em ataques, preservar também o crítico específico de +2 dano; pesado/brutal dependem do total contra Defesa +5/+10.
 
-Em oposição, compare os totais; dois naturais 20 também comparam totais. **Pendente:** a prioridade dos naturais diferentes contra os totais adversários. A aprovação de 16/11 confirmou 1/20 gerais, mas não detalhou esse conflito; anunciar e registrar a arbitragem antes do teste. Priorizar 20 sobre rolagem comum é uma possibilidade para avaliar, não uma regra aprovada.
+Em oposição, compare os totais; dois naturais 20 também comparam totais. Em caso de conflito entre um natural e o total adversário, anuncie a arbitragem antes de rolar.
 
 Igualdade de totais favorece o atacante/iniciador. Sem iniciador definido, preservar o desempate existente: maior máximo da Parte da Alma utilizada e, persistindo, nova rolagem entre empatados. A proposta de empate inconclusivo da v0.1 não foi escolhida expressamente. Esquivar preserva sua comparação estrita como regra específica; ver [defesas](../combate/defesas.md).
 
@@ -81,4 +77,12 @@ Igualdade de totais favorece o atacante/iniciador. Sem iniciador definido, prese
 
 Aplicar a penalidade aos testes da ação repetida; uma ação sem teste não ganha custo extra ou rolagem só por ser repetida. Fora do próprio turno, não recebe nem avança esse contador. O novo turno na rodada seguinte reinicia as contagens mesmo quando o personagem passa a iniciativa para si mesmo.
 
-Leve preserva a exceção do primeiro ataque repetido; consultar [ataques](../combate/ataques-e-dano.md). Ajudar usa somente a redução d8 → d6 → d4, sem outra penalidade de repetição. Efeitos específicos continuam definindo frequência e requisitos. Ações com várias etapas não são contadas uma vez por dado: contar a execução da ação.
+Ágil preserva a exceção do primeiro ataque repetido; consultar [ataques](../combate/ataques-e-dano.md). Ajudar usa somente a redução d8 → d6 → d4, sem outra penalidade de repetição. Efeitos específicos continuam definindo frequência e requisitos. Ações com várias etapas não são contadas uma vez por dado: contar a execução da ação.
+
+## Observações de playtest
+
+### Extremo
+
+**Pendente.** A antiga regra vinculada a atributo 10 e às margens naturais não se aplica ao núcleo 0–5. Atributos acima de 5 continuam concedendo dados; extremo não está ativo neste playtest. Não criar benefícios por cada cinco pontos além do pleno.
+- **Pendente:** a prioridade dos naturais diferentes contra os totais adversários. A aprovação de 16/11 confirmou 1/20 gerais, mas não detalhou esse conflito; anunciar e registrar a arbitragem antes do teste. Priorizar 20 sobre rolagem comum é uma possibilidade para avaliar, não uma regra aprovada.
+- Direção confirmada; aplicação provisória para playtest — 16/11/2026.

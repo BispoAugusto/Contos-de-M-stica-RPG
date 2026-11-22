@@ -3,11 +3,11 @@ const categories = [
   ['personagem', 'Personagem', ['README.md', 'proficiencias.md', 'pericias.md', 'idiomas.md', 'valores-da-ficha.md']],
   ['origens', 'Origens e espécies', ['README.md', 'humanos.md', 'feericos.md', 'bestiais.md', 'draconicos.md', 'verdantes.md', 'runicos.md']],
   ['combate', 'Combate', ['README.md', 'turnos-e-iniciativa.md', 'ataques-e-dano.md', 'defesas.md', 'tipos-de-dano.md', 'manobras.md', 'condicoes.md', 'acoes-taticas.md', 'aberturas.md', 'npcs.md', 'moral-e-retirada.md', 'postura.md']],
-  ['equipamentos', 'Equipamentos', ['README.md', 'armas.md', 'armaduras-e-escudos.md', 'porte-e-inventario.md']],
+  ['equipamentos', 'Equipamentos', ['README.md', 'equipamento-inicial.md', 'armas.md', 'armaduras-e-escudos.md', 'itens-gerais.md', 'porte-e-inventario.md']],
   ['exploracao', 'Exploração', ['README.md', 'tempo-e-viagens.md', 'suprimentos-e-acampamento.md', 'encontros-e-reacoes.md', 'atividades.md', 'faccoes-e-projetos.md', 'movimento.md', 'quedas.md']],
   ['recuperacao', 'Descanso e sobrevivência', ['README.md', 'descansos.md', 'exaustao.md', 'morte-e-recuperacao.md']],
 ];
-const starting = ['README.md', 'referencias/criacao-de-personagem.md', 'regras/README.md', 'referencias/guia-rapido.md', 'referencias/glossario.md', 'ESTADO-DO-PROJETO.md'];
+const starting = ['jogador/criacao-de-personagem.md', 'README.md', 'regras/README.md', 'jogador/guia-rapido.md', 'jogador/glossario.md'];
 export function navigationFor(id, markdown) {
   if (markdown.includes('<!-- navegacao:compatibilidade -->')) {
     return { group: 'Links anteriores', groupOrder: 99, order: 99, compatibility: true, development: false };

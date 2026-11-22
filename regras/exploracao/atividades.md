@@ -1,7 +1,5 @@
 # Atividades entre aventuras
 
-**Provisório para playtest — aprovado em 16/11/2026; revisar após uso em mesa.**
-
 [Índice de regras](../README.md) · [Categoria](README.md)
 
 ## Atividades entre aventuras
@@ -22,3 +20,7 @@ Cada atividade tem **objetivo, duração, requisitos, custo e resultado esperado
 Requisitos disponíveis e tempo suficiente podem garantir o resultado básico. Pressa, sigilo, material inadequado ou competição podem justificar teste e risco. Pleno pode economizar uma parcela de tempo ou recursos anunciada, mas não duplica automaticamente toda recompensa.
 
 Atividades não concedem aumentos de atributo/proficiência por mera passagem de tempo; progressão continua dependente de desenvolvimento. Recuperação básica de Alma é automática no [descanso curto](../recuperacao/descansos.md), não uma atividade.
+
+## Observações de playtest
+
+- Provisório para playtest — aprovado em 16/11/2026; revisar após uso em mesa.

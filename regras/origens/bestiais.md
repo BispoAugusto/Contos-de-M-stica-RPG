@@ -1,6 +1,6 @@
 # Bestiais
 
-[Catálogo de playtest](README.md) · [Criação](../../referencias/criacao-de-personagem.md)
+[Origens e espécies](README.md) · [Criação](../../jogador/criacao-de-personagem.md)
 
 Bestiais são humanoides com características animais.
 

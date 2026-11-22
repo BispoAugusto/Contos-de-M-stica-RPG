@@ -1,7 +1,5 @@
 # Moral e retirada
 
-**Provisório para playtest — aprovado em 16/11/2026; revisar após uso em mesa.**
-
 [Índice de regras](../README.md) · [Categoria](README.md)
 
 ### Moral dos adversários
@@ -27,6 +25,11 @@ O grupo pode declarar retirada. Se os adversários não querem ou não podem per
 
 Com perseguição incerta, o mestre apresenta o obstáculo e resolve a manobra de fuga pelo teste ou oposição pertinente. Em uma oposição para escapar, quem foge inicia essa ação. Preparação de rota, bloqueios e distrações modificam as condições antes da rolagem.
 
-Falhar pode custar distância, equipamento, tempo ou uma posição segura; não significa automaticamente que todos morrem. Ataques ou danos decorrentes precisam seguir as regras de combate aplicáveis. Fuga coletiva complexa e perseguição prolongada ainda precisam de procedimento próprio; não usar silenciosamente uma única ficha para decidir destinos incompatíveis de todo o grupo.
+Falhar pode custar distância, equipamento, tempo ou uma posição segura; não significa automaticamente que todos morrem. Ataques ou danos decorrentes precisam seguir as regras de combate aplicáveis.
 
 Inspiração: [Worlds Without Number — Morale Checks & Fleeing](https://wwn.quadrifons.com/5.0%20Monsters%20and%20Foes/Morale%20Checks%20and%20Fleeing.html) e [Cairn](https://cairnrpg.com/second-edition/players-guide/core-rules/). A escala e o limite de checagens são de CdM.
+
+## Observações de playtest
+
+- Provisório para playtest — aprovado em 16/11/2026; revisar após uso em mesa.
+- Fuga coletiva complexa e perseguição prolongada ainda precisam de procedimento próprio; não usar silenciosamente uma única ficha para decidir destinos incompatíveis de todo o grupo.

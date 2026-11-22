@@ -1,6 +1,6 @@
 # Féericos
 
-[Catálogo de playtest](README.md) · [Criação](../../referencias/criacao-de-personagem.md)
+[Origens e espécies](README.md) · [Criação](../../jogador/criacao-de-personagem.md)
 
 Originários de Miridiano, os Féericos nascem da magia da natureza.
 

@@ -1,11 +1,8 @@
 # Manobras iniciais
 
-> **Equipamentos — 17/11/2026:** o [catálogo atual](../equipamentos/armas.md) define Pesada/Lenta e dano final. Escudos não exigem proficiência. Custos de Lenta não contam como investimento em Golpe Devastador.
+o [catálogo atual](../equipamentos/armas.md) define Pesada/Lenta e dano final. Escudos não exigem proficiência. Custos de Lenta não contam como investimento em Golpe Devastador.
 
-> **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
-
-
-[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
+[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../jogador/criacao-de-personagem.md)
 
 **Princípios confirmados, números para playtest.** Manobras ofensivas declaradas antes da rolagem, normalmente substituem dano pelo efeito; em geral 1 vez por rodada salvo exceção. Podem ser Independentes, Modificadores de Ataque ou Reações.
 
@@ -17,8 +14,8 @@
 | Golpe de Derrubada | Independente | 1 PA, teste vs Defesa, derruba sem dano |
 | Desarme Preciso | Independente | 1 PA, teste vs Defesa, desarma sem dano |
 | Investida | Independente | 1 PA além do movimento, empurra sem dano |
-| Interceptar | Reação | 1 PA, redireciona ataque a si, usa própria Defesa; alcance pendente |
-| Ataque de Oportunidade | Reação geral aprendível | Sair do alcance da arma provoca ataque; 1 PA e 1/rodada são provisórios |
+| Interceptar | Reação | 1 PA, redireciona ataque a si, usa própria Defesa |
+| Ataque de Oportunidade | Reação geral aprendível | Sair do alcance da arma provoca ataque; 1 PA, uma vez por rodada |
 
 Equilíbrio pode proteger inimigos de efeitos de controle.
 
@@ -48,7 +45,7 @@ Ver [armas](../equipamentos/armas.md), [combate](README.md) e [pendências](../.
 
 ## Bloquear com escudo — reação básica de playtest
 
-**Atualizado em 17/11/2026.** Bloquear é o nome atual de Defender. Não exige proficiência, aprender manobra nem Preparar Ação; exige escudo ou meio especial autorizado. Escudo empunhado concede +1 Defesa; Bloquear custa 1 PA antes do resultado, sem rolagem, e concede RD física 2 contra aquele ataque. O PA é gasto mesmo se o ataque errar. Ver [defesas](defesas.md) e [proteções](../equipamentos/armaduras-e-escudos.md).
+Bloquear é o nome atual de Defender. Não exige proficiência, aprender manobra nem Preparar Ação; exige escudo ou meio especial autorizado. Escudo empunhado concede +1 Defesa; Bloquear custa 1 PA antes do resultado, sem rolagem, e concede RD física 2 contra aquele ataque. O PA é gasto mesmo se o ataque errar. Ver [defesas](defesas.md) e [proteções](../equipamentos/armaduras-e-escudos.md).
 
 Só uma reação defensiva por ocorrência: Esquivar ou Bloquear. Pode combinar com RD passiva de armadura. Duas Ágeis constituem uma instância; ataques expressamente com várias instâncias recebem RD por instância, mantendo uma reação por ocorrência. Esta reação não segue o limite geral de uma manobra por rodada.
 
@@ -58,8 +55,15 @@ Nome anterior, preservado para links; consultar [Bloquear](#bloquear-com-escudo-
 
 ## Integração de 2026-10-19
 
-Golpe Devastador exige aprendizado, não vem automaticamente de Pesada. O antigo direcionamento por Foco foi substituído; aplicação em arremesso de uma arma corpo a corpo Pesada permanece pendente, sem autorização automática. Mantêm-se os requisitos atuais e até três PA investidos. A frequência geral de uma vez por rodada permanece até aprovação de exceção; o acúmulo de PA não concede usos extras.
+Golpe Devastador exige aprendizado, não vem automaticamente de Pesada. Mantêm-se os requisitos atuais e até três PA investidos. A frequência geral de uma vez por rodada permanece até aprovação de exceção; o acúmulo de PA não concede usos extras.
 
 Ataques fora do próprio turno, inclusive Ataque de Oportunidade, **não recebem nem avançam Desvantagens por repetição**. No próprio turno, modificadores de ataque usam a posição do ataque; manobras independentes não entram. Ataques não podem ser forçados, inclusive com Golpe Devastador ou Ataque de Oportunidade. Manobras independentes que não sejam ataques seguem as regras gerais de testes permitidos.
 
 Testes opostos seguem [testes](../fundamentos/testes.md): empate favorece quem inicia a tentativa, inclusive uma fuga. Bloquear só pode reduzir dano de área/efeito automático com autorização expressa e compatível da fonte, além da capacidade de reagir; o teste obrigatório do efeito é separado da única ação defensiva. RD física não reduz elementos. Ver [proteções](../equipamentos/armaduras-e-escudos.md).
+
+## Observações de playtest
+
+- O alcance de Interceptar está em aberto. Custo e frequência do Ataque de Oportunidade são provisórios.
+- A [revisão de combate e exploração](../revisao-playtest-2026-10-29.md) registra o alcance das regras de playtest.
+- Atualizado em 17/11/2026.
+- O antigo direcionamento por Foco foi substituído; aplicação em arremesso de uma arma corpo a corpo Pesada permanece pendente, sem autorização automática.

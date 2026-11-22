@@ -1,12 +1,10 @@
 # Ataques, repetição e dano
 
-> **Equipamentos — 17/11/2026:** Ágil é o nome atual de Leve. Lenta acrescenta 1 PA a ataques com a arma após qualquer ataque anterior no próprio turno; não substitui repetição nem concede dano. [Catálogo](../equipamentos/armas.md).
+Ágil é o nome atual de Leve. Lenta acrescenta 1 PA a ataques com a arma após qualquer ataque anterior no próprio turno; não substitui repetição nem concede dano. [Catálogo](../equipamentos/armas.md).
 
-> **16/11/2026:** ataques partem de Q = 1; outras ações também têm [repetição no próprio turno](../fundamentos/testes.md#repetição-de-ações). Ataques mantêm sua contagem compartilhada e exceções de Ágil. Natural 1 falha; natural 20 acerta uma tentativa possível e acrescenta o crítico de +2 dano.
+ataques partem de Q = 1; outras ações também têm [repetição no próprio turno](../fundamentos/testes.md#repetição-de-ações). Ataques mantêm sua contagem compartilhada e exceções de Ágil. Natural 1 falha; natural 20 acerta uma tentativa possível e acrescenta o crítico de +2 dano.
 
-
-
-[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
+[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../jogador/criacao-de-personagem.md)
 
 **Núcleo confirmado; valores de equipamentos permanecem de playtest.**
 
@@ -54,7 +52,7 @@ A proficiência não altera o dano base. Golpes Desarmados comuns mantêm base 0
 
 Duas Ágeis em mãos distintas: 1 PA, uma rolagem, base principal + metade da base secundária arredondada para cima. Usar a **menor proficiência**, mesmo 0, sem teto de atributo no ataque comum. Aberturas usam o ataque comum. Bônus e RD uma vez, uma instância, um ataque. Pode atacar só com uma arma usando sua própria proficiência; se for Ágil, mantém o benefício de repetição.
 
-Golpe Devastador é uma **manobra aprendida**, exige Pesada e não é característica automática da propriedade. Modifica um ataque: 1 PA do ataque + até 3 PA investidos, +2 dano por PA investido (máximo +6). Pagar também o custo de Lenta quando aplicável, sem obter dano por esse custo. A aplicação em arremesso de arma corpo a corpo Pesada continua pendente de texto específico, sem importar o antigo direcionamento por Foco. Ver [manobras](manobras.md).
+Golpe Devastador é uma **manobra aprendida**, exige Pesada e não é característica automática da propriedade. Modifica um ataque: 1 PA do ataque + até 3 PA investidos, +2 dano por PA investido (máximo +6). Pagar também o custo de Lenta quando aplicável, sem obter dano por esse custo. Ver [manobras](manobras.md).
 
 ## Ataque direcionado — experimental
 
@@ -63,3 +61,7 @@ Golpe Devastador é uma **manobra aprendida**, exige Pesada e não é caracterí
 ## Propriedades físicas — 2026-11-04
 
 **Substituído em 18/11/2026:** os tipos físicos não aplicam efeitos automáticos. Sangramento e outras interações exigem fonte específica; melhorias, manobras e maestrias serão desenvolvidas depois. Ver [tipos de dano](tipos-de-dano.md).
+
+## Observações de playtest
+
+- A aplicação em arremesso de arma corpo a corpo Pesada continua pendente de texto específico, sem importar o antigo direcionamento por Foco.

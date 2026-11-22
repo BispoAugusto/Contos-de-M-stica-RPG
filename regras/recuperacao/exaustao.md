@@ -6,7 +6,8 @@
 
 ## Fontes de exaustão
 
-- Perdas ou custos que as reservas de Corpo, Mente ou Espírito já não consigam cobrir; a conversão numérica ainda será definida.
+Quando uma reserva não cobre uma perda ou custo, a parcela que falta gera exaustão.
+
 - Sucesso no teste de Vigor para evitar a morte: recebe **1 ponto de exaustão**, sem perder Corpo adicionalmente.
 - Efeitos e circunstâncias que determinem desgaste, como privação de alimento, água ou sono, eventos traumáticos e habilidades. Quantidades e frequência precisam estar descritas; uma falha comum não causa desgaste automaticamente.
 
@@ -25,7 +26,6 @@ Para cada ponto recebido quando já estiver no nível 6, role **1d20**, com **DT
 - **Sucesso:** permanece no nível 6 e mantém o estado em que estava. O sucesso não causa penalidade adicional.
 - **Falha:** perde o personagem. O desfecho decorre da causa do excesso.
 - A DT aumenta em **5** a cada novo teste na mesma cena. Ao terminar a cena, volta a **5**. Se receber vários pontos excedentes de uma vez, resolva um de cada vez, interrompendo se perder o personagem.
-- Ainda falta definir se os naturais 1/20 têm efeitos especiais nesta rolagem e como tratar DTs acima de 20.
 
 ## Penalidades e recuperação
 
@@ -33,8 +33,15 @@ Cada ponto de exaustão aplica **−1 a todos os testes do personagem**, salvo e
 
 Um descanso curto adequado remove **1 ponto**, **uma vez por período**. Um descanso longo adequado remove **3 pontos**, ou **2** se dormir menos para realizar uma ação extra. A recuperação de exaustão é separada da recuperação das reservas. [Descansos](descansos.md).
 
-Privação impede considerar adequado um descanso que exija alimento, hidratação e sono. Namarés precisam beber e molhar o corpo. O Namaré que deixou de molhar a pele recebe 1 exaustão no fim do dia. Cobre a falta de umidade uma vez. Quanto cada privação retira das reservas ou acrescenta de exaustão está pendente de conversão.
+Privação impede considerar adequado um descanso que exija alimento, hidratação e sono. Namarés precisam beber e molhar o corpo. O Namaré que deixou de molhar a pele recebe 1 exaustão no fim do dia. Cobre a falta de umidade uma vez.
 
 ## Traumas
 
-**Desenvolvimento adiado pelo criador.** Traumas físicos e mentais devem ter consequências narráveis e simples. Não aplicar uma lista improvisada de penalidades, trauma automático por zerar reserva ou uma sequência definitiva de leve/profundo como regra aprovada. Gatilhos já indicados e propostas a revisar estão em [morte e recuperação](morte-e-recuperacao.md#sequelas-e-pendências) e [pendências](../../design/pendencias.md#reservas-exaustão-morrendo-e-traumas--2026-11-18).
+Não aplicar uma lista improvisada de penalidades, trauma automático por zerar reserva ou uma sequência definitiva de leve/profundo como regra aprovada. Gatilhos já indicados e propostas a revisar estão em [morte e recuperação](morte-e-recuperacao.md#sequelas-e-pendências) e [pendências](../../design/pendencias.md#reservas-exaustão-morrendo-e-traumas--2026-11-18).
+
+## Observações de playtest
+
+- Perdas ou custos que as reservas de Corpo, Mente ou Espírito já não consigam cobrir; a conversão numérica ainda será definida.
+- Ainda falta definir se os naturais 1/20 têm efeitos especiais nesta rolagem e como tratar DTs acima de 20.
+- Quanto cada privação retira das reservas ou acrescenta de exaustão está pendente de conversão.
+- **Desenvolvimento adiado pelo criador.** Traumas físicos e mentais devem ter consequências narráveis e simples.

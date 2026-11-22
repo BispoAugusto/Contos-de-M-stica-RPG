@@ -1,6 +1,6 @@
 # Fundamentos — índice
 
-[Todas as categorias](../README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
+[Todas as categorias](../README.md) · [Criar personagem](../../jogador/criacao-de-personagem.md)
 
 | Capítulo | Conteúdo |
 |---|---|

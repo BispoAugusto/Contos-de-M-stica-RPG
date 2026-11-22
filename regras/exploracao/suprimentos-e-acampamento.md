@@ -1,7 +1,5 @@
 # Suprimentos e acampamento
 
-**Provisório para playtest — aprovado em 16/11/2026; revisar após uso em mesa.**
-
 [Índice de regras](../README.md) · [Categoria](README.md)
 
 ### Suprimentos sem contabilidade excessiva
@@ -10,10 +8,9 @@ No primeiro teste, cada personagem consome **1 ração por dia** e precisa de á
 
 Conhecer uma fonte, contratar um guia ou estabelecer um depósito altera a expedição de modo concreto. Suprimentos não são consumidos uma vez por cada rolagem.
 
-Se faltar comida ou água, registre a privação e aplique os efeitos existentes quando disponíveis. Ela impede o descanso longo plenamente recuperador definido aqui. O custo de privação em reservas/exaustão está pendente de calibração na revisão de 18/11; não converter automaticamente o antigo 1 PE em um ponto da nova trilha. Consultar [exaustão](../recuperacao/exaustao.md). Não cobrar a mesma privação outra vez por evento.
+Se faltar comida ou água, registre a privação e aplique os efeitos existentes quando disponíveis. Ela impede o descanso longo plenamente recuperador definido aqui. Consultar [exaustão](../recuperacao/exaustao.md). Não cobrar a mesma privação outra vez por evento.
 
 Inspiração: [Cairn 2e — Procedures](https://cairnrpg.com/second-edition/players-guide/procedures/). Valores e integrações acima são adaptações de CdM.
-
 
 ## Carga, abrigo e guardas
 
@@ -22,3 +19,8 @@ Inspiração: [Cairn 2e — Procedures](https://cairnrpg.com/second-edition/play
 Tochas duram **1 período** cada; lanternas **2 períodos por carga**. Para iluminação, período equivale à vigília de aproximadamente 8 horas. Não contar turnos de exploração só para consumir luz. Condições concretas podem apagá-la antes; apagar/reacender não renova combustível. O catálogo detalha os lotes.
 
 Montar acampamento integra a vigília de descanso. Escolher abrigo, água, ocultação e guardas; teste apenas se houver dificuldade real. Sono suficiente pode coexistir com guardas compartilhadas. Um evento não cancela descanso automaticamente: resolver sua consequência concreta. Ver [descansos](../recuperacao/descansos.md) e [inventário](../equipamentos/porte-e-inventario.md).
+
+## Observações de playtest
+
+- Provisório para playtest — aprovado em 16/11/2026; revisar após uso em mesa.
+- O custo de privação em reservas/exaustão está pendente de calibração na revisão de 18/11; não converter automaticamente o antigo 1 PE em um ponto da nova trilha.

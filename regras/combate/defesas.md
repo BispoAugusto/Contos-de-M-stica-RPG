@@ -1,7 +1,5 @@
 # Defesas, reações e efeitos de área
 
-**Modelo de 04/11; quantidade de dados aprovada para playtest em 16/11/2026.**
-
 ## Defesa passiva
 
 **Defesa = 8 + bônus de proficiência em Vigor.** Vigor nível 2 concede +4 e Defesa 12. Sem treino, Defesa 8. Escudo empunhado acrescenta +1, sem exigir proficiência (atualização de 17/11). Atributo, pressão e armadura não limitam o bônus usado nessa fórmula passiva.
@@ -36,3 +34,7 @@ Exposto ignora toda RD contra ataques, inclusive Bloquear, sem remover Defesa ou
 ## Defesas e efeitos automáticos
 
 Esquivar e Bloquear seguem os procedimentos acima. Efeitos automáticos mantêm seus próprios testes de resistência.
+
+## Observações de playtest
+
+- Modelo de 04/11; quantidade de dados aprovada para playtest em 16/11/2026.

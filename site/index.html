@@ -1,34 +1,59 @@
 <!doctype html>
 <html lang="pt-BR">
 <head>
-  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#141a18">
-  <meta name="color-scheme" content="dark">
-  <meta name="description" content="Biblioteca de regras, decisões e mudanças de Contos de Mística RPG.">
-  <title>Contos de Mística · Biblioteca do sistema</title>
-  <link rel="stylesheet" href="style.css"><script src="app.js" defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#111b26">
+  <meta name="description" content="Crie sua ficha e consulte as regras de Contos de Mística RPG.">
+  <title>Contos de Mística · Manual do jogador</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
 </head>
 <body>
   <a class="skip" href="#content">Ir para o conteúdo</a>
   <aside class="sidebar">
-    <a class="brand" href="#"><span class="sigil">✧</span><span>CONTOS DE MÍSTICA<small>Biblioteca do sistema</small></span></a>
-    <label for="search">BUSCAR NA BIBLIOTECA</label>
-    <input id="search" type="search" placeholder="Regra, termo ou capítulo…" autocomplete="off">
-    <label class="history-filter"><input id="show-development" type="checkbox"> Incluir histórico e desenvolvimento</label>
-    <p id="count" class="muted" aria-live="polite">Carregando documentos…</p>
-    <nav id="navigation" aria-label="Documentos por categoria"></nav>
-    <a class="repo" href="https://github.com/BispoAugusto/Contos-de-M-stica-RPG" target="_blank" rel="noopener">Repositório no GitHub ↗</a>
+    <a class="brand" href="#"><span class="sigil" aria-hidden="true">✧</span><span>Contos de Mística<small>Manual do jogador</small></span></a>
+    <button type="button" id="menu" aria-controls="side-content" aria-expanded="false">Buscar e navegar</button>
+    <div id="side-content">
+      <label for="search">Buscar no manual</label>
+      <input id="search" type="search" placeholder="Ex.: Vigor, escudo, descanso…" autocomplete="off">
+      <p id="count" class="muted" aria-live="polite">Carregando capítulos…</p>
+      <nav id="navigation" aria-label="Capítulos por assunto"></nav>
+      <label class="history-filter"><input id="show-development" type="checkbox"> Incluir material de desenvolvimento</label>
+    </div>
   </aside>
   <main id="content" tabindex="-1">
-    <header class="topbar"><span>CdM RPG <span class="divider">/</span> COMPÊNDIO VIVO</span><button id="print" type="button">Imprimir / PDF</button></header>
     <div id="home">
-      <section class="hero"><p class="eyebrow">REGRAS · PERSONAGENS · PLAYTEST</p><h1>Encontre sua próxima aventura.<br><em>Uma etapa de cada vez.</em></h1><p>Crie seu personagem ou consulte as regras organizadas por assunto.</p><a class="primary" href="#doc=referencias%2Fcriacao-de-personagem.md">Criar meu personagem <span>↗</span></a></section>
-      <div class="quick"><a href="#doc=regras%2FREADME.md"><small>01 / CONSULTAR</small><h2>Índice de regras ↗</h2><p>Sete categorias e atalhos para as dúvidas de mesa.</p></a><a href="#doc=regras%2Forigens%2FREADME.md"><small>02 / ESCOLHER</small><h2>Origens e espécies ↗</h2><p>Compare as opções e abra a origem que deseja conhecer.</p></a><a href="#doc=referencias%2Fguia-rapido.md"><small>03 / JOGAR</small><h2>Guia rápido de mesa ↗</h2><p>Rolagens, ações, defesas e recuperação à mão.</p></a></div>
-      <p class="project-links"><a href="#doc=ESTADO-DO-PROJETO.md">Estado do projeto</a> · <a href="#doc=CHANGELOG.md">Mudanças</a> · <a href="#doc=design%2Fpendencias.md">Pendências</a></p>
-      <section><div class="section-heading"><h2>Explore a biblioteca</h2><span id="total" class="muted"></span></div><div id="library" class="library"></div></section>
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Contos de Mística RPG</p>
+          <h1>Manual do jogador</h1>
+          <p>Escolha sua origem, distribua seus atributos e descubra o que levar para a primeira aventura.</p>
+          <a class="primary" href="#doc=jogador%2Fcriacao-de-personagem.md">Criar meu personagem <span aria-hidden="true">→</span></a>
+        </div>
+        <div class="pillars" aria-label="Os três pilares da Alma">
+          <span class="pillar body"><img src="assets/icon_body.png" alt="">Corpo</span>
+          <span class="pillar mind"><img src="assets/icon_mind.png" alt="">Mente</span>
+          <span class="pillar spirit"><img src="assets/icon_spirit.png" alt="">Espírito</span>
+        </div>
+      </section>
+      <h2>À mão durante a sessão</h2>
+      <div class="quick">
+        <a href="#doc=jogador%2Fguia-rapido.md"><strong>Guia rápido</strong><span>Testes, ações e reações</span></a>
+        <a href="#doc=regras%2Forigens%2FREADME.md"><strong>Origens e espécies</strong><span>Compare portes, traços e reservas</span></a>
+        <a href="#doc=regras%2Fequipamentos%2Fequipamento-inicial.md"><strong>Equipamento inicial</strong><span>Monte o kit e confira a carga</span></a>
+      </div>
+      <section aria-labelledby="catalog-title"><div class="section-heading"><h2 id="catalog-title">Capítulos por assunto</h2><span id="total" class="muted"></span></div><div id="library" class="library"></div></section>
     </div>
-    <section id="reader" hidden><a class="back" href="#">← Biblioteca</a><p id="breadcrumb" class="eyebrow"></p><h1 id="document-title"></h1><div class="document-meta"><span id="updated"></span><a id="source" target="_blank" rel="noopener">Ver no GitHub ↗</a><a id="download" download>Baixar Markdown ↓</a></div><details id="toc"><summary>Nesta página</summary><nav></nav></details><article id="article"></article></section>
+    <section id="reader" hidden>
+      <header class="reader-tools"><a class="back" href="#">← Início do manual</a><button id="print" type="button">Imprimir / PDF</button></header>
+      <p id="breadcrumb" class="eyebrow"></p><h1 id="document-title"></h1>
+      <details id="toc"><summary>Nesta página</summary><nav aria-label="Seções do capítulo"></nav></details>
+      <article id="article"></article>
+      <div class="document-meta"><span id="updated"></span><a id="download" download>Baixar capítulo</a><a id="source" target="_blank" rel="noopener">Original no GitHub ↗</a></div>
+    </section>
     <p id="error" role="alert" hidden></p>
-    <footer>Contos de Mística · As regras mantêm os status indicados nos documentos originais.</footer>
+    <footer><a href="#">Contos de Mística RPG</a><a href="#doc=design%2Fpendencias.md">Pendências do sistema</a></footer>
   </main>
-</body></html>
+</body>
+</html>

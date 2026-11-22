@@ -1,6 +1,6 @@
 # Equipamentos — índice
 
-[Todas as categorias](../README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
+[Todas as categorias](../README.md) · [Criar personagem](../../jogador/criacao-de-personagem.md)
 
 **Consolidação de 17/11/2026.** Estruturas aprovadas e parâmetros de playtest estão identificados em cada capítulo. Fabricação e receitas permanecem adiadas.
 

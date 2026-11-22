@@ -1,4 +1,15 @@
-# Pendências — estado de 2026-10-25
+# Pendências do sistema
+
+## Criação de personagem
+
+| Assunto | O que falta definir |
+|---|---|
+| Progressão e habilidades | Aquisição após a criação, árvores, conjuração e custos |
+| Origens mistas | Combinação de espécies e concessão de traços |
+| Perícias | Escopo de Linguagens e Espiritualismo e relação com idiomas, Religião e Ocultismo |
+| Equipamento | Efeitos dos catalisadores, preços, riqueza inicial e receitas |
+
+O [guia de criação](../jogador/criacao-de-personagem.md) reúne as escolhas disponíveis para a primeira sessão.
 
 **22/11/2026 — Playtest de raças e descansos.** [Catálogo](../regras/origens/README.md), [descansos](../regras/recuperacao/descansos.md) e [proficiências](../regras/personagem/proficiencias.md) prevalecem sobre registros anteriores nesses assuntos.
 

@@ -15,7 +15,7 @@ Oito horas com alimento, água, abrigo e sono ou equivalente. Guardas leves comp
 | Ação | Resolução |
 |---|---|
 | Cuidar de feridas | Trate a si ou a outro personagem, conforme a tabela abaixo. |
-| Trabalhar em um projeto | Combine com o mestre uma etapa que caiba no tempo e os requisitos necessários. Habilidades e fabricação receberão detalhamento futuro. |
+| Trabalhar em um projeto | Combine com o mestre uma etapa que caiba no tempo e os requisitos necessários. |
 | Caçar | Procure e obtenha caça nas imediações, conforme tempo, terreno e sinais de presas. |
 | Coletar | Procure recursos disponíveis no local, como água, frutos ou ervas. |
 
@@ -30,8 +30,12 @@ O cuidador gasta uma ação. O paciente conserva suas ações. O tratamento remo
 | Você | 2 + Resiliência | 4 + Resiliência |
 | Outro | 2 + bônus de Medicina | 4 + bônus de Medicina |
 
-No curto elegível, some todos os tratamentos. Um personagem com Resiliência 2 que cuida de si e recebe cuidados de alguém com Medicina +4 recupera até **10 PV** (4 + 6). No longo, para o playtest, cada paciente recebe até um tratamento. Sem tratamento ou efeito específico, o descanso longo por si só não remove Ferido.
+No curto elegível, some todos os tratamentos. Um personagem com Resiliência 2 que cuida de si e recebe cuidados de alguém com Medicina +4 recupera até **10 PV** (4 + 6). No longo, cada paciente recebe até um tratamento. Sem tratamento ou efeito específico, o descanso longo por si só não remove Ferido.
 
 ## Exceções de espécies
 
 Consulte [Verdantes](../origens/verdantes.md) para crescimento e socorro, [Féericos](../origens/feericos.md) para Transe e Vigor Verde e [Bestiais](../origens/bestiais.md) para hidratação e regeneração. No fim de período que coincida com o repouso, resolva primeiro os tratamentos e depois a regeneração elegível.
+
+## Observações de playtest
+
+O limite de um tratamento por paciente no descanso longo e a ordem entre tratamento e regeneração Namaré são convenções desta mesa. As opções de projeto ligadas a habilidades e fabricação seguem em [Pendências](../../design/pendencias.md).

@@ -11,7 +11,7 @@
 
 Aprovados para experimentar em 16/11/2026, com revisão posterior de valores e frequência.
 
-[Todas as categorias](../README.md) · [Guia rápido de mesa](../../referencias/guia-rapido.md)
+[Todas as categorias](../README.md) · [Guia rápido de mesa](../../jogador/guia-rapido.md)
 
 | Capítulo | Conteúdo |
 |---|---|

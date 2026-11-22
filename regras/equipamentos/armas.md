@@ -2,7 +2,7 @@
 
 [Índice de regras](../README.md) · [Categoria](README.md) · [Equipamento inicial](equipamento-inicial.md)
 
-**Atualizado em 17/11/2026. Catálogo e valores provisórios para playtest.** Consolida o esboço discutido; substitui a lista de 04/11 nos pontos alterados. Maestrias ficam para o desenvolvimento de habilidades. Não há resultado de sessão que comprove equilíbrio.
+Consolida o esboço discutido; substitui a lista de 04/11 nos pontos alterados. Maestrias ficam para o desenvolvimento de habilidades. Não há resultado de sessão que comprove equilíbrio.
 
 ## Base, família e atributo
 
@@ -63,7 +63,7 @@ A palavra “pesada” no nome de uma besta não concede a propriedade Pesada. A
 
 A contagem de Lenta é a mesma dos ataques: trocar arma não a reinicia. O custo adicional **não substitui a Desvantagem por repetição** e não gera o bônus de dano de Golpe Devastador. O primeiro ataque do turno com montante custa 1 PA; um segundo custa 2 PA e recebe 1 Desvantagem. Se o primeiro ataque foi com adaga, atacar em seguida com montante também custa 2 PA.
 
-Interações de Lenta com ataques expressamente gratuitos ou custos especiais ficam pendentes de descrição das habilidades. Custos de mudar a empunhadura, sacar e recuperar armas arremessadas precisam de detalhamento; a propriedade não os torna gratuitos.
+Custos de mudar a empunhadura, sacar e recuperar armas arremessadas precisam de detalhamento; a propriedade não os torna gratuitos.
 
 **Impacto** permanece disponível apenas quando uma arma específica ou habilidade o conceder: +1 dano em Pesado ou Brutal. Não se aplica automaticamente às armas da tabela.
 
@@ -91,7 +91,7 @@ Ataque combinado: **1 PA, uma rolagem, menor proficiência das duas armas e uma 
 
 **Base combinada = base da principal + metade da base da secundária, arredondada para cima.**
 
-Somar grau e crítico uma vez; aplicar RD uma vez. Duas adagas têm base 2; duas pistolas têm base 5. Divisão entre alvos e combinação de tipos de dano diferentes permanecem pendentes.
+Somar grau e crítico uma vez; aplicar RD uma vez. Duas adagas têm base 2; duas pistolas têm base 5.
 
 ### Duas armas Leves
 
@@ -99,7 +99,7 @@ Subtítulo preservado para links antigos; o nome atual é **Ágeis**.
 
 Com uma Ágil ou duas Ágeis, a sequência é normal, normal, 1 Desvantagem, 2 Desvantagens, mais 1 por ataque seguinte. **Não há teto geral de três Desvantagens** no núcleo de 16/11. A contagem é compartilhada entre armas.
 
-O benefício de repetição em uma combinação mista permanece pendente. A penalidade da combinação é separada da repetição; cancelar vantagens e desvantagens normalmente.
+A penalidade da combinação é separada da repetição; cancelar vantagens e desvantagens normalmente.
 
 ### Recarga de duas armas
 
@@ -113,7 +113,7 @@ O segundo ataque não sofre repetição por serem Ágeis. Não se exige guardar 
 
 ## Golpes Desarmados e armas naturais
 
-Golpes Desarmados comuns mantêm **base 0** para playtest, sem propriedades automáticas. Pesado acrescenta 1; Brutal 2; 20 natural acrescenta 2. Habilidades de pugilista ficam para desenvolvimento posterior.
+Golpes Desarmados comuns mantêm **base 0** para playtest, sem propriedades automáticas. Pesado acrescenta 1; Brutal 2; 20 natural acrescenta 2.
 
 **Feras:** garras, chifres e presas têm base igual ao nível de Armas Corpo a Corpo, mínimo 1.
 
@@ -131,4 +131,13 @@ Golpe Devastador exige habilidade e arma **corpo a corpo Pesada**. Custa 1 PA do
 
 Exemplo com 4 PA: primeiro ataque de montante por 1 PA; segundo, com Lenta e 1 PA investido em Devastador, custa 3 PA e causa base 4 +2 se acertar, antes de grau/crítico/RD. Investir mais exigiria PA disponíveis.
 
-Frequência segue [manobras](../combate/manobras.md); arremesso de uma arma corpo a corpo Pesada continua pendente. Maestrias não são concedidas por este catálogo.
+Maestrias não são concedidas por este catálogo.
+
+## Observações de playtest
+
+- Atualizado em 17/11/2026. Catálogo e valores provisórios para playtest.
+- Interações de Lenta com ataques expressamente gratuitos ou custos especiais ficam pendentes de descrição das habilidades.
+- Divisão entre alvos e combinação de tipos de dano diferentes permanecem pendentes.
+- O benefício de repetição em uma combinação mista permanece pendente.
+- Habilidades de pugilista ficam para desenvolvimento posterior.
+- Frequência segue [manobras](../combate/manobras.md); arremesso de uma arma corpo a corpo Pesada continua pendente.

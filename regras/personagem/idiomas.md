@@ -1,10 +1,6 @@
 # Idiomas
 
-
-
-[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
-
-**Provisório para playtest — atualizado em 2026-10-19.**
+[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../jogador/criacao-de-personagem.md)
 
 Opções: Comum, Bestial, Miridiano, Arak, Faarongiano, Primordial, Abissal, Dracônico e Umbral.
 
@@ -19,4 +15,9 @@ Um ponto compra dois níveis em idiomas, juntos ou distribuídos. Não pode mist
 
 Quando houver teste, use os dados do atributo escolhido, normalmente Raciocínio, e some o bônus de idioma integral e os modificadores. Fluente concede +2, não +4; pressão não o reduz. [Testes](../fundamentos/testes.md) definem seleção, naturais, pleno e Alma.
 
-Não somar automaticamente História, Arcanismo ou outra perícia. Testes sem nível no idioma, DT de complexidade e interação detalhada com conhecimentos continuam pendentes.
+Não somar automaticamente História, Arcanismo ou outra perícia.
+
+## Observações de playtest
+
+- Provisório para playtest — atualizado em 2026-10-19.
+- Testes sem nível no idioma, DT de complexidade e interação detalhada com conhecimentos continuam pendentes.

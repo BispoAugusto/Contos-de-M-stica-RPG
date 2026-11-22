@@ -36,6 +36,11 @@ for (const file of await walk(root)) {
 }
 docs.sort((a, b) => a.groupOrder - b.groupOrder || a.order - b.order || a.title.localeCompare(b.title, 'pt-BR'));
 await mkdir(out, { recursive: true });
+await mkdir(path.join(out, 'assets'), { recursive: true });
+for (const pillar of ['body', 'mind', 'spirit']) {
+  const icon = 'icon_' + pillar + '.png';
+  await copyFile(path.join(root, 'mesa-web', 'assets', icon), path.join(out, 'assets', icon));
+}
 for (const file of ['index.html', 'style.css', 'app.js']) await copyFile(path.join(root, 'site', file), path.join(out, file));
 await writeFile(path.join(out, 'documents.json'), JSON.stringify(docs));
 console.log(`Portal gerado: ${docs.length} documentos Markdown em dist/.`);

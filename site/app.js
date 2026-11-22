@@ -9,7 +9,7 @@ function catalog() {
   const visible = documents.filter(d => !d.compatibility && ($('show-development').checked || !d.development));
   const matches = visible.filter(d => terms.every(t => normalize(d.title + ' ' + d.group + ' ' + d.id + ' ' + d.text).includes(t)));
   $('count').textContent = `${matches.length} de ${visible.length} capítulos`;
-  $('total').textContent = `${visible.length} capítulos`;
+  $('total').textContent = `${matches.length} capítulos`;
   $('navigation').replaceChildren(); $('library').replaceChildren();
   const groups = [...new Set(visible.map(d => d.group))];
   for (const group of groups) {
@@ -20,18 +20,26 @@ function catalog() {
     const heading = document.createElement('summary'); heading.textContent = group; categoryNav.append(heading);
     categoryNav.addEventListener('toggle', () => { if (categoryNav.isConnected && !terms.length) expandedGroups.set(group, categoryNav.open); });
     $('navigation').append(categoryNav);
-    const section = document.createElement('div'); section.className = 'category';
-    const title = document.createElement('h3'); title.textContent = group; section.append(title);
+    const section = document.createElement('details'); section.className = 'category';
+    section.open = terms.length > 0;
+    const title = document.createElement('summary'); title.textContent = group; section.append(title);
     for (const doc of items) { categoryNav.append(docLink(doc)); section.append(docLink(doc)); }
     $('library').append(section);
   }
-  if (!matches.length) { const p = document.createElement('p'); p.textContent = 'Nenhum capítulo encontrado. Tente outro termo ou inclua histórico e desenvolvimento.'; $('navigation').append(p); }
+  if (!matches.length) { const p = document.createElement('p'); p.textContent = 'Nenhum capítulo encontrado. Tente outro termo ou inclua o material de desenvolvimento.'; $('navigation').append(p); $('library').append(p.cloneNode(true)); }
 }
 function route() {
   const params = new URLSearchParams(location.hash.slice(1));
-  const id = params.get('doc'); const doc = documents.find(d => d.id === id);
+  let id = params.get('doc');
+  if (id?.startsWith('referencias/') && documents.some(d => d.id === id.replace('referencias/', 'jogador/'))) {
+    id = id.replace('referencias/', 'jogador/');
+    params.set('doc', id);
+    history.replaceState(null, '', '#' + params);
+  }
+  $('menu').setAttribute('aria-expanded', 'false');
+  const doc = documents.find(d => d.id === id);
   $('home').hidden = Boolean(id); $('reader').hidden = !doc; $('error').hidden = !id || Boolean(doc);
-  if (id && !doc) $('error').textContent = 'Documento não encontrado. Use a busca ou volte à Biblioteca.';
+  if (id && !doc) $('error').textContent = 'Documento não encontrado. Use a busca ou volte ao início do manual.';
   if (doc) {
     document.title = `${doc.title} · CdM RPG`;
     $('document-title').textContent = doc.title; $('breadcrumb').textContent = doc.group;
@@ -44,6 +52,7 @@ function route() {
     $('article').querySelectorAll('h1,h2,h3,h4,h5,h6').forEach(h => {
       const slug = h.textContent.toLowerCase().replace(/[^\p{L}\p{N}\s_-]/gu, '').replace(/\s/g, '-');
       const n = used.get(slug) || 0; used.set(slug,n+1); h.id = n ? `${slug}-${n}` : slug;
+      if (h === $('article').firstElementChild && h.tagName === 'H1') h.hidden = true;
       if (h.matches('h2,h3')) { const a = document.createElement('a'); a.textContent = h.textContent; a.href = '#doc=' + encodeURIComponent(doc.id) + '&section=' + encodeURIComponent(h.id); toc.append(a); }
     });
     $('toc').hidden = !toc.children.length;
@@ -57,12 +66,23 @@ function route() {
       else a.href = 'https://github.com/BispoAugusto/Contos-de-M-stica-RPG/blob/main/' + target.pathname.slice(1) + target.hash;
     });
     if (params.get('section')) requestAnimationFrame(() => document.getElementById(params.get('section'))?.scrollIntoView());
-  } else document.title = 'Contos de Mística · Biblioteca do sistema';
+  } else document.title = 'Contos de Mística · Manual do jogador';
   catalog();
   if (!params.get('section')) window.scrollTo(0, 0);
+  if (id && doc && document.activeElement?.closest('#side-content, #home')) $('content').focus({ preventScroll: true });
 }
+$('menu').addEventListener('click', () => {
+  const open = $('menu').getAttribute('aria-expanded') !== 'true';
+  $('menu').setAttribute('aria-expanded', String(open));
+  if (open) $('search').focus();
+});
+document.querySelector('.skip').addEventListener('click', event => {
+  event.preventDefault();
+  $('content').focus();
+  $('content').scrollIntoView();
+});
 $('search').addEventListener('input', catalog);
 $('show-development').addEventListener('change', catalog);
 $('print').addEventListener('click', () => window.print());
 window.addEventListener('hashchange', route);
-fetch('documents.json').then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); }).then(data => { documents = data; route(); }).catch(() => { $('error').hidden = false; $('error').textContent = 'Não foi possível carregar a biblioteca. Recarregue a página ou execute o build e abra pelo servidor de prévia.'; $('count').textContent = 'Biblioteca indisponível'; });
+fetch('documents.json').then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); }).then(data => { documents = data; route(); }).catch(() => { $('error').hidden = false; $('error').textContent = 'Não foi possível carregar a biblioteca. Recarregue a página para tentar novamente.'; $('count').textContent = 'Biblioteca indisponível'; });
