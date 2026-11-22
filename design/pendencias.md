@@ -1,5 +1,11 @@
 # Pendências — estado de 2026-10-25
 
+**22/11/2026 — Playtest de raças e descansos.** [Catálogo](../regras/origens/README.md), [descansos](../regras/recuperacao/descansos.md) e [proficiências](../regras/personagem/proficiencias.md) prevalecem sobre registros anteriores nesses assuntos.
+
+**Ajustes de mesa para avaliar.** Socorro de Verdantes por Natureza, limite de um tratamento no longo, divisão/reunião e capacidade após perda do grupo gnomo, custo e alcance dos efeitos raciais. Calibrar depois de jogar. Retomar misturas, habilidades e fabricação futuramente.
+
+**Convenções desta primeira mesa.** Na divisão gnômica, o custo é 1 PA, cada Corpo destacado leva 2 PV, a reunião exige Toque e as partes compartilham Mente, Espírito e usos. Com a morte da parte, a capacidade fica disponível para recuperação posterior. Vigor Verde integra o repouso da Dríade. No fim do período, o tratamento antecede a regeneração Namaré. No longo, o tratamento cura 4 + Resiliência ou bônus de Medicina, uma vez por paciente. Escamas converte cada Corpo gasto em 1 de redução. O Sopro usa Vigor com Reflexo contra DT 10 + Corpo máximo. Névoa alcança Longo. Em Apetite Solar, conte os dias completos além da tolerância. São valores e procedimentos ajustáveis com os jogadores.
+
 ## Reservas, exaustão, Morrendo e traumas — 2026-11-18
 
 **Confirmado nesta etapa:** partes como recursos de habilidades/desgaste; falta de reserva gera exaustão; esforço voluntário comum não pode atingir o máximo, salvo cena excepcional motivada; Morrendo a 0 PV, sem agir, mantendo negativos; Vigor após dano abaixo de um limiar, DT base 10, sucesso gera 1 exaustão e falha mata; excesso de exaustão usa 1d20, DT 5 e +5 por novo teste, com perda do personagem na falha. [Decisão e alcance](decisoes.md#2026-11-18--reservas-exaustão-e-morrendo).

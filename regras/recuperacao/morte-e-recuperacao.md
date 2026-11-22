@@ -24,15 +24,17 @@ Exemplo: com 12 PV máximos, o limiar é −12. Um golpe que leve de −12 a −
 
 Ao atingir o sexto nível de exaustão fora de Morrendo, o personagem também entra na condição e testa Vigor. Use DT 10 se for sua primeira entrada em Morrendo na cena. O ponto de exaustão ganho por sobreviver pode exigir em seguida o teste especial de excesso.
 
-**Exceção de espécie preservada até revisão:** Gnomo dividido em dois perde o corpo que chegar a 0 PV. O único corpo usa o procedimento de Morrendo. A revisão das reservas não cria cura ou recursos pela divisão/reunião. [Gnomos](../origens/verdantes.md#gnomos).
+O grupo separado dos [Gnomos](../origens/verdantes.md#gnomos) morre ao chegar a 0 PV ou 0 Corpo. A colônia principal segue as regras de Morrendo.
 
 ## Ferido
 
-Ao chegar à metade dos PV máximos ou menos por dano, fica Ferido. Permanecer abaixo da metade não reaplica a condição sem novo dano. A primeira cura normal remove **Ferido**, sem restaurar PV nem retirar Sangramento. Depois, outra cura pode restaurar PV e encerrar Sangramento. Regeneração dos Namarés mantém sua exceção expressa.
+Ao chegar à metade dos PV máximos ou menos por dano, fica Ferido. Permanecer abaixo da metade não reaplica a condição sem novo dano. A primeira cura normal remove **Ferido**, sem restaurar PV nem retirar Sangramento. Depois, outra cura pode restaurar PV e encerrar Sangramento. A regeneração periódica dos Namarés exige estar livre de Ferido e Morrendo.
 
 Tratamento específico segue seus próprios efeitos; [tratar feridas no descanso](descansos.md#tratar-feridas) preserva sua recuperação explícita. Esta atualização não faz toda cura remover traumas.
 
 ## Medicina fora do descanso
+
+No playtest, socorra Verdantes com Natureza no lugar de Medicina, com os mesmos custos, DT e efeitos.
 
 Para recuperar um personagem Morrendo, gaste **1 PA** e teste **Medicina DT 10**. Some **1 PA por mazela adicional** tratável por Medicina que voltaria a derrubá-lo, como Sangramento. Um único teste resolve o atendimento, incluindo essas mazelas. Exemplo: recuperar alguém Morrendo e tratar seu Sangramento custa **2 PA**.
 

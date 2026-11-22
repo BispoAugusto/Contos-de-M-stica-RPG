@@ -16,7 +16,7 @@ Todo ataque tem a tag **Agredir**, nome sistêmico desta ação. Um NPC pode ter
 
 ## Rolagem de ataque
 
-- **Confirmado em 2026-10-25:** ataque comum = **1d20 + proficiência do grupo de arma**. Não é teste de atributo; não aplica teto por Potência, Reflexo ou Foco nem graus pleno/extremo. Efeitos explícitos de habilidades e repetição continuam aplicáveis.
+- **Confirmado em 2026-10-25:** ataque comum = **1d20 + bônus de Armas Corpo a Corpo ou Armas a Distância, conforme o ataque**. Não é teste de atributo; não aplica teto por Potência, Reflexo ou Foco nem graus pleno/extremo. Efeitos explícitos de habilidades e repetição continuam aplicáveis.
 - Pesado e Brutal ignoram a RD de armaduras convencionais e preservam a RD de Bloquear. Aberturas de proteções especiais usam o mesmo ataque, alcançando o limiar da proteção. O ataque direcionado separado com Foco foi substituído em 04/11.
 - Manobra ofensiva independente não é ataque. As que exigem/modificam ataque contam pelo ataque.
 
@@ -48,7 +48,7 @@ Em um acerto, aplique base da arma, grau, crítico e demais efeitos:
 
 Exemplo: proficiência +4, dado 16, total 20 contra Defesa 15: pesado. Base 4 causa 5. Total 25 seria brutal e causaria 6.
 
-A proficiência não altera o dano base. Golpes Desarmados comuns mantêm base 0 para playtest; armas naturais das Feras têm base igual ao nível de Golpes Desarmados, mínimo 1. Ver [armas](../equipamentos/armas.md).
+A proficiência não altera o dano base. Golpes Desarmados comuns mantêm base 0 para playtest; armas naturais das Feras têm base igual ao nível de Armas Corpo a Corpo, mínimo 1. Ver [armas](../equipamentos/armas.md).
 
 ## Duas armas e manobras
 

@@ -12,7 +12,7 @@ Atributos sugeridos podem mudar conforme a abordagem. Eles fornecem dados: **d20
 
 | Perícia | Atributo sugerido | Aplicação |
 |---|---|---|
-| Vigor | Resiliência | Veneno, doença, fadiga, ambiente, dor física e resistências antes chamadas Esquiva; com Reflexo, reação Esquivar |
+| Vigor | Resiliência | Doença, fadiga, ambiente, dor física e resistências antes chamadas Esquiva; com Reflexo, reação Esquivar |
 | Lucidez | Raciocínio | Ilusões, confusão e distorções da percepção/compreensão |
 | Convicção | Vontade | Medo, coerção, compulsão e firmeza interior |
 
@@ -44,6 +44,12 @@ As perícias gerais são as **perícias básicas** do sistema.
 Fluxo ocupa o lugar da proposta de perícia Magia; sua aplicação à conjuração será desenvolvida com as habilidades. Liderança foi retirada em favor de Persuasão. Performance substitui Atuação. Luta e Pontaria não entram nesta lista: mantêm-se as proficiências de armas.
 
 Linguagens integra as perícias básicas e segue o custo e a escala das gerais. Sua inclusão não altera a compra, os níveis nem o procedimento atual dos [idiomas](idiomas.md); a relação entre ambos permanece pendente.
+
+### Vigilância passiva
+
+Compare **10 + nível de Vigilância** (nível 0 a 5, antes de traços) com a DT da coisa escondida ou o total de Furtividade. Igualar ou superar percebe o que estava escondido. Um Bestial Astuto com Vigilância 2 conta como nível 3 para esse cálculo e percebe até 13.
+
+Venenos e toxinas exigem permissão específica para uma tentativa de resistência, como Vigor Superior dos Anões.
 
 ## Conhecimentos
 

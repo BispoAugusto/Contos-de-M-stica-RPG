@@ -31,9 +31,9 @@ Para cada ponto recebido quando já estiver no nível 6, role **1d20**, com **DT
 
 Cada ponto de exaustão aplica **−1 a todos os testes do personagem**, salvo exceção expressa no próprio teste. A penalidade também vale para Vigor contra a morte.
 
-Um descanso curto adequado remove **1 ponto**, **uma vez por período**. Um descanso longo adequado remove **3 pontos**. A recuperação de exaustão é separada da recuperação das reservas. [Descansos](descansos.md).
+Um descanso curto adequado remove **1 ponto**, **uma vez por período**. Um descanso longo adequado remove **3 pontos**, ou **2** se dormir menos para realizar uma ação extra. A recuperação de exaustão é separada da recuperação das reservas. [Descansos](descansos.md).
 
-Privação impede considerar adequado um descanso que exija alimento, hidratação e sono. Namarés precisam beber e molhar o corpo. A falta de umidade integra sede. Quanto cada privação retira das reservas ou acrescenta de exaustão está pendente de conversão.
+Privação impede considerar adequado um descanso que exija alimento, hidratação e sono. Namarés precisam beber e molhar o corpo. O Namaré que deixou de molhar a pele recebe 1 exaustão no fim do dia. Cobre a falta de umidade uma vez. Quanto cada privação retira das reservas ou acrescenta de exaustão está pendente de conversão.
 
 ## Traumas
 

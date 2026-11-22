@@ -17,6 +17,6 @@ Alcance de armas e magias não é a mesma coisa que deslocamento. Terreno, obst�
 
 ## Traços, porte e quedas — playtest
 
-As [espécies](../origens/README.md) modificam formas de movimento: Talpis escavam Curto/1 PA em material adequado; Namarés nadam com seu deslocamento normal; Pássaros têm o procedimento de voo descrito na espécie. A antiga Aderência comprável é somente histórica. Inconsciência pode provocar queda; Atordoado não a provoca automaticamente.
+As [espécies](../origens/README.md) modificam formas de movimento: Talpis escavam Curto/1 PA em material adequado; Namarés nadam com seu deslocamento normal; Plúmeos têm o procedimento de voo descrito na espécie. A antiga Aderência comprável é somente histórica. Inconsciência pode provocar queda; Atordoado não a provoca automaticamente.
 
 [Quedas](quedas.md) usam a distância vertical efetivamente caída: Toque 0, Curto 2, Médio 4, Longo 8, Muito Longo 16, Fora de Alcance 32. Curto ou mais impõe Caído ao aterrissar. Ver [porte e inventário](../equipamentos/porte-e-inventario.md) para acesso a espaços pequenos; detalhamento de passagens continua adiado.

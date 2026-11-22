@@ -25,7 +25,7 @@
 - **Porte:** campo separado de espécie; Minúsculo, Pequeno, Médio ou Grande.
 - **Manobra independente:** não entra no contador de Agredir; repetições da mesma manobra com teste seguem seu próprio contador.
 - **Fluxo:** perícia de controle do próprio espírito/mana, Sintonia sugerida; aplicações em habilidades pendentes.
-- **ET:** unidade citada no benefício artesanal dos Gnomos; definição operacional pendente com fabricação.
+- **ET:** unidade histórica de trabalho, a rever com fabricação.
 - **Toque/Curto/Médio/Longo/Muito Longo/Fora de Alcance:** faixas narrativas, sem conversão fixa em metros.
 
 - **Abertura parcial:** falha acessível que permite ignorar a RD da fonte indicada em Pesado/Brutal, conforme a proteção; substitui a antiga metade de RD.
@@ -38,7 +38,8 @@
 - **Bloquear:** reação de 1 PA, antes do resultado, sem teste; escudo básico concede RD física 2 contra aquele ataque, sem exigir proficiência. Nome atual de Defender.
 - **Posturas:** termo reservado a futuros estados/estilos de combate; a antiga resistência de inimigos chama-se Equilíbrio.
 
-- **Descanso curto:** 1h adequada; recupera automaticamente metade do máximo de cada reserva de Alma para cima e conserva duas atividades diferentes para outras finalidades.
+- **Descanso curto:** 1 hora, uma ação e benefícios uma vez por personagem por período. Recupera metade de cada pilar (para cima) e 1 exaustão. Vários tratamentos cabem nesse curto.
+- **Descanso longo:** 8 horas, uma ação, pilares completos e redução de 3 exaustões. Dormir menos acrescenta uma ação e reduz a recuperação a 2 exaustões.
 - **Vigília:** unidade de viagem de aproximadamente 8h; três ao dia.
 - **Moral:** disposição de NPCs para continuar; checagem 2d6 contra valor do grupo, separada dos testes dos personagens.
 

@@ -8,7 +8,7 @@
 
 O jogador escolhe uma arma pronta. O modelo modular antigo serve apenas de referência de design para discutir alternativas com o mestre. O dano indicado já inclui as características do modelo: não somar novamente um bônus de Pesada nem subtrair por Ágil.
 
-Ataques comuns usam **1d20 + bônus de proficiência da família + modificadores**, antes de vantagens e desvantagens. Atributos não entram normalmente no ataque. Famílias: Espadas, Machados, Martelos, Adagas, Armas de Haste, Picaretas, Arcos, Bestas, Armas de Fogo, Correntes e Chicotes e Golpes Desarmados.
+Ataques comuns usam **1d20 + bônus de proficiência de arma aplicável + modificadores**, antes de vantagens e desvantagens. Atributos não entram normalmente no ataque. Use Armas Corpo a Corpo ou Armas a Distância conforme o ataque.
 
 Ataques não podem ser Forçados sem autorização expressa de habilidade. Aberturas usam o mesmo ataque e o limiar da proteção, sem teste separado de Foco. Ver [ataques](../combate/ataques-e-dano.md) e [aberturas](../combate/aberturas.md).
 
@@ -58,7 +58,7 @@ A palavra “pesada” no nome de uma besta não concede a propriedade Pesada. A
 | Pesada | Exige duas mãos e permite usar Golpe Devastador se a habilidade tiver sido aprendida. O primeiro ataque comum continua custando 1 PA. |
 | Lenta | **Experimental:** no próprio turno, atacar com esta arma custa +1 PA se já realizou qualquer ataque nesse turno. Não aumenta o custo fora do próprio turno. |
 | Alcance | Permite ataque corpo a corpo até Curto, incluindo Toque; não concede Ataque de Oportunidade. |
-| Arremessável | Permite arremessar a arma até Médio, referência provisória para este catálogo. Usa a mesma família. |
+| Arremessável | Permite arremessar a arma até Médio, referência provisória para este catálogo. Ao arremessar, use Armas a Distância. |
 | Recarregar | Após cada disparo, gastar 1 PA por arma antes de dispará-la novamente. |
 
 A contagem de Lenta é a mesma dos ataques: trocar arma não a reinicia. O custo adicional **não substitui a Desvantagem por repetição** e não gera o bônus de dano de Golpe Devastador. O primeiro ataque do turno com montante custa 1 PA; um segundo custa 2 PA e recebe 1 Desvantagem. Se o primeiro ataque foi com adaga, atacar em seguida com montante também custa 2 PA.
@@ -115,13 +115,13 @@ O segundo ataque não sofre repetição por serem Ágeis. Não se exige guardar 
 
 Golpes Desarmados comuns mantêm **base 0** para playtest, sem propriedades automáticas. Pesado acrescenta 1; Brutal 2; 20 natural acrescenta 2. Habilidades de pugilista ficam para desenvolvimento posterior.
 
-**Feras:** garras/presas têm base igual ao nível de Golpes Desarmados, mínimo 1.
+**Feras:** garras, chifres e presas têm base igual ao nível de Armas Corpo a Corpo, mínimo 1.
 
 | Nível | 0 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|---|
 | Base natural | 1 | 1 | 2 | 3 | 4 | 5 |
 
-Usam a proficiência de Golpes Desarmados, **sem Ágil**, e não qualificam para o ataque combinado de duas Ágeis. Aplicam graus/crítico e RD normalmente, inclusive dano reduzido a 0. Esta exceção de armas naturais não muda a faixa 1–4 das armas fabricadas acima.
+Usam a proficiência de Armas Corpo a Corpo, **sem Ágil**, e não qualificam para o ataque combinado de duas Ágeis. Aplicam graus/crítico e RD normalmente, inclusive dano reduzido a 0. Esta exceção de armas naturais não muda a faixa 1–4 das armas fabricadas acima.
 
 Os antigos traços compráveis Arma Natural/Avançada estão no [catálogo histórico](../../design/catalogo-origens-historico.md).
 

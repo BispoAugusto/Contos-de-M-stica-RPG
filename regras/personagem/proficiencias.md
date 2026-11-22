@@ -12,7 +12,7 @@
 |---|---|
 | Perícia geral ou resistência | 1 nível |
 | Perícia profissional personalizada | 1 nível |
-| Família de armas | 1 nível |
+| Proficiência de arma | 1 nível |
 | Armaduras | Não se compram com PP; treinamento vem de habilidades |
 | Escudos | Uso livre; não comprar proficiência |
 | Conhecimentos | 2 níveis na categoria, juntos ou distribuídos |
@@ -20,7 +20,7 @@
 
 Não misturar conhecimentos e idiomas na mesma compra. História 2 ou História 1 + Natureza 1 custam um ponto; Dracônico 2 também. História 1 + Dracônico 1 não é compra válida de um ponto.
 
-Exemplo com seis pontos: Atletismo 1, Vigor 1, Espadas 2, História 1 + Natureza 1 e Dracônico 2. Custos: 1 +1 +2 +1 +1 = 6. Conhecimentos e idiomas preservam seus preços próprios.
+Exemplo com seis pontos: Atletismo 1, Vigor 1, Armas Corpo a Corpo 2, História 1 + Natureza 1 e Dracônico 2. Custos: 1 +1 +2 +1 +1 = 6. Conhecimentos e idiomas preservam seus preços próprios.
 
 ## Níveis e bônus
 
@@ -28,7 +28,7 @@ Exemplo com seis pontos: Atletismo 1, Vigor 1, Espadas 2, História 1 + Natureza
 |---|---|---|---|---|---|---|
 | Bônus | +0 | +2 | +4 | +6 | +8 | +10 |
 
-Gerais, resistências, conhecimentos, profissionais e famílias de armas usam essa escala. O bônus é integral mesmo sob pressão. O atributo fornece a base de dados e não soma à rolagem. A base das armas naturais das Feras usa o nível de Golpes Desarmados, não seu bônus numérico.
+Gerais, resistências, conhecimentos, profissionais e as duas proficiências de arma usam essa escala. O bônus é integral mesmo sob pressão. O atributo fornece a base de dados e não soma à rolagem. A base das armas naturais das Feras usa o nível de Armas Corpo a Corpo, não seu bônus numérico.
 
 Idiomas têm escala própria: Amador +0; Fluente +2 quando precisar testar. Armaduras concedem RD pelo uso, sem compra de acesso. Escudo empunhado concede +1 Defesa e permite Bloquear por 1 PA/RD física 2, **sem proficiência**, conforme atualização de 17/11. Maestrias futuras não são requisito para esses benefícios. Ver [defesas](../combate/defesas.md).
 
@@ -43,6 +43,6 @@ Idiomas têm escala própria: Amador +0; Fluente +2 quando precisar testar. Arma
 
 Manobras são adquiridas por habilidades conforme a revisão de 29/10; um nível de arma não concede automaticamente uma manobra. Golpe Devastador e Ataque de Oportunidade precisam ser aprendidos.
 
-Famílias atuais: Espadas, Machados, Martelos, Adagas, Armas de Haste, Picaretas, Arcos, Bestas, Armas de Fogo, Correntes e Chicotes e **Golpes Desarmados** (nome usado nesta integração para a antiga família Desarmado). Nome definitivo de Correntes e Chicotes continua pendente; Luta/Pontaria não substituem as famílias.
+Há duas proficiências de arma. **Armas Corpo a Corpo** cobre ataques em combate corpo a corpo, inclusive golpes desarmados e armas naturais. **Armas a Distância** cobre ataques a distância, inclusive arremessos. A arma e seu modo de uso determinam a proficiência. Famílias do catálogo descrevem equipamentos.
 
 Progressão posterior permanece em desenvolvimento. O equipamento inicial segue a [seleção atual](../equipamentos/equipamento-inicial.md). Comprar proficiência não concede equipamento. Ver [perícias](pericias.md), [idiomas](idiomas.md) e [armas](../equipamentos/armas.md).

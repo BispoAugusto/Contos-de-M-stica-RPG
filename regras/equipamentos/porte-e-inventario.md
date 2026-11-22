@@ -9,7 +9,7 @@
 
 ## Porte e capacidade
 
-**Atualização de 2026-10-19:** porte é um campo separado, escolhido entre as opções da espécie; não se compra por pontos nem ocupa um dos dois traços. Mistos usam uma opção de qualquer espécie participante; Gnomos e Fadas não podem ser mistos. Ver [origens](../origens/README.md).
+**Atualização de 2026-10-19:** porte é um campo separado, escolhido entre as opções da espécie; não se compra por pontos nem ocupa um dos dois traços. Raças mistas ficam para revisão futura. Ver [origens](../origens/README.md).
 
 **Capacidade = base do porte + 2 × Potência + benefícios expressos.** A mochila de viagem vestida concede +5, sem acumular com outra mochila; seus 0,5 espaço e o conteúdo contam na carga. Bases aprovadas para playtest. Equipamentos usados contam.
 
@@ -53,7 +53,7 @@ Esses modificadores não são penalidades de d20 nem afetam automaticamente ataq
 
 Pequenos têm facilidade para esconder-se e acessar espaços pequenos; Minúsculos têm benefícios mais acentuados. Grandes têm dificuldade ou impedimento para entrar em locais pequenos. Os números de esconder-se, dimensões de passagens e procedimentos completos ainda não foram fixados.
 
-As limitações de porte não concedem pontos de compra. Gnomos usam porte pelo máximo integral de Corpo (0–1 Pequeno, 2–3 Médio, 4+ Grande) e diminuem uma categoria por parte ao dividir, mínimo Minúsculo. Ver [Gnomos](../origens/verdantes.md#gnomos).
+As limitações de porte não concedem pontos de compra. Gnomos usam porte pelo máximo integral de Corpo para a colônia reunida (Minúsculo na base, Pequeno a 5, Médio a 10, Grande a 15). Ver [Gnomos](../origens/verdantes.md#gnomos).
 
 ## Lotes e sobrecarga
 

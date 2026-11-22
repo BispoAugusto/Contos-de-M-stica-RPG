@@ -1,54 +1,55 @@
 # Bestiais
 
-[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
+[Catálogo de playtest](README.md) · [Criação](../../referencias/criacao-de-personagem.md)
 
-**Origem — Instinto Bestial:** 1 Vantagem para perceber criaturas próximas e perigos ambientais por sentidos naturais, usando Vigilância quando apropriado. Não é detecção automática de qualquer alvo.
+Bestiais são humanoides com características animais.
 
-Independentemente da espécie, escolher uma distribuição:
+**Origem bestial.** Escolha um caminho. O ponto livre pode ir para o mesmo pilar principal.
 
-| Caminho | Alma |
-|---|---|
-| Selvagem | +2 Corpo e +1 em qualquer Parte, inclusive Corpo |
-| Astúcia | +2 Mente e +1 em qualquer Parte, inclusive Mente |
-| Agouro | +2 Espírito e +1 em qualquer Parte, inclusive Espírito |
-
-Todas as quatro espécies podem escolher Pequeno, Médio ou Grande.
-
-
-## Espécies, Alma e porte
-
-| Origem | Espécie | Bônus de Alma | Porte |
-|---|---|---|---|
-| Bestiais | Feras | Escolha bestial | Pequeno, Médio ou Grande |
-| Bestiais | Namarés | Escolha bestial | Pequeno, Médio ou Grande |
-| Bestiais | Pássaros | Escolha bestial | Pequeno, Médio ou Grande |
-| Bestiais | Talpis | Escolha bestial | Pequeno, Médio ou Grande |
+| Caminho | Alma | Traço |
+|---|---|---|
+| Selvagem | +2 Corpo e +1 livre | Some +2 ao resultado dos testes com Percepção para farejar ou ouvir. |
+| Astuto | +2 Mente e +1 livre | Torne-se treinado em Vigilância (ao menos nível 1). Para Vigilância passiva, conte um nível acima do seu nível real. |
+| Agouro | +2 Espírito e +1 livre | Enxergue à noite até Longo como se fosse dia. |
 
 ## Características das espécies
 
 ### Feras
 
-- **Armas Naturais:** garras/presas usam a proficiência de Golpes Desarmados, sem atributo nem teto nos ataques comuns. Dano base igual ao **nível** da proficiência, mínimo 1 (níveis 0/1/2/3/4/5 dão 1/1/2/3/4/5). **Sem Leve**, sem benefício de duas armas por ter duas garras. Aberturas são exploradas pelo limiar Pesado/Brutal indicado na proteção, sem um ataque separado com Foco; isso não muda a base. Aplicam pesado/brutal/crítico normalmente. Ataques não podem ser forçados.
-- **Sentidos de Caça:** Vantagem em rastreamento pelos sentidos apropriados.
+**Alma** — Escolha bestial. **Porte** — Pequeno, Médio ou Grande.
+
+Lobos, ursos e felinos estão entre as feras que caçam em bando.
+
+**Armas Naturais.** Ataque com presas, chifres ou garras usando Armas Corpo a Corpo. O dano base é igual ao nível da proficiência, mínimo 1. Um acerto deixa o alvo [Vulnerável](../combate/condicoes.md#vulnerável) até o início do próximo turno da Fera.
+
+**Predador.** Ao se mover em direção a um alvo com Ferido ou Sangramento até Muito Longo, aumente o deslocamento em uma faixa. Seus ataques contra alvos com qualquer dessas condições causam +1 de dano.
 
 ### Namarés
 
-- **Anfíbio:** respira em água e em terra; natação acompanha seu deslocamento normal. Hidratação exige **beber e molhar o corpo** com banho, imersão ou chuva suficiente. Beber um copo não substitui molhar-se. Sem isso, conta como com sede no descanso. O valor da privação em reservas/exaustão está pendente de calibração desde 18/11; não aplicar automaticamente o antigo custo em PE. **Não existe uma penalidade separada adicional por umidade.**
-- **Adaptação:** escolher uma opção abaixo.
+**Alma** — Escolha bestial. **Porte** — Pequeno, Médio ou Grande.
 
-| Adaptação | Efeito |
-|---|---|
-| Regeneração | +2 PV automático por descanso curto, mesmo sem tratar feridas e mesmo Ferido; não remove Ferido, pode acumular com o único tratamento permitido. Partes pequenas regeneram em um descanso longo; membros inteiros em três, funcionando ao final. Sem cura adicional ou recuperação de usos por regenerar partes. Órgãos e outros limites não foram fechados. |
-| Língua | Alcance Curto. Por 1 PA, pega/manipula objeto leve e solto. Pode executar manobra conhecida usando seus custos, testes e requisitos normais com esse alcance. Não causa dano por si só. |
-| Espinhos | Automaticamente, 1 dano perfurante a quem acertar ataque desarmado/natural ou conseguir agarrar o Namaré. Uma vez por ação de contato agressivo bem-sucedido, sem PA. RD física se aplica; manter agarrão não repete dano. |
-| Bioluminescência | Ilumina até Curto, sem limite de duração. Acender/apagar sem PA, uma vez no próprio turno. Permite sinais simples; pode denunciar posição sem penalidade numérica fixa de Furtividade. |
+Os namarés lembram peixes e também vivem em terra.
 
-### Pássaros
+**Anfíbio.** Respire no ar e na água. Seu deslocamento de natação é igual ao terrestre. Molhe a pele diariamente ou receba 1 exaustão ao final do dia. A mesma falta de umidade é cobrada uma vez.
 
-- **Voo:** deslocamento de voo igual ao normal; gastar ao menos 1 PA em movimento a cada turno para permanecer voando. Pouso controlado custa 1 PA, sem impacto.
-- **Olhos de Águia:** Vantagem em Vigilância visual para observar à distância.
+**Regeneração.** Recupere 1 PV no fim de cada período, desde que esteja livre de Ferido e Morrendo. Um membro perdido se regenera ao fim de uma semana.
+
+### Plúmeos
+
+**Alma** — Escolha bestial. **Porte** — Pequeno, Médio ou Grande.
+
+Os bestiais de plumagem têm asas para voar e planar.
+
+**Voo.** Voe com seu deslocamento padrão. Se ainda estiver no ar no fim da rodada e não tiver gasto ao menos 1 PA em movimento no seu turno, você cai. Ao passar em um teste de Acrobacia para reduzir o dano de uma queda, você plana e evita todo esse dano.
+
+**Olhos de Ave.** Acrescente 1d20 aos testes para enxergar algo distante. Você pode Analisar alvos até Muito Longo.
 
 ### Talpis
 
-- **Percepção Sísmica:** até Curto, detecta posição de criaturas em movimento em contato com o mesmo solo. Não detecta voo ou imobilidade completa; não revela aparência/detalhes visuais. Ocultar vibrações exige Furtividade contra Vigilância, normalmente com Percepção.
-- **Escavação:** por 1 PA, escava e se desloca até Curto por terra solta, areia ou barro. Não atravessa rocha/alvenaria equivalentes. Pode deixar passagem de seu porte; estabilidade depende do terreno.
+**Alma** — Escolha bestial. **Porte** — Pequeno, Médio ou Grande.
+
+Semelhantes a roedores e toupeiras, os talpis combinam visão limitada, olfato e percepção de movimento.
+
+**Sentidos Especiais.** Você enxerga com dificuldade além de Longo. Até Médio, percebe os arredores pelo cheiro e pelo movimento. Determine o que esses sentidos revelam a partir dos sinais presentes.
+
+**Garras Talpi.** Escale com Vantagem e dispense equipamento próprio para escalar superfícies que suas garras possam agarrar. Escave até Curto por 1 PA em material escavável. Enquanto enterrado, pode ser atingido e recebe cobertura de +5 na Defesa.

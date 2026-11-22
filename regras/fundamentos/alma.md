@@ -38,10 +38,8 @@ Exemplo sem fixar valores: com exaustão atual E e máximo M, o esforço comum s
 
 **Regra antiga substituída em 18/11/2026.** Não existe mais a rerrolagem universal de todos os d20 por 1 Alma ou 1 PE. “Forçar” nesta revisão significa sustentar uma habilidade além da reserva, conforme a seção anterior; não permite rerrolar um teste, ataque, Resistir ou teste de excesso de exaustão.
 
-Habilidades futuras podem conceder benefícios expressos. **Até o Limite**, dos Homens Altos, dependia da rerrolagem retirada e está pendente de reformulação; seu +2 não se transfere automaticamente para morte ou exaustão máxima.
+Adaptabilidade dos Homens Altos é uma rerrolagem específica de perícia, descrita em [Humanos](../origens/humanos.md).
 
 ## Recuperação
 
-**Regra anterior preservada até recalibrar custos:** todo descanso curto válido recupera automaticamente metade do máximo de cada uma das três reservas, arredondando para cima, sem exceder máximos. Não consome atividade nem exige escolher uma Parte. Não há limite de um curto com recuperação entre longos; pausas artificiais dentro de um mesmo repouso contínuo não são descansos sucessivos.
-
-O descanso longo adequado recupera todas as reservas. Benefícios específicos não duplicam a recuperação básica de uma mesma reserva. A recuperação da nova exaustão é uma pendência distinta; ver [descansos](../recuperacao/descansos.md) e [pendências](../../design/pendencias.md#reservas-exaustão-morrendo-e-traumas--2026-11-18).
+Uma vez por personagem a cada período, o descanso curto recupera metade do máximo de cada pilar, arredondada para cima. O descanso longo adequado recupera os três pilares integralmente. Consulte [Descansos](../recuperacao/descansos.md) para ações, PV e exaustão.
