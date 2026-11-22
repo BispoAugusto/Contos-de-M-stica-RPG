@@ -2,8 +2,6 @@
 
 **Cena.** Trecho contínuo da narrativa centrado numa mesma situação, como um combate, uma busca ou uma negociação. O mestre anuncia a transição quando a situação se resolve ou o foco narrativo muda. Uma rodada, turno ou pausa breve dentro da mesma situação não separa cenas. Ao fim da cena, reinicie os acréscimos de DT de Vigor, socorro por Medicina e excesso de exaustão. Exaustão e PV atuais continuam na ficha. Referência de estrutura narrativa: [Ordem Paranormal RPG, Jambô Editora](https://jamboeditora.com.br/wp-content/uploads/2023/05/iniciativa-t20-ordem-paranormal-rpg-v1-2-vs-1-4.pdf).
 
-**Provisório para playtest — aprovado em 16/11/2026; revisar após uso em mesa.**
-
 [Índice de regras](../README.md) · [Categoria](README.md)
 
 ### Unidades de tempo
@@ -56,3 +54,7 @@ Não pedir navegação para seguir uma estrada clara em boas condições. Em ter
 As quantidades de coleta são calibração inicial, não produtividade universal. Ambiente exaurido não fornece a mesma coleta indefinidamente.
 
 Inspiração: [Cairn 2e — Procedures](https://cairnrpg.com/second-edition/players-guide/procedures/). Valores e integrações acima são adaptações de CdM.
+
+## Observações de playtest
+
+- Provisório para playtest — aprovado em 16/11/2026; revisar após uso em mesa.

@@ -2,7 +2,7 @@
 
 **Atualização de 16/11:** [ajuda reservada](acoes-taticas.md#ajudar), [repetição de ações](../fundamentos/testes.md#repetição-de-ações), [moral e retirada](moral-e-retirada.md). Moral e retirada são provisórios para playtest.
 
-[Todas as categorias](../README.md) · [Guia rápido de mesa](../../referencias/guia-rapido.md)
+[Todas as categorias](../README.md) · [Guia rápido de mesa](../../jogador/guia-rapido.md)
 
 ## Ordem de consulta
 

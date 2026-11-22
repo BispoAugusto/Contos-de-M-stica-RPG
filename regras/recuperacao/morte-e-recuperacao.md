@@ -40,11 +40,11 @@ Para recuperar um personagem Morrendo, gaste **1 PA** e teste **Medicina DT 10**
 
 **Sucesso:** o paciente sai de Morrendo, fica com **1 PV**, perde **Ferido** e as mazelas tratadas pelo atendimento. A próxima tentativa de socorro nesse paciente usa DT **5 maior**. **Falha:** não recupera o paciente e a DT do próximo socorro permanece igual. Cada paciente tem sua própria DT, que volta a **10** ao fim da cena.
 
-Para tratar **apenas Sangramento**, use a ação de 1 PA e **Medicina DT 15**, inclusive em alvo Ferido. Esse tratamento isolado não devolve PV, não remove Ferido e não retira Morrendo. Dano, aplicação e acúmulo de Sangramento ficam pendentes.
+Para tratar **apenas Sangramento**, use a ação de 1 PA e **Medicina DT 15**, inclusive em alvo Ferido. Esse tratamento isolado não devolve PV, não remove Ferido e não retira Morrendo.
 
 ## Cura em PV negativos
 
-Resistir preserva os PV negativos. O socorro de Medicina acima substitui os PV atuais por 1. A conversão de outras fontes de cura sobre PV negativos permanece pendente, incluindo a interação com uma cura usada para retirar Ferido.
+Resistir preserva os PV negativos. O socorro de Medicina acima substitui os PV atuais por 1.
 
 ## Sequelas e pendências
 
@@ -55,3 +55,8 @@ Resistir preserva os PV negativos. O socorro de Medicina acima substitui os PV a
 **Propostas ainda a revisar:** trauma leve ao sobreviver ao excesso de exaustão; agravamento para profundo se insistir no mesmo processo; trauma profundo por crítico/brutal enquanto Morrendo; limites de frequência e tratamento. Não aplicar essas gravidades como tabela já aprovada. Não há novo teste de trauma nem cura universal definidos.
 
 [Lista central de pendências](../../design/pendencias.md#reservas-exaustão-morrendo-e-traumas--2026-11-18).
+
+## Observações de playtest
+
+- Dano, aplicação e acúmulo de Sangramento ficam pendentes.
+- A conversão de outras fontes de cura sobre PV negativos permanece pendente, incluindo a interação com uma cura usada para retirar Ferido.

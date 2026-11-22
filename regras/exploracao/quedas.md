@@ -1,9 +1,6 @@
 # Quedas
 
-> **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
-
-
-[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
+[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../jogador/criacao-de-personagem.md)
 
 **Versão inicial de playtest — 2026-10-13, sujeita a revisão.** Usa a faixa da distância vertical efetivamente percorrida até o impacto, sem converter as faixas em metros.
 
@@ -24,10 +21,15 @@
 - Porte não altera automaticamente esse dano.
 - Descida controlada por voo não é queda e não impõe Caído.
 - Inconsciência interrompe voo e sustentação ativa. Atordoado não provoca queda automaticamente.
-- Reagir durante uma queda para retomar voo, aderir ou agarrar apoio permanece pendente.
 
-**Exemplo condicional:** queda Média causa 4. Se o tipo físico definido para o cenário corresponder a RD 2 da armadura, recebe 2; se corresponder a RD 4, recebe 0. Em ambos os casos, não gasta cargas e fica Caído. O tipo físico específico das quedas ainda está pendente: não escolher automaticamente o maior valor, somar as RDs ou fixar Contundente sem nova decisão. Não são resultados de playtest.
+**Exemplo condicional:** queda Média causa 4. Se o tipo físico definido para o cenário corresponder a RD 2 da armadura, recebe 2; se corresponder a RD 4, recebe 0. Em ambos os casos, não gasta cargas e fica Caído. Não são resultados de playtest.
 
 Ver [movimento](movimento.md), [espécies](../origens/README.md) e [armaduras](../equipamentos/armaduras-e-escudos.md).
 
 Na integração de 2026-10-19, o dano de impacto de queda é tratado como físico para manter a proteção de armadura já aprovada; não se altera a tabela nem se autoriza reação adicional. O tipo físico específico e efeitos ambientais adicionais permanecem para detalhamento.
+
+## Observações de playtest
+
+- A [revisão de combate e exploração](../revisao-playtest-2026-10-29.md) registra o alcance das regras de playtest.
+- Reagir durante uma queda para retomar voo, aderir ou agarrar apoio permanece pendente.
+- O tipo físico específico das quedas ainda está pendente: não escolher automaticamente o maior valor, somar as RDs ou fixar Contundente sem nova decisão.

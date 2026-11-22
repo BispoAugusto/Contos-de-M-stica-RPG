@@ -1,6 +1,6 @@
 # Descanso e sobrevivência — índice
 
-[Todas as categorias](../README.md) · [Guia rápido de mesa](../../referencias/guia-rapido.md)
+[Todas as categorias](../README.md) · [Guia rápido de mesa](../../jogador/guia-rapido.md)
 
 | Situação | Capítulo |
 |---|---|
@@ -8,4 +8,8 @@
 | Consultar desgaste, limite, excesso, fome, sede e sono | [Exaustão](exaustao.md) |
 | Tratar Ferido, estabilizar ou resolver 0 PV | [Morte e recuperação](morte-e-recuperacao.md) |
 
-O tratamento no descanso é automático. A estabilização fora dele tem procedimento próprio e detalhes pendentes. Exceções de regeneração, Enraizamento e Transe Natural estão nas respectivas [origens](../origens/README.md).
+O tratamento no descanso é automático. Exceções de regeneração, Enraizamento e Transe Natural estão nas respectivas [origens](../origens/README.md).
+
+## Observações de playtest
+
+- A estabilização fora dele tem procedimento próprio e detalhes pendentes.

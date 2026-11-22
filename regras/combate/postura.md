@@ -1,8 +1,8 @@
 # Equilíbrio
 
-[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
+[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../jogador/criacao-de-personagem.md)
 
-**Confirmado.** Atributo especial de alguns inimigos, não universal aos personagens. Resiste a controle incapacitante. Ações, manobras, magias e interações com o cenário podem reduzir Equilíbrio, segundo arbitragem do mestre; não exigem valor escrito em toda habilidade.
+Atributo especial de alguns inimigos, não universal aos personagens. Resiste a controle incapacitante. Ações, manobras, magias e interações com o cenário podem reduzir Equilíbrio, segundo arbitragem do mestre; não exigem valor escrito em toda habilidade.
 
 Quando Equilíbrio chega a 0, efeito de controle pode funcionar integralmente. O inimigo permanece vulnerável a controles completos até o **fim do próximo turno dele**, quando o Equilíbrio se restaura integralmente. Condições aplicadas não terminam automaticamente nessa restauração.
 
@@ -34,4 +34,4 @@ Equilíbrio é opcional nas [fichas simplificadas](npcs.md). Sua quebra não apl
 
 ## Contundente — 2026-11-04
 
-Pesado/Brutal contundente pode retirar 1 Equilíbrio, mínimo 0, ou empurrar. Limites do empurrão aguardam definição. Restauração e vulnerabilidade seguem este capítulo.
+O dano Contundente, por si só, não reduz Equilíbrio nem empurra o alvo. Consulte [tipos de dano](tipos-de-dano.md).

@@ -1,7 +1,5 @@
 # Eventos, encontros e reações
 
-**Provisório para playtest — aprovado em 16/11/2026; revisar após uso em mesa.**
-
 [Índice de regras](../README.md) · [Categoria](README.md)
 
 ### Eventos de exploração
@@ -38,3 +36,7 @@ Quando a disposição de um grupo encontrado não estiver definida, o mestre rol
 Uma reação favorável não torna inimigos leais, nem faz alguém abandonar valores e objetivos. Mostre a disposição pela descrição antes de os jogadores decidirem atacar ou conversar. Testes sociais posteriores usam as regras normais e podem mudar o rumo da cena.
 
 Inspiração: [Cairn 2e — Procedures](https://cairnrpg.com/second-edition/players-guide/procedures/). Valores e integrações acima são adaptações de CdM. Reação inspirada também em [Worlds Without Number](https://wwn.quadrifons.com/5.0%20Monsters%20and%20Foes/Reaction%20Rolls%20and%20Parlayeing.html).
+
+## Observações de playtest
+
+- Provisório para playtest — aprovado em 16/11/2026; revisar após uso em mesa.

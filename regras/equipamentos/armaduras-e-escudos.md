@@ -2,7 +2,7 @@
 
 [Categoria](README.md) · [Defesas](../combate/defesas.md) · [Equipamento inicial](equipamento-inicial.md)
 
-**Atualizado em 17/11/2026.** RD e pesos preservam a decisão de 04/11; escudos deixam de exigir proficiência. Valores seguem para playtest. Alternativas ainda não decididas estão identificadas.
+RD e pesos preservam a decisão de 04/11; escudos deixam de exigir proficiência. Valores seguem para playtest. Alternativas ainda não decididas estão identificadas.
 
 ## Armaduras
 
@@ -18,7 +18,7 @@ A Desvantagem vale em qualquer teste cujo atributo usado seja Reflexo, inclusive
 
 **Penalidades anteriores ainda não substituídas:** conforme a revisão de 29/10, médias/pesadas sem treinamento específico sofrem 1 Desvantagem em Furtividade/Acrobacia quando ruído ou rigidez prejudicarem; pesada também reduz o movimento de Médio para Curto por PA. Treinamento concedido por habilidade pode remover essas penalidades expressas, mas não peso/sobrecarga nem automaticamente a Desvantagem com Reflexo de 04/11. Não duplicar ruído e rigidez como duas penalidades iguais.
 
-**Pendente:** consolidar todas as penalidades e o futuro papel de habilidades/maestrias. As sugestões de −2/−4 dados para Esquivar não substituem os valores vigentes. A acumulação entre a penalidade situacional antiga e Reflexo exige arbitragem anunciada até essa revisão; não presumir que treinamento seja requisito para a RD.
+As sugestões de −2/−4 dados para Esquivar não substituem os valores vigentes. A acumulação entre a penalidade situacional antiga e Reflexo exige arbitragem anunciada até essa revisão; não presumir que treinamento seja requisito para a RD.
 
 ## Escudo básico
 
@@ -53,7 +53,7 @@ Escamas dos Draconatos preservam RD geral 1, usos iguais ao máximo de Corpo e r
 
 ## Escolha defensiva e resistência
 
-Escolha uma reação por ocorrência. Consulte [Defesas](../combate/defesas.md). O enquadramento de proteções intermitentes na expressão “sem nenhum tipo de proteção” deve constar na descrição da fonte; os casos ainda não descritos ficam pendentes.
+Escolha uma reação por ocorrência. Consulte [Defesas](../combate/defesas.md).
 
 ## Proteções naturais e quedas
 
@@ -62,3 +62,9 @@ Escamas e quedas seguem as exceções em Proteções especiais e aberturas acima
 ## Registro e expansão
 
 Anote categoria, RD, espaços, penalidades e fonte de cada proteção. Proteções com aberturas precisam indicar condição de acesso e grau exigido. Não conceder maestrias ou novos ataques de precisão automaticamente.
+
+## Observações de playtest
+
+- Atualizado em 17/11/2026.
+- **Pendente:** consolidar todas as penalidades e o futuro papel de habilidades/maestrias.
+- O enquadramento de proteções intermitentes na expressão “sem nenhum tipo de proteção” deve constar na descrição da fonte; os casos ainda não descritos ficam pendentes.

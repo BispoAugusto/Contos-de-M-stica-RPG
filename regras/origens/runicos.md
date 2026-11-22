@@ -1,6 +1,6 @@
 # Rúnicos
 
-[Catálogo de playtest](README.md) · [Criação](../../referencias/criacao-de-personagem.md)
+[Origens e espécies](README.md) · [Criação](../../jogador/criacao-de-personagem.md)
 
 Descendentes dos titãs primordiais, os Rúnicos trazem a magia dos ancestrais inscrita na pele.
 

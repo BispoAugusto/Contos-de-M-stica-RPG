@@ -2,7 +2,7 @@
 
 [Índice de regras](../README.md) · [Categoria](README.md)
 
-**Ajudar atualizado por decisão do criador em 16/11/2026; demais intervenções preservam seu alcance.** Ações criativas exigem contribuição possível na ficção, não uma ação genérica chamada Improvisar.
+Ações criativas exigem contribuição possível na ficção, não uma ação genérica chamada Improvisar.
 
 ## Preparar Ação
 
@@ -30,7 +30,7 @@ Quando o aliado for realizar uma ação com teste compatível, **antes de rolar*
 - Reservar ajuda não concede PA nem pode usar PA já gasto ou comprometido com outra reserva.
 - Exemplo: Lia reserva d8 e d6 para Rui; Bia reserva d8 para Rui. No primeiro teste de Rui, Lia pode contribuir d8 e Bia d8 (total de ajuda 2d8). O d6 de Lia fica para outro teste compatível, dentro da validade da reserva.
 
-**Pendências operacionais:** a decisão exige Toque ao declarar; não definiu se deve persistir até o consumo. Exigir que a contribuição continue possível, sem criar uma regra geral de alcance posterior. Também falta definir reordenação dos dados, transferência de alvo e se cancelar uma reserva devolve sua posição na sequência; não tratar cancelamento como recarga automática de d8. Registrar a arbitragem até decisão específica.
+Exigir que a contribuição continue possível, sem criar uma regra geral de alcance posterior. Registrar a arbitragem até decisão específica.
 
 Fora de combate, ajuda exige participação e tempo; num trabalho isolado sem sequência tática, usar d8 por ajudante e teste. Em cena cronometrada com ajudas sucessivas, estabelecer previamente a janela da sequência. Não usar múltiplas descrições da mesma contribuição para duplicar dados.
 
@@ -43,3 +43,8 @@ Quando houver Ajuda e Atrapalhar no mesmo teste, role os dados de ambos. **Some 
 ## Outras ações universais
 
 [Analisar](aberturas.md#analisar) custa 1 PA, usa Defesa do alvo como DT de referência e entrega informação útil. Repetir ainda exige nova pista ou mudança real, além da [penalidade de repetição](../fundamentos/testes.md#repetição-de-ações) quando aplicável. Manobras e reações preservam seus requisitos.
+
+## Observações de playtest
+
+- **Pendências operacionais:** a decisão exige Toque ao declarar; não definiu se deve persistir até o consumo.
+- Também falta definir reordenação dos dados, transferência de alvo e se cancelar uma reserva devolve sua posição na sequência; não tratar cancelamento como recarga automática de d8.

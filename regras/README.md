@@ -1,31 +1,8 @@
-# Regras — índice por assunto
+# Índice de regras
 
-**22/11/2026 — Playtest de raças e descansos.** [Catálogo](origens/README.md), [descansos](recuperacao/descansos.md) e [proficiências](personagem/proficiencias.md) prevalecem sobre registros anteriores nesses assuntos.
+[Início](../README.md) · [Criar personagem](../jogador/criacao-de-personagem.md) · [Guia rápido de mesa](../jogador/guia-rapido.md)
 
-> **20/11/2026:** a revisão de [exaustão](recuperacao/exaustao.md), [Morrendo](recuperacao/morte-e-recuperacao.md), [iniciativa](combate/turnos-e-iniciativa.md), [apoio](combate/acoes-taticas.md) e [armaduras](equipamentos/armaduras-e-escudos.md) prevalece nos pontos substituídos. Desenvolver habilidades antes dos inimigos e da região.
-
-## 2026-11-18 — Reservas, exaustão e Morrendo
-
-[Reservas](fundamentos/alma.md) pagam habilidades e suportam desgaste; Forçar não é mais uma rerrolagem universal. [Exaustão](recuperacao/exaustao.md) substitui PE/NE; excesso usa 1d20 com DT 5/+5. [Morrendo](recuperacao/morte-e-recuperacao.md) mantém PV negativos e cobra 1 exaustão por sucesso em Vigor. **Traumas ficam para desenvolvimento posterior.** Limites, custos, penalidades e demais lacunas estão em [pendências](../design/pendencias.md#reservas-exaustão-morrendo-e-traumas--2026-11-18); não importar valores históricos para preenchê-las.
-
-## 2026-11-17 — Equipamentos e seleção inicial
-
-[Catálogo atualizado](equipamentos/README.md): armas e propriedades, escudo sem proficiência, ferramentas com efeitos e espaços, três kits, luz por períodos e kit básico mais três escolhas. Parâmetros seguem para playtest; receitas/fabricação permanecem adiadas. Armaduras preservam RD 1/3/5 e penalidades vigentes; revisão de penalidades e limiar universal de abertura continuam pendentes.
-
-## 2026-11-16 — Núcleo e sandbox
-
-Os capítulos de fundamentos, criação, defesas, ajuda, recuperação e guias incorporam as respostas do criador. Atributos 0–5 fornecem dados; pleno usa DT +5; curto recupera Alma automaticamente; criação usa 12 pontos de atributo e 6 PP antes da origem. [Alcance e status](../design/decisoes.md#2026-11-16--núcleo-de-dados-ajuda-e-sandbox). O sandbox está disponível nos capítulos de exploração e moral, **provisório para playtest**. Registros anteriores abaixo só prevalecem onde não foram substituídos.
-
-## 2026-10-29 — Consolidação das decisões de playtest
-
-**Aprovado pelo criador na conversa de 27–29/10:** [revisão completa](revisao-playtest-2026-10-29.md). Ela prevalece sobre os trechos anteriores conflitantes. Inclui Vigor no lugar de Esquiva, reações antes do resultado, Leve e catálogo de armas, armaduras/proficiência/sobrecarga, equipamento inicial, Resistir/Cair/Sequelas, movimento/ambiente, DTs, Medo PVE e Analisar/Aberturas.
-
-Registro em suplemento normativo com avisos nos capítulos afetados; reescrita integral de capítulos, exemplos e fichas ainda pendente. Propostas e lacunas estão identificadas no próprio suplemento; nenhuma sessão foi realizada. Próximo assunto: controle, condições e interrupções. Habilidades/magia ficam para o final.
-
-
-[Início](../README.md) · [Criar personagem](../referencias/criacao-de-personagem.md) · [Guia rápido de mesa](../referencias/guia-rapido.md)
-
-Escolha uma categoria ou procure a situação na tabela abaixo. Cada capítulo contém a regra completa e seus status de aprovação.
+Escolha uma categoria ou procure a situação na tabela abaixo. Cada capítulo contém a regra completa.
 
 ## Categorias
 
@@ -33,7 +10,7 @@ Escolha uma categoria ou procure a situação na tabela abaixo. Cada capítulo c
 |---|---|
 | [Fundamentos](fundamentos/README.md) | Atributos, rolagens, pressão, graus e reservas de Alma |
 | [Personagem](personagem/README.md) | Proficiências, perícias, idiomas e valores da ficha |
-| [Origens e espécies](origens/README.md) | As seis origens, 14 espécies, portes, características e misturas |
+| [Origens e espécies](origens/README.md) | As seis origens, 14 espécies, portes e características |
 | [Combate](combate/README.md) | Turnos, iniciativa, ataques, dano, defesas, manobras e condições |
 | [Equipamentos](equipamentos/README.md) | Armas, armaduras, escudos, itens gerais, kits, equipamento inicial e inventário |
 | [Exploração](exploracao/README.md) | Viagens, suprimentos, encontros, atividades, facções, projetos, movimento e quedas |
@@ -43,7 +20,7 @@ Escolha uma categoria ou procure a situação na tabela abaixo. Cada capítulo c
 
 | Preciso saber… | Referência |
 |---|---|
-| Como criar meu personagem | [Guia em oito etapas](../referencias/criacao-de-personagem.md) |
+| Como criar meu personagem | [Guia em oito etapas](../jogador/criacao-de-personagem.md) |
 | Quanto um atributo soma ao teste | [Rolagem e pressão — atributo não soma](fundamentos/testes.md#rolagem-e-pressão) |
 | Quando obtenho pleno ou extremo | [Graus de sucesso](fundamentos/testes.md#graus-de-sucesso) |
 | Como usar reservas e forçar habilidades | [Reservas e esforço](fundamentos/alma.md#reserva-esgotada-e-esforço-voluntário) |
@@ -59,15 +36,3 @@ Escolha uma categoria ou procure a situação na tabela abaixo. Cada capítulo c
 | O que posso recuperar em um descanso | [Descansos](recuperacao/descansos.md) |
 | O que ocorre a 0 PV | [Morte e recuperação](recuperacao/morte-e-recuperacao.md) |
 | O que ainda não foi definido | [Pendências de desenvolvimento](../design/pendencias.md) |
-
-## Como ler os status
-
-**Confirmado** é uma decisão aprovada. **Provisório para playtest** pode ser usado nesta versão, mas seus valores serão avaliados. **Proposto** ainda não foi aprovado. **Pendente** exige definição. História de decisões e catálogos antigos ficam em desenvolvimento; não substituem as regras atuais.
-
-## Atualização tática — 2026-10-25
-
-[Preparar Ação e apoio](combate/acoes-taticas.md) · [Analisar e Abertura](combate/aberturas.md) · [Equilíbrio](combate/postura.md).
-
-## Inimigos e vulnerabilidades
-
-[Fichas simplificadas de NPCs](combate/npcs.md) · [Exposto](combate/condicoes.md#exposto) · [Abertura parcial e total](combate/aberturas.md).

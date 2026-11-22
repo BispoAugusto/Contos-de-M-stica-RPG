@@ -1,12 +1,10 @@
 # Fundamentos
 
-[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
+Em Contos de Mística, descreva o que pretende fazer e como seu personagem age. Quando o resultado for incerto e houver algo em jogo, o mestre indica a dificuldade e o teste.
 
-**Núcleo atualizado para playtest em 2026-11-16.** RPG d20 de fantasia com combate tático narrativo de 4 PA e distâncias por faixas. A evolução modular, habilidades e miniclasses serão desenvolvidas depois desta integração.
+Os nove [atributos](atributos.md) determinam quantos d20 rolar em um teste de atributo. A [proficiência](../personagem/proficiencias.md) representa o treinamento e acrescenta seu bônus ao dado escolhido. Consulte [testes](testes.md) para pressões, vantagens, oposições e graus de sucesso.
 
-Nove atributos entre 0 e 5 descrevem abordagens e fornecem dados; não somam aos testes. Proficiências fornecem bônus integrais, inclusive sob pressão. Pleno ocorre em DT +5 em testes que não sejam ataques. Corpo, Mente e Espírito são [reservas de Alma](alma.md), calculadas a partir dos atributos e da espécie.
-
-PV representam perigo imediato; condições, limitações temporárias; Exaustão, desgaste persistente; traumas, consequências físicas ou mentais cujo desenvolvimento foi adiado. A revisão de 18/11 substitui a rerrolagem universal por reservas que pagam habilidades e desgaste; não há três barras separadas de exaustão. Origens são categorias de espécies, não formação cultural.
+Corpo, Mente e Espírito são os três pilares da [Alma](alma.md). Cada um tem sua própria reserva. Os PV medem quanto dano o personagem suporta. A [exaustão](../recuperacao/exaustao.md) acompanha o desgaste que ele acumula.
 
 ## Arredondamento
 
@@ -14,6 +12,4 @@ Por padrão, arredondar para cima, salvo exceção explícita. Aplica-se às met
 
 ## Status das regras
 
-**Confirmado:** decisão aprovada pelo criador. **Provisório para playtest:** pode ser usado nesta versão, com valores abertos à revisão. **Proposto:** ideia ainda não aprovada. **Pendente:** decisão não tomada. Aprovação documental não é evidência de equilíbrio ou de sessão de playtest.
-
-Começar pelo [guia de criação](../../referencias/criacao-de-personagem.md) e pelo [estado do projeto](../../ESTADO-DO-PROJETO.md).
+As observações ao final dos capítulos identificam parâmetros de playtest. Questões abertas ficam em [Pendências](../../design/pendencias.md).

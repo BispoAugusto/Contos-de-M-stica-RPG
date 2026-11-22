@@ -2,7 +2,7 @@
 
 [Categoria](README.md) · [Inventário](porte-e-inventario.md) · [Equipamento inicial](equipamento-inicial.md)
 
-**Catálogo provisório para playtest — 17/11/2026.** Efeitos, lotes e espaços são referências de mesa a avaliar. A exclusão de itens solicitada pelo criador, os três kits e a duração de luz seguem a direção confirmada. Preços e fabricação ficam para outra revisão.
+Efeitos, lotes e espaços são referências de mesa a avaliar. A exclusão de itens solicitada pelo criador, os três kits e a duração de luz seguem a direção confirmada.
 
 ## Uso e bônus
 
@@ -90,3 +90,8 @@ A seleção inicial com arma de distância inclui um lote compatível de 20 muni
 Catalisador é uma opção de equipamento inicial, mas seus modelos, espaços e efeitos dependem da futura definição de habilidades e magia. Não concede conjuração por si só; registrar a escolha e o perfil combinado para o playtest como arbitragem, sem fingir que há um catálogo mágico pronto.
 
 Receitas serão aprendidas por habilidades ou outros meios que vierem a ser definidos. Propriedades de materiais serão requisitos de receitas e **não terão efeito automático por si mesmas**. Não há receitas genéricas nem concessão automática de todas as receitas básicas pela compra de proficiência. Coleta, fabricação, custos, tempos e receitas estão adiados.
+
+## Observações de playtest
+
+- Catálogo provisório para playtest — 17/11/2026.
+- Preços e fabricação ficam para outra revisão.

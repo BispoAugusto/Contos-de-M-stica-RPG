@@ -1,10 +1,8 @@
 # Proficiências e pontos iniciais
 
+[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../jogador/criacao-de-personagem.md)
 
-
-[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
-
-**Provisório para playtest — atualizado em 2026-11-16.** A reserva inicial passa a **6 pontos de proficiência**, com máximo inicial **nível 2**.
+Distribua **6 pontos de proficiência**, com máximo inicial **nível 2**.
 
 ## Compra
 
@@ -30,9 +28,9 @@ Exemplo com seis pontos: Atletismo 1, Vigor 1, Armas Corpo a Corpo 2, História 
 
 Gerais, resistências, conhecimentos, profissionais e as duas proficiências de arma usam essa escala. O bônus é integral mesmo sob pressão. O atributo fornece a base de dados e não soma à rolagem. A base das armas naturais das Feras usa o nível de Armas Corpo a Corpo, não seu bônus numérico.
 
-Idiomas têm escala própria: Amador +0; Fluente +2 quando precisar testar. Armaduras concedem RD pelo uso, sem compra de acesso. Escudo empunhado concede +1 Defesa e permite Bloquear por 1 PA/RD física 2, **sem proficiência**, conforme atualização de 17/11. Maestrias futuras não são requisito para esses benefícios. Ver [defesas](../combate/defesas.md).
+Idiomas têm escala própria: Amador +0; Fluente +2 quando precisar testar. Armaduras concedem RD pelo uso, sem compra de acesso. Escudo empunhado concede +1 Defesa e permite Bloquear por 1 PA/RD física 2, **sem proficiência**, conforme a regra de escudos. Ver [defesas](../combate/defesas.md).
 
-**Forja e Culinária** são profissões e seguem os custos e bônus profissionais. O **kit de fabricação** usa perícias apropriadas às tarefas, sem proficiência própria. Possuir um kit ou comprar treino não concede receitas; sua definição está adiada.
+**Forja e Culinária** são profissões e seguem os custos e bônus profissionais. O **kit de fabricação** usa perícias apropriadas às tarefas, sem proficiência própria. Possuir um kit ou comprar treino não concede receitas.
 
 ## Concessões iniciais
 
@@ -45,4 +43,8 @@ Manobras são adquiridas por habilidades conforme a revisão de 29/10; um nível
 
 Há duas proficiências de arma. **Armas Corpo a Corpo** cobre ataques em combate corpo a corpo, inclusive golpes desarmados e armas naturais. **Armas a Distância** cobre ataques a distância, inclusive arremessos. A arma e seu modo de uso determinam a proficiência. Famílias do catálogo descrevem equipamentos.
 
-Progressão posterior permanece em desenvolvimento. O equipamento inicial segue a [seleção atual](../equipamentos/equipamento-inicial.md). Comprar proficiência não concede equipamento. Ver [perícias](pericias.md), [idiomas](idiomas.md) e [armas](../equipamentos/armas.md).
+O equipamento inicial segue a [seleção atual](../equipamentos/equipamento-inicial.md). Comprar proficiência não concede equipamento. Ver [perícias](pericias.md), [idiomas](idiomas.md) e [armas](../equipamentos/armas.md).
+
+## Observações de playtest
+
+- A reserva de 6 PP e o limite de compra 2 são provisórios para playtest. Progressão e receitas aguardam definição.

@@ -41,6 +41,10 @@ for (const folder of categories) {
 }
 for (const id of ['regras/combate.md', 'regras/atributos-e-testes.md', 'regras/origens-e-tracos.md']) assert(byId.get(id)?.compatibility, `Link antigo preservado: ${id}`);
 assert(byId.get('design/catalogo-origens-historico.md').development, 'Histórico separado da consulta atual');
-assert.equal(byId.get('referencias/criacao-de-personagem.md').group, 'Comece aqui');
+assert.equal(byId.get('jogador/criacao-de-personagem.md').group, 'Comece aqui');
+assert(byId.get('ESTADO-DO-PROJETO.md').development);
+const home = await readFile('dist/index.html', 'utf8');
+for (const [, id] of home.matchAll(/href="#doc=([^"]+)"/g)) assert(byId.has(decodeURIComponent(id)), id);
+for (const [, src] of home.matchAll(/<img src="([^"]+)"/g)) await access(path.join('dist', src));
 console.log(`OK: ${docs.length} documentos preservados; cobertura dos Markdown, downloads, tabelas e atalhos verificados.`);
 console.log('OK: sete categorias, links/âncoras, caminhos antigos e separação de histórico verificados.');

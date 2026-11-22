@@ -1,6 +1,6 @@
 # Personagem — índice
 
-[Todas as categorias](../README.md) · [Guia de criação](../../referencias/criacao-de-personagem.md)
+[Todas as categorias](../README.md) · [Guia de criação](../../jogador/criacao-de-personagem.md)
 
 | Capítulo | Conteúdo |
 |---|---|

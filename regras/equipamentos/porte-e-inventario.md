@@ -1,15 +1,14 @@
 # Porte e inventário
 
-> **Atualizado em 17/11/2026.** Capacidade e diferenças de porte preservadas; catálogo, mochila, espaço mínimo e lotes atualizados para playtest. Este capítulo consolida a sobrecarga de 29/10, sem restaurar o antigo limite de Desvantagens.
+Capacidade e diferenças de porte preservadas; catálogo, mochila, espaço mínimo e lotes atualizados para playtest. Este capítulo consolida a sobrecarga de 29/10, sem restaurar o antigo limite de Desvantagens.
 
-
-[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
+[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../jogador/criacao-de-personagem.md)
 
 **Parâmetros provisórios para playtest.** Passagens, adaptações de equipamento por porte e fabricação ainda não estão completos.
 
 ## Porte e capacidade
 
-**Atualização de 2026-10-19:** porte é um campo separado, escolhido entre as opções da espécie; não se compra por pontos nem ocupa um dos dois traços. Raças mistas ficam para revisão futura. Ver [origens](../origens/README.md).
+**Atualização de 2026-10-19:** porte é um campo separado, escolhido entre as opções da espécie; não se compra por pontos nem ocupa um dos dois traços. Ver [origens](../origens/README.md).
 
 **Capacidade = base do porte + 2 × Potência + benefícios expressos.** A mochila de viagem vestida concede +5, sem acumular com outra mochila; seus 0,5 espaço e o conteúdo contam na carga. Bases aprovadas para playtest. Equipamentos usados contam.
 
@@ -47,7 +46,7 @@ Em interações físicas nas quais a diferença de porte importa:
 | Duas categorias | −5 no teste |
 | Três categorias | −10 no teste |
 
-Por três categorias, o maior pode receber +10 quando for quem testa. Em testes opostos, aplicar somente a penalidade ao menor, sem dar também bônus ao maior. Benefícios do maior com uma ou duas categorias em testes não opostos e diferenças acima de três continuam pendentes.
+Por três categorias, o maior pode receber +10 quando for quem testa. Em testes opostos, aplicar somente a penalidade ao menor, sem dar também bônus ao maior.
 
 Esses modificadores não são penalidades de d20 nem afetam automaticamente ataques que usam Potência. Não concedem Defesa automática.
 
@@ -64,3 +63,8 @@ As limitações de porte não concedem pontos de compra. Gnomos usam porte pelo 
 ## Desenvolvimento adiado
 
 Desenvolver ocupação/passagens, adaptação de equipamento por porte e fabricação. A escala de espaços não concede compensação automática de itens minúsculos. Catálogo e seleção inicial estão em [equipamentos](README.md).
+
+## Observações de playtest
+
+- Raças mistas ficam para revisão futura.
+- Benefícios do maior com uma ou duas categorias em testes não opostos e diferenças acima de três continuam pendentes.

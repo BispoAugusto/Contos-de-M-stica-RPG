@@ -1,7 +1,5 @@
 # Facções e projetos
 
-**Provisório para playtest — aprovado em 16/11/2026; revisar após uso em mesa.**
-
 [Índice de regras](../README.md) · [Categoria](README.md)
 
 ## Facções e passagem do tempo
@@ -44,3 +42,7 @@ Benefício: a rota muda de condição; pode reduzir tempo, melhorar descanso, ab
 Outros projetos: reconstruir uma fortaleza, fundar uma escola, proteger uma comunidade, organizar uma expedição, pesquisar um ritual. A progressão pode aumentar influência e opções mantendo o personagem mortal.
 
 Inspiração: [Worlds Without Number — Factions](https://wwn.quadrifons.com/6.0%20Factions.html) e [Major Projects](https://wwn.quadrifons.com/7.0%20Major%20Projects.html). A cadência semanal simplificada e as etapas acima são adaptações de CdM.
+
+## Observações de playtest
+
+- Provisório para playtest — aprovado em 16/11/2026; revisar após uso em mesa.

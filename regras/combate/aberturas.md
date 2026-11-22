@@ -1,11 +1,8 @@
 # Aberturas e Analisar
 
-**Confirmado pelo criador — 2026-11-04.**
-
 ## Conhecimento e acesso
 
 Inimigos têm proteções próprias e meios de contorná-las pelo roleplay. A ficha descreve o que protege o alvo, as falhas e como alcançá-las. Observação, conhecimento e Analisar podem revelar aberturas. Uma descoberta permanece conhecida enquanto a vulnerabilidade existir. Mudanças de posição podem impedir o acesso sem apagar o conhecimento.
-
 
 ## Analisar
 
@@ -25,7 +22,6 @@ Além dessa descrição, o jogador faz **uma pergunta de análise**: uma resist�
 Exemplo: o mestre descreve o feiticeiro traçando um círculo incandescente. O jogador pergunta se a magia parece envolver fogo e faz o teste apropriado. A informação resultante ajuda a decidir se enfrenta, interrompe ou evita a preparação. Analisar não executa a ação do inimigo nem passa o foco de iniciativa para ele.
 
 Analisar não concede Exposto automaticamente, mesmo em pleno ou crítico.
-
 
 ## Explorar uma abertura
 
@@ -48,10 +44,6 @@ Ignorar a armadura não ignora automaticamente RD de reação, magia ou outra fo
 
 Exposto mantém seu alcance: ataques ignoram toda RD, inclusive Bloquear. Não remove Defesa, imunidades ou testes obrigatórios. A fonte define aplicação, duração e término. Pesado/Brutal e quebra de Equilíbrio não aplicam Exposto automaticamente.
 
-## Composição e casos pendentes
-
-Definir novos perfis de NPCs e composição com múltiplos tipos/fontes. Ver [tipos de dano](tipos-de-dano.md).
-
 ## Abertura
 
 Consulte conhecimento e acesso acima.
@@ -59,3 +51,7 @@ Consulte conhecimento e acesso acima.
 ## Ataque direcionado
 
 A abertura usa o limiar de Pesado/Brutal descrito acima, substituindo o antigo teste de Foco.
+
+## Composição e casos pendentes
+
+Definir novos perfis de NPCs e composição com múltiplos tipos/fontes. Ver [tipos de dano](tipos-de-dano.md).

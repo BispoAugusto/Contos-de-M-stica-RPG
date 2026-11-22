@@ -1,14 +1,8 @@
 # Turnos, PA e iniciativa
 
-> **16/11/2026:** [repetição](../fundamentos/testes.md#repetição-de-ações) agora também se aplica aos testes de outras ações repetidas no próprio turno. Ao passar para si mesmo, começa um novo turno com novas contagens.
+[repetição](../fundamentos/testes.md#repetição-de-ações) agora também se aplica aos testes de outras ações repetidas no próprio turno. Ao passar para si mesmo, começa um novo turno com novas contagens.
 
-> **Atualização de 01/11/2026:** as seções de iniciativa abaixo incorporam as novas decisões e prevalecem sobre a revisão de 29/10 nos pontos alterados.
-
-
-> **Revisão vigente de 29/10/2026:** consulte a [consolidação aprovada](../revisao-playtest-2026-10-29.md). Ela substitui as regras conflitantes deste capítulo. O texto anterior abaixo ainda não foi integralmente harmonizado; exemplos e listas antigos não devem revogar as decisões do suplemento.
-
-
-[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
+[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../jogador/criacao-de-personagem.md)
 
 **Núcleo confirmado; procedimentos de interrupção ainda têm pendências.**
 
@@ -37,13 +31,13 @@ A rodada compreende a participação dos combatentes. A renovação normal não 
 
 Iniciador evidente pode agir primeiro pela ficção; a comparação de Reflexo resolve a maioria das disputas. Não há perícia fixa. Se precisar rolar, use Reflexo e uma proficiência adequada à primeira ação pretendida, com os dados de Reflexo, bônus integral e sem somar Reflexo. Desempates seguem [testes](../fundamentos/testes.md).
 
-O ator escolhe o próximo participante que ainda não agiu, aliado ou inimigo. Quem sofreu dano antes de agir pode reivindicar o próximo turno; Inspiração/Medo também permitem interrupções. Medo é reserva coletiva do encontro PVE de 1 ponto por jogador por combate, com gasto máximo de 1 por rodada. O procedimento completo de interrupções simultâneas permanece pendente. A exceção do último participante está descrita a seguir.
+O ator escolhe o próximo participante que ainda não agiu, aliado ou inimigo. Quem sofreu dano antes de agir pode reivindicar o próximo turno; Inspiração/Medo também permitem interrupções. Medo é reserva coletiva do encontro PVE de 1 ponto por jogador por combate, com gasto máximo de 1 por rodada. A exceção do último participante está descrita a seguir.
 
 Movimento, Equilíbrio e condições preservam seus capítulos. [Quedas](../exploracao/quedas.md) têm exceções expressas de defesa; não são ataques.
 
 ## Rodada simultânea e foco narrativo — 2026-11-01
 
-**Confirmado pelo criador para playtest.** A rodada representa acontecimentos simultâneos na ficção. A ordem dos turnos escolhe o foco da narração e da resolução; quem ainda não recebeu o foco não está necessariamente parado esperando.
+A rodada representa acontecimentos simultâneos na ficção. A ordem dos turnos escolhe o foco da narração e da resolução; quem ainda não recebeu o foco não está necessariamente parado esperando.
 
 Quem passa a iniciativa pode escolher outro participante que ainda não agiu, inclusive um inimigo, e não apenas um aliado. Passar ao feiticeiro inimigo, por exemplo, permite resolver e ver o que ele está fazendo naquela rodada; isso não concede antecipadamente toda informação secreta sobre sua magia. Analisar permite observar o que ele parece estar fazendo sem entregar-lhe o turno.
 
@@ -58,3 +52,8 @@ Ao **encerrar seu turno** como último participante a agir na rodada, um jogador
 ## PA de NPCs
 
 [NPCs](npcs.md) podem ter quantidade de PA e custos próprios por ação/ataque/reação, conforme força e número de jogadores do encontro. Não presumir quatro PA nem 1 PA por ataque. Registrar na ficha; não há fórmula universal aprovada de escalonamento nem concessão automática de turnos extras.
+
+## Observações de playtest
+
+- A [revisão de combate e exploração](../revisao-playtest-2026-10-29.md) registra o alcance das regras de playtest.
+- O procedimento completo de interrupções simultâneas permanece pendente.

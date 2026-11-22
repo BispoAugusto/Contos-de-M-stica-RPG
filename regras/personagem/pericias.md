@@ -1,10 +1,8 @@
 # Perícias
 
+[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../jogador/criacao-de-personagem.md)
 
-
-[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
-
-**Lista aprovada para playtest — atualizada em 2026-10-19.** São **27 perícias nomeadas**: três resistências, dezesseis gerais e oito conhecimentos, além das profissionais personalizadas.
+São **27 perícias nomeadas**: três resistências, dezesseis gerais e oito conhecimentos, além das profissionais personalizadas.
 
 Atributos sugeridos podem mudar conforme a abordagem. Eles fornecem dados: **d20 escolhido + proficiência integral + modificadores**, mesmo sob pressão. Ver [testes](../fundamentos/testes.md) e [compra de níveis](proficiencias.md).
 
@@ -39,11 +37,11 @@ As perícias gerais são as **perícias básicas** do sistema.
 | Performance | Influência | Música, dança, atuação e apresentação ao público |
 | Trato com Animais | Influência | Lidar com animais e influenciar seu comportamento |
 | Fluxo | Sintonia | Controle do próprio espírito ou mana |
-| Linguagens | A definir; selecionar conforme abordagem | Escopo específico e interação com idiomas a definir |
+| Linguagens | Conforme a abordagem | Ver observações |
 
-Fluxo ocupa o lugar da proposta de perícia Magia; sua aplicação à conjuração será desenvolvida com as habilidades. Liderança foi retirada em favor de Persuasão. Performance substitui Atuação. Luta e Pontaria não entram nesta lista: mantêm-se as proficiências de armas.
+Os ataques usam Armas Corpo a Corpo ou Armas a Distância.
 
-Linguagens integra as perícias básicas e segue o custo e a escala das gerais. Sua inclusão não altera a compra, os níveis nem o procedimento atual dos [idiomas](idiomas.md); a relação entre ambos permanece pendente.
+Linguagens integra as perícias básicas e segue o custo e a escala das gerais. Sua inclusão não altera a compra, os níveis nem o procedimento atual dos [idiomas](idiomas.md).
 
 ### Vigilância passiva
 
@@ -62,9 +60,9 @@ Venenos e toxinas exigem permissão específica para uma tentativa de resistênc
 | Arcanismo | Raciocínio |
 | Religião | Raciocínio |
 | Ocultismo | Raciocínio |
-| Espiritualismo | A definir; selecionar conforme abordagem |
+| Espiritualismo | Conforme a abordagem |
 
-O escopo específico de Espiritualismo e sua fronteira com Religião/Ocultismo ficam pendentes. Os sete conhecimentos anteriores preservam Raciocínio como sugestão, com substituição contextual possível.
+Os sete conhecimentos anteriores preservam Raciocínio como sugestão, com substituição contextual possível.
 
 Rumores trata de lembrar e relacionar informações em circulação; obtê-las conversando pode usar Persuasão ou Enganação. Natureza cobre saber aprendido; Sobrevivência, aplicação prática.
 
@@ -74,4 +72,11 @@ Medicina trata feridas e recupera PV no descanso conforme [descansos](../recuper
 
 **Lista inicialmente vazia**, preenchida com proficiências únicas aprendidas pelo personagem; não há catálogo obrigatório nem uma perícia genérica chamada Ofícios. Atributo varia com a tarefa. Registrar especialização e nível adquirido; sem nível, bônus +0. História ou habilidades podem conceder especializações, mas não há profissão gratuita universal aprovada.
 
-Conhecimentos e idiomas custam dois níveis por ponto; profissionais seguem um nível por ponto. Fabricação será desenvolvida depois: a lista aberta não aprova receitas, tempos, custos ou uma fórmula universal de produção.
+Conhecimentos e idiomas custam dois níveis por ponto; profissionais seguem um nível por ponto.
+
+## Observações de playtest
+
+- Faltam especificar as aplicações de Linguagens, sua relação com idiomas e o uso de Fluxo na conjuração.
+- Lista aprovada para playtest — atualizada em 2026-10-19.
+- O escopo específico de Espiritualismo e sua fronteira com Religião/Ocultismo ficam pendentes.
+- Fabricação será desenvolvida depois: a lista aberta não aprova receitas, tempos, custos ou uma fórmula universal de produção.

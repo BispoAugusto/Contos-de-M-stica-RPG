@@ -1,8 +1,8 @@
 # Partes da Alma
 
-[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
+[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../jogador/criacao-de-personagem.md)
 
-**Estrutura confirmada em 18/11/2026; custos e escala das reservas pendentes de calibração.** Corpo, Mente e Espírito são recursos separados, com valores atuais e máximos. Funcionam como reservas de stamina para habilidades e para suportar desgaste. Esta revisão substitui Forçar como rerrolagem universal.
+Corpo, Mente e Espírito são recursos separados, com valores atuais e máximos. Funcionam como reservas de stamina para habilidades e para suportar desgaste. Esta revisão substitui Forçar como rerrolagem universal.
 
 ## Reservas e usos
 
@@ -14,7 +14,7 @@
 
 **Confirmado:** habilidades podem gastar a reserva indicada; penalidades e efeitos negativos podem retirar pontos da Parte afetada. Uma falha grave pode ter essa consequência quando a situação a justificar. Falhar não retira pontos automaticamente, e ações comuns não têm custo universal de reserva. A fonte deve informar qual Parte perde pontos e quanto.
 
-**Direção confirmada para conjuração, ainda não desenvolvida:** as reservas poderão pagar magias conforme a origem do poder, em lugar de criar uma reserva obrigatória separada de Mana. Não há lista de magias, custos, troca livre de Parte ou novo benefício de classe neste pacote. Fúria e outras habilidades serão calibradas junto dessa economia.
+Não há lista de magias, custos, troca livre de Parte ou novo benefício de classe neste pacote. Fúria e outras habilidades serão calibradas junto dessa economia.
 
 ## Máximos
 
@@ -24,13 +24,13 @@ Exemplo: Corpo com atributos 3, 2 e 1 e bônus de espécie +2 tem máximo 8. Gas
 
 ## Reserva esgotada e esforço voluntário
 
-Quando a reserva não cobre uma perda ou um custo, o que faltar gera [exaustão](../recuperacao/exaustao.md). **A taxa de conversão ainda é pendente:** a hipótese de 2 pontos faltantes para 1 de exaustão não é uma regra aprovada. Os custos antigos em PE também não se convertem automaticamente em pontos da nova trilha.
+Quando a reserva não cobre uma perda ou um custo, o que faltar gera [exaustão](../recuperacao/exaustao.md).
 
 Gastar exatamente os pontos disponíveis deixa a reserva em 0. Não há trauma, morte ou penalidade adicional automática por simplesmente zerá-la. O personagem perde a capacidade de pagar novas habilidades com aquela reserva sem se desgastar.
 
 **Confirmado:** é possível forçar habilidades sem reserva suficiente, recebendo exaustão. Normalmente, isso só é permitido se a exaustão resultante ficar **abaixo do máximo**; não pode atingir nem ultrapassar o limite voluntariamente. O limite representa a autopreservação do personagem. Perdas involuntárias não têm essa proteção.
 
-**Exceção narrativa confirmada:** cenas especiais, com um motivo forte para ir até o limite, podem permitir ultrapassar a restrição. O risco deve ficar claro antes da escolha; não é permissão geral para ignorar o limite sempre que faltar reserva. Momento de resolução da habilidade e dos testes de excesso ainda precisa ser definido.
+**Exceção narrativa confirmada:** cenas especiais, com um motivo forte para ir até o limite, podem permitir ultrapassar a restrição. O risco deve ficar claro antes da escolha; não é permissão geral para ignorar o limite sempre que faltar reserva.
 
 Exemplo sem fixar valores: com exaustão atual E e máximo M, o esforço comum só é permitido se E + custo convertido < M. A regra vale mesmo se a reserva ainda tiver alguns pontos e apenas parte do custo faltar.
 
@@ -43,3 +43,10 @@ Adaptabilidade dos Homens Altos é uma rerrolagem específica de perícia, descr
 ## Recuperação
 
 Uma vez por personagem a cada período, o descanso curto recupera metade do máximo de cada pilar, arredondada para cima. O descanso longo adequado recupera os três pilares integralmente. Consulte [Descansos](../recuperacao/descansos.md) para ações, PV e exaustão.
+
+## Observações de playtest
+
+- **A taxa de conversão ainda é pendente:** a hipótese de 2 pontos faltantes para 1 de exaustão não é uma regra aprovada. Os custos antigos em PE também não se convertem automaticamente em pontos da nova trilha.
+- Custos e escala das reservas estão em calibração.
+- **Direção confirmada para conjuração, ainda não desenvolvida:** as reservas poderão pagar magias conforme a origem do poder, em lugar de criar uma reserva obrigatória separada de Mana.
+- Momento de resolução da habilidade e dos testes de excesso ainda precisa ser definido.
