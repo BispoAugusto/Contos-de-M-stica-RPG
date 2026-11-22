@@ -58,7 +58,7 @@ Este capítulo foi organizado por assunto. [Abrir a referência atual](origens/R
 
 ## Pássaros
 
-[Consultar esta seção](origens/bestiais.md#pássaros).
+[Consultar esta seção](origens/bestiais.md#plúmeos).
 
 ## Talpis
 
@@ -82,7 +82,7 @@ Este capítulo foi organizado por assunto. [Abrir a referência atual](origens/R
 
 ## Arborídeos
 
-[Consultar esta seção](origens/verdantes.md#arborídeos).
+[Consultar esta seção](origens/verdantes.md#borins).
 
 ## Rúnicos
 

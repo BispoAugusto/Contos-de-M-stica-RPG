@@ -6,7 +6,7 @@
 
 ## Vida
 
-**PV máximos = 6 + 2 × máximo de Corpo + bônus explícitos.** Corpo 0 dá 6 PV; Corpo 1 dá 8; Corpo 6 dá 18 antes de bônus. Gastar Corpo atual não reduz os PV máximos. Anões recebem +3 PV provisórios.
+**PV máximos = 6 + 2 × máximo de Corpo + bônus explícitos.** Corpo 0 dá 6 PV; Corpo 1 dá 8; Corpo 6 dá 18 antes de bônus. Gastar Corpo atual não reduz os PV máximos. Golias somam +6 PV por Constituição de Gigante.
 
 ## Defesa
 

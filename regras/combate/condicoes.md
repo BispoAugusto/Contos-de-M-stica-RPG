@@ -59,7 +59,7 @@ Exemplo: orçamento normal 4 resulta em 2 PA para agir. O exemplo antigo de NE 4
 
 Custos, durações e modificadores numéricos específicos das condições permanecem provisórios; a troca para Desvantagens vale para repetição de ataques, não converte automaticamente todos os ±2 do sistema. Fuga oposta favorece quem inicia a fuga em caso de empate; o procedimento completo de contenção ainda está pendente.
 
-O tratamento de [descanso curto](../recuperacao/descansos.md) remove Ferido e cura automaticamente. A cura automática da Regeneração dos Namarés ocorre mesmo Ferido, sem remover a condição.
+O tratamento de [descanso curto](../recuperacao/descansos.md) remove Ferido e cura automaticamente. A cura automática da Regeneração dos Namarés ocorre apenas enquanto o Namaré estiver livre de Ferido e Morrendo.
 
 ## Acúmulo e Postura
 
@@ -76,3 +76,7 @@ Registrar fonte, gatilho, custo/teste quando houver, duração e condição de t
 ## Sangramento — 2026-11-04
 
 **Revisão confirmada em 18/11:** Sangramento pode vir de fontes específicas; não é efeito automático do tipo Cortante. Não tem duração fixa nem teste periódico genérico para terminar: persiste até morrer, receber cura que o encerre ou tratamento de Medicina DT 15. Se estiver Ferido, a primeira cura normal remove apenas Ferido; é necessária outra cura ou Medicina para encerrar o Sangramento. Valor do dano, momento de aplicação, acúmulo e requisitos das fontes continuam pendentes. Venenos e efeitos semelhantes também não ganham um teste genérico de cancelamento: uma tentativa exige meio ou justificativa apropriada. Ver [morte e recuperação](../recuperacao/morte-e-recuperacao.md#medicina-fora-do-descanso).
+
+## Vulnerável
+
+Todos os ataques contra um alvo Vulnerável têm 1 Vantagem. A fonte determina a duração. Um acerto com as armas naturais de uma Fera aplica a condição até o início do próximo turno dela. Exposto afeta RD e segue sua própria regra.

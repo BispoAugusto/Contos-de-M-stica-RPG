@@ -1,5 +1,7 @@
 # Revisão de playtest — decisões de 27 a 29/10/2026
 
+**22/11/2026 — Playtest de raças e descansos.** [Catálogo](origens/README.md), [descansos](recuperacao/descansos.md) e [proficiências](personagem/proficiencias.md) prevalecem sobre registros anteriores nesses assuntos.
+
 > **20/11/2026:** a revisão de [exaustão](recuperacao/exaustao.md), [Morrendo](recuperacao/morte-e-recuperacao.md), [iniciativa](combate/turnos-e-iniciativa.md), [apoio](combate/acoes-taticas.md) e [armaduras](equipamentos/armaduras-e-escudos.md) prevalece nos pontos substituídos. Desenvolver habilidades antes dos inimigos e da região.
 
 > **Substituições de 18/11/2026:** [reservas](fundamentos/alma.md), [exaustão](recuperacao/exaustao.md) e [Morrendo](recuperacao/morte-e-recuperacao.md) substituem os trechos conflitantes sobre Forçar, PE/NE, morte, cura e Sequelas. A seção 5 abaixo é histórica nesses pontos: não escolher Resistir para retornar a 1 PV, não morrer automaticamente no negativo dos PV máximos e não receber Sequela automaticamente ao cair. Traumas ficam em desenvolvimento posterior.

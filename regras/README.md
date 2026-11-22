@@ -1,5 +1,7 @@
 # Regras — índice por assunto
 
+**22/11/2026 — Playtest de raças e descansos.** [Catálogo](origens/README.md), [descansos](recuperacao/descansos.md) e [proficiências](personagem/proficiencias.md) prevalecem sobre registros anteriores nesses assuntos.
+
 > **20/11/2026:** a revisão de [exaustão](recuperacao/exaustao.md), [Morrendo](recuperacao/morte-e-recuperacao.md), [iniciativa](combate/turnos-e-iniciativa.md), [apoio](combate/acoes-taticas.md) e [armaduras](equipamentos/armaduras-e-escudos.md) prevalece nos pontos substituídos. Desenvolver habilidades antes dos inimigos e da região.
 
 ## 2026-11-18 — Reservas, exaustão e Morrendo

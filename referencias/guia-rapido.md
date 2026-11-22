@@ -18,7 +18,7 @@ DTs: 5 muito fácil; 10 fácil; 15 moderada; 20 difícil; 25 muito difícil; 30 
 
 Em opostos, empate favorece iniciador. Sem iniciador, maior máximo da Parte de Alma usada, depois nova rolagem dos empatados. Conflitos entre naturais e totais ainda exigem arbitragem anunciada; consultar [testes](../regras/fundamentos/testes.md#naturais-e-testes-opostos).
 
-**Reservas — 18/11:** Corpo/Mente/Espírito pagam habilidades e podem sofrer perdas por efeitos. O que faltar gera exaustão; taxa pendente. Esforço voluntário comum deve terminar abaixo do máximo, salvo cena especial com motivo forte e risco conhecido. A rerrolagem universal por Alma/PE foi retirada; Até o Limite exige reformulação. [Reservas](../regras/fundamentos/alma.md).
+**Reservas — 18/11:** Corpo/Mente/Espírito pagam habilidades e podem sofrer perdas por efeitos. O que faltar gera exaustão; taxa pendente. Esforço voluntário comum deve terminar abaixo do máximo, salvo cena especial com motivo forte e risco conhecido. A rerrolagem universal por Alma/PE foi retirada. [Reservas](../regras/fundamentos/alma.md).
 
 ## Combate
 
@@ -40,11 +40,9 @@ Tipos físicos: Contundente/Perfurante/Cortante. RD por tipo compatível; espec�
 
 ## Descanso e risco
 
-Curto adequado, 1h: **recupera automaticamente metade do máximo de cada reserva de Alma, para cima**, a cada descanso válido. Não há limite de uma recuperação entre longos. Pausa contínua não vira várias recuperações por divisão do relógio. Mantém duas atividades diferentes para outras finalidades. Recupera 1 exaustão, uma vez por período.
+Curto de 1h, uma vez por personagem por período. Uma ação, metade de cada reserva (para cima) e −1 exaustão. O paciente pode receber vários tratamentos nesse único curto.
 
-Tratar feridas ocupa uma atividade de quem trata: em si, 2 + Resiliência PV; em outro, 2 + bônus de Medicina PV. Remove Ferido; um tratamento por paciente por curto. Exceções raciais em [descansos](../regras/recuperacao/descansos.md).
-
-Longo adequado, 8h: todos PV/reservas, remove Ferido e recupera 3 exaustões. No sandbox, benefícios uma vez por 24h. Privação impede descanso adequado; custos de desgaste por privação ainda precisam de calibração. Traumas não têm tratamento definido. Não usar a conversão antiga PE/NE.
+Longo de 8h, uma ação, reservas completas e −3 exaustão. Dormir menos concede outra ação e reduz a recuperação de exaustão a 2. No sandbox, o longo concede benefícios uma vez por 24h. Escolhas nos dois descansos: cuidar de feridas, projeto, caçar ou coletar. Tratamento próprio cura 2 + Resiliência no curto ou 4 + Resiliência no longo; para outro, use o bônus de Medicina em lugar de Resiliência. [Descansos](../regras/recuperacao/descansos.md).
 
 A 0 PV ou menos, entra em **Morrendo**, não age e mantém PV negativos. Dano abaixo de −PV máximos exige Vigor DT 10 mais o dano excedente acumulado na cena. Sucesso mantém vivo e gera 1 exaustão. Falha mata. Socorro custa 1 PA, mais 1 por mazela tratada que voltaria a derrubar o alvo. Teste Medicina DT 10. Sucesso remove Morrendo e Ferido, trata as mazelas incluídas e deixa 1 PV. A DT de socorro aumenta 5 após cada sucesso e reinicia ao fim da cena. [Morrendo](../regras/recuperacao/morte-e-recuperacao.md).
 

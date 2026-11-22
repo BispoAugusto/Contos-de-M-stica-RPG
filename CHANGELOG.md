@@ -1,5 +1,7 @@
 # Histórico
 
+**22/11/2026 — Playtest de raças e descansos.** [Catálogo](regras/origens/README.md), [descansos](regras/recuperacao/descansos.md) e [proficiências](regras/personagem/proficiencias.md) prevalecem sobre registros anteriores nesses assuntos.
+
 ## 2026-11-20 — Sobrevivência e combate para o playtest
 
 O criador aprovou a atualização e o merge do PR #6. [Reservas](regras/fundamentos/alma.md) somam os três atributos-base da Parte e bônus de espécie. [Exaustão](regras/recuperacao/exaustao.md) aplica −1 por nível e causa colapso no sexto. Curto recupera 1 ponto uma vez por período e longo recupera 3 pontos.

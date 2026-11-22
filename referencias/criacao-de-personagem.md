@@ -33,37 +33,14 @@ Escolha uma espécie dentro de uma das seis origens. Abra a origem para consulta
 
 | Origem | Espécies | Característica da origem |
 |---|---|---|
-| [Humanos](../regras/origens/humanos.md) | Homens Altos, Anões, Pequeninos | Versatilidade: +2 pontos de proficiência |
-| [Féericos](../regras/origens/feericos.md) | Elfos, Fadas, Dríades | Sensibilidade Féerica: perceber magia ativa até Curto |
-| [Bestiais](../regras/origens/bestiais.md) | Feras, Namarés, Pássaros, Talpis | Instinto Bestial: sentidos naturais favorecidos |
-| [Dracônicos](../regras/origens/draconicos.md) | Draconatos | RD 2 do elemento escolhido |
-| [Verdantes](../regras/origens/verdantes.md) | Gnomos, Arborídeos | Enraizamento durante descanso |
-| [Rúnicos](../regras/origens/runicos.md) | Golias | Primordial fluente e resistência ambiental por Vigor |
+| [Humanos](../regras/origens/humanos.md) | Homens Altos, Anões, Pequeninos | Versatilidade |
+| [Féericos](../regras/origens/feericos.md) | Elfos, Fadas, Dríades | Sensibilidade Féerica |
+| [Bestiais](../regras/origens/bestiais.md) | Feras, Namarés, Plúmeos, Talpis | Selvagem, Astuto ou Agouro |
+| [Dracônicos](../regras/origens/draconicos.md) | Draconatos | Afinidade Dracônica |
+| [Verdantes](../regras/origens/verdantes.md) | Gnomos, Borins | Crescimento Acelerado |
+| [Rúnicos](../regras/origens/runicos.md) | Golias | Runas |
 
-A escolha concede **uma característica de origem, duas características de espécie, uma distribuição de +3 Alma e um porte permitido**. O porte não ocupa uma das duas características. Os bônus de Alma serão somados na etapa 3, não aos atributos.
-
-### Escolhas adicionais
-
-| Se escolheu… | Decida também… |
-|---|---|
-| Anão | Especialidade Artesão ou Guerreiro |
-| Qualquer Bestial | Selvagem, Astúcia ou Agouro, e onde colocar o ponto livre de Alma |
-| Namaré | Regeneração, Língua, Espinhos ou Bioluminescência |
-| Draconato | Fogo, Frio, Eletricidade, Ácido ou Veneno |
-| Golias | Névoa, Tempestade, Montanha, Vulcão ou Oceanos |
-| Espécie com mais de um porte | Uma das opções permitidas |
-
-Nos Bestiais, Selvagem dá +2 Corpo, Astúcia +2 Mente e Agouro +2 Espírito; todos dão **mais +1 em qualquer Parte**, inclusive a mesma. Nos Gnomos, o porte depende do máximo de Corpo e só é concluído depois da etapa 3.
-
-Veja a [tabela completa de bônus e portes](../regras/origens/README.md#visão-geral). A distribuição de Alma dos Golias continua proposta para conferência; não a trate como decisão definitiva.
-
-### Personagens mistos
-
-Escolha uma característica de cada espécie participante, uma característica de origem, uma distribuição completa de Alma e um porte permitido por qualquer das duas.
-
-**Gnomos e Fadas não podem ser mistos.** Não some duas distribuições completas de Alma ou as duas características de origem.
-
-**Anote na ficha:** origem, espécie(s), características escolhidas, bônus de cada Parte da Alma e porte ou indicação de porte a calcular.
+Anote um traço da origem, dois da espécie, o porte e os três pontos de Alma. Escolha a estação do Elfo, a origem do Bestial e seu ponto livre, o elemento do Draconato ou a manifestação do Golias conforme sua espécie. Para Gnomos, calcule o porte reunido após determinar o Corpo máximo. Raças mistas ficam para revisão futura. [Tabela completa](../regras/origens/README.md#visão-geral).
 
 ## 2. Atributos
 
@@ -81,7 +58,7 @@ Distribua **12 pontos** entre os nove atributos, mínimo **0** e máximo inicial
 | Espírito | Influência | Comunicação e expressão social |
 | Espírito | Sintonia | Conexão e controle espiritual |
 
-A soma inicial é **12**, antes de benefícios específicos. Homens Altos recebem **mais 2 pontos**, totalizando 14, mas mantêm o máximo inicial 3.
+A soma inicial é **12**, antes de benefícios específicos. Homens Altos recebem **mais 3 pontos**, totalizando 15, mas mantêm o máximo inicial 3.
 
 Atributos **não somam à rolagem**: determinam a quantidade de dados e a reserva de Alma correspondente. O limite normal é 5; a progressão ainda não foi definida.
 
@@ -105,11 +82,12 @@ Registre **atual e máximo separadamente**. Em uma ficha sem desgaste, registre 
 
 | Máximo de Corpo integral | Porte |
 |---|---|
-| 0–1 | Pequeno |
-| 2–3 | Médio |
-| 4 ou mais | Grande |
+| 0–4 | Minúsculo |
+| 5–9 | Pequeno |
+| 10–14 | Médio |
+| 15 | Grande |
 
-Na divisão, cada parte perde uma categoria, mínimo Minúsculo. Não recalcule o porte usando a reserva dividida.
+Calcule o porte da colônia reunida usando seu Corpo máximo integral.
 
 **Anote na ficha:** Corpo atual/máximo, Mente atual/máximo e Espírito atual/máximo. [Como usar e recuperar Alma](../regras/fundamentos/alma.md).
 
@@ -123,7 +101,7 @@ Você recebe **6 pontos de proficiência**, provisoriamente para playtest. A ori
 |---|---|
 | Um nível de perícia geral ou resistência | 1 ponto |
 | Um nível de profissão personalizada | 1 ponto |
-| Um nível de família de armas | 1 ponto |
+| Um nível de proficiência de arma | 1 ponto |
 | Treinamento em armaduras | Apenas por habilidades; não comprar com PP |
 | Escudos | Uso livre; não comprar proficiência |
 | Dois níveis de conhecimentos | 1 ponto |
@@ -151,7 +129,7 @@ Na criação, normalmente só entram os níveis 0, 1 e 2. Idiomas têm escala pr
 | Outras gerais (básicas) | Linguagens |
 | Conhecimentos | História, Rumores, Natureza, Medicina, Arcanismo, Religião, Ocultismo, Espiritualismo |
 | Profissionais | Lista aberta, incluindo Forja e Culinária; kit de fabricação usa perícias apropriadas |
-| Armas | Espadas, Machados, Martelos, Adagas, Armas de Haste, Picaretas, Arcos, Bestas, Armas de Fogo, Correntes e Chicotes, Golpes Desarmados |
+| Armas | Armas Corpo a Corpo e Armas a Distância |
 | Armaduras | Uso livre; treino por habilidades remove penalidades expressas |
 | Escudos | Benefícios básicos sem proficiência; maestrias futuras |
 
@@ -198,7 +176,7 @@ Use os valores já calculados:
 | Médio | 10 |
 | Grande | 20 |
 
-Anões têm **+3 PV provisórios**. Vigor compõe a Defesa pelo bônus. Esquivar custa 1 PA e rola Vigor com Reflexo para superar o ataque.
+Golias têm **+6 PV máximos**. Vigor compõe a Defesa pelo bônus. Esquivar custa 1 PA e rola Vigor com Reflexo para superar o ataque.
 
 Armaduras reduzem dano passivamente, sem cargas; não concedem bônus de Defesa. Equipamentos usados e vestidos também ocupam inventário. O peso é medido em espaços, não quilogramas.
 
@@ -217,9 +195,9 @@ Transcreva as características da sua origem e espécie com **custo, alcance, us
 | Características de espécie | Efeito, PA/Alma gastos, usos e tipo de descanso que recupera |
 | Condições | Ferido e demais condições presentes |
 
-**Exemplo de anotação:** “Pó de Fada — reação 1 PA; Curto; antes do teste; +2 aliado ou −2 outra criatura; 3 usos/descanso longo”.
+**Exemplo de anotação.** Oceano cura em Toque, uma vez por longo. Gaste 1 PA e ao menos 1 Espírito. Cada ponto de Espírito gasto cura 1 PV.
 
-Para Gnomos, prepare espaço para **anotar a ficha integral antes da divisão** e acompanhar as duas partes. A recomposição de recursos após gastos/dano e a perda definitiva de uma parte continuam pendentes; não presuma recarga ao reunir.
+Para Gnomos, registre os recursos cedidos, os PV e Corpo restantes do grupo separado e os 4 PA de cada grupo.
 
 Equipamento inicial: **kit básico e três escolhas**, conforme [seleção atual](../regras/equipamentos/equipamento-inicial.md). Cada escolha concede uma arma de duas mãos, duas de uma mão, uma de uma mão e escudo, uma armadura, um catalisador ou um item/conjunto geral listado. Kits são itens; não concedem receitas. Armadura consome uma escolha. Conferir carga, munição e as pendências de catalisadores.
 
@@ -228,11 +206,10 @@ Equipamento inicial: **kit básico e três escolhas**, conforme [seleção atual
 ## 8. Revisão final
 
 - [ ] Escolhi origem e espécie, com uma característica de origem e duas de espécie.
-- [ ] Se misto, respeitei as escolhas e a proibição de Gnomos/Fadas.
 - [ ] Conferi porte e bônus de Alma.
 - [ ] Distribuí os atributos, respeitando soma, mínimo 0 e máximo inicial 3.
 - [ ] Somei os três atributos-base e o bônus de espécie de cada reserva.
-- [ ] Gastei os seis PP, ou oito da origem Humanos, sem passar do nível inicial 2.
+- [ ] Gastei os seis PP, ou oito da origem Humanos, respeitando o teto de compra 2 e os benefícios raciais expressos.
 - [ ] Incluí compras de idiomas na mesma reserva e registrei Comum fluente gratuito.
 - [ ] Calculei PV, Defesa e carga sem confundir atributo, bônus de proficiência e máximo de Corpo.
 - [ ] Registrei custos, usos e recuperação das características.
@@ -247,16 +224,16 @@ Exemplo de preenchimento com as regras atuais, **sem conceder equipamento ou hab
 
 ### Origem e atributos
 
-Origem Humanos, espécie Homens Altos, porte Médio. Versatilidade concede +2 PP; Potencial Humano concede +2 pontos de atributos; Até o Limite aguarda reformulação: o benefício antigo dependia da rerrolagem por PE, retirada em 18/11; não presumir um bônus substituto.
+Origem Humanos, espécie Homens Altos, porte Médio. Versatilidade concede +2 PP, Potencial Humano concede 3 pontos de atributo e Adaptabilidade permite repetir testes de perícia treinada por 2 pontos do pilar correspondente.
 
 | Corpo | Valor | Mente | Valor | Espírito | Valor |
 |---|---|---|---|---|---|
 | Potência | 3 | Raciocínio | 2 | Vontade | 2 |
 | Reflexo | 2 | Foco | 1 | Influência | 1 |
-| Resiliência | 1 | Percepção | 1 | Sintonia | 1 |
-| **Soma** | **6** | **Soma** | **4** | **Soma** | **4** |
+| Resiliência | 1 | Percepção | 1 | Sintonia | 2 |
+| **Soma** | **6** | **Soma** | **4** | **Soma** | **5** |
 
-Total **14**: doze pontos básicos + dois de Potencial Humano. Todos os atributos estão entre 0 e 3.
+Total **15**: doze pontos básicos + três de Potencial Humano. Todos os atributos estão entre 0 e 3.
 
 ### Alma e derivados
 
@@ -266,18 +243,18 @@ Homens Altos recebem +1 em cada Parte.
 |---|---|---|
 | Corpo máximo | 6 + 1 | **7** |
 | Mente máxima | 4 + 1 | **5** |
-| Espírito máximo | 4 + 1 | **5** |
+| Espírito máximo | 5 + 1 | **6** |
 | PV máximos | 6 + 2 × 7 | **20** |
 | Defesa passiva | 8 +2 de Vigor | **10** |
 | Capacidade | Médio 10 +2 ×3 | **16 espaços** |
 
-### Sete pontos de proficiência
+### Oito pontos de proficiência
 
-O título registra a versão anterior. Na criação de 16/11, use **oito pontos**, distribuídos abaixo.
+Versatilidade eleva os 6 PP iniciais a 8.
 
 | Compra | Pontos gastos | Resultado |
 |---|---|---|
-| Espadas 2 | 2 | +4 |
+| Armas Corpo a Corpo 2 | 2 | +4 |
 | Vigilância 2 | 2 | +4 |
 | Atletismo 1 | 1 | +2 |
 | Vigor 1 | 1 | +2 |
@@ -285,9 +262,9 @@ O título registra a versão anterior. Na criação de 16/11, use **oito pontos*
 | Dracônico 2 | 1 | Fluente; +2 quando precisar testar |
 | **Total** | **8** | Comum fluente é gratuito e fica fora da compra |
 
-Espadas usa +4 no ataque comum. Vigor 1 dá +2 e Defesa 10. Esquivar usa Vigor com Reflexo por 1 PA e exige superar o ataque. Reflexo 2 fornece a base de 2d20 para Esquivar, antes da proteção e dos demais modificadores. No curto, recupera automaticamente até 4 de Corpo, 3 de Mente e 3 de Espírito.
+Armas Corpo a Corpo usa +4 no ataque comum. Vigor 1 dá +2 e Defesa 10. Esquivar usa Vigor com Reflexo por 1 PA e exige superar o ataque. Reflexo 2 fornece a base de 2d20 para Esquivar, antes da proteção e dos demais modificadores. No curto elegível do período, recupera automaticamente até 4 de Corpo, 3 de Mente e 3 de Espírito.
 
-A ficha tem atributos, reservas e proficiências definidos. Espadas 2 não significa que recebeu uma espada: escolha o equipamento pela seleção inicial, sem inferir concessão pela compra de proficiência.
+A ficha tem atributos, reservas e proficiências definidos. Armas Corpo a Corpo 2 não significa que recebeu uma espada: escolha o equipamento pela seleção inicial, sem inferir concessão pela compra de proficiência.
 
 ## Atualização de combate — 2026-10-25
 

@@ -1,47 +1,29 @@
 # Verdantes
 
-[Índice de regras](../README.md) · [Categoria](README.md) · [Criar personagem](../../referencias/criacao-de-personagem.md)
+[Catálogo de playtest](README.md) · [Criação](../../referencias/criacao-de-personagem.md)
 
-Nome adotado para a antiga proposta “Plantas”. Gnomos deixam os Féericos; Dríades integram Féericos.
+Os Verdantes descendem de plantas que desenvolveram inteligência.
 
-**Origem — Enraizamento:** em solo adequado, úmido/orgânico, uma atividade de descanso curto realiza tratamento próprio (**remove Ferido, cura 2 + Resiliência**). A recuperação de metade de Corpo, Mente e Espírito agora é automática para todos e não se repete pelo Enraizamento. Pode escolher outra atividade diferente. Não torna tratamento automático sem se enraizar. **Pendente:** rever o benefício diferencial da característica após a mudança de 16/11; nenhum benefício adicional foi presumido.
-
-
-## Espécies, Alma e porte
-
-| Origem | Espécie | Bônus de Alma | Porte |
-|---|---|---|---|
-| Verdantes | Gnomos | +3 Mente | Pelo máximo de Corpo |
-| Verdantes | Arborídeos | +2 Corpo, +1 Espírito (provisório) | Médio ou Grande |
+**Crescimento Acelerado.** Em solo adequado, use a ação de cuidar de si para se plantar e recuperar 4 PV no curto ou 8 PV no longo. Este tratamento remove Ferido. Verdantes não recuperam PV por Medicina convencional. Para socorrer um Verdante Morrendo, use Natureza com o custo, DT e resultado do [socorro normal](../recuperacao/morte-e-recuperacao.md#medicina-fora-do-descanso).
 
 ## Características das espécies
 
 ### Gnomos
 
-+3 Mente; não podem ser mistos.
+**Alma** — +3 Mente. **Porte** — Minúsculo, com crescimento.
 
-**Porte separado das duas características:** máximo de Corpo 0–1 = Pequeno; 2–3 = Médio; 4+ = Grande. Usar o máximo integral do personagem, não recalcular a partir das reservas de uma parte dividida.
+Uma colônia de pequenas criaturas semelhantes a plantas ou cogumelos compartilha uma mente.
 
-**Trabalho Coletivo:**
+**Trabalho Coletivo.** A colônia reunida começa Minúscula e aumenta uma categoria de porte a cada 5 pontos de Corpo máximo (5 Pequeno, 10 Médio, 15 Grande). Pode manter um único grupo separado. Para o playtest, dividir custa 1 PA. Destine pontos atuais de Corpo ao grupo e ceda 2 PV por ponto destinado, até seus PV disponíveis. O grupo começa com os PV cedidos e os mesmos atributos e proficiências. A colônia desconta os recursos cedidos e reserva essa parcela da capacidade até a reunião. Cada grupo tem turno próprio e 4 PA. O separado perde 1 Corpo por rodada e morre ao ficar com 0 Corpo ou 0 PV. Reunir-se em Toque é uma ação livre que devolve apenas os PV e Corpo restantes. Se o grupo morrer, libere a capacidade reservada sem devolver pontos atuais. Mente, Espírito e usos limitados pertencem à colônia e são compartilhados.
 
-- Pode dividir-se em **até dois corpos/grupos**, mantendo uma consciência.
-- Dividir custa **1 PA**. Reunir custa **1 PA de uma das partes**.
-- Antes de dividir, o jogador anota a ficha integral.
-- Cada corpo recebe metade dos **PV atuais e máximos** e de cada **reserva atual e máxima de Alma**, arredondada para cima. Não recalcular PV pela fórmula de Corpo depois disso. Atributos/proficiências são os mesmos.
-- Cada corpo tem seus próprios **4 PA**, ações e reações; mesma posição de iniciativa, com ações intercaláveis e contagem própria de ações repetidas.
-- As partes não podem ficar além de distância **Média** uma da outra.
-- Cada uma perde uma categoria de porte, mínimo Minúsculo: Pequeno vira dois Minúsculos; Médio, dois Pequenos; Grande, dois Médios.
-- Pode dispersar-se para passar em aberturas e ocupar espaços de criaturas, conforme o corpo e o equipamento comportem; isso não concede vantagem ofensiva/defensiva automática nem bloqueio de movimento gratuito.
-- Se um dos dois corpos chega a **0 PV, ele morre**, sem escolhas contra a morte. Essas escolhas só se aplicam quando for o único corpo.
-- Conserva a aceleração de artesanato de **+1 ET por dia de trabalho prolongado**; ET e o procedimento de fabricação ainda serão desenvolvidos. Não inventar conversão em itens ou tempo.
+**Sacrifício.** Ao receber uma condição, perca 1 Corpo e 2 PV para evitá-la. Para o playtest, aplique normalmente a perda de PV e seus efeitos, inclusive Morrendo ao chegar a 0 PV.
 
-**Desprendimento:** reação de **1 PA +1 ponto atual de Corpo** ao receber penalidade física que possa ser removida abandonando parte de si. Sem custo de PV e sem limite por rodada além dos recursos. A parte se recompõe; não cria outra penalidade de membro perdido. Não remove por si só medo, veneno ou efeitos sobre o organismo inteiro.
+### Borins
 
-**Pendente, sem fórmula presumida:** a ficha integral é referência, mas recomposição dos recursos atuais na reunião após gastos/dano, consequências de perder definitivamente um corpo e casos de arredondamento precisam ser fechados. Anotar não autoriza restaurar recursos gastos ou duplicá-los por dividir/reunir. Registrar arbitragem no playtest.
+**Alma** — +3 Corpo. **Porte** — Médio ou Grande.
 
-### Arborídeos
+Os borins são plantas humanoides de aparência arbórea.
 
-**Provisório para playtest:** +2 Corpo, +1 Espírito; Médio ou Grande.
+**Enraizar.** Em terra, grama ou solo similar, gaste 1 PA para fincar braços e pernas. Você se torna indistinguível de uma árvore comum, recebe RD física 4 e Vantagem em Vigor. Enquanto enraizado, só pode agir para se soltar (1 PA). Fica impedido de se mover e de Esquivar.
 
-- **Ramos Vivos:** os próprios ramos manipulam e realizam golpes desarmados/manobras até Curto, com custos e requisitos normais. Não estendem automaticamente o alcance de uma arma empunhada.
-- **Aparência Arbórea:** 1 Vantagem em Furtividade quando imóvel em vegetação apropriada, confundindo-se com árvore.
+**Apetite Solar.** Você se alimenta da luz solar e também pode ingerir comida. Pode passar um número de dias sem sol igual à sua Resiliência. Para o playtest, ao fim de cada dia além desse limite receba 1 exaustão. Um dia com sol reinicia a contagem.

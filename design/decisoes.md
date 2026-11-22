@@ -1,5 +1,7 @@
 # Decisões registradas
 
+**22/11/2026 — Playtest de raças e descansos.** [Catálogo](../regras/origens/README.md), [descansos](../regras/recuperacao/descansos.md) e [proficiências](../regras/personagem/proficiencias.md) prevalecem sobre registros anteriores nesses assuntos. O criador fechou as 14 raças para teste em mesa. Dois grupos gnomos têm 4 PA cada. Adaptabilidade só afeta perícias treinadas. Oceano cura 1 PV por Espírito. No curto, PV e Alma são pessoais e limitados a um descanso por período, com vários tratamentos possíveis. No longo, dormir menos troca um ponto de recuperação de exaustão por uma ação. Beber, dormir e se abrigar continuam relevantes. Raças mistas serão revistas depois.
+
 ## 2026-11-20 — Sobrevivência e combate para o playtest
 
 O criador aprovou a atualização e o merge do PR #6. [Reservas](../regras/fundamentos/alma.md) somam os três atributos-base da Parte e bônus de espécie. [Exaustão](../regras/recuperacao/exaustao.md) aplica −1 por nível e causa colapso no sexto. Curto recupera 1 ponto uma vez por período e longo recupera 3 pontos.
